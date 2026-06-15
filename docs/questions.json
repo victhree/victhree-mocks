@@ -1,0 +1,794 @@
+{
+  "title": "CDS Geography — Mock Test",
+  "durationMin": 60,
+  "questions": [
+    {
+      "n": 1,
+      "stem": "As per the International Astronomical Union, which of the following criteria must a celestial body satisfy to qualify as a planet?",
+      "subs": [
+        "1. It must orbit the Sun.",
+        "2. It must have sufficient mass to assume hydrostatic equilibrium.",
+        "3. It must have cleared the neighbourhood around its orbit.",
+        "4. It must possess at least one natural satellite."
+      ],
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2 and 4 only",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 2,
+      "stem": "The Lonar Lake in Maharashtra is best described as:",
+      "subs": [],
+      "options": [
+        "A glacial cirque lake",
+        "A tectonic lake",
+        "A meteorite-impact crater lake",
+        "An oxbow lake"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 3,
+      "stem": "Which one of the following is not a direct source of information about the interior of the Earth?",
+      "subs": [],
+      "options": [
+        "Mining",
+        "Volcanic eruption",
+        "Drilling",
+        "Seismic waves"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 4,
+      "stem": "The term soil impoverishment relates to which one of the following?",
+      "subs": [],
+      "options": [
+        "Soil erosion",
+        "Soil deposition",
+        "Soil getting very deficient in plant nutrients",
+        "Soil getting enriched with plant nutrients"
+      ],
+      "pyq": "CDS 2019-II, Q.101"
+    },
+    {
+      "n": 5,
+      "stem": "The shadow zone of P-waves extends approximately between which angular distances?",
+      "subs": [],
+      "options": [
+        "0°–103°",
+        "103°–142°",
+        "142°–180°",
+        "60°–105°"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 6,
+      "stem": "Match List I (Mountain ranges and their state/UT location) with List II (State):",
+      "subs": [
+        "A. Dhauladhar 1. Uttarakhand",
+        "B. Nag Tibba 2. Jammu & Kashmir",
+        "C. Pir Panjal 3. Himachal Pradesh",
+        "D. Karakoram 4. Ladakh"
+      ],
+      "options": [
+        "A-3, B-1, C-2, D-4",
+        "A-1, B-3, C-2, D-4",
+        "A-3, B-1, C-4, D-2",
+        "A-2, B-4, C-1, D-3"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 7,
+      "stem": "The Shiwaliks are characterised by:",
+      "subs": [],
+      "options": [
+        "Unconsolidated sediments brought down by Himalayan rivers",
+        "Tethys sediments overlying Tertiary granite",
+        "Crystalline metamorphic rocks of Precambrian age",
+        "Basaltic lava flows of the Deccan Trap"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 8,
+      "stem": "Which of the following ranges form part of the Trans-Himalaya in India?",
+      "subs": [
+        "1. Karakoram",
+        "2. Ladakh",
+        "3. Zaskar",
+        "4. Pir Panjal"
+      ],
+      "options": [
+        "1 and 4 only",
+        "1, 2 and 3 only",
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 9,
+      "stem": "The Karewa formations of Kashmir Valley are best known for the cultivation of:",
+      "subs": [],
+      "options": [
+        "Tea and coffee",
+        "Saffron and almond",
+        "Rubber and cardamom",
+        "Coconut and cashew"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 10,
+      "stem": "Anaimudi, the highest peak of the Peninsular Plateau, is located in:",
+      "subs": [],
+      "options": [
+        "Nilgiri Hills",
+        "Anaimalai Hills",
+        "Cardamom Hills",
+        "Palani Hills"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 11,
+      "stem": "Match List I (Plain region) with List II (Characteristic):",
+      "subs": [
+        "A. Bhabar 1. Marshy, swampy; rich vegetation",
+        "B. Tarai 2. Narrow belt of porous gravel and boulders along Shiwalik foothills",
+        "C. Bhangar 3. Older alluvium with kankar nodules",
+        "D. Khadar 4. Newer alluvium deposited each year"
+      ],
+      "options": [
+        "A-2, B-1, C-3, D-4",
+        "A-1, B-2, C-3, D-4",
+        "A-2, B-1, C-4, D-3",
+        "A-4, B-1, C-3, D-2"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 12,
+      "stem": "Majuli, the largest river island of India, lies on which river?",
+      "subs": [],
+      "options": [
+        "Ganga",
+        "Brahmaputra",
+        "Mahanadi",
+        "Godavari"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 13,
+      "stem": "The Indira Gandhi Canal, which has enabled intensive agriculture in north-western Rajasthan, draws its water from:",
+      "subs": [],
+      "options": [
+        "Beas and Ravi",
+        "Beas and Sutlej (Harike barrage)",
+        "Ravi and Chenab",
+        "Sutlej and Yamuna"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 14,
+      "stem": "The Deccan Plateau is bordered by:",
+      "subs": [],
+      "options": [
+        "Western Ghats, Eastern Ghats, Satpura/Maikal range",
+        "Aravallis, Vindhyas, Eastern Ghats",
+        "Western Ghats, Karakoram, Aravallis",
+        "Vindhyas, Satpuras, Himalayas"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 15,
+      "stem": "Match List I (Mountain range) with List II (Region):",
+      "subs": [
+        "A. Pyrenees — 1. South America",
+        "B. Atlas — 2. North America",
+        "C. Appalachian — 3. France/Spain border",
+        "D. Andes — 4. Morocco/Algeria"
+      ],
+      "options": [
+        "A-3, B-4, C-2, D-1",
+        "A-3, B-2, C-4, D-1",
+        "A-1, B-4, C-2, D-3",
+        "A-4, B-3, C-2, D-1"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 16,
+      "stem": "The Atlas Mountains lie primarily in:",
+      "subs": [],
+      "options": [
+        "Egypt and Libya",
+        "Morocco and Algeria",
+        "South Africa and Namibia",
+        "Iran and Iraq"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 17,
+      "stem": "Which one of the following is the largest continent by area?",
+      "subs": [],
+      "options": [
+        "Africa",
+        "Asia",
+        "North America",
+        "Europe"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 18,
+      "stem": "Consider the following statements about the Sahel region of Africa:",
+      "subs": [
+        "1. It is a semi-arid transitional zone between the Sahara and the Sudanian Savanna.",
+        "2. It stretches from the Atlantic Ocean to the Red Sea.",
+        "3. It receives most of its rainfall from the West African Monsoon."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 19,
+      "stem": "The Nile River drains into which one of the following seas?",
+      "subs": [],
+      "options": [
+        "Black Sea",
+        "Red Sea",
+        "Mediterranean Sea",
+        "Caspian Sea"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 20,
+      "stem": "The thickness of the troposphere is greater at:",
+      "subs": [],
+      "options": [
+        "Poles than at the Equator",
+        "Equator than at the Poles",
+        "Same everywhere",
+        "Greatest over deserts"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 21,
+      "stem": "Which one of the following statements about the stratosphere is correct?",
+      "subs": [],
+      "options": [
+        "Temperature decreases with altitude due to ozone",
+        "Temperature increases with altitude due to ozone absorption of UV",
+        "It contains 75% of atmospheric mass",
+        "All weather phenomena occur here"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 22,
+      "stem": "The ionosphere is significant because it:",
+      "subs": [],
+      "options": [
+        "Contains the ozone layer",
+        "Reflects radio waves enabling long-distance communication",
+        "Hosts most weather phenomena",
+        "Has the highest temperature on Earth"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 23,
+      "stem": "Nitrogen and oxygen together make up approximately what percentage of the atmosphere?",
+      "subs": [],
+      "options": [
+        "75%",
+        "85%",
+        "99%",
+        "100%"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 24,
+      "stem": "Consider the following statements about Earth's heat budget:",
+      "subs": [
+        "1. About 35% of insolation is reflected back to space.",
+        "2. The atmosphere absorbs ~14% while ~51% reaches the Earth's surface.",
+        "3. The Earth re-radiates 51% back as long-wave terrestrial radiation."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 25,
+      "stem": "Trade winds blow from:",
+      "subs": [],
+      "options": [
+        "Equatorial low to subtropical high",
+        "Subtropical high to equatorial low",
+        "Polar high to subpolar low",
+        "Subpolar low to polar high"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 26,
+      "stem": "Consider the following statements regarding jet streams:",
+      "subs": [
+        "1. The Tropical Easterly Jet (TEJ) is crucial for the Indian monsoon mechanism and is linked to heating of the Tibetan Plateau.",
+        "2. The Subtropical Westerly Jet lies around 30°–35° latitude and is more regular than the polar front jet.",
+        "3. Meandering jet streams are known as Rossby waves."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 27,
+      "stem": "Among different types of iron ore, which one has the highest iron content (more than 70%)?",
+      "subs": [],
+      "options": [
+        "Haematite",
+        "Magnetite",
+        "Limonite",
+        "Siderite"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 28,
+      "stem": "Major copper producing belts of India include all of the following except:",
+      "subs": [],
+      "options": [
+        "Singhbhum (Jharkhand)",
+        "Balaghat (Madhya Pradesh)",
+        "Jhunjhunu and Alwar (Rajasthan)",
+        "Kolar (Karnataka)"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 29,
+      "stem": "Kolar and Hutti gold fields are located in which state?",
+      "subs": [],
+      "options": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Telangana",
+        "Tamil Nadu"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 30,
+      "stem": "Which of the following classifications correctly groups minerals?",
+      "subs": [
+        "1. Ferrous: Iron ore, manganese, chromite",
+        "2. Non-ferrous: Copper, bauxite, lead, zinc",
+        "3. Non-metallic: Mica, limestone, gypsum",
+        "4. Atomic: Uranium, thorium"
+      ],
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 31,
+      "stem": "The Gondwana coalfields of India are located primarily in:",
+      "subs": [],
+      "options": [
+        "Damodar Valley (Jharkhand-Bengal belt)",
+        "Krishna-Godavari basin",
+        "Cauvery basin",
+        "Mahanadi delta"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 32,
+      "stem": "Indian Standard Time is based on the longitude of:",
+      "subs": [],
+      "options": [
+        "82°30'E passing through Mirzapur",
+        "75°30'E passing through Allahabad",
+        "88°30'E passing through Kolkata",
+        "80°00'E passing through Chennai"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 33,
+      "stem": "The International Date Line approximately follows which one of the following meridians?",
+      "subs": [],
+      "options": [
+        "0°",
+        "90°E",
+        "180°",
+        "150°W"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 34,
+      "stem": "Trellis drainage pattern develops on:",
+      "subs": [],
+      "options": [
+        "Volcanic cones",
+        "Folded/tilted sedimentary rocks like the Appalachian Mountains",
+        "Granitic uplands",
+        "Basin-shaped depressions"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 35,
+      "stem": "India's largest container-handling major port is:",
+      "subs": [],
+      "options": [
+        "Mumbai Port",
+        "Deendayal (Kandla) Port",
+        "Jawaharlal Nehru Port (JNPA)",
+        "Chennai Port"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 36,
+      "stem": "Which of the following is the first corporatized major port of India?",
+      "subs": [],
+      "options": [
+        "Mumbai Port",
+        "Chennai Port",
+        "Kamarajar Port (Ennore)",
+        "Cochin Port"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 37,
+      "stem": "Mormugao Port is located in which state?",
+      "subs": [],
+      "options": [
+        "Maharashtra",
+        "Karnataka",
+        "Goa",
+        "Kerala"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 38,
+      "stem": "National Waterway-1 connects:",
+      "subs": [],
+      "options": [
+        "Prayagraj to Haldia on the Ganga",
+        "Dhubri to Sadiya on the Brahmaputra",
+        "Kottapuram to Kollam on the West Coast Canal",
+        "Kakinada to Puducherry on the Krishna-Godavari"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 39,
+      "stem": "The longest national highway in India connecting Srinagar to Kanyakumari is:",
+      "subs": [],
+      "options": [
+        "NH 19",
+        "NH 27",
+        "NH 44",
+        "NH 16"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 40,
+      "stem": "NH 19, the historic Grand Trunk Road, connects:",
+      "subs": [],
+      "options": [
+        "Delhi to Kolkata via Agra, Kanpur, Varanasi",
+        "Delhi to Mumbai via Jaipur",
+        "Kolkata to Chennai via Visakhapatnam",
+        "Srinagar to Kanyakumari"
+      ],
+      "pyq": null
+    },
+    {
+      "n": 41,
+      "stem": "Which one of the following is not a tributary of the river Ganga?",
+      "subs": [],
+      "options": [
+        "Son",
+        "Mahananda",
+        "Teesta",
+        "Sharada"
+      ],
+      "pyq": "CDS 2016-II, Q.35"
+    },
+    {
+      "n": 42,
+      "stem": "Which one of the following is a west-flowing river?",
+      "subs": [],
+      "options": [
+        "Mahanadi",
+        "Godavari",
+        "Krishna",
+        "Narmada"
+      ],
+      "pyq": "CDS 2018-II, Q.44"
+    },
+    {
+      "n": 43,
+      "stem": "Which one of the following rivers takes a U turn at Namcha Barwa and enters India?",
+      "subs": [],
+      "options": [
+        "Ganga",
+        "Tista",
+        "Barak",
+        "Brahmaputra"
+      ],
+      "pyq": "CDS 2019-II, Q.28"
+    },
+    {
+      "n": 44,
+      "stem": "Which of the following statements about the Indus Waters Treaty is/are correct?",
+      "subs": [
+        "1. The term Eastern Rivers means the Sutlej, the Beas and the Ravi taken together.",
+        "2. The term Western Rivers means the Indus, the Jhelum and the Chenab taken together.",
+        "Select the answer using the code given below"
+      ],
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "pyq": "CDS 2025-I, Q.89"
+    },
+    {
+      "n": 45,
+      "stem": "Consider the following statements about clouds:",
+      "subs": [
+        "1. Two major forms of clouds are stratiform and cumuliform.",
+        "2. According to the altitude, clouds are classified as high clouds, middle clouds and low",
+        "clouds.",
+        "3. Stratus, nimbostratus and stratocumulus are types of high clouds.",
+        "4. Clouds having \"nimbo\" attached to their name produce precipitation.",
+        "Which of the statements given above are correct?"
+      ],
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 4",
+        "2 and 4 only",
+        "1, 3 and 4"
+      ],
+      "pyq": "CDS 2023-II, Q.63"
+    },
+    {
+      "n": 46,
+      "stem": "Consider the following characteristics of a cloud type:",
+      "subs": [
+        "1. They are born through convection.",
+        "2. Only cloud type that can produce hail, thunder and lightning.",
+        "3. They are large cauliflower-shaped towers, often with anvil tops.",
+        "Identify the type of cloud on the basis of the given characteristics:"
+      ],
+      "options": [
+        "Stratocumulus",
+        "Cumulonimbus",
+        "Cirrocumulus",
+        "Nimbostratus"
+      ],
+      "pyq": "CDS 2023-I, Q.103"
+    },
+    {
+      "n": 47,
+      "stem": "Which one among the following is the most populated State in India as per Census 2011?",
+      "subs": [],
+      "options": [
+        "Goa",
+        "Mizoram",
+        "Meghalaya",
+        "Sikkim"
+      ],
+      "pyq": "CDS 2019-I, Q.71"
+    },
+    {
+      "n": 48,
+      "stem": "Which one of the following is the biggest cause of incidence of migration of female persons",
+      "subs": [
+        "in India?"
+      ],
+      "options": [
+        "Employment",
+        "Education",
+        "Marriage",
+        "Business"
+      ],
+      "pyq": "CDS 2020-I, Q.50"
+    },
+    {
+      "n": 49,
+      "stem": "Which one of the following statements about the Coriolis force is not correct?",
+      "subs": [],
+      "options": [
+        "It is maximum at the Poles.",
+        "It is absent at the Equator.",
+        "It deflects the wind to the right direction in the southern hemisphere.",
+        "It deflects the wind to the right direction in the northern hemisphere."
+      ],
+      "pyq": "CDS 2021-I, Q.43"
+    },
+    {
+      "n": 50,
+      "stem": "Which one of the following is not a resultant of the El Niño effect?",
+      "subs": [],
+      "options": [
+        "Distortion of equatorial atmospheric circulation",
+        "Flow of the South-East Trade Winds towards the Indian Ocean",
+        "Irregularities in the evaporation of sea water",
+        "Reduction in the amount of planktons which reduces the number of fish in the sea"
+      ],
+      "pyq": "CDS 2022-I, Q.74"
+    },
+    {
+      "n": 51,
+      "stem": "Which one of the following indicates the Tropical Savannah climate?",
+      "subs": [],
+      "options": [
+        "Aw",
+        "Dfc",
+        "Cwg",
+        "Am"
+      ],
+      "pyq": "CDS 2020-II, Q.10"
+    },
+    {
+      "n": 52,
+      "stem": "What does BW stand for as per the Köppen climate classification?",
+      "subs": [],
+      "options": [
+        "Steppe climate",
+        "Desert climate",
+        "Tundra climate",
+        "Mesothermal climate"
+      ],
+      "pyq": "CDS 2024-I, Q.86"
+    },
+    {
+      "n": 53,
+      "stem": "With reference to earthquakes, which of the following statements are correct?",
+      "subs": [
+        "1. Earthquakes largely occur along the converging plate boundaries.",
+        "2. Point of origin of earthquake in lithosphere is known as focus (hypocentre).",
+        "3. Intensity of earthquake decreases with distance from the epicentre.",
+        "4. Epicentre of earthquake always remains over continents only.",
+        "Select the correct answer using the code given below"
+      ],
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3",
+        "2 and 3 only",
+        "1 and 4"
+      ],
+      "pyq": "CDS 2016-II, Q.14"
+    },
+    {
+      "n": 54,
+      "stem": "Which one of the following is the other term used for Focus in relation with an earthquake?",
+      "subs": [],
+      "options": [
+        "Hypocentre",
+        "Epicentre",
+        "Isocentre",
+        "Principal Point"
+      ],
+      "pyq": "CDS 2022-II, Q.109"
+    },
+    {
+      "n": 55,
+      "stem": "Tsunamis are a series of ocean waves caused by the sudden displacement of water — usually by undersea earthquakes, but also by landslides, volcanic activity, or impacts. Which one of the following statements regarding tsunamis is not correct?",
+      "subs": [],
+      "options": [
+        "It often generates strong waves.",
+        "The Pacific coasts are most vulnerable to Tsunami waves.",
+        "Tsunami waves are also called high-energy tidal waves or seismic sea waves.",
+        "Tsunami is a Latin word."
+      ],
+      "pyq": "CDS 2017-I, Q.38"
+    },
+    {
+      "n": 56,
+      "stem": "Which one of the following is not a major tectonic plate?",
+      "subs": [],
+      "options": [
+        "Arabian Plate",
+        "Antarctica and the surrounding oceanic plate",
+        "Indo-Australian Plate",
+        "Pacific Plate"
+      ],
+      "pyq": "CDS 2020-II, Q.61"
+    },
+    {
+      "n": 57,
+      "stem": "Most ozone gas (about 90%) is located in the atmospheric layer of",
+      "subs": [],
+      "options": [
+        "ionosphere",
+        "troposphere",
+        "stratosphere",
+        "mesosphere"
+      ],
+      "pyq": "CDS 2017-II, Q.21"
+    },
+    {
+      "n": 58,
+      "stem": "Ozone hole is a region over",
+      "subs": [],
+      "options": [
+        "the Antarctic caused mainly by CFC gases",
+        "the Antarctic caused mainly by carbon dioxide gas",
+        "the Arctic caused mainly by CFC gases",
+        "the Arctic caused mainly by carbon dioxide gas"
+      ],
+      "pyq": "CDS 2024-II, Q.24"
+    },
+    {
+      "n": 59,
+      "stem": "Which one of the following is not related to wind erosion?",
+      "subs": [],
+      "options": [
+        "Wind gap",
+        "Zeugen",
+        "Dreikanter",
+        "Demoiselle"
+      ],
+      "pyq": "CDS 2016-II, Q.47"
+    },
+    {
+      "n": 60,
+      "stem": "Which among the following countries of South America does the Tropic of Capricorn not",
+      "subs": [
+        "pass through?"
+      ],
+      "options": [
+        "Chile",
+        "Bolivia",
+        "Paraguay",
+        "Brazil"
+      ],
+      "pyq": "CDS 2019-I, Q.72"
+    }
+  ]
+}

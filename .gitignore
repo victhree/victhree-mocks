@@ -1,0 +1,10 @@
+# NEVER ship the answer key. It lives only inside Code.gs (server-side).
+answer_key.json
+**/answer_key.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+*.log
