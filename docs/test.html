@@ -12,15 +12,7 @@
   <!-- ============ HEADER / BANNER ============ -->
   <header class="site-header">
     <div class="banner-wrap">
-      <img id="bannerImg" src="assets/banner.png" alt="VicThree Defence banner"
-           onerror="this.style.display='none'; document.getElementById('brandText').style.display='flex';" />
-      <div id="brandText" class="brand-text">
-        <div class="brand-mark">V3</div>
-        <div class="brand-lines">
-          <span class="brand-title">VicThree Defence</span>
-          <span class="brand-sub">by Anmol Sharma</span>
-        </div>
-      </div>
+      <img src="assets/banner.jpg" alt="VicThree Defence — by Anmol Sharma" />
     </div>
   </header>
 
@@ -39,10 +31,6 @@
         <div class="field">
           <label for="nameInput">Full Name <span class="req">*</span></label>
           <input id="nameInput" type="text" placeholder="e.g. Rahul Verma" autocomplete="name" />
-        </div>
-        <div class="field">
-          <label for="rollInput">Roll Number <span class="req">*</span></label>
-          <input id="rollInput" type="text" placeholder="e.g. CDS-2026-104" autocomplete="off" />
         </div>
         <p id="startError" class="error-msg" hidden></p>
         <button id="startBtn" class="btn btn-gold btn-block">Start Test</button>
@@ -100,7 +88,7 @@
     <section id="resultsScreen" class="screen" hidden>
       <div class="card score-card">
         <h2>Result</h2>
-        <p class="score-name"><span id="resName"></span> · <span id="resRoll"></span></p>
+        <p class="score-name"><span id="resName"></span></p>
         <div class="score-big"><span id="scoreVal">0</span><span class="score-total">/ <span id="scoreMax">60</span></span></div>
         <div class="score-sub">
           <span class="pill pill-right"><span id="rightCount">0</span> correct</span>

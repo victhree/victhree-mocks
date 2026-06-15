@@ -22,7 +22,6 @@ const state = {
   current: 0,        // index into questions[]
   answers: {},       // { questionNumber: "a"|"b"|"c"|"d" }
   name: "",
-  roll: "",
   durationSec: 60 * 60,
   remaining: 60 * 60,
   timerId: null,
@@ -85,15 +84,13 @@ async function loadQuiz() {
    ============================================================ */
 function startTest() {
   const name = $("nameInput").value.trim();
-  const roll = $("rollInput").value.trim();
-  if (!name || !roll) {
-    $("startError").textContent = "Please enter both your name and roll number.";
+  if (!name) {
+    $("startError").textContent = "Please enter your name.";
     show($("startError"));
     return;
   }
   hide($("startError"));
   state.name = name;
-  state.roll = roll;
 
   hide($("startScreen"));
   show($("quizScreen"));
@@ -256,7 +253,6 @@ async function submitTest(auto = false) {
   const payload = {
     testId: state.testId,
     name: state.name,
-    roll: state.roll,
     answers: state.answers,
   };
 
@@ -325,7 +321,6 @@ function showResults(data) {
   });
 
   $("resName").textContent = state.name;
-  $("resRoll").textContent = state.roll;
   $("scoreVal").textContent = data.total != null ? data.total : right;
   $("scoreMax").textContent = max;
   $("rightCount").textContent = right;
@@ -388,7 +383,7 @@ window.addEventListener("DOMContentLoaded", () => {
   loadQuiz();
 
   $("startBtn").addEventListener("click", startTest);
-  $("rollInput").addEventListener("keydown", (e) => { if (e.key === "Enter") startTest(); });
+  $("nameInput").addEventListener("keydown", (e) => { if (e.key === "Enter") startTest(); });
 
   $("prevBtn").addEventListener("click", () => {
     if (state.current > 0) { state.current--; renderQuestion(); }
