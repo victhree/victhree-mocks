@@ -1,6 +1,7 @@
 /* ============================================================
-   VicThree Defence — CDS Geography Mock Test
+   VicThree Defence — Mock Test (quiz engine)
    Front-end logic. Contains NO answers — grading is server-side.
+   Loads tests/<id>.json based on the ?test=<id> URL parameter.
    ============================================================ */
 
 /* ---------- CONFIG ----------
@@ -15,7 +16,8 @@ const CONFIG = {
 const LETTERS = ["a", "b", "c", "d"];
 
 const state = {
-  quiz: null,        // loaded questions.json
+  testId: null,      // which test (from ?test=...)
+  quiz: null,        // loaded test JSON
   questions: [],
   current: 0,        // index into questions[]
   answers: {},       // { questionNumber: "a"|"b"|"c"|"d" }
@@ -33,12 +35,28 @@ const $ = (id) => document.getElementById(id);
 const show = (el) => el.removeAttribute("hidden");
 const hide = (el) => el.setAttribute("hidden", "");
 
+/* Read ?test=<id> from the URL. */
+function getTestId() {
+  const params = new URLSearchParams(window.location.search);
+  const id = (params.get("test") || "").trim();
+  // allow only safe filename characters (no path traversal)
+  return /^[A-Za-z0-9_-]+$/.test(id) ? id : "";
+}
+
 /* ============================================================
    LOAD QUESTIONS
    ============================================================ */
 async function loadQuiz() {
+  state.testId = getTestId();
+
+  // No/invalid test id → send the student back to the test list.
+  if (!state.testId) {
+    window.location.replace("index.html");
+    return;
+  }
+
   try {
-    const res = await fetch("questions.json", { cache: "no-store" });
+    const res = await fetch("tests/" + state.testId + ".json", { cache: "no-store" });
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
     state.quiz = data;
@@ -48,13 +66,16 @@ async function loadQuiz() {
 
     // Fill start-screen meta
     $("quizTitle").textContent = data.title || "Mock Test";
+    document.title = (data.title || "Mock Test") + " — VicThree Defence";
     $("qCount").textContent = state.questions.length;
     $("durLabel").textContent = data.durationMin || 60;
     $("scoreMax").textContent = state.questions.length;
+    $("remainingCount").textContent = state.questions.length;
   } catch (err) {
     $("startError").textContent =
-      "Could not load questions.json. If you are opening index.html directly, run a local server instead (see README).";
+      'Could not load this test ("' + state.testId + '"). It may not exist. Go back to the test list and try again.';
     show($("startError"));
+    $("startBtn").disabled = true;
     console.error(err);
   }
 }
@@ -233,6 +254,7 @@ async function submitTest(auto = false) {
   $("overlayMsg").textContent = auto ? "Time up — submitting…" : "Submitting your answers…";
 
   const payload = {
+    testId: state.testId,
     name: state.name,
     roll: state.roll,
     answers: state.answers,
@@ -273,6 +295,7 @@ async function submitTest(auto = false) {
     });
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
+    if (data && data.ok === false) throw new Error(data.error || "Grading failed");
     hide($("overlay"));
     showResults(data);
   } catch (err) {

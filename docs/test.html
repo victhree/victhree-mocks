@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>VicThree Defence — Mock Test</title>
+  <meta name="description" content="Timed mock test — VicThree Defence by Anmol Sharma." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ============ HEADER / BANNER ============ -->
+  <header class="site-header">
+    <div class="banner-wrap">
+      <img id="bannerImg" src="assets/banner.png" alt="VicThree Defence banner"
+           onerror="this.style.display='none'; document.getElementById('brandText').style.display='flex';" />
+      <div id="brandText" class="brand-text">
+        <div class="brand-mark">V3</div>
+        <div class="brand-lines">
+          <span class="brand-title">VicThree Defence</span>
+          <span class="brand-sub">by Anmol Sharma</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- ============ START SCREEN ============ -->
+    <section id="startScreen" class="screen">
+      <div class="card">
+        <a href="index.html" class="back-link">‹ All tests</a>
+        <h1 id="quizTitle">Mock Test</h1>
+        <ul class="meta-list">
+          <li><strong id="qCount">—</strong> questions</li>
+          <li><strong id="durLabel">—</strong> minutes</li>
+          <li>1 mark each · auto-submit at time-up</li>
+        </ul>
+        <div class="field">
+          <label for="nameInput">Full Name <span class="req">*</span></label>
+          <input id="nameInput" type="text" placeholder="e.g. Rahul Verma" autocomplete="name" />
+        </div>
+        <div class="field">
+          <label for="rollInput">Roll Number <span class="req">*</span></label>
+          <input id="rollInput" type="text" placeholder="e.g. CDS-2026-104" autocomplete="off" />
+        </div>
+        <p id="startError" class="error-msg" hidden></p>
+        <button id="startBtn" class="btn btn-gold btn-block">Start Test</button>
+        <p class="fine-print">Once you start, the timer begins and cannot be paused.</p>
+      </div>
+    </section>
+
+    <!-- ============ QUIZ SCREEN ============ -->
+    <section id="quizScreen" class="screen" hidden>
+      <div class="topbar">
+        <div class="topbar-left">
+          <span class="muted">Question</span>
+          <span id="progressLabel">1 / 60</span>
+        </div>
+        <div id="timer" class="timer">60:00</div>
+      </div>
+
+      <div class="quiz-grid">
+        <div class="question-col">
+          <div class="card question-card">
+            <div id="pyqTag" class="pyq-tag" hidden></div>
+            <div class="q-number">Q<span id="qNum">1</span>.</div>
+            <p id="qStem" class="q-stem"></p>
+            <ul id="qSubs" class="q-subs"></ul>
+            <div id="qOptions" class="options"></div>
+          </div>
+
+          <div class="nav-row">
+            <button id="prevBtn" class="btn btn-outline">‹ Previous</button>
+            <button id="clearBtn" class="btn btn-ghost">Clear choice</button>
+            <button id="nextBtn" class="btn btn-navy">Next ›</button>
+          </div>
+        </div>
+
+        <aside class="palette-col">
+          <div class="card">
+            <h3 class="palette-title">Question Palette</h3>
+            <div id="palette" class="palette"></div>
+            <div class="legend">
+              <span><i class="dot dot-answered"></i> Answered</span>
+              <span><i class="dot dot-unanswered"></i> Not answered</span>
+              <span><i class="dot dot-current"></i> Current</span>
+            </div>
+            <div class="palette-stats">
+              <span><strong id="answeredCount">0</strong> answered</span>
+              <span><strong id="remainingCount">0</strong> left</span>
+            </div>
+            <button id="submitBtn" class="btn btn-gold btn-block">Submit Test</button>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ RESULTS SCREEN ============ -->
+    <section id="resultsScreen" class="screen" hidden>
+      <div class="card score-card">
+        <h2>Result</h2>
+        <p class="score-name"><span id="resName"></span> · <span id="resRoll"></span></p>
+        <div class="score-big"><span id="scoreVal">0</span><span class="score-total">/ <span id="scoreMax">60</span></span></div>
+        <div class="score-sub">
+          <span class="pill pill-right"><span id="rightCount">0</span> correct</span>
+          <span class="pill pill-wrong"><span id="wrongCount">0</span> wrong</span>
+          <span class="pill pill-skip"><span id="skipCount">0</span> unattempted</span>
+        </div>
+      </div>
+
+      <div id="review" class="review"></div>
+
+      <div class="results-actions">
+        <a href="index.html" class="btn btn-navy btn-block">‹ Back to all tests</a>
+        <button id="restartBtn" class="btn btn-outline btn-block">Retake this test</button>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ============ SUBMIT OVERLAY ============ -->
+  <div id="overlay" class="overlay" hidden>
+    <div class="overlay-box">
+      <div class="spinner"></div>
+      <p id="overlayMsg">Submitting your answers…</p>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    VicThree Defence · Mock Tests
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

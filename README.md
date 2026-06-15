@@ -1,112 +1,110 @@
-# VicThree Defence — CDS Geography Mock Test
+# VicThree Defence — Mock Tests
 
-A free, timed, mobile-friendly mock-test site for CDS Geography prep.
+A free, timed, mobile-friendly mock-test site. One site hosts **many tests**.
 Front-end on **GitHub Pages**, grading on a **Google Apps Script** backend so
-the answer key never reaches the browser.
+answer keys never reach the browser.
 
 ```
 victhree-cds-geo/
-├── docs/                ← GitHub Pages serves ONLY this folder (public)
-│   ├── index.html
-│   ├── styles.css
-│   ├── app.js           ← set CONFIG.BACKEND_URL here
-│   ├── questions.json   ← no answers, safe to serve
-│   └── assets/          ← drop banner.png here for the header
-├── Code.gs              ← Apps Script backend (answer key embedded inside)
-├── answer_key.json      ← source-of-truth, GITIGNORED (never pushed)
+├── docs/                  ← GitHub Pages serves ONLY this folder (public)
+│   ├── index.html         test picker (home page) — lists all tests
+│   ├── home.js            renders the test cards from tests.json
+│   ├── test.html          the quiz engine (opened as test.html?test=<id>)
+│   ├── app.js             quiz logic; set CONFIG.BACKEND_URL here
+│   ├── styles.css         navy/gold theme, mobile-first
+│   ├── tests.json         the list of tests shown on the home page
+│   ├── tests/
+│   │   └── geo-01.json    a test's questions (no answers, safe to serve)
+│   └── assets/            drop banner.png here for the header
+├── Code.gs                Apps Script backend — ALL answer keys live here
+├── answer_key.json        original key, GITIGNORED (never pushed)
 ├── .gitignore
 └── README.md
 ```
 
-> 🔒 **Why the answer key stays secret:** it is outside `docs/` (so Pages never
-> serves it), it is gitignored (so it never reaches GitHub), and grading uses
-> the copy embedded inside `Code.gs`, which only runs on Google's servers.
+> 🔒 **Why answer keys stay secret:** they live only inside `Code.gs`, which
+> runs on Google's servers. They are never in `docs/`, never served, never
+> pushed to GitHub. The browser only receives the score + explanations *after*
+> a student submits.
 
 ---
 
-## Part A — Deploy the Apps Script backend
+## How the multi-test setup works
 
-1. Go to **https://script.google.com** → **New project**.
-2. Delete the starter code, then paste in the entire contents of **`Code.gs`**.
-3. Click **Save** (💾) and name the project, e.g. *VicThree CDS Grader*.
-4. *(Optional)* In the function dropdown choose **`setup`** → **Run**. Approve
-   the authorization prompt. This creates the results spreadsheet
-   *"VicThree CDS — Mock Test Results"* in your Google Drive up front.
-5. Click **Deploy ▸ New deployment**.
-   - **Select type** → ⚙ → **Web app**
-   - **Execute as:** *Me*
-   - **Who has access:** **Anyone**
-   - **Deploy** → **Authorize access** → allow permissions.
-6. Copy the **Web app URL** (it ends in `/exec`).
-   Test it: open the URL in a browser — you should see
-   `{"ok":true,"message":"VicThree CDS grader is running...."}`.
+- `docs/index.html` reads **`docs/tests.json`** and shows one card per test.
+- Clicking a card opens **`docs/test.html?test=<id>`**, which loads
+  **`docs/tests/<id>.json`** (that test's questions).
+- On submit, the page sends `{ testId, name, roll, answers }` to the backend.
+- **`Code.gs`** looks up `ANSWER_KEYS["<id>"]`, grades, returns the result,
+  and appends a row to your Google Sheet **with a Test column**.
 
-> Whenever you edit `Code.gs` later, go to **Deploy ▸ Manage deployments ▸**
-> ✏️ edit ▸ **Version: New version ▸ Deploy** so changes go live. The `/exec`
-> URL stays the same.
-
-### Where submissions are logged
-Each submission appends a row — **Timestamp, Name, Roll, Score, Out of** — to the
-*Submissions* tab of *"VicThree CDS — Mock Test Results"* in your Drive.
+The `id` is the single source of truth and must match in **three** places:
+`tests.json`, the filename `tests/<id>.json`, and the key in `ANSWER_KEYS`.
 
 ---
 
-## Part B — Connect the site to the backend
+## ➕ Adding a new test later (the routine)
 
-1. Open **`docs/app.js`**.
-2. Paste your `/exec` URL into the config at the top:
+Say the new test id is `polity-01`:
+
+1. **Questions** — create `docs/tests/polity-01.json` (same shape as
+   `geo-01.json`: `{ title, durationMin, questions:[{n, stem, subs, options, pyq}] }`).
+2. **List it** — add an entry to `docs/tests.json`:
+   ```json
+   { "id": "polity-01", "title": "CDS Polity — Mock Test 1",
+     "subject": "Polity", "durationMin": 60, "count": 50,
+     "description": "Constitution, fundamental rights, polity PYQs." }
+   ```
+3. **Answer key** — add a block to `ANSWER_KEYS` in `Code.gs`:
    ```js
-   const CONFIG = {
-     BACKEND_URL: "https://script.google.com/macros/s/AKfyc..../exec",
-   };
+   "polity-01": {
+     "1": { correct: "b", correctText: "...", exp: "..." },
+     "2": { correct: "d", correctText: "...", exp: "..." }
+   }
    ```
-3. Save.
-
-> If you leave the placeholder, the test still runs but shows an
-> "offline / grading unavailable" message instead of a score.
-
----
-
-## Part C — Put the repo on GitHub & enable Pages
-
-1. Create a new repository on GitHub (e.g. `victhree-cds-geo`), **public**
-   (Pages is free for public repos).
-2. From this folder, push it up:
+4. **Publish the site** — commit & push (front-end goes live in ~1 min):
    ```bash
-   git init
-   git add .
-   git commit -m "VicThree CDS Geography mock test"
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/victhree-cds-geo.git
-   git push -u origin main
+   git add . && git commit -m "Add polity-01 test" && git push
    ```
-   `answer_key.json` is gitignored, so confirm it is **not** listed by
-   `git status` before committing.
-3. On GitHub: **Settings ▸ Pages**.
-   - **Source:** *Deploy from a branch*
-   - **Branch:** `main`  **Folder:** `/docs` → **Save**.
-4. Wait ~1 minute. Your site goes live at:
-   `https://<your-username>.github.io/victhree-cds-geo/`
+5. **Update the backend** — in the Apps Script editor: **Deploy ▸ Manage
+   deployments ▸ ✏️ edit ▸ Version: New version ▸ Deploy**. The `/exec` URL
+   stays the same.
+
+That's it — no new site, no new URL.
 
 ---
 
-## Part D — Verify end-to-end
+## First-time deploy (already done once, here for reference)
 
-1. Open the live URL on a phone and a laptop.
-2. Confirm the answer key is unreachable — these must **404 / fail**:
-   - `https://<you>.github.io/victhree-cds-geo/answer_key.json`
-   - `https://<you>.github.io/victhree-cds-geo/docs/answer_key.json`
-3. Take the test, submit, and check the score + explanations appear, and a new
-   row shows up in the results spreadsheet.
+### A. Backend (Apps Script)
+1. https://script.google.com → New project → paste **`Code.gs`** → Save.
+2. *(Optional)* Run `setup` once and authorize → creates the results sheet.
+3. **Deploy ▸ New deployment ▸ Web app**, *Execute as: Me*,
+   *Who has access: Anyone* → Deploy → Authorize → copy the **/exec** URL.
+4. Paste it into `docs/app.js` → `CONFIG.BACKEND_URL`.
+
+### B. Site (GitHub Pages)
+1. Push the repo to GitHub (public). Confirm `git status` does **not** list
+   `answer_key.json` (it's gitignored).
+2. **Settings ▸ Pages** → Source: *Deploy from a branch* → Branch `main`,
+   Folder `/docs` → Save.
+3. Live at `https://<username>.github.io/<repo>/`.
+
+### C. Verify
+- These must **404** (answer key not public):
+  `…/answer_key.json` and `…/docs/answer_key.json`.
+- Take a test, submit, confirm the score + explanations show and a new row
+  appears in the **"VicThree — Mock Test Results"** sheet (with Test column).
 
 ---
+
+## Results spreadsheet
+Each submission appends a row to *"VicThree — Mock Test Results"* in your Drive:
+**Timestamp · Test · Name · Roll · Score · Out of**. Filter or pivot by the
+**Test** column to see results per test.
 
 ## Customising
-
-- **Banner:** drop an image at `docs/assets/banner.png` (wide, ~960×200). It
-  replaces the text brand block automatically.
-- **Questions:** edit `docs/questions.json`. If you add/remove questions, update
-  `ANSWER_KEY` in `Code.gs` to match (keys are question numbers as strings) and
-  redeploy a new version.
-- **Timer / title:** controlled by `durationMin` and `title` in `questions.json`.
-- **Colours:** edit the `:root` variables at the top of `docs/styles.css`.
+- **Banner:** drop `docs/assets/banner.png` (wide, ~960×200) — replaces the
+  text brand block automatically on every page.
+- **Colours / timer / titles:** `:root` vars in `styles.css`; `durationMin` and
+  `title` inside each `tests/<id>.json`.

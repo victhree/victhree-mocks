@@ -1,0 +1,13 @@
+{
+  "_comment": "ADD A NEW TEST: append an object below, and add a tests/<id>.json file + an ANSWER_KEYS['<id>'] block in Code.gs. The 'id' MUST equal the filename in tests/ (without .json).",
+  "tests": [
+    {
+      "id": "geo-01",
+      "title": "CDS Geography — Mock Test 1",
+      "subject": "Geography",
+      "durationMin": 60,
+      "count": 60,
+      "description": "Physical & Indian geography — IAU planets, Himalayas, rivers, climate, minerals, ports & PYQs."
+    }
+  ]
+}
