@@ -8,14 +8,6 @@
       "durationMin": 60,
       "count": 60,
       "description": "Physical & Indian geography — IAU planets, Himalayas, rivers, climate, minerals, ports & PYQs."
-    },
-    {
-      "id": "history-01",
-      "title": "CDS History — Full PYQ Test",
-      "subject": "History",
-      "durationMin": 120,
-      "count": 390,
-      "description": "All 390 CDS History PYQs (CDS 2016-II to 2025-II), topic-wise, with answers and explanations."
     }
   ]
 }
