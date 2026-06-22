@@ -3,7 +3,7 @@
   "tests": [
     {
       "id": "geo-01",
-      "title": "CDS Geography — Mock Test 1",
+      "title": "Geography-Test 1",
       "subject": "Geography",
       "durationMin": 60,
       "count": 60,
@@ -11,7 +11,7 @@
     },
     {
       "id": "ancient-history-01",
-      "title": "CDS Ancient History — Practice Test 1",
+      "title": "Ancient History-Test 1",
       "subject": "Ancient History",
       "durationMin": 50,
       "count": 50,
