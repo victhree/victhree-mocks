@@ -8,6 +8,14 @@
       "durationMin": 60,
       "count": 60,
       "description": "Physical & Indian geography — IAU planets, Himalayas, rivers, climate, minerals, ports & PYQs."
+    },
+    {
+      "id": "ancient-history-01",
+      "title": "CDS Ancient History — Practice Test 1",
+      "subject": "Ancient History",
+      "durationMin": 50,
+      "count": 50,
+      "description": "50 MCQs — Stone Age, Indus Valley, Vedic Age, Mahajanapadas, Mauryas, Guptas & more; 10 tagged CDS PYQs."
     }
   ]
 }

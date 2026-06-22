@@ -1,0 +1,709 @@
+{
+    "title":  "CDS Ancient History — Practice Test 1",
+    "durationMin":  50,
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Which deity, called \"Purandara\" (breaker of forts), was the most prominent god of the Early Vedic Period?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Varuna",
+                                          "Indra",
+                                          "Agni",
+                                          "Prajapati"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The Greek ambassador who stayed at the Mauryan court and wrote an account of India titled \"Indica\" was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Deimachus",
+                                          "Megasthenes",
+                                          "Nearchus",
+                                          "Ptolemy"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Consider the following statements about Dholavira:",
+                          "subs":  [
+                                       "1. It shows a unique three-part division of the city.",
+                                       "2. It was declared a UNESCO World Heritage Site in 2021.",
+                                       "3. A large inscription of about ten Harappan signs, resembling a signboard, was found there.",
+                                       "Which of the statements are correct?"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The prehistoric Vikramkhol cave, noted for its early inscriptions, is located in which present-day state?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Odisha",
+                                          "Bihar",
+                                          "Telangana",
+                                          "West Bengal"
+                                      ],
+                          "pyq":  "CDS 2023-II"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The Vajji Mahajanapada, one of the earliest known republics (gana-sanghas), had its centre at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rajagriha",
+                                          "Vaishali",
+                                          "Mathura",
+                                          "Taxila"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The military conquests of Samudragupta are recorded in the Allahabad Pillar Inscription (Prayag Prashasti), composed by his court poet:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Harishena",
+                                          "Banabhatta",
+                                          "Ravikirti",
+                                          "Kalidasa"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Which one of the following Vedas is the only text composed during the Early Vedic (Rigvedic) Period?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Samaveda",
+                                          "Yajurveda",
+                                          "Rigveda",
+                                          "Atharvaveda"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The Kalinga War, after which Ashoka turned to a policy of Dhamma and non-violence, was fought around:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "305 BCE",
+                                          "261 BCE (c. 260 BCE)",
+                                          "232 BCE",
+                                          "185 BCE"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Why is the Neolithic Age often called the \"Neolithic Revolution\"?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Humans first learnt to smelt iron",
+                                          "Humans shifted from food gathering to food production",
+                                          "Humans first built fortified cities",
+                                          "Humans first crossed the seas for trade"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The Satavahana ruler who defeated the Sakas, called himself \"Ekabrahmana,\" and whose achievements are recorded in the Nasik inscription, was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Simuka",
+                                          "Gautamiputra Satakarni",
+                                          "Yajna Sri Satakarni",
+                                          "Vasishthiputra"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Who among the following was NOT a Jain Acharya?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bhadrabahu",
+                                          "Khema",
+                                          "Haribhadra",
+                                          "Hemachandra"
+                                      ],
+                          "pyq":  "CDS 2021-II"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Evidence of a ploughed (furrowed) field together with fire altars, throwing light on Harappan agriculture and ritual, comes mainly from:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kalibangan",
+                                          "Mohenjo-daro",
+                                          "Surkotada",
+                                          "Ropar"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The \"Saptanga\" theory of the state, describing seven essential elements of a kingdom, is expounded in which text?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Arthashastra",
+                                          "Indica",
+                                          "Mahavamsa",
+                                          "Mudrarakshasa"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Harsha\u0027s biography \"Harshacharita\" and the prose romance \"Kadambari\" were written by his court poet:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Harishena",
+                                          "Hiuen Tsang",
+                                          "Ravikirti",
+                                          "Banabhatta"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The Great Bath, regarded as the earliest public water tank, was found at which Harappan city?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Harappa",
+                                          "Banawali",
+                                          "Lothal",
+                                          "Mohenjo-daro"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The Mahajanapada of Avanti had its capital at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Champa",
+                                          "Ujjaini (or Mahishmati)",
+                                          "Kausambi",
+                                          "Shravasti"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "In the ancient Indian classification of marriages, the \"Rakshasa\" form refers to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Marriage by purchase",
+                                          "Marriage by capture",
+                                          "Marriage by giving dowry",
+                                          "Marriage by mutual consent"
+                                      ],
+                          "pyq":  "CDS 2016-II"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Which Sunga ruler performed two Asvamedha sacrifices, signalling a return to Brahmanical orthodoxy?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pushyamitra Sunga",
+                                          "Agnimitra",
+                                          "Devabhuti",
+                                          "Vasudeva"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The origin of the four Varnas is described in the Purushasukta hymn. In which Mandala of the Rigveda does it occur?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1st Mandala",
+                                          "3rd Mandala",
+                                          "7th Mandala",
+                                          "10th Mandala"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The Chinese pilgrim Fa-Hien visited India during the reign of which Gupta emperor, who bore the title \"Vikramaditya\"?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chandragupta I",
+                                          "Samudragupta",
+                                          "Chandragupta II",
+                                          "Kumaragupta I"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The Stone Age in India is divided into three periods. Which one is correctly matched with its meaning?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Palaeolithic — New Stone Age",
+                                          "Mesolithic — Middle Stone Age",
+                                          "Neolithic — Old Stone Age",
+                                          "Chalcolithic — Pure Stone Age"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Chandragupta Maurya founded the Mauryan Empire around 321 BCE by overthrowing the Nandas with the help of his mentor:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Megasthenes",
+                                          "Seleucus Nicator",
+                                          "Bhadrabahu",
+                                          "Kautilya (Chanakya)"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "In the great Brihadeshvara (Rajarajeshvara) Temple at Thanjavur built by the Cholas, which form of Shiva is most prominently represented?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Harihara",
+                                          "Bhairava",
+                                          "Nataraja only",
+                                          "Tripurantaka"
+                                      ],
+                          "pyq":  "CDS 2016-II"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The site of Harappa was first excavated in 1921 by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "R. D. Banerjee",
+                                          "Daya Ram Sahni",
+                                          "S. R. Rao",
+                                          "John Marshall"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "According to tradition, Chandragupta Maurya embraced Jainism in his last years under the Jain teacher Bhadrabahu and is believed to have died at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sravanabelagola",
+                                          "Pataliputra",
+                                          "Sarnath",
+                                          "Ujjain"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The Nasik prashasti (inscription) glorifying Gautamiputra Satakarni was issued by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gautami Balashri",
+                                          "Prabhavatigupta",
+                                          "Kumaradevi",
+                                          "Naganika"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "In the Sapta Sindhu region, the Vedic river \"Parushni\" is identified with which modern river?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jhelum",
+                                          "Beas",
+                                          "Ravi",
+                                          "Satluj"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "In his inscriptions, Ashoka usually refers to himself by the title:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vikramaditya",
+                                          "Dakshinapatheshwara",
+                                          "Ekarat",
+                                          "Devanampiya Piyadasi"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which Harappan city is unique for having no citadel and is regarded chiefly as a craft and bead-making centre?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dholavira",
+                                          "Banawali",
+                                          "Harappa",
+                                          "Chanhudaro"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The Gupta ruler regarded as the real founder of Gupta power, who strengthened his position through a matrimonial alliance with the Lichchhavi princess Kumaradevi, was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sri Gupta",
+                                          "Samudragupta",
+                                          "Chandragupta I",
+                                          "Skandagupta"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "Which one of the following was NOT a component of Kautilya\u0027s Saptanga theory of the state?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Amatya",
+                                          "Janapada",
+                                          "Durga",
+                                          "Dhamma"
+                                      ],
+                          "pyq":  "CDS 2022-I"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "Which Haryanka ruler of Magadha is credited with being the first to maintain a standing army and to use matrimonial alliances to extend his power?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bimbisara",
+                                          "Ajatashatru",
+                                          "Udayin",
+                                          "Mahapadma Nanda"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "The famous Gayatri Mantra, found in the third Mandala of the Rigveda, is a prayer addressed to the solar deity Savitr and is attributed to the sage:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vasistha",
+                                          "Vishwamitra",
+                                          "Atri",
+                                          "Bharadvaja"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "Kalidasa\u0027s play \"Malavikagnimitram\" centres on the romance of which historical Sunga prince?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pushyamitra",
+                                          "Devabhuti",
+                                          "Agnimitra",
+                                          "Vasumitra"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "Microliths, the tiny stone tools often about a centimetre long, are the characteristic implements of which age?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lower Palaeolithic Age",
+                                          "Harappan Age",
+                                          "Chalcolithic Age",
+                                          "Mesolithic Age"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "Which ancient Indian king is praised in glowing terms in the Prayaga Prashasti (Allahabad Pillar Inscription)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ashoka",
+                                          "Harshavardhana",
+                                          "Samudragupta",
+                                          "Bindusara"
+                                      ],
+                          "pyq":  "CDS 2021-II"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "A brick-built structure identified as a dockyard for sea-going ships was discovered at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kalibangan",
+                                          "Dholavira",
+                                          "Lothal",
+                                          "Chanhudaro"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "The Fourth Buddhist Council, which led to the split of Buddhism into the Hinayana and Mahayana schools, was held during the reign of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ashoka",
+                                          "Ajatashatru",
+                                          "Kanishka",
+                                          "Harsha"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "The Hathigumpha inscription in the Udayagiri hills (Odisha) records the achievements of which king of Kalinga?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kharavela",
+                                          "Simuka",
+                                          "Rudradaman",
+                                          "Gondophernes"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "The Neolithic sites of Burzahom and Gufkral are especially known for which feature?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dockyards",
+                                          "Rock-cut temples",
+                                          "Iron furnaces",
+                                          "Pit dwellings"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "The Battle of Ten Kings (Dasarajna), mentioned in the seventh Mandala of the Rigveda, was won by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sudas of the Bharata clan",
+                                          "Purukutsa of the Puru clan",
+                                          "Divodasa of the Tritsu clan",
+                                          "Vishwamitra of the Kushika clan"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "Who is the author of the Tamil epic \"Manimekalai\"?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kovalan",
+                                          "Sattanar (Sithalai Sattanar)",
+                                          "Ilango Adigal",
+                                          "Tirutakkatevar"
+                                      ],
+                          "pyq":  "CDS 2018-I"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "The famous rust-resistant Mehrauli Iron Pillar (now in Delhi) carries an inscription generally attributed to which Gupta ruler?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Samudragupta",
+                                          "Skandagupta",
+                                          "Chandragupta II",
+                                          "Kumaragupta I"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "The First Buddhist Council, held soon after the Buddha\u0027s death, was convened at Rajagriha under the patronage of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bimbisara",
+                                          "Ashoka",
+                                          "Kalasoka",
+                                          "Ajatashatru"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "In the north-western parts of the empire, especially Afghanistan, Ashoka\u0027s inscriptions were written in which languages/scripts?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Brahmi and Tamil",
+                                          "Aramaic and Greek",
+                                          "Sanskrit and Pali",
+                                          "Kharoshthi and Devanagari"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "Which one of the following statements about the Harappan culture is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It witnessed the first cities in the subcontinent",
+                                          "It marks the first use of a script, written from right to left",
+                                          "It marks the earliest known use of iron for the art of sculpting",
+                                          "It marks an early use of stone as a medium for sculpting"
+                                      ],
+                          "pyq":  "CDS 2017-II"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "The Chalukya king Pulakeshin II, who famously defeated Harshavardhana, is celebrated in the Aihole inscription composed by his court poet:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dandin",
+                                          "Banabhatta",
+                                          "Harishena",
+                                          "Ravikirti"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "The Buddhist text \"Milindapanho\" (Questions of Milinda) records a dialogue between the monk Nagasena and which Indo-Greek king?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Demetrius",
+                                          "Menander",
+                                          "Hermaius",
+                                          "Gondophernes"
+                                      ],
+                          "pyq":  null
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "Which one of the following is NOT a work of the poet-philosopher Ashvaghosha?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sariputraprakarana",
+                                          "Buddhacharita",
+                                          "Saundarananda",
+                                          "Manjushrimulakalpa"
+                                      ],
+                          "pyq":  "CDS 2022-II"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "Among the following Mahajanapadas, which one was a gana-sangha (oligarchy/republic) rather than a monarchy?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Magadha",
+                                          "Avanti",
+                                          "Vajji",
+                                          "Kosala"
+                                      ],
+                          "pyq":  "CDS 2022-I"
+                      }
+                  ]
+}
