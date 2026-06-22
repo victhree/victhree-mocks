@@ -14,7 +14,8 @@
                                           "Agni",
                                           "Prajapati"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Vedic Age"
                       },
                       {
                           "n":  2,
@@ -28,7 +29,8 @@
                                           "Nearchus",
                                           "Ptolemy"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Mauryan Empire"
                       },
                       {
                           "n":  3,
@@ -45,7 +47,8 @@
                                           "1 and 3 only",
                                           "1, 2 and 3"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Indus Valley Civilisation"
                       },
                       {
                           "n":  4,
@@ -59,7 +62,8 @@
                                           "Telangana",
                                           "West Bengal"
                                       ],
-                          "pyq":  "CDS 2023-II"
+                          "pyq":  "CDS 2023-II",
+                          "topic":  "Prehistory \u0026 Stone Age"
                       },
                       {
                           "n":  5,
@@ -73,7 +77,8 @@
                                           "Mathura",
                                           "Taxila"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Mahajanapadas \u0026 Magadha"
                       },
                       {
                           "n":  6,
@@ -87,7 +92,8 @@
                                           "Ravikirti",
                                           "Kalidasa"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Gupta Empire"
                       },
                       {
                           "n":  7,
@@ -101,7 +107,8 @@
                                           "Rigveda",
                                           "Atharvaveda"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Vedic Age"
                       },
                       {
                           "n":  8,
@@ -115,7 +122,8 @@
                                           "232 BCE",
                                           "185 BCE"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Mauryan Empire"
                       },
                       {
                           "n":  9,
@@ -129,7 +137,8 @@
                                           "Humans first built fortified cities",
                                           "Humans first crossed the seas for trade"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Prehistory \u0026 Stone Age"
                       },
                       {
                           "n":  10,
@@ -143,7 +152,8 @@
                                           "Yajna Sri Satakarni",
                                           "Vasishthiputra"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Post-Mauryan Period"
                       },
                       {
                           "n":  11,
@@ -157,7 +167,8 @@
                                           "Haribhadra",
                                           "Hemachandra"
                                       ],
-                          "pyq":  "CDS 2021-II"
+                          "pyq":  "CDS 2021-II",
+                          "topic":  "Buddhism \u0026 Jainism"
                       },
                       {
                           "n":  12,
@@ -171,7 +182,8 @@
                                           "Surkotada",
                                           "Ropar"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Indus Valley Civilisation"
                       },
                       {
                           "n":  13,
@@ -185,7 +197,8 @@
                                           "Mahavamsa",
                                           "Mudrarakshasa"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Mauryan Empire"
                       },
                       {
                           "n":  14,
@@ -199,7 +212,8 @@
                                           "Ravikirti",
                                           "Banabhatta"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Post-Gupta Period"
                       },
                       {
                           "n":  15,
@@ -213,7 +227,8 @@
                                           "Lothal",
                                           "Mohenjo-daro"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Indus Valley Civilisation"
                       },
                       {
                           "n":  16,
@@ -227,7 +242,8 @@
                                           "Kausambi",
                                           "Shravasti"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Mahajanapadas \u0026 Magadha"
                       },
                       {
                           "n":  17,
@@ -241,7 +257,8 @@
                                           "Marriage by giving dowry",
                                           "Marriage by mutual consent"
                                       ],
-                          "pyq":  "CDS 2016-II"
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "Vedic Age"
                       },
                       {
                           "n":  18,
@@ -255,7 +272,8 @@
                                           "Devabhuti",
                                           "Vasudeva"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Post-Mauryan Period"
                       },
                       {
                           "n":  19,
@@ -269,7 +287,8 @@
                                           "7th Mandala",
                                           "10th Mandala"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Vedic Age"
                       },
                       {
                           "n":  20,
@@ -283,7 +302,8 @@
                                           "Chandragupta II",
                                           "Kumaragupta I"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Gupta Empire"
                       },
                       {
                           "n":  21,
@@ -297,7 +317,8 @@
                                           "Neolithic — Old Stone Age",
                                           "Chalcolithic — Pure Stone Age"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Prehistory \u0026 Stone Age"
                       },
                       {
                           "n":  22,
@@ -311,7 +332,8 @@
                                           "Bhadrabahu",
                                           "Kautilya (Chanakya)"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Mauryan Empire"
                       },
                       {
                           "n":  23,
@@ -325,7 +347,8 @@
                                           "Nataraja only",
                                           "Tripurantaka"
                                       ],
-                          "pyq":  "CDS 2016-II"
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "South India \u0026 Sangam"
                       },
                       {
                           "n":  24,
@@ -339,7 +362,8 @@
                                           "S. R. Rao",
                                           "John Marshall"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Indus Valley Civilisation"
                       },
                       {
                           "n":  25,
@@ -353,7 +377,8 @@
                                           "Sarnath",
                                           "Ujjain"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Mauryan Empire"
                       },
                       {
                           "n":  26,
@@ -367,7 +392,8 @@
                                           "Kumaradevi",
                                           "Naganika"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Post-Mauryan Period"
                       },
                       {
                           "n":  27,
@@ -381,7 +407,8 @@
                                           "Ravi",
                                           "Satluj"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Vedic Age"
                       },
                       {
                           "n":  28,
@@ -395,7 +422,8 @@
                                           "Ekarat",
                                           "Devanampiya Piyadasi"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Mauryan Empire"
                       },
                       {
                           "n":  29,
@@ -409,7 +437,8 @@
                                           "Harappa",
                                           "Chanhudaro"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Indus Valley Civilisation"
                       },
                       {
                           "n":  30,
@@ -423,7 +452,8 @@
                                           "Chandragupta I",
                                           "Skandagupta"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Gupta Empire"
                       },
                       {
                           "n":  31,
@@ -437,7 +467,8 @@
                                           "Durga",
                                           "Dhamma"
                                       ],
-                          "pyq":  "CDS 2022-I"
+                          "pyq":  "CDS 2022-I",
+                          "topic":  "Mauryan Empire"
                       },
                       {
                           "n":  32,
@@ -451,7 +482,8 @@
                                           "Udayin",
                                           "Mahapadma Nanda"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Mahajanapadas \u0026 Magadha"
                       },
                       {
                           "n":  33,
@@ -465,7 +497,8 @@
                                           "Atri",
                                           "Bharadvaja"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Vedic Age"
                       },
                       {
                           "n":  34,
@@ -479,7 +512,8 @@
                                           "Agnimitra",
                                           "Vasumitra"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Post-Mauryan Period"
                       },
                       {
                           "n":  35,
@@ -493,7 +527,8 @@
                                           "Chalcolithic Age",
                                           "Mesolithic Age"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Prehistory \u0026 Stone Age"
                       },
                       {
                           "n":  36,
@@ -507,7 +542,8 @@
                                           "Samudragupta",
                                           "Bindusara"
                                       ],
-                          "pyq":  "CDS 2021-II"
+                          "pyq":  "CDS 2021-II",
+                          "topic":  "Gupta Empire"
                       },
                       {
                           "n":  37,
@@ -521,7 +557,8 @@
                                           "Lothal",
                                           "Chanhudaro"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Indus Valley Civilisation"
                       },
                       {
                           "n":  38,
@@ -535,7 +572,8 @@
                                           "Kanishka",
                                           "Harsha"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Buddhism \u0026 Jainism"
                       },
                       {
                           "n":  39,
@@ -549,7 +587,8 @@
                                           "Rudradaman",
                                           "Gondophernes"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Post-Mauryan Period"
                       },
                       {
                           "n":  40,
@@ -563,7 +602,8 @@
                                           "Iron furnaces",
                                           "Pit dwellings"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Prehistory \u0026 Stone Age"
                       },
                       {
                           "n":  41,
@@ -577,7 +617,8 @@
                                           "Divodasa of the Tritsu clan",
                                           "Vishwamitra of the Kushika clan"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Vedic Age"
                       },
                       {
                           "n":  42,
@@ -591,7 +632,8 @@
                                           "Ilango Adigal",
                                           "Tirutakkatevar"
                                       ],
-                          "pyq":  "CDS 2018-I"
+                          "pyq":  "CDS 2018-I",
+                          "topic":  "South India \u0026 Sangam"
                       },
                       {
                           "n":  43,
@@ -605,7 +647,8 @@
                                           "Chandragupta II",
                                           "Kumaragupta I"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Gupta Empire"
                       },
                       {
                           "n":  44,
@@ -619,7 +662,8 @@
                                           "Kalasoka",
                                           "Ajatashatru"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Buddhism \u0026 Jainism"
                       },
                       {
                           "n":  45,
@@ -633,7 +677,8 @@
                                           "Sanskrit and Pali",
                                           "Kharoshthi and Devanagari"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Mauryan Empire"
                       },
                       {
                           "n":  46,
@@ -647,7 +692,8 @@
                                           "It marks the earliest known use of iron for the art of sculpting",
                                           "It marks an early use of stone as a medium for sculpting"
                                       ],
-                          "pyq":  "CDS 2017-II"
+                          "pyq":  "CDS 2017-II",
+                          "topic":  "Indus Valley Civilisation"
                       },
                       {
                           "n":  47,
@@ -661,7 +707,8 @@
                                           "Harishena",
                                           "Ravikirti"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Post-Gupta Period"
                       },
                       {
                           "n":  48,
@@ -675,7 +722,8 @@
                                           "Hermaius",
                                           "Gondophernes"
                                       ],
-                          "pyq":  null
+                          "pyq":  null,
+                          "topic":  "Post-Mauryan Period"
                       },
                       {
                           "n":  49,
@@ -689,7 +737,8 @@
                                           "Saundarananda",
                                           "Manjushrimulakalpa"
                                       ],
-                          "pyq":  "CDS 2022-II"
+                          "pyq":  "CDS 2022-II",
+                          "topic":  "Buddhism \u0026 Jainism"
                       },
                       {
                           "n":  50,
@@ -703,7 +752,8 @@
                                           "Vajji",
                                           "Kosala"
                                       ],
-                          "pyq":  "CDS 2022-I"
+                          "pyq":  "CDS 2022-I",
+                          "topic":  "Mahajanapadas \u0026 Magadha"
                       }
                   ]
 }
