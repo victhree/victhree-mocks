@@ -29,10 +29,18 @@ async function loadTests() {
       const card = document.createElement("a");
       card.className = "test-card";
       card.href = "test.html?test=" + encodeURIComponent(t.id);
+
+      // Split a title like "Geography-Test 1" into "Geography" / "Test 1".
+      const rawTitle = t.title || t.id;
+      const m = rawTitle.match(/^(.*?)[-\s]*?(Test\s*\d+)$/i);
+      const line1 = m ? m[1].replace(/[-\s]+$/, "").trim() : rawTitle;
+      const line2 = m ? m[2] : "";
+
       card.innerHTML = `
-        ${t.subject ? `<span class="test-tag">${escapeHtml(t.subject)}</span>` : ""}
-        <h3 class="test-card-title">${escapeHtml(t.title || t.id)}</h3>
-        ${t.description ? `<p class="test-card-desc">${escapeHtml(t.description)}</p>` : ""}
+        <h3 class="test-card-title">
+          <span class="tc-line1">${escapeHtml(line1)}</span>
+          ${line2 ? `<span class="tc-line2">${escapeHtml(line2)}</span>` : ""}
+        </h3>
         <div class="test-card-meta">
           <span>${t.count != null ? t.count + " questions" : ""}</span>
           <span>${t.durationMin != null ? t.durationMin + " min" : ""}</span>
