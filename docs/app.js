@@ -34,6 +34,28 @@ const $ = (id) => document.getElementById(id);
 const show = (el) => el.removeAttribute("hidden");
 const hide = (el) => el.setAttribute("hidden", "");
 
+/* ---------- Auto-save / resume (localStorage, per test) ---------- */
+function stateKey() { return "v3quiz:" + (state.testId || "unknown"); }
+function saveState() {
+  try {
+    localStorage.setItem(stateKey(), JSON.stringify({
+      name: state.name,
+      answers: state.answers,
+      current: state.current,
+      remaining: state.remaining,
+      warned: state.warned,
+      ts: Date.now(),
+    }));
+  } catch (e) { /* storage unavailable (private mode/quota) — ignore */ }
+}
+function loadState() {
+  try { return JSON.parse(localStorage.getItem(stateKey()) || "null"); }
+  catch (e) { return null; }
+}
+function clearState() {
+  try { localStorage.removeItem(stateKey()); } catch (e) { /* ignore */ }
+}
+
 /* Read ?test=<id> from the URL. */
 function getTestId() {
   const params = new URLSearchParams(window.location.search);
@@ -70,6 +92,8 @@ async function loadQuiz() {
     $("durLabel").textContent = data.durationMin || 60;
     $("scoreMax").textContent = state.questions.length;
     $("remainingCount").textContent = state.questions.length;
+
+    offerResume();
   } catch (err) {
     $("startError").textContent =
       'Could not load this test ("' + state.testId + '"). It may not exist. Go back to the test list and try again.';
@@ -92,12 +116,50 @@ function startTest() {
   hide($("startError"));
   state.name = name;
 
+  hide($("resumeBox"));
   hide($("startScreen"));
   show($("quizScreen"));
 
   buildPalette();
   renderQuestion();
   startTimer();
+  saveState();
+}
+
+/* If a started, unfinished attempt exists for this test, offer to resume it. */
+function offerResume() {
+  const saved = loadState();
+  if (!saved || typeof saved.remaining !== "number") return;
+  if (saved.remaining <= 0 || saved.remaining >= state.durationSec) { return; }
+  const answered = saved.answers ? Object.keys(saved.answers).length : 0;
+  const m = Math.floor(saved.remaining / 60), s = saved.remaining % 60;
+  $("resumeInfo").textContent =
+    `${answered} answered · ${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")} left`;
+  show($("resumeBox"));
+}
+
+function resumeTest() {
+  const saved = loadState();
+  if (!saved) { startFresh(); return; }
+  state.name = saved.name || "Student";
+  state.answers = saved.answers || {};
+  state.current = saved.current || 0;
+  state.remaining = (typeof saved.remaining === "number") ? saved.remaining : state.durationSec;
+  state.warned = !!saved.warned;
+
+  hide($("resumeBox"));
+  hide($("startScreen"));
+  show($("quizScreen"));
+
+  buildPalette();
+  renderQuestion();
+  if (state.remaining <= 300) { $("timer").classList.add("warn"); }
+  startTimer();
+}
+
+function startFresh() {
+  clearState();
+  hide($("resumeBox"));
 }
 
 /* ============================================================
@@ -108,6 +170,7 @@ function startTimer() {
   state.timerId = setInterval(() => {
     state.remaining--;
     updateTimerDisplay();
+    saveState();
 
     // 5-minute warning
     if (state.remaining <= 300 && !state.warned) {
@@ -182,6 +245,7 @@ function selectOption(qNum, letter) {
   state.answers[qNum] = letter;
   renderQuestion();
   refreshCounts();
+  saveState();
 }
 
 function clearChoice() {
@@ -189,6 +253,7 @@ function clearChoice() {
   delete state.answers[q.n];
   renderQuestion();
   refreshCounts();
+  saveState();
 }
 
 /* ============================================================
@@ -205,6 +270,7 @@ function buildPalette() {
     b.addEventListener("click", () => {
       state.current = idx;
       renderQuestion();
+      saveState();
     });
     pal.appendChild(b);
   });
@@ -306,6 +372,7 @@ async function submitTest(auto = false) {
 }
 
 function showResults(data) {
+  clearState(); // attempt finished — drop saved progress
   hide($("quizScreen"));
   show($("resultsScreen"));
   window.scrollTo(0, 0);
@@ -386,12 +453,14 @@ window.addEventListener("DOMContentLoaded", () => {
   $("nameInput").addEventListener("keydown", (e) => { if (e.key === "Enter") startTest(); });
 
   $("prevBtn").addEventListener("click", () => {
-    if (state.current > 0) { state.current--; renderQuestion(); }
+    if (state.current > 0) { state.current--; renderQuestion(); saveState(); }
   });
   $("nextBtn").addEventListener("click", () => {
-    if (state.current < state.questions.length - 1) { state.current++; renderQuestion(); }
+    if (state.current < state.questions.length - 1) { state.current++; renderQuestion(); saveState(); }
   });
   $("clearBtn").addEventListener("click", clearChoice);
+  $("resumeBtn").addEventListener("click", resumeTest);
+  $("freshBtn").addEventListener("click", startFresh);
   $("submitBtn").addEventListener("click", () => submitTest(false));
   $("restartBtn").addEventListener("click", () => location.reload());
 
