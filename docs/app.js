@@ -398,11 +398,9 @@ function showResults(data) {
   const accuracy = attempted > 0 ? Math.round((right / attempted) * 100) : 0;
   $("accuracyVal").textContent = accuracy + "%";
 
-  // Map question number -> question (for text + topic)
+  // Map question number -> question (for text)
   const byNum = {};
   state.questions.forEach((q) => (byNum[q.n] = q));
-
-  renderTopicBreakdown(results, byNum);
 
   const review = $("review");
   review.innerHTML = "";
@@ -436,48 +434,6 @@ function showResults(data) {
     `;
     review.appendChild(card);
   });
-}
-
-function renderTopicBreakdown(results, byNum) {
-  const card = $("topicCard");
-  const wrap = $("topicBars");
-  if (!card || !wrap) return;
-
-  // Aggregate by topic
-  const topics = {};
-  let anyTopic = false;
-  results.forEach((r) => {
-    const q = byNum[r.n] || {};
-    const name = q.topic || "Other";
-    if (q.topic) anyTopic = true;
-    if (!topics[name]) topics[name] = { total: 0, correct: 0, attempted: 0 };
-    topics[name].total++;
-    if (r.chosen != null) topics[name].attempted++;
-    if (r.isCorrect) topics[name].correct++;
-  });
-
-  if (!anyTopic) { hide(card); return; } // older tests without topics
-
-  const rows = Object.keys(topics).map((name) => {
-    const t = topics[name];
-    const pct = t.total ? Math.round((t.correct / t.total) * 100) : 0;
-    return { name, total: t.total, correct: t.correct, pct };
-  }).sort((a, b) => a.pct - b.pct || b.total - a.total); // weakest first
-
-  wrap.innerHTML = "";
-  rows.forEach((row) => {
-    const band = row.pct >= 75 ? "good" : row.pct >= 40 ? "mid" : "low";
-    const div = document.createElement("div");
-    div.className = "topic-row";
-    div.innerHTML = `
-      <div class="topic-head">
-        <span class="topic-name">${escapeHtml(row.name)}</span>
-        <span class="topic-score">${row.correct}/${row.total} · ${row.pct}%</span>
-      </div>
-      <div class="topic-track"><div class="topic-fill ${band}" style="width:${row.pct}%"></div></div>`;
-    wrap.appendChild(div);
-  });
-  show(card);
 }
 
 function optText(q, letter) {

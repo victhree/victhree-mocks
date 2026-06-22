@@ -219,19 +219,6 @@ html, body {
 .accuracy-line { margin-top: 14px; font-size: 15px; color: var(--navy); }
 .accuracy-line strong { font-size: 22px; color: var(--gold); margin: 0 4px; }
 
-.topic-card { margin-bottom: 18px; }
-.topic-title { margin: 0 0 2px; color: var(--navy); font-size: 18px; }
-.topic-sub { margin: 0 0 16px; font-size: 12.5px; }
-.topic-row { margin-bottom: 13px; }
-.topic-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; font-size: 13.5px; margin-bottom: 5px; }
-.topic-name { color: var(--navy); font-weight: 600; }
-.topic-score { color: var(--muted); white-space: nowrap; }
-.topic-track { height: 10px; background: #eef1f6; border-radius: 999px; overflow: hidden; }
-.topic-fill { height: 100%; border-radius: 999px; min-width: 2px; transition: width .5s ease; }
-.topic-fill.good { background: var(--green); }
-.topic-fill.mid { background: var(--gold); }
-.topic-fill.low { background: var(--red); }
-
 .review { display: flex; flex-direction: column; gap: 12px; margin-bottom: 18px; }
 .rev-card { border-left: 5px solid var(--line); }
 .rev-card.correct { border-left-color: var(--green); }
