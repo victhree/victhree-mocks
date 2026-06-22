@@ -69,7 +69,6 @@ html, body {
 .home-intro { margin: 8px 0 22px; text-align: center; }
 .home-intro h1 {
   margin: 0 0 6px; color: var(--navy);
-  font-family: "Cinzel", Georgia, "Times New Roman", serif;
   font-weight: 700; font-size: clamp(26px, 6vw, 40px);
   letter-spacing: 1px; line-height: 1.15;
 }
@@ -85,7 +84,7 @@ html, body {
 }
 .test-card:hover { transform: translateY(-3px); box-shadow: 0 10px 28px rgba(11,31,58,.16); }
 .test-card-title { margin: 0; display: flex; flex-direction: column; gap: 3px; }
-.tc-line1 { font-family: "Cinzel", Georgia, serif; font-size: 24px; font-weight: 700; color: var(--navy); line-height: 1.1; }
+.tc-line1 { font-size: 24px; font-weight: 700; color: var(--navy); line-height: 1.1; }
 .tc-line2 { font-size: 14px; font-weight: 700; color: var(--gold); letter-spacing: 1.5px; text-transform: uppercase; }
 .test-card-meta { display: flex; justify-content: center; gap: 14px; font-size: 13px; color: var(--muted); }
 .test-card-cta { color: var(--gold); font-weight: 700; }
