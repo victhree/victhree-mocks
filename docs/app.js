@@ -345,30 +345,55 @@ async function submitTest(auto = false) {
   }
 
   try {
-    /* IMPORTANT (CORS): we send Content-Type "text/plain" so the browser
-       treats this as a "simple request" and does NOT fire a CORS preflight,
-       which Apps Script cannot answer. The body is still JSON text that the
-       script parses with JSON.parse(e.postData.contents). */
-    const res = await fetch(CONFIG.BACKEND_URL, {
-      method: "POST",
-      headers: { "Content-Type": "text/plain;charset=utf-8" },
-      body: JSON.stringify(payload),
-      redirect: "follow",
-    });
-    if (!res.ok) throw new Error("HTTP " + res.status);
-    const data = await res.json();
-    if (data && data.ok === false) throw new Error(data.error || "Grading failed");
+    const data = await postWithRetry(CONFIG.BACKEND_URL, JSON.stringify(payload));
     hide($("overlay"));
     showResults(data);
   } catch (err) {
     hide($("overlay"));
     console.error(err);
     alert(
-      "Could not reach the grading server. Please check your internet connection.\n\n" +
-      "Your answers are still saved on this page — you may try Submit again."
+      "Could not reach the grading server after several tries. Please check your internet connection.\n\n" +
+      "Your answers are still saved on this page — you may press Submit again."
     );
-    state.submitted = false; // allow retry
+    state.submitted = false; // allow manual retry
   }
+}
+
+/* POST to the Apps Script backend with auto-retry + per-attempt timeout.
+   Apps Script can be slow / return a transient error on a cold start; retries
+   almost always succeed within a couple of seconds.
+   NOTE (CORS): Content-Type "text/plain" keeps this a "simple request" so the
+   browser skips the preflight Apps Script can't answer. The body is still JSON
+   that the script reads via JSON.parse(e.postData.contents). */
+async function postWithRetry(url, body, tries = 4, timeoutMs = 15000) {
+  let lastErr;
+  for (let i = 0; i < tries; i++) {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), timeoutMs);
+    try {
+      const res = await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "text/plain;charset=utf-8" },
+        body: body,
+        redirect: "follow",
+        signal: controller.signal,
+      });
+      clearTimeout(timer);
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      const txt = await res.text();
+      const data = JSON.parse(txt); // throws if a transient HTML error page came back
+      if (data && data.ok === false) throw new Error(data.error || "Grading failed");
+      return data;
+    } catch (e) {
+      clearTimeout(timer);
+      lastErr = e;
+      if (i < tries - 1) {
+        $("overlayMsg").textContent = `Submitting your answers… (retry ${i + 2}/${tries})`;
+        await new Promise((r) => setTimeout(r, 1200));
+      }
+    }
+  }
+  throw lastErr;
 }
 
 function showResults(data) {
