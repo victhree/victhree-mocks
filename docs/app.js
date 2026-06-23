@@ -579,10 +579,10 @@ window.addEventListener("DOMContentLoaded", () => {
     const panel = $("reportPanel");
     if (panel.hasAttribute("hidden")) {
       show(panel);
-      $("reportToggle").textContent = "Hide detailed performance report ▴";
+      $("reportToggle").textContent = "Hide Detailed Performance Report ▴";
     } else {
       hide(panel);
-      $("reportToggle").textContent = "View detailed performance report ▾";
+      $("reportToggle").textContent = "Check Detailed Performance Report ▾";
     }
   });
 
