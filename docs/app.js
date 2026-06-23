@@ -582,7 +582,7 @@ window.addEventListener("DOMContentLoaded", () => {
       $("reportToggle").textContent = "Hide Detailed Performance Report ▴";
     } else {
       hide(panel);
-      $("reportToggle").textContent = "Check Detailed Performance Report ▾";
+      $("reportToggle").textContent = "View Detailed Performance Report ▾";
     }
   });
 
