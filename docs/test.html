@@ -105,6 +105,28 @@
         <div class="accuracy-line">Accuracy <strong id="accuracyVal">0%</strong> <span class="muted">of attempted</span></div>
       </div>
 
+      <button id="reportToggle" class="btn btn-outline btn-block report-toggle">View detailed performance report ▾</button>
+
+      <div id="reportPanel" class="card report-panel" hidden>
+        <div id="reportCapture" class="report-capture">
+          <div class="report-head">
+            <div class="report-brand">VicThree Defence</div>
+            <h3 id="reportTitle" class="report-title">Performance Report</h3>
+            <p class="report-meta"><span id="reportName"></span> &nbsp;·&nbsp; <span id="reportDate"></span></p>
+          </div>
+          <div class="report-stats">
+            <div class="rstat"><span class="rstat-num" id="reportScore">0/0</span><span class="rstat-lbl">Score</span></div>
+            <div class="rstat"><span class="rstat-num" id="reportAccuracy">0%</span><span class="rstat-lbl">Accuracy</span></div>
+            <div class="rstat"><span class="rstat-num" id="reportTime">0:00</span><span class="rstat-lbl">Time taken</span></div>
+            <div class="rstat"><span class="rstat-num" id="reportAvg">—</span><span class="rstat-lbl">Avg / question</span></div>
+          </div>
+          <div id="reportHighlights" class="report-highlights"></div>
+          <h4 class="report-subhead">Performance by Topic</h4>
+          <div id="topicBars"></div>
+        </div>
+        <button id="downloadReport" class="btn btn-gold btn-block">⬇ Download report (PNG)</button>
+      </div>
+
       <div id="review" class="review"></div>
 
       <div class="results-actions">
@@ -127,6 +149,7 @@
     VicThree Defence · Mock Tests
   </footer>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

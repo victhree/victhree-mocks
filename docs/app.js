@@ -387,8 +387,9 @@ function showResults(data) {
     else wrong++;
   });
 
+  const scoreNum = data.total != null ? data.total : right;
   $("resName").textContent = state.name;
-  $("scoreVal").textContent = data.total != null ? data.total : right;
+  $("scoreVal").textContent = scoreNum;
   $("scoreMax").textContent = max;
   $("rightCount").textContent = right;
   $("wrongCount").textContent = wrong;
@@ -398,9 +399,11 @@ function showResults(data) {
   const accuracy = attempted > 0 ? Math.round((right / attempted) * 100) : 0;
   $("accuracyVal").textContent = accuracy + "%";
 
-  // Map question number -> question (for text)
+  // Map question number -> question (for text + topic)
   const byNum = {};
   state.questions.forEach((q) => (byNum[q.n] = q));
+
+  buildReport(results, byNum, scoreNum, max, right, attempted, accuracy);
 
   const review = $("review");
   review.innerHTML = "";
@@ -436,6 +439,87 @@ function showResults(data) {
   });
 }
 
+/* ---------- Detailed performance report ---------- */
+function fmtMMSS(sec) {
+  sec = Math.max(0, Math.round(sec));
+  const m = Math.floor(sec / 60), s = sec % 60;
+  return m + ":" + String(s).padStart(2, "0");
+}
+function fmtAvg(sec) {
+  sec = Math.round(sec);
+  if (sec < 60) return sec + "s";
+  return Math.floor(sec / 60) + "m " + (sec % 60) + "s";
+}
+
+function renderTopicBars(results, byNum) {
+  const wrap = $("topicBars");
+  const topics = {};
+  let any = false;
+  results.forEach((r) => {
+    const q = byNum[r.n] || {};
+    const name = q.topic || "Other";
+    if (q.topic) any = true;
+    if (!topics[name]) topics[name] = { total: 0, correct: 0 };
+    topics[name].total++;
+    if (r.isCorrect) topics[name].correct++;
+  });
+  const rows = Object.keys(topics).map((name) => {
+    const t = topics[name];
+    const pct = t.total ? Math.round((t.correct / t.total) * 100) : 0;
+    return { name, total: t.total, correct: t.correct, pct };
+  }).sort((a, b) => a.pct - b.pct || b.total - a.total); // weakest first
+
+  if (wrap) {
+    wrap.innerHTML = "";
+    rows.forEach((row) => {
+      const band = row.pct >= 75 ? "good" : row.pct >= 40 ? "mid" : "low";
+      const div = document.createElement("div");
+      div.className = "topic-row";
+      div.innerHTML = `
+        <div class="topic-head">
+          <span class="topic-name">${escapeHtml(row.name)}</span>
+          <span class="topic-score">${row.correct}/${row.total} · ${row.pct}%</span>
+        </div>
+        <div class="topic-track"><div class="topic-fill ${band}" style="width:${row.pct}%"></div></div>`;
+      wrap.appendChild(div);
+    });
+  }
+  return any ? rows : [];
+}
+
+function buildReport(results, byNum, score, max, right, attempted, accuracy) {
+  $("reportTitle").textContent = (state.quiz && state.quiz.title) ? state.quiz.title : "Performance Report";
+  $("reportName").textContent = state.name || "Student";
+  $("reportDate").textContent = new Date().toLocaleString(undefined, {
+    day: "numeric", month: "short", year: "numeric", hour: "numeric", minute: "2-digit",
+  });
+  $("reportScore").textContent = score + "/" + max;
+  $("reportAccuracy").textContent = accuracy + "%";
+
+  const timeTaken = Math.max(0, state.durationSec - state.remaining);
+  $("reportTime").textContent = fmtMMSS(timeTaken) + " / " + fmtMMSS(state.durationSec);
+  $("reportAvg").textContent = attempted > 0 ? fmtAvg(timeTaken / attempted) : "—";
+
+  // Topic bars (sorted weakest-first) + highlights
+  const rows = renderTopicBars(results, byNum);
+  const hl = $("reportHighlights");
+  hl.innerHTML = "";
+  if (rows.length) {
+    const strongest = rows[rows.length - 1]; // highest pct
+    const weakest = rows[0];                  // lowest pct
+    const s = document.createElement("div");
+    s.className = "report-hl strong";
+    s.textContent = `Strongest: ${strongest.name} (${strongest.pct}%)`;
+    hl.appendChild(s);
+    if (rows.length > 1) {
+      const w = document.createElement("div");
+      w.className = "report-hl weak";
+      w.textContent = `Revise first: ${weakest.name} (${weakest.pct}%)`;
+      hl.appendChild(w);
+    }
+  }
+}
+
 function optText(q, letter) {
   const i = LETTERS.indexOf(letter);
   return q.options && q.options[i] ? q.options[i] : "";
@@ -465,6 +549,34 @@ window.addEventListener("DOMContentLoaded", () => {
   $("clearBtn").addEventListener("click", clearChoice);
   $("resumeBtn").addEventListener("click", resumeTest);
   $("freshBtn").addEventListener("click", startFresh);
+
+  $("reportToggle").addEventListener("click", () => {
+    const panel = $("reportPanel");
+    if (panel.hasAttribute("hidden")) {
+      show(panel);
+      $("reportToggle").textContent = "Hide detailed performance report ▴";
+    } else {
+      hide(panel);
+      $("reportToggle").textContent = "View detailed performance report ▾";
+    }
+  });
+
+  $("downloadReport").addEventListener("click", () => {
+    const node = $("reportCapture");
+    if (typeof html2canvas !== "function") {
+      alert("Couldn't load the image library — check your connection and try again.");
+      return;
+    }
+    html2canvas(node, { scale: 2, backgroundColor: "#ffffff", useCORS: true })
+      .then((canvas) => {
+        const safe = (state.name || "student").replace(/[^a-z0-9]+/gi, "_");
+        const link = document.createElement("a");
+        link.download = "VicThree_" + (state.testId || "test") + "_" + safe + ".png";
+        link.href = canvas.toDataURL("image/png");
+        link.click();
+      })
+      .catch((err) => { console.error(err); alert("Sorry, couldn't generate the image."); });
+  });
   $("submitBtn").addEventListener("click", () => submitTest(false));
   $("restartBtn").addEventListener("click", () => location.reload());
 

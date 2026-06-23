@@ -219,6 +219,36 @@ html, body {
 .accuracy-line { margin-top: 14px; font-size: 15px; color: var(--navy); }
 .accuracy-line strong { font-size: 22px; color: var(--gold); margin: 0 4px; }
 
+/* ---- Detailed performance report (toggle) ---- */
+.report-toggle { margin-bottom: 18px; }
+.report-panel { margin-bottom: 18px; }
+.report-capture { background: var(--white); padding: 4px 2px 8px; }
+.report-head { text-align: center; border-bottom: 2px solid var(--gold); padding-bottom: 12px; margin-bottom: 16px; }
+.report-brand { color: var(--gold); font-weight: 800; letter-spacing: 2px; text-transform: uppercase; font-size: 12px; }
+.report-title { margin: 4px 0 4px; color: var(--navy); font-size: 19px; }
+.report-meta { margin: 0; color: var(--muted); font-size: 13px; }
+.report-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 16px; }
+.rstat { background: var(--paper); border-radius: 10px; padding: 10px 6px; text-align: center; }
+.rstat-num { display: block; font-size: 19px; font-weight: 800; color: var(--navy); }
+.rstat-lbl { display: block; font-size: 11px; color: var(--muted); margin-top: 2px; }
+.report-highlights { display: flex; flex-direction: column; gap: 6px; margin-bottom: 16px; }
+.report-hl { font-size: 13.5px; padding: 8px 12px; border-radius: 8px; }
+.report-hl.strong { background: var(--green-bg); color: var(--green); }
+.report-hl.weak { background: var(--red-bg); color: var(--red); }
+.report-subhead { margin: 0 0 14px; color: var(--navy); font-size: 15px; }
+
+.topic-row { margin-bottom: 13px; }
+.topic-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; font-size: 13.5px; margin-bottom: 5px; }
+.topic-name { color: var(--navy); font-weight: 600; }
+.topic-score { color: var(--muted); white-space: nowrap; }
+.topic-track { height: 10px; background: #eef1f6; border-radius: 999px; overflow: hidden; }
+.topic-fill { height: 100%; border-radius: 999px; min-width: 2px; transition: width .5s ease; }
+.topic-fill.good { background: var(--green); }
+.topic-fill.mid { background: var(--gold); }
+.topic-fill.low { background: var(--red); }
+
+@media (max-width: 520px) { .report-stats { grid-template-columns: repeat(2, 1fr); } }
+
 .review { display: flex; flex-direction: column; gap: 12px; margin-bottom: 18px; }
 .rev-card { border-left: 5px solid var(--line); }
 .rev-card.correct { border-left-color: var(--green); }
