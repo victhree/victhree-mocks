@@ -14,6 +14,8 @@
   --green-bg: #e6f4ec;
   --red: #c0392b;
   --red-bg: #fbeae8;
+  --review: #7a4fb0;
+  --review-bg: #efe7fb;
   --radius: 14px;
   --shadow: 0 6px 24px rgba(11, 31, 58, 0.10);
 }
@@ -38,6 +40,10 @@ html, body {
 }
 .banner-wrap { max-width: 980px; margin: 0 auto; }
 .banner-wrap img { display: block; width: 100%; height: auto; }
+.banner-link { display: block; cursor: pointer; }
+.header-nav { max-width: 980px; margin: 0 auto; display: flex; justify-content: flex-end; padding: 8px 14px; }
+.home-btn { background: var(--gold); color: var(--navy); text-decoration: none; font-weight: 700; font-size: 13px; padding: 7px 18px; border-radius: 8px; }
+.home-btn:hover { filter: brightness(1.05); }
 .brand-text {
   display: flex; align-items: center; gap: 14px;
   padding: 16px 18px;
@@ -153,7 +159,11 @@ html, body {
 /* ====== Quiz grid ====== */
 .quiz-grid { display: grid; grid-template-columns: 1fr 280px; gap: 16px; align-items: start; }
 .question-card { min-height: 220px; }
+.q-topline { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-bottom: 2px; }
 .q-number { color: var(--gold); font-weight: 800; font-size: 18px; }
+.mark-btn { font: inherit; font-size: 13px; font-weight: 600; cursor: pointer; background: #fff; color: var(--navy); border: 1.5px solid var(--line); border-radius: 8px; padding: 6px 12px; white-space: nowrap; }
+.mark-btn:hover { border-color: var(--review); }
+.mark-btn.active { background: var(--review-bg); border-color: var(--review); color: #5a3a8a; }
 .q-stem { font-size: 18px; font-weight: 600; margin: 6px 0 10px; }
 .q-subs { margin: 0 0 14px; padding-left: 18px; color: #243b5e; }
 .q-subs li { margin: 3px 0; list-style: none; }
@@ -190,17 +200,21 @@ html, body {
 .palette-title { margin: 0 0 12px; font-size: 15px; color: var(--navy); }
 .palette { display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px; }
 .pal-btn {
+  position: relative;
   aspect-ratio: 1; border-radius: 8px; border: 1.5px solid var(--line);
   background: #fff; color: var(--navy); font-weight: 700; cursor: pointer;
   font-size: 13px;
 }
 .pal-btn.answered { background: var(--green-bg); border-color: var(--green); color: var(--green); }
+.pal-btn.marked { background: var(--review-bg); border-color: var(--review); color: #5a3a8a; }
+.pal-btn.answered.marked::after { content: ""; position: absolute; top: 3px; right: 3px; width: 7px; height: 7px; border-radius: 50%; background: var(--green); }
 .pal-btn.current { outline: 3px solid var(--gold); border-color: var(--gold); }
 .legend { display: flex; flex-wrap: wrap; gap: 10px; font-size: 12px; color: var(--muted); margin: 14px 0 10px; }
 .dot { display: inline-block; width: 11px; height: 11px; border-radius: 3px; vertical-align: middle; margin-right: 3px; }
 .dot-answered { background: var(--green-bg); border: 1.5px solid var(--green); }
 .dot-unanswered { background: #fff; border: 1.5px solid var(--line); }
 .dot-current { background: var(--gold); }
+.dot-marked { background: var(--review-bg); border: 1.5px solid var(--review); }
 .palette-stats { display: flex; justify-content: space-between; font-size: 13px; color: var(--muted); margin-bottom: 14px; }
 .palette-stats strong { color: var(--navy); }
 

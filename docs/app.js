@@ -21,6 +21,7 @@ const state = {
   questions: [],
   current: 0,        // index into questions[]
   answers: {},       // { questionNumber: "a"|"b"|"c"|"d" }
+  marked: {},        // { questionNumber: true }  (flagged for review)
   name: "",
   durationSec: 60 * 60,
   remaining: 60 * 60,
@@ -41,6 +42,7 @@ function saveState() {
     localStorage.setItem(stateKey(), JSON.stringify({
       name: state.name,
       answers: state.answers,
+      marked: state.marked,
       current: state.current,
       remaining: state.remaining,
       warned: state.warned,
@@ -143,6 +145,7 @@ function resumeTest() {
   if (!saved) { startFresh(); return; }
   state.name = saved.name || "Student";
   state.answers = saved.answers || {};
+  state.marked = saved.marked || {};
   state.current = saved.current || 0;
   state.remaining = (typeof saved.remaining === "number") ? saved.remaining : state.durationSec;
   state.warned = !!saved.warned;
@@ -234,11 +237,29 @@ function renderQuestion() {
     wrap.appendChild(div);
   });
 
+  // Mark-for-review button state
+  const isMarked = state.marked[q.n] != null;
+  const mb = $("markBtn");
+  if (mb) {
+    mb.classList.toggle("active", isMarked);
+    mb.textContent = isMarked ? "★ Marked for review" : "☆ Mark for review";
+  }
+
   // Nav button states
   $("prevBtn").disabled = state.current === 0;
   $("nextBtn").disabled = state.current === state.questions.length - 1;
 
   updatePaletteHighlight();
+}
+
+function toggleMark() {
+  const q = state.questions[state.current];
+  if (!q) return;
+  if (state.marked[q.n]) delete state.marked[q.n];
+  else state.marked[q.n] = true;
+  renderQuestion();
+  refreshCounts();
+  saveState();
 }
 
 function selectOption(qNum, letter) {
@@ -283,6 +304,7 @@ function updatePaletteHighlight() {
     const idx = Number(b.dataset.idx);
     const q = state.questions[idx];
     b.classList.toggle("answered", state.answers[q.n] != null);
+    b.classList.toggle("marked", state.marked[q.n] != null);
     b.classList.toggle("current", idx === state.current);
   });
 }
@@ -292,6 +314,8 @@ function refreshCounts() {
   const total = state.questions.length;
   $("answeredCount").textContent = answered;
   $("remainingCount").textContent = total - answered;
+  const mc = $("markedCount");
+  if (mc) mc.textContent = Object.keys(state.marked).length;
   updatePaletteHighlight();
 }
 
@@ -572,6 +596,7 @@ window.addEventListener("DOMContentLoaded", () => {
     if (state.current < state.questions.length - 1) { state.current++; renderQuestion(); saveState(); }
   });
   $("clearBtn").addEventListener("click", clearChoice);
+  $("markBtn").addEventListener("click", toggleMark);
   $("resumeBtn").addEventListener("click", resumeTest);
   $("freshBtn").addEventListener("click", startFresh);
 
