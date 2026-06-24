@@ -42,8 +42,9 @@ html, body {
 .banner-wrap img { display: block; width: 100%; height: auto; }
 .banner-link { display: block; cursor: pointer; }
 .header-nav { max-width: 980px; margin: 0 auto; display: flex; justify-content: flex-end; padding: 8px 14px; }
-.home-btn { background: var(--gold); color: var(--navy); text-decoration: none; font-weight: 700; font-size: 13px; padding: 7px 18px; border-radius: 8px; }
-.home-btn:hover { filter: brightness(1.05); }
+.home-btn { display: inline-flex; align-items: center; justify-content: center; color: var(--gold); text-decoration: none; padding: 2px; line-height: 0; }
+.home-btn svg { width: 26px; height: 26px; fill: currentColor; display: block; }
+.home-btn:hover { filter: brightness(1.15); }
 .brand-text {
   display: flex; align-items: center; gap: 14px;
   padding: 16px 18px;
