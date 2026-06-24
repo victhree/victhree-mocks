@@ -41,7 +41,7 @@ html, body {
 .banner-wrap { max-width: 980px; margin: 0 auto; position: relative; }
 .banner-wrap img { display: block; width: 100%; height: auto; }
 .banner-link { display: block; cursor: pointer; }
-.home-btn { position: absolute; top: 10px; right: 12px; z-index: 2; display: inline-flex; align-items: center; justify-content: center; color: var(--gold); text-decoration: none; padding: 2px; line-height: 0; }
+.home-btn { position: absolute; bottom: 10px; right: 12px; z-index: 2; display: inline-flex; align-items: center; justify-content: center; color: var(--gold); text-decoration: none; padding: 2px; line-height: 0; }
 .home-btn svg { width: 26px; height: 26px; fill: currentColor; display: block; }
 .home-btn:hover { filter: brightness(1.15); }
 .brand-text {
