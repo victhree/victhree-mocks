@@ -16,14 +16,6 @@
       "durationMin": 60,
       "count": 50,
       "description": "50 MCQs — Stone Age, Indus Valley, Vedic Age, Mahajanapadas, Mauryas, Guptas & more; 10 tagged CDS PYQs."
-    },
-    {
-      "id": "ancient-medieval-01",
-      "title": "Ancient & Medieval History-Test 1",
-      "subject": "History",
-      "durationMin": 60,
-      "count": 60,
-      "description": "60 MCQs — Ancient (Stone Age → Guptas, South India) + Medieval (Delhi Sultanate, Vijayanagara, Mughals); 25 tagged CDS PYQs."
     }
   ]
 }
