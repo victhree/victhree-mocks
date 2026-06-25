@@ -206,14 +206,8 @@ function renderQuestion() {
   $("qNum").textContent = q.n;
   $("qStem").textContent = q.stem;
 
-  // PYQ tag
-  const tag = $("pyqTag");
-  if (q.pyq) {
-    tag.textContent = "Previous Year — " + q.pyq;
-    show(tag);
-  } else {
-    hide(tag);
-  }
+  // (PYQ tag intentionally NOT shown during the quiz — it appears only in
+  //  the answer/explanation review on the results page.)
 
   // Sub-statements
   const subs = $("qSubs");
