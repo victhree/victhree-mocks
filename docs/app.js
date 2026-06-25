@@ -198,24 +198,47 @@ function updateTimerDisplay() {
 /* ============================================================
    QUESTION RENDERING
    ============================================================ */
+// Split a single line like "1. A  2. B  3. C" into ["1. A","2. B","3. C"].
+// Only triggers when the line starts with a single-digit item and contains
+// another single-digit item marker (so years/decimals and match-rows are safe).
+function splitNumberedRun(line) {
+  const t = (line || "").trim();
+  if (/^[1-9]\.\s/.test(t) && /\s[1-9]\.\s/.test(t)) {
+    return t.split(/\s+(?=[1-9]\.\s)/).map((s) => s.trim()).filter(Boolean);
+  }
+  return [t];
+}
+
 function renderQuestion() {
   const q = state.questions[state.current];
   if (!q) return;
 
   $("progressLabel").textContent = `${state.current + 1} / ${state.questions.length}`;
   $("qNum").textContent = q.n;
-  $("qStem").textContent = q.stem;
+  // Stem + sub-statements.
+  // For "Statement I / Statement II" questions, show BOTH statements as
+  // normal-weight lines (don't bold Statement I as the stem).
+  let stemText = q.stem || "";
+  let subLines = (q.subs || []).slice();
+  if (/^\s*statement\s+i\b/i.test(stemText)) {
+    subLines = [stemText].concat(subLines);
+    stemText = "";
+  }
+  $("qStem").textContent = stemText;
+  $("qStem").style.display = stemText ? "" : "none";
 
   // (PYQ tag intentionally NOT shown during the quiz — it appears only in
   //  the answer/explanation review on the results page.)
 
-  // Sub-statements
+  // Sub-statements (split any "1. .. 2. .. 3. .." run onto separate lines)
   const subs = $("qSubs");
   subs.innerHTML = "";
-  (q.subs || []).forEach((line) => {
-    const li = document.createElement("li");
-    li.textContent = line;
-    subs.appendChild(li);
+  subLines.forEach((line) => {
+    splitNumberedRun(line).forEach((piece) => {
+      const li = document.createElement("li");
+      li.textContent = piece;
+      subs.appendChild(li);
+    });
   });
 
   // Options
