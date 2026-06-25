@@ -1,0 +1,961 @@
+{
+    "title":  "Ancient \u0026 Medieval History-Test 1",
+    "durationMin":  60,
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Consider the following statements about Alauddin Khalji\u0027s reforms:",
+                          "subs":  [
+                                       "1. Each market in Delhi was supervised by an officer called the Shahna-i-Mandi.",
+                                       "2. He received daily market reports from independent sources such as the Munhiyans and the Barid.",
+                                       "3. He fixed the land revenue at one-half of the produce and realised it largely in cash.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Consider the following statements about Iltutmish:",
+                          "subs":  [
+                                       "1. He received the title of \"Sultan\" from the Caliph of Baghdad.",
+                                       "2. He made Delhi the capital of the Sultanate, replacing Lahore.",
+                                       "3. He introduced the Silver Tanka and the Copper Jital as regular coinage.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Ibn Batuta was sent as an envoy to China by which one of the following Delhi Sultans?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Alauddin Khalji",
+                                          "Iltutmish",
+                                          "Firoz Shah Tughlaq",
+                                          "Muhammad bin Tughlaq"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Who, the real founder of the Delhi Sultanate, was known as \"Lakh Baksh\" (giver of lakhs) and built the Quwwat-ul-Islam mosque, the first mosque constructed in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Iltutmish",
+                                          "Balban",
+                                          "Qutb-ud-din Aibak",
+                                          "Aram Shah"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Statement I: The Pahi-kashta peasants were non-resident cultivators who tilled land on a contractual basis.",
+                          "subs":  [
+                                       "Statement II: The Pahi-kashta peasants worked either under the temptation of favourable revenue terms or under the compulsion of economic distress."
+                                   ],
+                          "options":  [
+                                          "Both statements are true, and II is the correct explanation of I",
+                                          "Both statements are true, but II is not the correct explanation of I",
+                                          "Statement I is true but Statement II is false",
+                                          "Statement I is false but Statement II is true"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "Mughal Empire"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Match List-I (Vedanga) with List-II (Subject) and select the correct answer using the code given below:",
+                          "subs":  [
+                                       "List-I (Vedanga) — List-II (Subject)",
+                                       "A. Shiksha — 1. Correct pronunciation",
+                                       "B. Nirukta — 2. Etymology of words",
+                                       "C. Kalpa — 3. Rules for rituals",
+                                       "D. Jyotisha — 4. Astronomy"
+                                   ],
+                          "options":  [
+                                          "A-2, B-1, C-3, D-4",
+                                          "A-1, B-2, C-4, D-3",
+                                          "A-1, B-2, C-3, D-4",
+                                          "A-3, B-2, C-1, D-4"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Vedic Age"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The Chalcolithic Ahar-Banas culture, known from sites such as Ahar, Balathal and Gilund, was located mainly in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Malwa plateau",
+                                          "South-eastern Rajasthan",
+                                          "The Tapi valley",
+                                          "The Indo-Gangetic plain"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Indus Valley \u0026 Chalcolithic"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Which Sultan of Delhi propounded the theory of kingship as the \"Zill-i-Ilahi\" (Shadow of God) and introduced the practices of Sijdah and Paibos at his court?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Iltutmish",
+                                          "Alauddin Khalji",
+                                          "Firoz Shah Tughlaq",
+                                          "Balban"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Who among the following Sultans finally broke and destroyed the power of the Turkan-i-Chihalgani (the corps of Forty Nobles)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Iltutmish",
+                                          "Balban",
+                                          "Alauddin Khalji",
+                                          "Muhammad bin Tughlaq"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following statements about the Harappan site of Banawali:",
+                          "subs":  [
+                                       "1. A clay model of a plough was found there.",
+                                       "2. Fire altars were present at the site.",
+                                       "3. Seals were found only in the lower town and not in the citadel.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Indus Valley \u0026 Chalcolithic"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Bone implements of the Upper Palaeolithic age in India have been notably recovered from the caves of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kurnool",
+                                          "Burzahom",
+                                          "Bagor",
+                                          "Chirand"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Prehistory \u0026 Stone Age"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Which one of the following was NOT among the measures or experiments of Muhammad bin Tughlaq?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Transfer of the capital to Daulatabad",
+                                          "Introduction of token currency",
+                                          "Construction of the Grand Trunk Road (Sadak-e-Azam)",
+                                          "Establishment of the Diwan-i-Kohi"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Statement I: The early Aryans, who were essentially pastoral, did not develop any political structure measuring up to a State in the ancient or modern sense.",
+                          "subs":  [
+                                       "Statement II: Tribal kingship was the same as chiefship, the term Rajan being used for a tribal chief who was primarily a military leader and who ruled over his people rather than over any specified territory."
+                                   ],
+                          "options":  [
+                                          "Both statements are true, and II is the correct explanation of I",
+                                          "Both statements are true, but II is not the correct explanation of I",
+                                          "Statement I is true but Statement II is false",
+                                          "Statement I is false but Statement II is true"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "topic":  "Vedic Age"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Who among the following Indian thinkers first spoke of food-for-work programmes to counteract the effects of famines?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Aryabhata",
+                                          "Chandragomin",
+                                          "Kautilya",
+                                          "Prabhakara"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "topic":  "Mauryan Empire"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Consider the following statements about the Kakatiya dynasty:",
+                          "subs":  [
+                                       "1. Rudrama Devi was one of the few ruling queens of medieval India, who took male royal titles and personally led battles.",
+                                       "2. The traveller Marco Polo visited the Kakatiya kingdom and noted its prosperity.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2",
+                                          "Both 1 and 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Deccan \u0026 Vijayanagara Kingdoms"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Match List-I (Department of the Delhi Sultanate) with List-II (Function) and select the correct answer using the code given below:",
+                          "subs":  [
+                                       "List-I (Department) — List-II (Function)",
+                                       "A. Diwan-i-Wizarat — 1. Military affairs",
+                                       "B. Diwan-i-Arz — 2. Finance and revenue",
+                                       "C. Diwan-i-Insha — 3. Royal correspondence",
+                                       "D. Diwan-i-Risalat — 4. Religious matters"
+                                   ],
+                          "options":  [
+                                          "A-1, B-2, C-3, D-4",
+                                          "A-2, B-1, C-3, D-4",
+                                          "A-2, B-1, C-4, D-3",
+                                          "A-1, B-2, C-4, D-3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The notion of kingship projected by the Kushana rulers is best evidenced through which of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Grants to religious institutions",
+                                          "Inscriptional panegyrics",
+                                          "Their identification with a single deity",
+                                          "Their coins and sculpture"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "topic":  "Post-Mauryan (Kushanas \u0026 Satavahanas)"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Consider the following statements about the Stone Age in India:",
+                          "subs":  [
+                                       "1. The different periods are identified on the basis of the type and technology of stone tools.",
+                                       "2. There are no regional variations in the type and technology of tools across the different periods.",
+                                       "3. Stone Age cultures evolved uniformly in a neat unilinear fashion all over the subcontinent.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1 only",
+                                          "3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "topic":  "Prehistory \u0026 Stone Age"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Which Mahajanapada had its capital at Taxila and was an important centre of international commercial activity?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kamboja",
+                                          "Kuru",
+                                          "Gandhara",
+                                          "Avanti"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Mahajanapadas"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The \"Diwan-i-Bandagan,\" a new department established by Firoz Shah Tughlaq, dealt with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Slaves",
+                                          "Charity",
+                                          "Agriculture",
+                                          "Arrears of revenue"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "In the Mauryan administration described in the Arthashastra, the \"Gudhapurushas\" were:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Provincial governors",
+                                          "Secret agents (spies)",
+                                          "Commanders of the cavalry",
+                                          "Collectors of land revenue"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Mauryan Empire"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Consider the following statements about the heterodox sects of the sixth–fourth centuries BCE:",
+                          "subs":  [
+                                       "1. Jaina ideas were already being circulated in the seventh century BCE by Parshva.",
+                                       "2. Although they reacted against orthodoxy, neither Buddhism nor Jainism sought to abolish the caste system.",
+                                       "3. The first female disciple of Mahavira is said to have been a captured slave woman.",
+                                       "4. The Buddha held that nuns could attain spiritual liberation just like monks.",
+                                       "Which of the statements are correct?"
+                                   ],
+                          "options":  [
+                                          "1, 2, 3 and 4",
+                                          "1, 2 and 3 only",
+                                          "1, 2 and 4 only",
+                                          "3 and 4 only"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "topic":  "Religion, Society \u0026 Culture"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "In economic history, the Satavahanas are particularly noted for issuing coins predominantly made of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gold",
+                                          "Silver",
+                                          "Nickel",
+                                          "Lead"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Post-Mauryan (Kushanas \u0026 Satavahanas)"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The Chola practice of electing members of the village assemblies (sabhas) by drawing lots, as described in the Uttaramerur inscription, was known as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vativaykkal system",
+                                          "Nadu system",
+                                          "Kudavolai system",
+                                          "Kudi Neekki system"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient South India (Sangam, Cholas, Pallavas)"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "In the Vijayanagara Empire, the class of \"Amara-Nayakas\" referred to which of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Village chieftains",
+                                          "Senior civil servants",
+                                          "Tributary temple priests",
+                                          "Military commanders"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "topic":  "Deccan \u0026 Vijayanagara Kingdoms"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Mandala IX of the Rigveda is dedicated almost entirely to which deity?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Agni",
+                                          "Indra",
+                                          "Soma",
+                                          "Varuna"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Vedic Age"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "In the Later Vedic period, the high royal officials who were collectively called \"Ratnins\" (jewels) were:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The key functionaries who formed the king\u0027s council",
+                                          "Members of the popular tribal assembly",
+                                          "Priests attached to village temples",
+                                          "Hereditary village accountants"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Vedic Age"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The Vijayanagara Empire was founded in 1336 AD on the banks of the Tungabhadra (at modern Hampi) by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Krishnadevaraya",
+                                          "Harihara I and Bukka Raya I",
+                                          "Alauddin Hasan Bahman Shah",
+                                          "Dantidurga"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Deccan \u0026 Vijayanagara Kingdoms"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Arrange the following battles fought by Babur in correct chronological order:",
+                          "subs":  [
+                                       "1. Battle of Khanwa 2. First Battle of Panipat 3. Battle of Ghaghara 4. Battle of Chanderi"
+                                   ],
+                          "options":  [
+                                          "1, 2, 4, 3",
+                                          "2, 1, 3, 4",
+                                          "1, 2, 3, 4",
+                                          "2, 1, 4, 3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Mughal Empire"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Match List-I (Sangam Tinai) with List-II (Region) and select the correct answer using the code given below:",
+                          "subs":  [
+                                       "List-I (Sangam Tinai) — List-II (Region)",
+                                       "A. Kurinchi — 1. Pastoral region",
+                                       "B. Palai — 2. Seashore",
+                                       "C. Neytal — 3. Arid region",
+                                       "D. Mullai — 4. Mountainous region"
+                                   ],
+                          "options":  [
+                                          "A-4, B-3, C-2, D-1",
+                                          "A-1, B-2, C-3, D-4",
+                                          "A-1, B-3, C-2, D-4",
+                                          "A-4, B-2, C-3, D-1"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "Ancient South India (Sangam, Cholas, Pallavas)"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "Consider the following statements about Krishnadevaraya:",
+                          "subs":  [
+                                       "1. He belonged to the Tuluva dynasty of Vijayanagara.",
+                                       "2. He authored the Telugu work Amuktamalyada.",
+                                       "3. His assembly of eminent court poets was known as the Ashtadiggajas.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3",
+                                          "1 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Deccan \u0026 Vijayanagara Kingdoms"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "Who among the following Mongol leaders/commanders did NOT cross the Indus to attack India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tair Bahadur",
+                                          "Chinghiz Khan (Genghis Khan)",
+                                          "Abdullah",
+                                          "Qutlugh Khwaja"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "Which of the following rulers were identified through matronymics — names derived from that of the mother?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mallas of Pava",
+                                          "Videhas of Mithila",
+                                          "Satavahanas",
+                                          "Yaudheyas"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "topic":  "Post-Mauryan (Kushanas \u0026 Satavahanas)"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "Statement I: The Zamindars were an exploitative class in Mughal India.",
+                          "subs":  [
+                                       "Statement II: The Zamindars often received the support of the peasantry in a large number of agrarian uprisings in north India in the seventeenth century."
+                                   ],
+                          "options":  [
+                                          "Both statements are true, and II is the correct explanation of I",
+                                          "Both statements are true, but II is not the correct explanation of I",
+                                          "Statement I is true but Statement II is false",
+                                          "Statement I is false but Statement II is true"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "Mughal Empire"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "Which Chola ruler founded the city of Gangaikondacholapuram to commemorate his successful campaign up to the river Ganga, and assumed the title \"Kadaramkondan\" after his overseas expedition to Srivijaya?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rajendra Chola I",
+                                          "Rajaraja I",
+                                          "Vijayalaya Chola",
+                                          "Parantaka I"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient South India (Sangam, Cholas, Pallavas)"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "The characteristic pottery associated with the Later Vedic period is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ochre Coloured Pottery",
+                                          "Northern Black Polished Ware",
+                                          "Black-and-Red Ware",
+                                          "Painted Grey Ware"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Vedic Age"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "In the Mauryan administration, the head of the city (e.g. Pataliputra) administration was designated as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pradeshika",
+                                          "Rajuka",
+                                          "Nagarika",
+                                          "Gopa"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Mauryan Empire"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "Statement I: King Ashoka abolished capital punishment and disbanded his army.",
+                          "subs":  [
+                                       "Statement II: After the Kalinga War, Ashoka was remorseful and became a Buddhist."
+                                   ],
+                          "options":  [
+                                          "Both statements are true, and II is the correct explanation of I",
+                                          "Both statements are true, but II is not the correct explanation of I",
+                                          "Statement I is true but Statement II is false",
+                                          "Statement I is false but Statement II is true"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "Mauryan Empire"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "Consider the following statements about the Mughal Mansabdari system:",
+                          "subs":  [
+                                       "1. The Zat rank indicated a noble\u0027s personal status and salary in the imperial hierarchy.",
+                                       "2. The Sawar rank indicated the number of cavalrymen the noble was required to maintain.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "Both 1 and 2",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Mughal Empire"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "The Rabatak inscription is an important source of information about which ruler?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kanishka",
+                                          "Rudradaman I",
+                                          "Ashoka",
+                                          "Samudragupta"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Post-Mauryan (Kushanas \u0026 Satavahanas)"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "Consider the following pairs of Mahajanapadas and their capitals:",
+                          "subs":  [
+                                       "1. Anga — Champa 2. Vatsa — Kausambi 3. Kosala — Shravasti",
+                                       "How many of the pairs are correctly matched?"
+                                   ],
+                          "options":  [
+                                          "Only one",
+                                          "All three",
+                                          "Only two",
+                                          "None"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Mahajanapadas"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "Consider the following statements about Harappan cities:",
+                          "subs":  [
+                                       "1. The roads were not always absolutely straight and did not always cross one another at right angles.",
+                                       "2. A striking feature is the uniformity in the average size of the bricks used for houses and for city walls.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "Indus Valley \u0026 Chalcolithic"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "Consider the following statements about Sher Shah Suri\u0027s reforms:",
+                          "subs":  [
+                                       "1. He built the Grand Trunk Road (Sadak-e-Azam) with rest-houses (sarais).",
+                                       "2. He introduced the silver Rupiya as a standard currency.",
+                                       "3. He introduced the Patta and Kabuliyat in revenue administration.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3",
+                                          "1 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Mughal Empire"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "Consider the following statements about the Mughal Mansab system:",
+                          "subs":  [
+                                       "1. The Zat rank indicated a Mansabdar\u0027s position in the imperial hierarchy and his salary.",
+                                       "2. The Sawar rank indicated the number of horsemen a Mansabdar was required to maintain.",
+                                       "3. In the seventeenth century, Mansabdars holding a Zat rank of 1000 or above were designated as nobles.",
+                                       "Which of the statements are correct?"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1 and 3 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "topic":  "Mughal Empire"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "According to the Manusmriti, women could acquire wealth (stridhana) through which of the following means?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Purchase",
+                                          "Investment",
+                                          "Token of affection",
+                                          "Conquest"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "topic":  "Religion, Society \u0026 Culture"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "Consider the following statements about Akbar\u0027s religious policy:",
+                          "subs":  [
+                                       "1. The Din-i-Ilahi, introduced in 1582, was a syncretic spiritual order rather than a mass religion.",
+                                       "2. Sulh-i-Kul was his policy of universal tolerance and equal respect for all faiths.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2",
+                                          "Both 1 and 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Mughal Empire"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "Which one of the following statements about the Gupta period is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sanskrit language and literature reached a level of classical excellence through royal patronage",
+                                          "The status of women improved, with formal education, the legal prohibition of early marriage and full property rights",
+                                          "Increased grants of land and villages with fiscal immunities decentralised administrative authority",
+                                          "Land grants paved the way for feudal developments in India"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "topic":  "Gupta Empire"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "The Bahmani Kingdom was founded in 1347 AD, with its capital at Gulbarga, by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Alauddin Hasan Bahman Shah (Hasan Gangu)",
+                                          "Mahmud Gawan",
+                                          "Yusuf Adil Shah",
+                                          "Firoz Shah Bahmani"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Deccan \u0026 Vijayanagara Kingdoms"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "Samudragupta has been described as the \"Napoleon of India\" by which historian?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "R. C. Majumdar",
+                                          "V. A. Smith",
+                                          "R. S. Sharma",
+                                          "D. D. Kosambi"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Gupta Empire"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "Akbar\u0027s land-revenue system, based on the average produce and average prices of the previous ten years and closely associated with Raja Todar Mal, was the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dahsala (Zabti) system",
+                                          "Batai system",
+                                          "Nasaq system",
+                                          "Kankut system"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Mughal Empire"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "At which of the following places was diamond mining carried out during the Delhi Sultanate period?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Awadh",
+                                          "Khambhat",
+                                          "Panna",
+                                          "Lakhnauti"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "Consider the following pairs of high offices and their departments in the Mauryan administration:",
+                          "subs":  [
+                                       "1. Samahartri — Chief Collector of Revenue",
+                                       "2. Dauvarika — Chief of the Army",
+                                       "3. Akshapatala — Records-cum-Audit Officer",
+                                       "4. Samnidhatri — Treasurer",
+                                       "Which of the pairs are correctly matched?"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 4 only",
+                                          "2, 3 and 4 only",
+                                          "1, 3 and 4 only"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "topic":  "Mauryan Empire"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "Verses ascribed to the poet-saint Kabir have been compiled in which of the following traditions?",
+                          "subs":  [
+                                       "1. The Bijak (in Varanasi) 2. The Kabir Granthavali (in Rajasthan) 3. The Adi Granth Sahib",
+                                       "Select the correct answer using the code:"
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "3 only"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "topic":  "Religion, Society \u0026 Culture"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "Which one of the following statements about Ashoka\u0027s inscriptions is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Major Rock Edict found in Kerala is in Sanskrit",
+                                          "The Minor Rock Edicts in Bihar are found only at Pataliputra",
+                                          "The Dhauli Major Rock Edict makes a mention of the Kalinga War",
+                                          "Kalsi in Uttarakhand is a site of a Major Rock Edict"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "topic":  "Mauryan Empire"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "Which Pallava ruler, who defeated and killed the Chalukya king Pulakeshin II, founded the port city of Mamallapuram (Mahabalipuram)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mahendravarman I",
+                                          "Narasimhavarman I (Mamalla)",
+                                          "Simhavishnu",
+                                          "Nandivarman II"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient South India (Sangam, Cholas, Pallavas)"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "Which of the following rebellions took place during the reign of Aurangzeb?",
+                          "subs":  [
+                                       "1. Jat rebellion 2. Satnami rebellion 3. Sikh rebellion"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3",
+                                          "1 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Mughal Empire"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "Which one of the following statements about the Saiyid Brothers during the Later Mughal period is NOT true?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "They wielded real administrative power as \"kingmakers\"",
+                                          "They brought Jahandar Shah to power",
+                                          "They followed a tolerant religious policy",
+                                          "They reached an agreement with the Maratha king Shahu"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "topic":  "Later Mughals \u0026 Decline"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "Which of the following terms were used in the Indo-Persian sources of the Mughal period to denote a peasant?",
+                          "subs":  [
+                                       "1. Raiyat 2. Asami 3. Muzarian 4. Majur",
+                                       "Select the correct answer using the code:"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3 only",
+                                          "1, 3 and 4 only"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "topic":  "Mughal Empire"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "Consider the following pairs:",
+                          "subs":  [
+                                       "1. Gajapati — a powerful dynasty of Orissa",
+                                       "2. Ashvapati — the Deccan Sultans",
+                                       "3. Narapati — the Rayas of Vijayanagara",
+                                       "How many of the pairs are correctly matched?"
+                                   ],
+                          "options":  [
+                                          "Only one",
+                                          "Only two",
+                                          "1 and 2 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "topic":  "Deccan \u0026 Vijayanagara Kingdoms"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "During the reign of which Later Mughal emperor did Nadir Shah invade India, win the Battle of Karnal (1739), sack Delhi and carry away the Peacock Throne and the Kohinoor diamond?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Muhammad Shah",
+                                          "Bahadur Shah I",
+                                          "Farrukh Siyar",
+                                          "Shah Alam II"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Later Mughals \u0026 Decline"
+                      }
+                  ]
+}
