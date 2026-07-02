@@ -288,6 +288,8 @@ html, body {
 @keyframes spin { to { transform: rotate(360deg); } }
 
 /* ====== Social / mentorship CTA ====== */
+.m-br{display:none}
+@media(max-width:600px){.m-br{display:inline}}
 .cta{display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;text-align:center;
   background:linear-gradient(135deg,#0B1F3A,#12294b);color:#fff;border-radius:14px;padding:14px 18px;margin:16px 0}
 .cta-text{font-size:15px;font-weight:600;color:#fff;line-height:1.4}
