@@ -32,6 +32,14 @@
       "durationMin": 60,
       "count": 60,
       "description": "60 MCQs — British conquest, 1857, socio-religious reform, national movement & Gandhian era; 19 tagged CDS PYQs."
+    },
+    {
+      "id": "full-history-01",
+      "title": "Full History-Test 1",
+      "subject": "History",
+      "durationMin": 60,
+      "count": 60,
+      "description": "60 MCQs across the full History syllabus — Ancient, Medieval & Modern India; 20 tagged CDS PYQs."
     }
   ]
 }

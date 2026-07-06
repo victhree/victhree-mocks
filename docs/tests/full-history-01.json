@@ -1,0 +1,937 @@
+{
+    "title":  "Full History-Test 1",
+    "durationMin":  60,
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Consider the following statements about the All-India Muslim League:",
+                          "subs":  [
+                                       "1. It was founded in 1906.",
+                                       "2. It was founded at Dhaka.",
+                                       "3. It opposed the partition of Bengal.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 and 3 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "National Movement \u0026 Freedom Struggle"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Who founded the Marathi newspaper Kesari?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bal Gangadhar Tilak",
+                                          "Vallabhbhai Patel",
+                                          "Lala Lajpat Rai",
+                                          "Mahatma Gandhi"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "topic":  "National Movement \u0026 Freedom Struggle"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Who discovered the first Palaeolithic tool in India, at Pallavaram near Madras, in 1863?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "John Marshall",
+                                          "Alexander Cunningham",
+                                          "V. S. Wakankar",
+                                          "Robert Bruce Foote"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient India: Prehistory, IVC \u0026 Vedic"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following statements about Razia Sultan:",
+                          "subs":  [
+                                       "1. She was the only woman to rule from the throne of the Delhi Sultanate.",
+                                       "2. She was a daughter of Balban.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "2 only",
+                                          "1 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which one of the following statements about Rig Vedic goddesses is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sinivali bestows children",
+                                          "Aditi is the goddess of dawn",
+                                          "Ushas represents freedom from sickness",
+                                          "Raka is the goddess of speech"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "topic":  "Ancient India: Prehistory, IVC \u0026 Vedic"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Consider the following statements about Alfonso de Albuquerque:",
+                          "subs":  [
+                                       "1. He captured Goa in 1510.",
+                                       "2. He introduced the \"Blue Water Policy.\"",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "2 only",
+                                          "1 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Vijayanagara, Bahmani \u0026 Europeans"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The baked bricks used by the Harappans were remarkably standardised, generally in the ratio (length : breadth : thickness) of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 : 2 : 3",
+                                          "4 : 2 : 1",
+                                          "3 : 2 : 1",
+                                          "2 : 2 : 1"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient India: Prehistory, IVC \u0026 Vedic"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Arrange the following events associated with Shivaji in chronological order:",
+                          "subs":  [
+                                       "1. Attack on Afzal Khan 2. Capture of Torna 3. Attack on Shaista Khan 4. Annexation of Javli"
+                                   ],
+                          "options":  [
+                                          "1, 2, 3, 4",
+                                          "4, 2, 3, 1",
+                                          "2, 1, 4, 3",
+                                          "2, 4, 1, 3"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "topic":  "Mughals \u0026 Marathas"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Iqta system, introduced in the Delhi Sultanate by Iltutmish, was essentially a system of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "direct salaried appointment of village officials",
+                                          "assignment of land revenue to nobles in lieu of salary",
+                                          "hereditary ownership of land by peasants",
+                                          "collective revenue assessment of a whole village"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following statements about the Permanent Settlement of 1793:",
+                          "subs":  [
+                                       "1. It was introduced by Lord Cornwallis.",
+                                       "2. Under it, the zamindars were recognised as landowners.",
+                                       "3. It was applied in Bengal, Bihar and Orissa.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Company Rule \u0026 Land Revenue"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The call for the renunciation of all voluntary associations with the British Government was given during the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Non-Cooperation Movement",
+                                          "Civil Disobedience Movement",
+                                          "Quit India Movement",
+                                          "Swadeshi Movement"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "topic":  "National Movement \u0026 Freedom Struggle"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The earliest evidence of agriculture and animal domestication in the Indian subcontinent comes from which Neolithic site?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Burzahom",
+                                          "Chirand",
+                                          "Mehrgarh",
+                                          "Koldihwa"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient India: Prehistory, IVC \u0026 Vedic"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Alauddin Khalji\u0027s famous market-control (price-control) reforms were undertaken primarily in order to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "maintain a large standing army at low cost",
+                                          "promote overseas trade",
+                                          "win the support of the Ulema",
+                                          "encourage the growth of guilds"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which site provides valuable information about India\u0027s maritime and trade links on the Coromandel coast, including with the Roman world?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bharukachchha",
+                                          "Karur",
+                                          "Arikamedu",
+                                          "Anuradhapura"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "topic":  "Ancient India: Mauryas to Guptas \u0026 South India"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The Santhal rebellion (Santhal Hul) of 1855–56 against moneylenders and the British was led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Birsa Munda",
+                                          "Tilka Manjhi",
+                                          "Rani Gaidinliu",
+                                          "Sidhu and Kanhu"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Peasant \u0026 Tribal Revolts"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "In the Rigveda, the term \"Nishka\" referred to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a copper coin",
+                                          "a gold ornament used as a unit of value",
+                                          "a measure of land",
+                                          "a tax on cattle"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient India: Prehistory, IVC \u0026 Vedic"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which one of the following statements about the Gandhi-Irwin Pact of 1931 is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Government would not release prisoners who had been non-violent",
+                                          "The Government would not release those who had done peaceful picketing",
+                                          "The Congress refused to suspend the Civil Disobedience Movement",
+                                          "The Congress agreed to take part in the Second Round Table Conference"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "topic":  "National Movement \u0026 Freedom Struggle"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Which Delhi Sultan wrote his autobiography, the Futuhat-i-Firozshahi?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Alauddin Khalji",
+                                          "Firoz Shah Tughlaq",
+                                          "Balban",
+                                          "Muhammad bin Tughlaq"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Delhi Sultanate"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Consider the following statements about Vasco da Gama:",
+                          "subs":  [
+                                       "1. He was the first European to reach India by the sea route.",
+                                       "2. He landed at Surat in 1498.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "2 only",
+                                          "1 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Vijayanagara, Bahmani \u0026 Europeans"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Who was the first Nawab Wazir of Awadh in the eighteenth century?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nawab Saadat Khan",
+                                          "Nawab Safdarjung",
+                                          "Nawab Shuja-ud-Daula",
+                                          "Nawab Saadat Ali Khan"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "topic":  "Company Rule \u0026 Land Revenue"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "In Vedic literature, the two important tribal assemblies, the Sabha and the Samiti, are described as the two daughters of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Indra",
+                                          "Prajapati",
+                                          "Varuna",
+                                          "Agni"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient India: Prehistory, IVC \u0026 Vedic"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Consider the following statements about the Battle of Talikota (1565):",
+                          "subs":  [
+                                       "1. It was fought between Vijayanagara and a confederacy of the Deccan Sultanates.",
+                                       "2. The Vijayanagara forces were led by Aliya Rama Raya.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Vijayanagara, Bahmani \u0026 Europeans"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which of the following statements is/are correct?",
+                          "subs":  [
+                                       "1. At the Second Round Table Conference (1931), the British Government refused to accept the basic nationalist demand for freedom.",
+                                       "2. India was granted dominion status in 1932.",
+                                       "3. Viceroy Lord Willingdon adopted a policy of reconciliation with the Congress.",
+                                       "4. The Civil Disobedience Movement began with the breaking of the salt laws."
+                                   ],
+                          "options":  [
+                                          "2 and 3 only",
+                                          "4 only",
+                                          "1, 2 and 4 only",
+                                          "1 and 4 only"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "topic":  "National Movement \u0026 Freedom Struggle"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The Ulgulan (\"Great Tumult\") tribal rebellion of 1899–1900 was led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sidhu Murmu",
+                                          "Tilka Manjhi",
+                                          "Birsa Munda",
+                                          "Kanhu Murmu"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Peasant \u0026 Tribal Revolts"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The capital of the Kuru Mahajanapada was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kausambi",
+                                          "Ahichchatra",
+                                          "Mathura",
+                                          "Indraprastha"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient India: Prehistory, IVC \u0026 Vedic"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Consider the following statements about the Jorwe culture of the Deccan:",
+                          "subs":  [
+                                       "1. It covers practically the whole of modern Maharashtra except the coastal Konkan.",
+                                       "2. The Pravara-Godavari valleys seem to have been its nuclear zone.",
+                                       "3. The large sites of this culture yield evidence of shifting (jhum) agriculture.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 and 3 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "topic":  "Ancient India: Prehistory, IVC \u0026 Vedic"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Mahmud Gawan, the celebrated minister of the Bahmani kingdom, held the title:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Malik-ut-Tujjar",
+                                          "Amir-ul-Umara",
+                                          "Wazir-e-Azam",
+                                          "Sadr-us-Sudur"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Vijayanagara, Bahmani \u0026 Europeans"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "During the Revolt of 1857, the rebellion at Lucknow was led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rani Lakshmibai",
+                                          "Begum Hazrat Mahal",
+                                          "Nana Sahib",
+                                          "Kunwar Singh"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Revolt of 1857"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Chronologically arrange the following treaties between the Marathas and the British, starting from the earliest:",
+                          "subs":  [
+                                       "1. Treaty of Salbai 2. Treaty of Purandar 3. Convention of Wadgaon 4. Treaty of Surat"
+                                   ],
+                          "options":  [
+                                          "1, 2, 3, 4",
+                                          "4, 3, 2, 1",
+                                          "1, 3, 2, 4",
+                                          "4, 2, 3, 1"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "topic":  "Mughals \u0026 Marathas"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Megasthenes, in his Indica, described Indian society as being divided into how many classes?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Seven",
+                                          "Four",
+                                          "Five",
+                                          "Three"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient India: Mauryas to Guptas \u0026 South India"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "The Chola navy was especially famous for its overseas expedition against the maritime empire of Srivijaya, located in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "East Africa",
+                                          "Arabia",
+                                          "Southeast Asia",
+                                          "China"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient India: Mauryas to Guptas \u0026 South India"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "Which one of the following peasant struggles was an outcome of British opium policy?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pabna Revolt (1873)",
+                                          "Phulaguri Dhawa (1861)",
+                                          "Birsaite Ulgulan (1899–1900)",
+                                          "Maratha Peasant Uprising (1875)"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "topic":  "Peasant \u0026 Tribal Revolts"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "Ishwar Chandra Vidyasagar is best remembered for his campaign for:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the abolition of sati",
+                                          "temple entry for untouchables",
+                                          "widow remarriage",
+                                          "the abolition of the zamindari system"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Socio-Religious Reform"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "The Naneghat inscription, a key source for early Satavahana history, was issued by the queen:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gautami Balashri",
+                                          "Naganika",
+                                          "Prabhavatigupta",
+                                          "Didda"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient India: Mauryas to Guptas \u0026 South India"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "Which politician in British India opposed \"a Pakistan that would mean Muslim Raj here and Hindu Raj elsewhere\"?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Maulana Abul Kalam Azad",
+                                          "Khan Abdul Ghaffar Khan",
+                                          "Sikandar Hayat Khan",
+                                          "Rafi Ahmed Kidwai"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "topic":  "National Movement \u0026 Freedom Struggle"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "Babur wrote his celebrated memoirs, the Baburnama (Tuzuk-i-Baburi), in which language?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Persian",
+                                          "Arabic",
+                                          "Urdu",
+                                          "Turki (Chagatai Turkish)"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Mughals \u0026 Marathas"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "Consider the following statements about Sir Syed Ahmad Khan:",
+                          "subs":  [
+                                       "1. He founded the Mohammedan Anglo-Oriental College at Aligarh.",
+                                       "2. He led the Aligarh Movement for modern education among Muslims.",
+                                       "3. He founded the Indian National Congress.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 and 3 only",
+                                          "2 and 3 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Socio-Religious Reform"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "In the first century CE, which one of the following was NOT a major item of Indian export to Rome?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pepper",
+                                          "Spikenard",
+                                          "Tortoiseshell",
+                                          "Nutmeg"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "topic":  "Ancient India: Mauryas to Guptas \u0026 South India"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "Consider the following statements about Aryabhata:",
+                          "subs":  [
+                                       "1. He belonged to the Gupta age.",
+                                       "2. He was the author of the Charaka Samhita.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient India: Mauryas to Guptas \u0026 South India"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "The magnificent tomb of Sher Shah Suri, set in the middle of a lake, is located at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sasaram",
+                                          "Sikandra",
+                                          "Delhi",
+                                          "Agra"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Mughals \u0026 Marathas"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "The concept of a \"Four Pillar State,\" free from the district magistracy, was suggested by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lala Lajpat Rai",
+                                          "Ram Manohar Lohia",
+                                          "Raja Ram Mohan Roy",
+                                          "Subhas Chandra Bose"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "topic":  "National Movement \u0026 Freedom Struggle"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "The \"Drain of Wealth\" theory, expounded in the book Poverty and Un-British Rule in India, was propounded by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dadabhai Naoroji",
+                                          "R.C. Dutt",
+                                          "M.G. Ranade",
+                                          "G.K. Gokhale"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "National Movement \u0026 Freedom Struggle"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "The capital of Harshavardhana\u0027s empire was at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Thanesar",
+                                          "Pataliputra",
+                                          "Kanauj",
+                                          "Ujjain"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient India: Mauryas to Guptas \u0026 South India"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "Consider the following statements about the administrative measures of Shivaji:",
+                          "subs":  [
+                                       "1. The scheme of the Ashta Pradhan (eight ministers) was completed and announced at the time of his coronation.",
+                                       "2. He replaced Marathi with Persian as the language of administration.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2",
+                                          "1 only"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "topic":  "Mughals \u0026 Marathas"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "The Akbarnama and the Ain-i-Akbari, the great chronicles of Akbar\u0027s reign, were written by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Abdul Qadir Badauni",
+                                          "Faizi",
+                                          "Abul Fazl",
+                                          "Abdul Hamid Lahori"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Mughals \u0026 Marathas"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "Rani Lakshmibai of Jhansi died fighting the British at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jhansi",
+                                          "Kalpi",
+                                          "Kanpur",
+                                          "Gwalior"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Revolt of 1857"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "The distribution of charkhas (spinning wheels) on a wide scale among the people was decided by the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Congress Working Committee in 1919",
+                                          "All India Congress Committee in 1921",
+                                          "Mahatma Gandhi at the start of the Dandi March",
+                                          "All India Congress Committee in 1947"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "topic":  "National Movement \u0026 Freedom Struggle"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "Mahavira, the 24th Tirthankara of Jainism, is believed to have attained nirvana (death) at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pava (Pavapuri)",
+                                          "Kushinagar",
+                                          "Sarnath",
+                                          "Vaishali"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Ancient India: Mauryas to Guptas \u0026 South India"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. Guru Tegh Bahadur was executed during the reign of Aurangzeb.",
+                                       "2. Guru Arjan was executed during the reign of Akbar.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "2 only",
+                                          "1 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Mughals \u0026 Marathas"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "Who suggested the dissolution of the Indian National Congress as a political organisation and its replacement by a \"Lok Sevak Sangh\"?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "M.K. Gandhi",
+                                          "Vallabhbhai Patel",
+                                          "B.R. Ambedkar",
+                                          "Jawaharlal Nehru"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "topic":  "National Movement \u0026 Freedom Struggle"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "Who declared, \"Swaraj is my birthright and I shall have it\"?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lala Lajpat Rai",
+                                          "Bipin Chandra Pal",
+                                          "Bal Gangadhar Tilak",
+                                          "Aurobindo Ghosh"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "National Movement \u0026 Freedom Struggle"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "The Supreme Court at Calcutta, with a Chief Justice and three other judges, was established by the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pitt\u0027s India Act, 1784",
+                                          "Charter Act, 1833",
+                                          "Charter Act, 1813",
+                                          "Regulating Act, 1773"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Company Rule \u0026 Land Revenue"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "In which State are the Guntupalle Buddhist Caves located?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Andhra Pradesh",
+                                          "Karnataka",
+                                          "Tamil Nadu",
+                                          "Kerala"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "topic":  "Ancient India: Mauryas to Guptas \u0026 South India"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "In the Mahalwari system, the village headman who collected the revenue and paid it to the British was called the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Patwari",
+                                          "Muqaddam",
+                                          "Ryot",
+                                          "Lambardar"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Company Rule \u0026 Land Revenue"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "The capital of Maharaja Ranjit Singh\u0027s Sikh kingdom was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Amritsar",
+                                          "Lahore",
+                                          "Patiala",
+                                          "Multan"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Company Rule \u0026 Land Revenue"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "Subhas Chandra Bose started the Azad Hind Radio in which country?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Japan",
+                                          "Austria",
+                                          "Germany",
+                                          "Malaysia"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "topic":  "National Movement \u0026 Freedom Struggle"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "The Indian headquarters of the Theosophical Society is located at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Varanasi",
+                                          "Adyar (Chennai)",
+                                          "Bombay",
+                                          "Calcutta"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Socio-Religious Reform"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. Bhagat Singh and Batukeshwar Dutt threw a bomb in the Central Legislative Assembly in 1929.",
+                                       "2. They belonged to the Ghadar Party.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "2 only",
+                                          "1 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "National Movement \u0026 Freedom Struggle"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "What were \"Manigramam\" and \"Nanadesi\" in early medieval India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A cluster of non-revenue-paying villages",
+                                          "Village-level community groups",
+                                          "Literary societies in the capital towns",
+                                          "Guilds of Indian merchants"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "topic":  "Ancient India: Mauryas to Guptas \u0026 South India"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "During the Ahmedabad Mill Strike of 1918, Mahatma Gandhi for the first time in India used the weapon of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the hunger strike (fast)",
+                                          "the salt satyagraha",
+                                          "the boycott of foreign cloth",
+                                          "a prison sentence"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "National Movement \u0026 Freedom Struggle"
+                      }
+                  ]
+}
