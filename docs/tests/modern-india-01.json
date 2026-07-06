@@ -1,0 +1,943 @@
+{
+    "title":  "Modern India-Test 1",
+    "durationMin":  60,
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Which one of the following gives the correct chronological order of the arrival of European trading powers in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Portuguese, English, Dutch, French, Danes",
+                                          "Portuguese, Dutch, English, Danes, French",
+                                          "Dutch, Portuguese, French, English, Danes",
+                                          "Portuguese, French, Dutch, English, Danes"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Company Rule \u0026 Conquest"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Who was elevated to the position of Governor-General under the Regulating Act of 1773?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Warren Hastings",
+                                          "Lord North",
+                                          "Mountstuart Elphinstone",
+                                          "Philip Francis"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "topic":  "Constitutional Development (Acts)"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Consider the following statements about the Battle of Plassey (1757):",
+                          "subs":  [
+                                       "1. The British victory owed much to Mir Jafar, the Nawab\u0027s commander, who was bribed to stay inactive.",
+                                       "2. After the battle, the British installed Mir Jafar as the Nawab of Bengal.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2",
+                                          "Both 1 and 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Company Rule \u0026 Conquest"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The Board of Control, set up to supervise the Company\u0027s civil, military and revenue affairs, was established by the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Regulating Act, 1773",
+                                          "Charter Act, 1813",
+                                          "Pitt\u0027s India Act, 1784",
+                                          "Charter Act, 1833"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Constitutional Development (Acts)"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Mahatma Gandhi\u0027s Dandi March, a great event in the freedom struggle, was associated with which substance?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sodium chloride (salt)",
+                                          "Iron",
+                                          "Sulphur",
+                                          "Aluminium"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "topic":  "Gandhian Era \u0026 Mass Movements"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The Battle of Buxar (1764) was fought between the English and a triple alliance of Mir Qasim, the Nawab of Awadh, and:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Siraj-ud-Daula",
+                                          "Haidar Ali",
+                                          "the Mughal Emperor Shah Alam II",
+                                          "the Nizam of Hyderabad"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Company Rule \u0026 Conquest"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Consider the following statements about the Battle of Wandiwash (1760):",
+                          "subs":  [
+                                       "1. It was fought during the Third Carnatic War.",
+                                       "2. In it, the French under Count Lally decisively defeated the British.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Company Rule \u0026 Conquest"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Who was known during the days of the Revolt of 1857 as \"Danka Shah\"?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Shah Mal",
+                                          "Nana Sahib",
+                                          "Tantia Tope",
+                                          "Maulavi Ahmadullah Shah"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "topic":  "Revolt of 1857"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Consider the following statements about the Doctrine of Lapse:",
+                          "subs":  [
+                                       "1. It was applied vigorously by Lord Dalhousie.",
+                                       "2. Under it, an adopted son was recognised as a legal heir to the throne.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Company Rule \u0026 Conquest"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "In the Ryotwari system of land revenue, the settlement was made directly with the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "zamindars",
+                                          "village community as a whole",
+                                          "mahal (estate)",
+                                          "individual cultivator (ryot)"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Agrarian \u0026 Tribal Movements"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Swami Dayanand Saraswati drew his inspiration primarily from:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Vedas",
+                                          "the Puranas",
+                                          "medieval saints",
+                                          "Sufism"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "topic":  "Socio-Religious Reform"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Which was the first Indian state to accept Lord Wellesley\u0027s Subsidiary Alliance, in 1798?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mysore",
+                                          "Awadh",
+                                          "Hyderabad",
+                                          "The Peshwa (Marathas)"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Company Rule \u0026 Conquest"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Consider the following statements about Maharaja Ranjit Singh:",
+                          "subs":  [
+                                       "1. By the Treaty of Amritsar (1809), the British recognised his authority over Punjab north of the Sutlej.",
+                                       "2. He made Amritsar his political capital.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Company Rule \u0026 Conquest"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which of the following were founded by Raja Ram Mohan Roy?",
+                          "subs":  [
+                                       "1. Atmiya Sabha 2. Brahmo Samaj 3. Prarthana Samaj 4. Arya Samaj",
+                                       "Select the correct answer using the code:"
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "2 only",
+                                          "1 and 2 only",
+                                          "1, 3 and 4"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "topic":  "Socio-Religious Reform"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Tipu Sultan planted a \"Tree of Liberty\" and joined the Jacobin Club, seeking an alliance with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Portuguese",
+                                          "the Dutch",
+                                          "the Marathas",
+                                          "Revolutionary France"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Company Rule \u0026 Conquest"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The Charter Act of 1813 is notable for which of the following?",
+                          "subs":  [
+                                       "1. It ended the Company\u0027s trade monopoly, except for tea and trade with China.",
+                                       "2. It permitted Christian missionaries to enter and preach in India.",
+                                       "3. It allotted ₹1 lakh for the promotion of education.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Constitutional Development (Acts)"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which one of the following was NOT a demand made by the Moderates in the Congress?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Repeal of the Arms Act",
+                                          "Higher jobs for Indians in the army",
+                                          "Extension of the Permanent Settlement",
+                                          "Universal adult franchise"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "topic":  "Early Nationalism \u0026 INC"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The Charter Act of 1833 made the Governor-General of Bengal the Governor-General of India. Who was the first to hold this office?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Warren Hastings",
+                                          "Lord William Bentinck",
+                                          "Lord Cornwallis",
+                                          "Lord Dalhousie"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Constitutional Development (Acts)"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The Indigo Revolt of 1859–60, in which peasants refused to grow indigo for European planters, took place mainly in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bihar",
+                                          "Awadh",
+                                          "Bengal",
+                                          "the Deccan"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Agrarian \u0026 Tribal Movements"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The \"Damin-i-Koh\" was a tract of land demarcated by the British Government to settle which community?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Santals",
+                                          "Mundas",
+                                          "Oraons",
+                                          "Saoras"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "topic":  "Agrarian \u0026 Tribal Movements"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The Deccan Riots of 1875 were directed primarily against:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "zamindars",
+                                          "moneylenders (sowcars)",
+                                          "indigo planters",
+                                          "forest officials"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Agrarian \u0026 Tribal Movements"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Consider the following statements about the Revolt of 1857:",
+                          "subs":  [
+                                       "1. Its immediate cause was the introduction of the greased Enfield rifle cartridges.",
+                                       "2. Mangal Pandey\u0027s protest against them took place at Meerut.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "Both 1 and 2",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Revolt of 1857"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following is NOT correct about the Indian Independence Act, 1947?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Bill received Royal Assent in July 1947",
+                                          "It provided for two independent dominions, India and Pakistan",
+                                          "It empowered each dominion\u0027s Constituent Assembly to frame its own constitution",
+                                          "It laid down the basic framework of the Indian Constitution"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "topic":  "Constitutional Development (Acts)"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "During the Revolt of 1857, the rebellion at Kanpur was led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Begum Hazrat Mahal",
+                                          "Kunwar Singh",
+                                          "Nana Sahib",
+                                          "Khan Bahadur Khan"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Revolt of 1857"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The Government of India Act, 1858 abolished Company rule and gave the Governor-General the additional title of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Secretary of State",
+                                          "Crown Representative",
+                                          "Governor of Bengal",
+                                          "Viceroy"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Constitutional Development (Acts)"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "With reference to the Revolt of 1857, consider the following statements:",
+                          "subs":  [
+                                       "1. Shah Mal mobilised the people of the Baraut region of Uttar Pradesh.",
+                                       "2. Gonoo was a Kol tribal leader of the Singhbhum region of Chotanagpur.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "topic":  "Revolt of 1857"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The Brahmo Samaj, founded in 1828, was established by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Raja Ram Mohan Roy",
+                                          "Debendranath Tagore",
+                                          "Keshab Chandra Sen",
+                                          "Ishwar Chandra Vidyasagar"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Socio-Religious Reform"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Consider the following statements about the Arya Samaj:",
+                          "subs":  [
+                                       "1. It was founded by Swami Dayanand Saraswati in 1875.",
+                                       "2. It gave the call \"Back to the Vedas.\"",
+                                       "3. Its founder wrote the Gitanjali.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 and 3 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Socio-Religious Reform"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which of the following statements about the Deccan Riots of 1875 are true?",
+                          "subs":  [
+                                       "1. They led to protection for peasants through the Deccan Agriculturists\u0027 Relief Act of 1879.",
+                                       "2. The riots did not spread to the whole of Maharashtra because of prompt British suppression.",
+                                       "3. The British were unable to contain the riots, which spread throughout Maharashtra.",
+                                       "4. The cotton boom caused by the American Civil War, and its later collapse, had impoverished the peasants.",
+                                       "Select the correct answer using the code:"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 3",
+                                          "2 and 4 only",
+                                          "1, 2 and 4"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "Agrarian \u0026 Tribal Movements"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The Prarthana Samaj, established in Bombay in 1867, was closely associated with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "M.G. Ranade and Atmaram Pandurang",
+                                          "Swami Dayanand Saraswati",
+                                          "Swami Vivekananda",
+                                          "Jyotiba Phule"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Socio-Religious Reform"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "Who represented Hinduism at the World Parliament of Religions in Chicago in 1893?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ramakrishna Paramahamsa",
+                                          "Dayanand Saraswati",
+                                          "Swami Vivekananda",
+                                          "Keshab Chandra Sen"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Socio-Religious Reform"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "Who took over the Eka (Ekka) Movement in Awadh during 1921–22?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Baba Ramchandra",
+                                          "Madari Pasi",
+                                          "Bhagwan Ahir",
+                                          "Shah Naeem Ata"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "topic":  "Agrarian \u0026 Tribal Movements"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "The Indian National Congress was founded in 1885 by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Surendranath Banerjea",
+                                          "Dadabhai Naoroji",
+                                          "A.O. Hume",
+                                          "W.C. Bonnerjee"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Early Nationalism \u0026 INC"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "Who founded the Satyashodhak Samaj (1873) and wrote Gulamgiri?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Narayana Guru",
+                                          "Jyotiba Phule",
+                                          "E.V. Ramaswamy Naicker",
+                                          "B.R. Ambedkar"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Socio-Religious Reform"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "The provision for separate electorates for Muslims was first introduced by the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Morley-Minto Reforms, 1909",
+                                          "Montagu-Chelmsford Reforms, 1919",
+                                          "Communal Award, 1932",
+                                          "Government of India Act, 1935"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "topic":  "Constitutional Development (Acts)"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "Consider the following statements about the Partition of Bengal:",
+                          "subs":  [
+                                       "1. It was carried out in 1905 by Viceroy Lord Curzon.",
+                                       "2. It triggered the Swadeshi Movement.",
+                                       "3. The partition was finally annulled in 1947.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 and 3 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3",
+                                          "1 and 2 only"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Early Nationalism \u0026 INC"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "The Congress split into the Moderate and Extremist factions at which session?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Calcutta, 1906",
+                                          "Lucknow, 1916",
+                                          "Surat, 1907",
+                                          "Nagpur, 1920"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Early Nationalism \u0026 INC"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "Match List-I with List-II and select the correct answer using the code given below:",
+                          "subs":  [
+                                       "List-I (Event) — List-II (Year)",
+                                       "A. Rowlatt Act — 1. 1922",
+                                       "B. Salt March — 2. 1931",
+                                       "C. Chauri Chaura Incident — 3. 1930",
+                                       "D. Second Round Table Conference — 4. 1919"
+                                   ],
+                          "options":  [
+                                          "A-3, B-4, C-1, D-2",
+                                          "A-4, B-3, C-2, D-1",
+                                          "A-1, B-3, C-4, D-2",
+                                          "A-4, B-3, C-1, D-2"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "topic":  "Gandhian Era \u0026 Mass Movements"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "The two Home Rule Leagues of 1916 were founded by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gandhi and Nehru",
+                                          "B.G. Tilak and Annie Besant",
+                                          "Lala Lajpat Rai and Bipin Chandra Pal",
+                                          "Gokhale and Dadabhai Naoroji"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Early Nationalism \u0026 INC"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "The Lucknow Pact of 1916 is significant for bringing about:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "unity between the Congress and the Muslim League",
+                                          "the partition of Bengal",
+                                          "the founding of the Muslim League",
+                                          "the launch of the Non-Cooperation Movement"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Early Nationalism \u0026 INC"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "Arrange the formation of the following political associations in chronological order, beginning with the earliest:",
+                          "subs":  [
+                                       "1. Poona Sarvajanik Sabha 2. Indian Association 3. Madras Mahajan Sabha 4. Bombay Presidency Association"
+                                   ],
+                          "options":  [
+                                          "4, 3, 2, 1",
+                                          "1, 2, 3, 4",
+                                          "2, 1, 3, 4",
+                                          "1, 2, 4, 3"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "topic":  "Early Nationalism \u0026 INC"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "Consider the following statements about the Kakori train action (1925):",
+                          "subs":  [
+                                       "1. It was organised by the Hindustan Republican Association.",
+                                       "2. Ram Prasad Bismil was one of its leaders.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Gandhian Era \u0026 Mass Movements"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "The Jallianwala Bagh massacre (13 April 1919) occurred when General Dyer opened fire on a crowd that had gathered to protest the arrest of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gandhi and Nehru",
+                                          "Tilak and Annie Besant",
+                                          "Saifuddin Kitchlew and Satyapal",
+                                          "Lajpat Rai and Ajit Singh"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Gandhian Era \u0026 Mass Movements"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "Arrange the following events chronologically, starting from the earliest:",
+                          "subs":  [
+                                       "1. Ahmedabad Mill Strike 2. Champaran Satyagraha 3. Foundation of the Satyagraha Sabha 4. Jallianwala Bagh Massacre"
+                                   ],
+                          "options":  [
+                                          "1, 2, 3, 4",
+                                          "2, 4, 1, 3",
+                                          "1, 2, 4, 3",
+                                          "2, 1, 3, 4"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "topic":  "Gandhian Era \u0026 Mass Movements"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "Gandhi\u0027s first Satyagraha in India, at Champaran (1917), was directed against the oppressive system of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ryotwari",
+                                          "Permanent Settlement",
+                                          "Tinkathia (forced indigo cultivation)",
+                                          "Mahalwari"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Gandhian Era \u0026 Mass Movements"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "Gandhi withdrew the Non-Cooperation Movement in February 1922 following the violent incident at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bardoli",
+                                          "Kheda",
+                                          "Champaran",
+                                          "Chauri Chaura"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Gandhian Era \u0026 Mass Movements"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "Which one of the following was NOT a part of the action programme of the Non-Cooperation Movement?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Boycott of government-affiliated schools and colleges",
+                                          "Taking control of the law-and-order machinery of the State by the Congress Working Committee",
+                                          "Surrender of titles and honours given by the government",
+                                          "Extending the Congress organisation down to the village/mohalla level"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "topic":  "Gandhian Era \u0026 Mass Movements"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "Consider the following statements about the Rowlatt Act (1919):",
+                          "subs":  [
+                                       "1. It allowed the government to detain political suspects without trial.",
+                                       "2. It was passed on the recommendation of the Simon Commission.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "Both 1 and 2",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Gandhian Era \u0026 Mass Movements"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "The Simon Commission (1927) was boycotted by Indians mainly because:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "it recommended the partition of India",
+                                          "it had no Indian members",
+                                          "it abolished separate electorates",
+                                          "it proposed immediate dominion status"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Gandhian Era \u0026 Mass Movements"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "In India, the first major public appearance of Mahatma Gandhi was at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the inauguration of the Banaras Hindu University, 1916",
+                                          "Champaran, 1917",
+                                          "Kheda, 1918",
+                                          "the Rowlatt Satyagraha, 1919"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "topic":  "Gandhian Era \u0026 Mass Movements"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "The resolution of Purna Swaraj (complete independence) was adopted at the Congress session of 1929 held at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Calcutta",
+                                          "Karachi",
+                                          "Lahore",
+                                          "Nagpur"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Gandhian Era \u0026 Mass Movements"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "The Civil Disobedience Movement was launched in 1930 with the breaking of the salt law at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sabarmati",
+                                          "Ahmedabad",
+                                          "Bardoli",
+                                          "Dandi"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Gandhian Era \u0026 Mass Movements"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "Which party accepted the Cabinet Mission Plan on 6 June 1946 (the plan that had rejected the demand for a sovereign Pakistan)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Muslim League",
+                                          "The Congress",
+                                          "The Hindu Mahasabha",
+                                          "The Unionist Party"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "topic":  "Towards Independence \u0026 Partition"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "The Poona Pact (1932) between Gandhi and B.R. Ambedkar replaced separate electorates for the Depressed Classes with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a fixed Muslim quota",
+                                          "universal adult franchise",
+                                          "separate electorates for Muslims",
+                                          "reserved seats within joint (general) electorates"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Towards Independence \u0026 Partition"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "Consider the following statements about the Communal Award (1932):",
+                          "subs":  [
+                                       "1. It was announced by the British Prime Minister Ramsay MacDonald.",
+                                       "2. It granted separate electorates to the Depressed Classes.",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "Both 1 and 2",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Towards Independence \u0026 Partition"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "The year 1916 is important in Indian history for which of the following?",
+                          "subs":  [
+                                       "1. The Lucknow Session of the Congress 2. The Congress–League Pact 3. The launch of the Non-Cooperation Movement"
+                                   ],
+                          "options":  [
+                                          "1 and 3 only",
+                                          "2 and 3 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Early Nationalism \u0026 INC"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "The Government of India Act, 1935 introduced which of the following?",
+                          "subs":  [
+                                       "1. Provincial autonomy 2. Abolition of dyarchy in the provinces 3. The establishment of a Federal Court",
+                                       "Which of the statements is/are correct?"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Constitutional Development (Acts)"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "The Quit India Movement was launched in August 1942 with Gandhi\u0027s famous call of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "\"Swaraj is my birthright\"",
+                                          "\"Inquilab Zindabad\"",
+                                          "\"Do or Die\"",
+                                          "\"Delhi Chalo\""
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Gandhian Era \u0026 Mass Movements"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "The Ahmadiyya Movement was started by Mirza Ghulam Ahmad at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Patna",
+                                          "Aligarh",
+                                          "Bhopal",
+                                          "Gurdaspur (Qadian)"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "topic":  "Socio-Religious Reform"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "The Cabinet Mission (1946), sent to frame a plan for the transfer of power, was led by its senior-most member:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pethick-Lawrence",
+                                          "Stafford Cripps",
+                                          "A.V. Alexander",
+                                          "Lord Wavell"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Towards Independence \u0026 Partition"
+                      }
+                  ]
+}
