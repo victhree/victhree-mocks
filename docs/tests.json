@@ -24,6 +24,14 @@
       "durationMin": 60,
       "count": 60,
       "description": "60 MCQs — Ancient (Stone Age → Guptas, South India) + Medieval (Delhi Sultanate, Vijayanagara, Mughals); 25 tagged CDS PYQs."
+    },
+    {
+      "id": "modern-india-01",
+      "title": "Modern India-Test 1",
+      "subject": "History",
+      "durationMin": 60,
+      "count": 60,
+      "description": "60 MCQs — British conquest, 1857, socio-religious reform, national movement & Gandhian era; 19 tagged CDS PYQs."
     }
   ]
 }
