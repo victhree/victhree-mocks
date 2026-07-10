@@ -292,25 +292,9 @@ html, body {
   position:relative; overflow:hidden; text-align:center;
   border-radius:14px; border:2px solid var(--gold);
   margin:26px 0 6px; padding:30px 24px;
-  background-color:#57542f;
-  background-image:
-    radial-gradient(ellipse 70px 55px at 0% 0%,    #39462a 0 99%, transparent 100%),
-    radial-gradient(ellipse 64px 60px at 100% 0%,  #3a2e1d 0 99%, transparent 100%),
-    radial-gradient(ellipse 66px 58px at 0% 100%,  #3a2e1d 0 99%, transparent 100%),
-    radial-gradient(ellipse 72px 56px at 100% 100%,#39462a 0 99%, transparent 100%),
-    radial-gradient(ellipse 58px 50px at 50% 50%,  #21241a 0 99%, transparent 100%),
-    radial-gradient(ellipse 46px 40px at 26% 30%,  #3a2e1d 0 99%, transparent 100%),
-    radial-gradient(ellipse 42px 44px at 74% 24%,  #21241a 0 99%, transparent 100%),
-    radial-gradient(ellipse 48px 42px at 30% 74%,  #39462a 0 99%, transparent 100%),
-    radial-gradient(ellipse 44px 46px at 72% 76%,  #3a2e1d 0 99%, transparent 100%),
-    radial-gradient(ellipse 34px 30px at 50% 4%,   #39462a 0 99%, transparent 100%),
-    radial-gradient(ellipse 32px 34px at 4% 52%,   #21241a 0 99%, transparent 100%),
-    radial-gradient(ellipse 34px 32px at 96% 52%,  #39462a 0 99%, transparent 100%),
-    radial-gradient(ellipse 20px 16px at 60% 40%,  #8a7f52 0 99%, transparent 100%),
-    radial-gradient(ellipse 18px 15px at 20% 88%,  #8a7f52 0 99%, transparent 100%);
-  background-size:200px 200px;
+  background:#3d3c24 url("assets/camo.png") center/cover no-repeat;
 }
-.quote-tile::before{content:"";position:absolute;inset:0;background:rgba(15,22,12,.42)}
+.quote-tile::before{content:"";position:absolute;inset:0;background:rgba(14,20,10,.5)}
 .quote-text{position:relative;z-index:1;max-width:none;margin:0;color:#fff;
   font-family:"Cinzel",Georgia,serif;font-size:19px;font-weight:700;line-height:1.6;letter-spacing:.5px;text-shadow:0 1px 5px rgba(0,0,0,.7)}
 .quote-author{display:block;margin-top:12px;color:var(--gold-soft);font-family:"Cinzel",Georgia,serif;font-weight:700;font-size:14px;letter-spacing:1px}
