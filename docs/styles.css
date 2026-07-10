@@ -79,6 +79,9 @@ html, body {
   letter-spacing: 1px; line-height: 1.15;
 }
 .home-intro .muted { color: var(--muted); margin: 0; }
+@media (max-width: 600px){
+  .home-intro h1{ white-space: nowrap; font-size: clamp(14px, 5.2vw, 26px); letter-spacing: .3px; }
+}
 .test-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
 .test-card {
   display: flex; flex-direction: column; gap: 10px;
