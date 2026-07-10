@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&display=swap" />
-  <link rel="stylesheet" href="styles.css?v=15" />
+  <link rel="stylesheet" href="styles.css?v=16" />
 </head>
 <body>
 
@@ -49,6 +49,16 @@
         <span class="quote-author">— Norman Schwarzkopf</span></p>
     </section>
 
+    <!-- ============ EXAM COUNTDOWN TIMER(S) ============ -->
+    <!-- Duplicate .exam-timer for each exam; set et-name, et-date, and data-countdown (YYYY-MM-DD). -->
+    <section class="exam-timers">
+      <div class="exam-timer">
+        <div class="et-name">AFCAT (II) 2026</div>
+        <div class="et-date">8 August 2026</div>
+        <div class="et-count"><span class="n" data-countdown="2026-08-08">—</span> <span class="et-unit">days left</span></div>
+      </div>
+    </section>
+
     <!-- ============ BOTTOM: JOIN THE JOURNEY ============ -->
     <p class="join-label">Join the Journey</p>
     <nav class="foot-social">
@@ -62,6 +72,19 @@
     VicThree Defence · Mock Tests
   </footer>
 
-  <script src="home.js?v=15"></script>
+  <script src="home.js?v=16"></script>
+  <script>
+  (function(){
+    var today = new Date(); today.setHours(0,0,0,0);
+    document.querySelectorAll('[data-countdown]').forEach(function(el){
+      var p = el.getAttribute('data-countdown').split('-');
+      var exam = new Date(+p[0], +p[1]-1, +p[2]);
+      var days = Math.max(0, Math.round((exam - today) / 86400000));
+      el.textContent = days;
+      var unit = el.parentNode.querySelector('.et-unit');
+      if (unit) unit.textContent = (days === 1 ? 'day left' : 'days left');
+    });
+  })();
+  </script>
 </body>
 </html>

@@ -314,6 +314,36 @@ html, body {
 .foot-social a{color:#0B1F3A;display:inline-flex;line-height:0;transition:color .12s,transform .12s}
 .foot-social a:hover{color:#C9A24B;transform:translateY(-2px)}
 
+/* ====== Exam countdown timer(s) ====== */
+.exam-timers{display:flex;flex-wrap:wrap;justify-content:center;gap:28px;margin:24px 0 6px}
+.exam-timer{text-align:center;font-family:"Consolas","SF Mono",ui-monospace,"DejaVu Sans Mono",monospace}
+.exam-timer .et-name{font-size:11px;color:#e0bd6a;letter-spacing:1.5px;text-transform:uppercase}
+.exam-timer .et-date{font-size:10.5px;color:#8f9488;letter-spacing:1px;text-transform:uppercase;margin-top:3px}
+.exam-timer .et-count{margin-top:10px;line-height:1}
+
+/* seven-segment LED "bomb timer" digits (DSEG7 — SIL OFL font) */
+@font-face{
+  font-family:'DSEG7';
+  src:url('assets/DSEG7Classic-Bold.woff2') format('woff2');
+  font-weight:700;font-style:normal;font-display:swap;
+}
+.et-count .n{
+  display:block;text-align:center;text-indent:4px;
+  font-family:'DSEG7',monospace;font-size:32px;line-height:1;letter-spacing:4px;
+  color:#ff2f2f;
+  text-shadow:0 0 8px rgba(255,45,45,.9),0 0 2px rgba(255,95,95,.95);
+  animation:led-pulse 2s ease-in-out infinite;
+}
+.et-count .et-unit{
+  display:block;text-align:center;margin-top:7px;
+  font-family:monospace;font-size:11px;color:#8f9488;text-transform:uppercase;letter-spacing:1px;
+}
+@keyframes led-pulse{
+  0%,100%{opacity:1;   text-shadow:0 0 9px rgba(255,45,45,.95),0 0 3px rgba(255,95,95,1)}
+  50%    {opacity:.38; text-shadow:0 0 3px rgba(255,45,45,.35)}
+}
+@media(prefers-reduced-motion:reduce){.et-count .n{animation:none}}
+
 /* ====== Footer ====== */
 .site-footer { text-align: center; color: var(--muted); font-size: 12.5px; padding: 18px; }
 
