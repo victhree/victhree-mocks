@@ -106,7 +106,7 @@
                                           "Tropical monsoon climate",
                                           "Tropical wet and dry climate"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2025-I",
                           "topic":  "Geography: Climate \u0026 Oceans"
                       },
                       {
@@ -121,7 +121,7 @@
                                           "Sub-tropical high-pressure cells",
                                           "Equatorial troughs"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2020-I",
                           "topic":  "Geography: Climate \u0026 Oceans"
                       },
                       {
@@ -136,7 +136,7 @@
                                           "Canary and Benguela Current",
                                           "West Wind Drift and Falkland Current"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2020-I",
                           "topic":  "Geography: Climate \u0026 Oceans"
                       },
                       {
@@ -151,7 +151,7 @@
                                           "It is located to the west of the Gulf Stream and east of the Canary Current",
                                           "It is confined within a gyre of calm, relatively motionless water"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2019-I",
                           "topic":  "Geography: Climate \u0026 Oceans"
                       },
                       {
@@ -182,7 +182,7 @@
                                           "Statement I is true but Statement II is false",
                                           "Statement I is false but Statement II is true"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2017-II",
                           "topic":  "Geography: Indian Physiography \u0026 Rivers"
                       },
                       {
@@ -197,7 +197,7 @@
                                           "Hunza",
                                           "Zaskar"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2025-I",
                           "topic":  "Geography: Indian Physiography \u0026 Rivers"
                       },
                       {
@@ -242,7 +242,7 @@
                                           "Rich in both potash and phosphorus",
                                           "Rich in potash and poor in phosphorus"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2021-I",
                           "topic":  "Geography: Resources \u0026 Economy"
                       },
                       {
@@ -395,7 +395,7 @@
                                           "Tila and Khala",
                                           "Priyangu and Shyamaka"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2024-II",
                           "topic":  "History: Ancient India"
                       },
                       {
@@ -410,7 +410,7 @@
                                           "Chagai Hills",
                                           "Hills of Baluchistan"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2020-I",
                           "topic":  "History: Ancient India"
                       },
                       {
@@ -515,7 +515,7 @@
                                           "An ancient didactic work in Tamil",
                                           "A drama composed by a Chera king"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2022-II",
                           "topic":  "History: Ancient India"
                       },
                       {
@@ -635,7 +635,7 @@
                                           "Arikamedu",
                                           "Gingee"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2021-II",
                           "topic":  "History: Medieval India"
                       },
                       {
@@ -695,7 +695,7 @@
                                           "Appar",
                                           "Sundarar"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2022-I",
                           "topic":  "History: Medieval India"
                       },
                       {
@@ -785,7 +785,7 @@
                                           "S. G. Vaze",
                                           "Srinivasa Sastri"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2023-I",
                           "topic":  "History: Modern India"
                       },
                       {
@@ -845,7 +845,7 @@
                                           "Gopal Krishna Gokhale",
                                           "Jyotiba Phule"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2021-I",
                           "topic":  "History: Modern India"
                       },
                       {
@@ -890,7 +890,7 @@
                                           "Akshay Kumar Datta",
                                           "Dwarkanath Tagore"
                                       ],
-                          "pyq":  null,
+                          "pyq":  "CDS 2020-I",
                           "topic":  "History: Modern India"
                       },
                       {
