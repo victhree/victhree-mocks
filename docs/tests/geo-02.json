@@ -15,7 +15,7 @@
                                           "The formation of Saturn\u0027s rings"
                                       ],
                           "pyq":  null,
-                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                          "topic":  "Astronomy \u0026 Universe"
                       },
                       {
                           "n":  2,
@@ -202,7 +202,7 @@
                                           "Both metallic and non-metallic minerals"
                                       ],
                           "pyq":  null,
-                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                          "topic":  "Soils, Minerals \u0026 Resources"
                       },
                       {
                           "n":  14,
@@ -339,7 +339,7 @@
                                           "Neither 1 nor 2"
                                       ],
                           "pyq":  null,
-                          "topic":  "Atmosphere \u0026 Climatology"
+                          "topic":  "Oceanography"
                       },
                       {
                           "n":  23,
@@ -388,7 +388,7 @@
                                           "Neither 1 nor 2"
                                       ],
                           "pyq":  null,
-                          "topic":  "Atmosphere \u0026 Climatology"
+                          "topic":  "Oceanography"
                       },
                       {
                           "n":  26,
@@ -467,7 +467,7 @@
                                           "Neither 1 nor 2"
                                       ],
                           "pyq":  null,
-                          "topic":  "Atmosphere \u0026 Climatology"
+                          "topic":  "Oceanography"
                       },
                       {
                           "n":  31,
@@ -531,7 +531,7 @@
                                           "Statement I is false but Statement II is true"
                                       ],
                           "pyq":  null,
-                          "topic":  "Oceanography"
+                          "topic":  "Soils, Minerals \u0026 Resources"
                       },
                       {
                           "n":  35,
@@ -607,7 +607,7 @@
                                           "Neither 1 nor 2"
                                       ],
                           "pyq":  null,
-                          "topic":  "Oceanography"
+                          "topic":  "Atmosphere \u0026 Climatology"
                       },
                       {
                           "n":  40,
@@ -667,7 +667,7 @@
                                           "Ravi and Ghaggar"
                                       ],
                           "pyq":  null,
-                          "topic":  "Indian Physiography"
+                          "topic":  "Indian Rivers \u0026 Drainage"
                       },
                       {
                           "n":  44,
@@ -698,7 +698,7 @@
                                           "Neither 1 nor 2"
                                       ],
                           "pyq":  null,
-                          "topic":  "Indian Rivers \u0026 Drainage"
+                          "topic":  "Indian Physiography"
                       },
                       {
                           "n":  46,
@@ -743,7 +743,7 @@
                                           "Nickel"
                                       ],
                           "pyq":  null,
-                          "topic":  "Indian Rivers \u0026 Drainage"
+                          "topic":  "Soils, Minerals \u0026 Resources"
                       },
                       {
                           "n":  49,
@@ -758,7 +758,7 @@
                                           "Madagascar and Mozambique"
                                       ],
                           "pyq":  null,
-                          "topic":  "Indian Rivers \u0026 Drainage"
+                          "topic":  "World Geography"
                       },
                       {
                           "n":  50,
@@ -819,7 +819,7 @@
                                           "Human activity and the forces of nature have no impact on each other"
                                       ],
                           "pyq":  null,
-                          "topic":  "Soils, Minerals \u0026 Resources"
+                          "topic":  "Population \u0026 Human Geography"
                       },
                       {
                           "n":  54,
@@ -879,7 +879,7 @@
                                           "The shift of nomadic groups to commercial livestock rearing"
                                       ],
                           "pyq":  null,
-                          "topic":  "Soils, Minerals \u0026 Resources"
+                          "topic":  "Population \u0026 Human Geography"
                       },
                       {
                           "n":  58,
@@ -926,7 +926,7 @@
                                           "A rural area in which most people work in non-agricultural activities"
                                       ],
                           "pyq":  null,
-                          "topic":  "World Geography"
+                          "topic":  "Population \u0026 Human Geography"
                       }
                   ]
 }
