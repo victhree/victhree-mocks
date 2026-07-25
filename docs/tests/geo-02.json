@@ -1,0 +1,930 @@
+{
+    "title":  "Geography-Test 2",
+    "durationMin":  60,
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The deepest artificially drilled point on Earth, which has provided direct geological information about the crust, is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kola Superdeep Borehole",
+                                          "Mponeng Gold Mine",
+                                          "Bingham Canyon Mine",
+                                          "Chuquicamata Mine"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The Lehmann discontinuity separates which two zones of the Earth\u0027s interior?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Crust and upper mantle",
+                                          "Upper mantle and lower mantle",
+                                          "Lower mantle and outer core",
+                                          "Outer core and inner core"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Consider the following statements regarding temperature conditions inside the Earth:",
+                          "subs":  [
+                                       "1. On average, temperature rises by about 1°C for every 32 metres of depth in the upper crust.",
+                                       "2. Radioactive disintegration of rocks is one of the main reasons for the increase in internal heat."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The theory of Sea Floor Spreading, which explained how new oceanic crust forms at mid-ocean ridges and is destroyed at trenches, was propounded by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Alfred Wegener",
+                                          "Arthur Holmes",
+                                          "W. J. Morgan",
+                                          "Harry Hess"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "With reference to the layers of the Earth\u0027s crust, which one of the following statements is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "SIAL is richer in silica and magnesium than SIMA",
+                                          "SIMA forms the upper continental layer and SIAL the lower oceanic layer",
+                                          "SIMA is denser than SIAL and is rich in silica and magnesium",
+                                          "Both SIAL and SIMA have identical average densities"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The Himalayas were formed primarily as a result of which type of plate boundary interaction?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Oceanic–oceanic convergence",
+                                          "Transform (conservative) boundary",
+                                          "Divergent (constructive) boundary",
+                                          "Continental–continental convergence"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Match List I (Active Volcano) with List II (Location) and select the correct answer using the code given below:",
+                          "subs":  [
+                                       "A. Mount Merapi 1. Hawaii",
+                                       "B. Sakurajima 2. Italy",
+                                       "C. Mount Vesuvius 3. Japan",
+                                       "D. Mauna Loa 4. Indonesia"
+                                   ],
+                          "options":  [
+                                          "A-4, B-3, C-2, D-1",
+                                          "A-4, B-1, C-3, D-2",
+                                          "A-1, B-3, C-2, D-4",
+                                          "A-3, B-4, C-1, D-2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Extrusive volcanic activity is generally NOT associated with which one of the following mountain systems?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Andes",
+                                          "Rockies",
+                                          "Alaska Range",
+                                          "Himalayas"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "An intrusive igneous landform that is intruded along the bedding planes of horizontal sedimentary rocks and typically assumes a dome or mushroom shape is called a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Batholith",
+                                          "Sill",
+                                          "Dyke",
+                                          "Laccolith"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The volcanic belt that contains the largest number of active volcanoes in the world is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mid-Atlantic belt",
+                                          "Mid-Continental belt",
+                                          "Circum-Pacific belt",
+                                          "East African Rift belt"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Manikaran in Himachal Pradesh is well known as a site for harnessing which one of the following energy resources?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Solar energy",
+                                          "Geothermal energy",
+                                          "Wind energy",
+                                          "Tidal energy"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Soils, Minerals \u0026 Resources"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Which one of the following statements about the Primary (P) waves of an earthquake is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "They are similar to sound waves",
+                                          "They can travel only through solid materials",
+                                          "They travel through solids, liquids and gases",
+                                          "They are the fastest waves and the first to be recorded"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "With reference to the measurement of earthquakes, consider the following statements:",
+                          "subs":  [
+                                       "1. The Richter scale measures the magnitude, i.e., the energy released by an earthquake.",
+                                       "2. The Mercalli scale measures the intensity, i.e., the observed effects and damage caused."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The extent of damage caused by an earthquake is NOT influenced by which one of the following factors?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Magnitude of the earthquake",
+                                          "Population density of the area",
+                                          "Type and quality of buildings",
+                                          "Prevailing climate of the area"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Match List I (Original Rock) with List II (Metamorphic Product) and select the correct answer:",
+                          "subs":  [
+                                       "A. Limestone 1. Slate",
+                                       "B. Sandstone 2. Marble",
+                                       "C. Shale 3. Graphite",
+                                       "D. Coal 4. Quartzite"
+                                   ],
+                          "options":  [
+                                          "A-2, B-4, C-1, D-3",
+                                          "A-1, B-4, C-2, D-3",
+                                          "A-2, B-1, C-4, D-3",
+                                          "A-4, B-2, C-1, D-3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Which one of the following minerals makes up nearly half of the Earth\u0027s crust by proportion?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Quartz",
+                                          "Amphibole",
+                                          "Pyroxene",
+                                          "Feldspar"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which one of the following is NOT an example of chemical weathering?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hydrolysis",
+                                          "Oxidation",
+                                          "Salt crystal growth",
+                                          "Carbonation"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Which one of the following mass-movement processes is the SLOWEST?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Soil creep",
+                                          "Earthflow",
+                                          "Mudflow",
+                                          "Avalanche"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Which one of the following landforms is formed primarily by wind erosion?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cirque",
+                                          "Stack",
+                                          "Zeugen",
+                                          "Ox-bow lake"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Loess, a fertile and uniform deposit found in several parts of the world, is best described as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A thick deposit of fine, wind-blown silt",
+                                          "A ridge of sand deposited by ocean waves",
+                                          "Glacial till deposited directly by ice",
+                                          "Alluvium deposited by river floods"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "In which layer of the atmosphere do most meteors burn up, and where is the lowest temperature of the atmosphere recorded?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Troposphere",
+                                          "Stratosphere",
+                                          "Mesosphere",
+                                          "Thermosphere"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Atmosphere \u0026 Climatology"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The Kármán Line, conventionally taken as the boundary between the Earth\u0027s atmosphere and outer space, is located at an altitude of approximately:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "50 km",
+                                          "100 km",
+                                          "400 km",
+                                          "1000 km"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Atmosphere \u0026 Climatology"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which of the following statements concerning the atmosphere of the Earth are correct?",
+                          "subs":  [
+                                       "1. In the stratosphere, temperature increases with altitude.",
+                                       "2. In the mesosphere, temperature decreases with altitude.",
+                                       "3. The lowest temperature of the atmosphere is recorded in the upper part of the mesosphere.",
+                                       "4. The tropopause is an isothermal zone."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1, 2 and 3 only",
+                                          "3 and 4 only",
+                                          "1, 2, 3 and 4"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Atmosphere \u0026 Climatology"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The normal lapse rate, i.e., the average rate at which air temperature falls with increasing altitude in the troposphere, is approximately:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6.5°C per 1000 metres",
+                                          "10°C per 1000 metres",
+                                          "1°C per 1000 metres",
+                                          "3°C per 1000 metres"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Atmosphere \u0026 Climatology"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Consider the following statements about temperature inversion:",
+                          "subs":  [
+                                       "1. It is a reversal of the normal lapse rate in which temperature increases with height within a layer.",
+                                       "2. Calm, clear nights with cold air draining into valleys favour its formation."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Atmosphere \u0026 Climatology"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "In the tri-cellular model of atmospheric circulation, the cell located between 30° and 60° latitude, which is thermally indirect and driven by dynamic factors, is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ferrel cell",
+                                          "Hadley cell",
+                                          "Polar cell",
+                                          "Walker cell"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Atmosphere \u0026 Climatology"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The Tropical Easterly Jet, which is crucial to the Indian summer monsoon, is caused mainly by the intense heating of which one of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Thar Desert",
+                                          "The Tibetan Plateau",
+                                          "The Deccan Plateau",
+                                          "The Arabian Peninsula"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Atmosphere \u0026 Climatology"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The cold and dry wind that blows down from the mountains over the eastern shore of the Adriatic Sea is known as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mistral",
+                                          "Bora",
+                                          "Bise",
+                                          "Blizzard"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Atmosphere \u0026 Climatology"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Match List I (Local Wind) with List II (Region) and select the correct answer:",
+                          "subs":  [
+                                       "A. Loo 1. Eastern slopes of the Rockies",
+                                       "B. Foehn 2. Sahara Desert",
+                                       "C. Chinook 3. Northern India",
+                                       "D. Sirocco 4. Leeward side of the Alps"
+                                   ],
+                          "options":  [
+                                          "A-3, B-4, C-1, D-2",
+                                          "A-1, B-4, C-3, D-2",
+                                          "A-3, B-1, C-4, D-2",
+                                          "A-2, B-4, C-1, D-3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Atmosphere \u0026 Climatology"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The strength and position of a permanent high-pressure cell located to the east of Madagascar (around 20°S over the Indian Ocean) significantly affects the Indian monsoon. This cell is called the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mascarene High",
+                                          "Azores High",
+                                          "Siberian High",
+                                          "Pacific High"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Atmosphere \u0026 Climatology"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "With reference to the El Niño–Southern Oscillation (ENSO) and the Indian monsoon, consider the following statements:",
+                          "subs":  [
+                                       "1. El Niño (the warm phase) is generally associated with suppressed monsoon rainfall over India.",
+                                       "2. La Niña (the cool phase) is generally associated with enhanced rainfall over India."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Atmosphere \u0026 Climatology"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "A positive phase of the Indian Ocean Dipole (IOD) is characterised by which one of the following, and how does it typically affect the Indian monsoon?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Warmer western Indian Ocean; tends to boost Indian monsoon rainfall",
+                                          "Warmer eastern Indian Ocean; tends to boost Indian monsoon rainfall",
+                                          "Warmer western Indian Ocean; tends to weaken Indian monsoon rainfall",
+                                          "Uniform basin temperatures; no effect on the monsoon"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Atmosphere \u0026 Climatology"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "Match List I (Tropical Cyclone — Regional Name) with List II (Region) and select the correct answer:",
+                          "subs":  [
+                                       "A. Cyclones 1. Western Australia",
+                                       "B. Hurricanes 2. South China Sea",
+                                       "C. Typhoons 3. Indian Ocean",
+                                       "D. Willy-willies 4. Atlantic Ocean"
+                                   ],
+                          "options":  [
+                                          "A-3, B-4, C-2, D-1",
+                                          "A-1, B-2, C-4, D-3",
+                                          "A-3, B-2, C-4, D-1",
+                                          "A-4, B-3, C-2, D-1"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Atmosphere \u0026 Climatology"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "Which one of the following is the flattest and smoothest part of the ocean floor, generally lying at depths of 3,000–6,000 metres and covered with fine sediments?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Continental shelf",
+                                          "Continental slope",
+                                          "Abyssal plain",
+                                          "Oceanic ridge"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "The oceanic layer, roughly between 200 and 1,000 metres depth, in which temperature falls rapidly with depth and which acts as a barrier to vertical mixing, is called the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Halocline",
+                                          "Photic zone",
+                                          "Pycnocline",
+                                          "Thermocline"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "Isohalines are lines drawn on a map joining places of equal:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Temperature",
+                                          "Pressure",
+                                          "Rainfall",
+                                          "Salinity"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "Spring tides, which are higher-than-average high tides, occur when:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Sun, Moon and Earth are aligned in a straight line",
+                                          "The Sun and Moon are at right angles to the Earth",
+                                          "The Moon is at its farthest point from the Earth",
+                                          "The Earth is at aphelion"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "Polymetallic nodules, considered a potential future source of metals, are found on the deep ocean floor and are especially rich in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bauxite and gypsum",
+                                          "Manganese, nickel, copper and cobalt",
+                                          "Gold, silver and platinum",
+                                          "Coal and petroleum"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "A ring-shaped coral reef enclosing a shallow central lagoon is known as a/an:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Fringing reef",
+                                          "Barrier reef",
+                                          "Atoll",
+                                          "Guyot"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "The only active volcano in India is located in which of the following island groups?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lakshadweep Islands",
+                                          "Diu and Daman islets",
+                                          "New Moore Island",
+                                          "Andaman and Nicobar Islands"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Indian Physiography"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "The western syntaxial bend of the Himalayas, where the mountain range takes a sharp turn, is located near which one of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Namcha Barwa",
+                                          "Kanchenjunga",
+                                          "Nanda Devi",
+                                          "Nanga Parbat"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Indian Physiography"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "The Patkai Bum, Naga Hills, Manipur Hills and Mizo (Lushai) Hills are collectively known as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Purvanchal (Eastern Hills)",
+                                          "Karakoram Range",
+                                          "Aravalli Range",
+                                          "Cardamom Hills"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Indian Physiography"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "Mahendragiri is the highest peak of which one of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Western Ghats",
+                                          "Eastern Ghats",
+                                          "Satpura Range",
+                                          "Vindhya Range"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Indian Physiography"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "The Tropic of Cancer passes through how many coastal and landlocked States of India, respectively?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 7",
+                                          "2 and 6",
+                                          "2 and 5",
+                                          "3 and 5"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Maps, Time \u0026 Location"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "Which one of the following rivers is known as the “Dakshin Ganga” (Ganga of the South) and is the largest of the Peninsular rivers?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Krishna",
+                                          "Kaveri",
+                                          "Godavari",
+                                          "Mahanadi"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Indian Rivers \u0026 Drainage"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "The Narmada river flows westward through a rift valley and forms the Marble Rocks gorge and the Dhuandhar Falls near which city?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jabalpur",
+                                          "Bharuch",
+                                          "Indore",
+                                          "Amarkantak"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Indian Rivers \u0026 Drainage"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "Which one of the following rivers joins the Ganga directly?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chambal",
+                                          "Son",
+                                          "Betwa",
+                                          "Ken"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Indian Rivers \u0026 Drainage"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "A drainage pattern in which streams converge inward toward a central depression, such as around Loktak Lake in Manipur, is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Radial",
+                                          "Centripetal",
+                                          "Dendritic",
+                                          "Barbed"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Indian Rivers \u0026 Drainage"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "The Chambal river is particularly noted for which one of the following features?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The world\u0027s largest river island",
+                                          "Extensive badland (ravine) topography",
+                                          "A large inland delta",
+                                          "Cutting the Tropic of Cancer twice"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Indian Rivers \u0026 Drainage"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "Kabini, Bhavani and Amravati are important tributaries of which one of the following Peninsular rivers?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Godavari",
+                                          "Krishna",
+                                          "Mahanadi",
+                                          "Kaveri"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Indian Rivers \u0026 Drainage"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "Which one of the following soils is formed from the weathering of Deccan lava, has a self-ploughing character, and is best suited for cotton cultivation?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Alluvial soil",
+                                          "Black (Regur) soil",
+                                          "Laterite soil",
+                                          "Red and yellow soil"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Soils, Minerals \u0026 Resources"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "Identify the soil type on the basis of the following characteristics:",
+                          "subs":  [
+                                       "1. It is high in salt content and generally infertile, lacking nitrogen and calcium.",
+                                       "2. It is found in arid and semi-arid regions, western Gujarat, the eastern deltas and the Sundarbans."
+                                   ],
+                          "options":  [
+                                          "Peaty soil",
+                                          "Laterite soil",
+                                          "Saline (Usara) soil",
+                                          "Forest soil"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Soils, Minerals \u0026 Resources"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "Consider the following statements about laterite soil:",
+                          "subs":  [
+                                       "1. It is formed by intense leaching under conditions of high rainfall and temperature.",
+                                       "2. It is rich in humus and nitrogen, making it naturally very fertile."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Soils, Minerals \u0026 Resources"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "Which one of the following iron ores is reddish in colour, contains 60–70% iron, and is the most commonly found iron ore in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Magnetite",
+                                          "Haematite",
+                                          "Limonite",
+                                          "Siderite"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Soils, Minerals \u0026 Resources"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "Aluminium is manufactured from which one of the following ores?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Copper ore",
+                                          "Bauxite ore",
+                                          "Mica ore",
+                                          "Manganese ore"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Soils, Minerals \u0026 Resources"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "Which variety of coal has the highest carbon content (about 80–90%), the best quality, and is very scarce in India (found in small quantities in Jammu \u0026 Kashmir)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Peat",
+                                          "Lignite",
+                                          "Bituminous",
+                                          "Anthracite"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Soils, Minerals \u0026 Resources"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "Thorium, an important atomic mineral, is chiefly derived from monazite sands found mainly along the coast of which Indian State?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gujarat",
+                                          "Kerala",
+                                          "West Bengal",
+                                          "Maharashtra"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Soils, Minerals \u0026 Resources"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "National Waterway No. 2 (NW-2) is situated on which one of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Ganga (Haldia–Prayagraj)",
+                                          "The West Coast Canal (Kottapuram–Kollam)",
+                                          "The Brahmaputra (Sadiya–Dhubri)",
+                                          "Godavari and Krishna (Kakinada–Puducherry)"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Economic Geography (Transport)"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "Match List I (Temperate Grassland) with List II (Region) and select the correct answer:",
+                          "subs":  [
+                                       "A. Prairies 1. South Africa",
+                                       "B. Pampas 2. Eurasia",
+                                       "C. Steppes 3. North America",
+                                       "D. Veld 4. Argentina–Uruguay"
+                                   ],
+                          "options":  [
+                                          "A-3, B-4, C-2, D-1",
+                                          "A-2, B-4, C-3, D-1",
+                                          "A-3, B-1, C-2, D-4",
+                                          "A-4, B-3, C-2, D-1"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "World Geography"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "The Atacama Desert, often described as the driest desert in the world, owes its extreme aridity largely to the rain-shadow effect of which mountain range and a cold offshore current?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Rockies and the California Current",
+                                          "The Andes and the Peru (Humboldt) Current",
+                                          "The Alps and the Canary Current",
+                                          "The Drakensberg and the Benguela Current"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "World Geography"
+                      }
+                  ]
+}

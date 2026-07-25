@@ -10,6 +10,14 @@
       "description": "Physical & Indian geography — IAU planets, Himalayas, rivers, climate, minerals, ports & PYQs."
     },
     {
+      "id": "geo-02",
+      "title": "Geography-Test 2",
+      "subject": "Geography",
+      "durationMin": 60,
+      "count": 60,
+      "description": "60 fresh Geography MCQs — geomorphology, climatology, oceanography, Indian physiography, rivers, soils & minerals."
+    },
+    {
       "id": "ancient-history-01",
       "title": "Ancient History-Test 1",
       "subject": "Ancient History",
@@ -40,6 +48,14 @@
       "durationMin": 60,
       "count": 60,
       "description": "60 MCQs across the full History syllabus — Ancient, Medieval & Modern India; 20 tagged CDS PYQs."
+    },
+    {
+      "id": "geo-history-01",
+      "title": "Geography + History-Test 1",
+      "subject": "GS",
+      "durationMin": 60,
+      "count": 60,
+      "description": "60 combined MCQs — Geography (physical, climate, oceans, Indian) + History (Ancient, Medieval, Modern)."
     }
   ]
 }

@@ -1,0 +1,912 @@
+{
+    "title":  "Geography + History-Test 1",
+    "durationMin":  60,
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The Continental Drift theory, which held that all continents once formed a single landmass, was propounded by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Harry Hess",
+                                          "J. Tuzo Wilson",
+                                          "W. J. Morgan",
+                                          "Alfred Wegener"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Geomorphology \u0026 Astronomy"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "When the supercontinent Pangaea began to break up, it first split into two large blocks. The northern block was Laurasia; the southern block was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gondwanaland",
+                                          "Panthalassa",
+                                          "Angaraland",
+                                          "Tethys"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Geomorphology \u0026 Astronomy"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The asteroid belt of the Solar System, a zone of rocky debris, lies mainly between the orbits of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Earth and Mars",
+                                          "Venus and Earth",
+                                          "Jupiter and Saturn",
+                                          "Mars and Jupiter"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Geomorphology \u0026 Astronomy"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "With reference to comets, which one of the following statements is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The tail of a comet always points towards the Sun",
+                                          "The tail of a comet always points away from the Sun",
+                                          "Comets are made mainly of iron and nickel",
+                                          "Comets do not orbit the Sun"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Geomorphology \u0026 Astronomy"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The “Goldilocks zone” around a star refers to the region where:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Temperatures are high enough to melt rock",
+                                          "Asteroids and comets originate",
+                                          "Only gas giants can form",
+                                          "Conditions allow liquid water to exist on an Earth-like planet"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Geomorphology \u0026 Astronomy"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Which one of the following climatic types, known as the “world\u0027s orchard lands” and famous for citrus fruits and vineyards, has hot, dry summers and mild, wet winters?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Equatorial climate",
+                                          "Steppe climate",
+                                          "Tundra climate",
+                                          "Mediterranean climate"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Climate \u0026 Oceans"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Identify the climate type on the basis of the following characteristics:",
+                          "subs":  [
+                                       "1. Temperature is high throughout the year.",
+                                       "2. Rainfall is variable, with a short wet season and a longer dry season.",
+                                       "3. The climate of Sudan and Paraguay is an example of this type."
+                                   ],
+                          "options":  [
+                                          "Sub-tropical steppe climate",
+                                          "Mid-latitude steppe",
+                                          "Tropical monsoon climate",
+                                          "Tropical wet and dry climate"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Climate \u0026 Oceans"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "In the Hadley cell of atmospheric circulation, the air that rises at the equator finally descends at the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Inter-tropical convergence zone",
+                                          "Doldrums",
+                                          "Sub-tropical high-pressure cells",
+                                          "Equatorial troughs"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Climate \u0026 Oceans"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Which of the following are warm ocean currents?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kuroshio and California Current",
+                                          "North Atlantic Drift and Brazil Current",
+                                          "Canary and Benguela Current",
+                                          "West Wind Drift and Falkland Current"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Climate \u0026 Oceans"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Which one of the following statements about the Sargasso Sea is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is characterised by an anticyclonic circulation of ocean currents",
+                                          "It records high salinity in the Atlantic Ocean",
+                                          "It is located to the west of the Gulf Stream and east of the Canary Current",
+                                          "It is confined within a gyre of calm, relatively motionless water"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Climate \u0026 Oceans"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Consider the following statements regarding the salinity of ocean water:",
+                          "subs":  [
+                                       "1. The average salinity of ocean water is about 35 parts per thousand.",
+                                       "2. High evaporation tends to increase surface salinity, while heavy freshwater influx lowers it."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Climate \u0026 Oceans"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Statement I: The interior part of Maharashtra does not receive adequate rain in the summer monsoon season.Statement II: The interior part of Maharashtra lies in the rain shadow of the Western Ghats.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Both statements are true and Statement II correctly explains Statement I",
+                                          "Both statements are true but Statement II does not explain Statement I",
+                                          "Statement I is true but Statement II is false",
+                                          "Statement I is false but Statement II is true"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Indian Physiography \u0026 Rivers"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Which one of the following tributaries of the Indus river does NOT originate in the Himalayas?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gilgit",
+                                          "Gomal",
+                                          "Hunza",
+                                          "Zaskar"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Indian Physiography \u0026 Rivers"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which one of the following is the largest tributary of the Indus river, formed by the union of the Chandra and Bhaga streams?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jhelum",
+                                          "Ravi",
+                                          "Chenab",
+                                          "Beas"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Indian Physiography \u0026 Rivers"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Which west-flowing river of India has the distinction of crossing the Tropic of Cancer twice?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tapi",
+                                          "Luni",
+                                          "Mahi",
+                                          "Sabarmati"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Indian Physiography \u0026 Rivers"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Alluvial soils, which vary in nature from sandy loam to clay, are generally:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Poor in potash and rich in phosphorus",
+                                          "Poor in both potash and phosphorus",
+                                          "Rich in both potash and phosphorus",
+                                          "Rich in potash and poor in phosphorus"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Resources \u0026 Economy"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which one of the following groups consists entirely of Rabi crops in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rice, Cotton, Bajra",
+                                          "Groundnut, Cotton, Jute",
+                                          "Maize, Jowar, Tur",
+                                          "Wheat, Gram, Mustard"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Resources \u0026 Economy"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The cultivation of jute in India is concentrated mainly in which one of the following States, which alone accounts for roughly three-fourths of production?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Punjab",
+                                          "Maharashtra",
+                                          "West Bengal",
+                                          "Tamil Nadu"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Resources \u0026 Economy"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "In India, more than 99% of zinc is obtained from the Zawar area, which is located in which State?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jharkhand",
+                                          "Odisha",
+                                          "Rajasthan",
+                                          "Madhya Pradesh"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Resources \u0026 Economy"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Match List I (Major Port) with List II (Location) and select the correct answer:",
+                          "subs":  [
+                                       "A. Deendayal (Kandla) Port 1. Gulf of Mannar coast",
+                                       "B. V. O. Chidambaranar (Tuticorin) Port 2. Gulf of Kutch",
+                                       "C. Cochin Port 3. Zuari estuary",
+                                       "D. Mormugao Port 4. Vembanad Lake"
+                                   ],
+                          "options":  [
+                                          "A-2, B-1, C-4, D-3",
+                                          "A-1, B-2, C-3, D-4",
+                                          "A-2, B-1, C-3, D-4",
+                                          "A-3, B-1, C-4, D-2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Resources \u0026 Economy"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "K2 (Godwin Austen), the highest mountain peak in India, is part of which mountain range?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Zaskar Range",
+                                          "Dhauladhar Range",
+                                          "Pir Panjal Range",
+                                          "Karakoram Range"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Indian Physiography \u0026 Rivers"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "With reference to the Lakshadweep Islands, which one of the following statements is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "They are of volcanic origin and lie in the Bay of Bengal",
+                                          "They are of coral origin and lie in the Arabian Sea",
+                                          "They are the elevated portions of submarine mountains",
+                                          "Port Blair is their administrative headquarters"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: Indian Physiography \u0026 Rivers"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The Strait of Malacca, one of the world\u0027s busiest shipping lanes, connects the Andaman Sea with the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Arabian Sea",
+                                          "Persian Gulf",
+                                          "Red Sea",
+                                          "South China Sea"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: World"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which one of the following is the smallest continent in the world by land area?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Europe",
+                                          "Antarctica",
+                                          "South America",
+                                          "Australia"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Geography: World"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The national motto of India, “Satyameva Jayate,” is derived from which one of the following ancient texts?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rigveda Samhita",
+                                          "Manusmriti",
+                                          "Mundaka Upanishad",
+                                          "Arthashastra"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Ancient India"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The terms used for cereals in the Rig Veda are:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Godhuma and Vrihi",
+                                          "Yava and Dhanya",
+                                          "Tila and Khala",
+                                          "Priyangu and Shyamaka"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Ancient India"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "From which one of the following factory sites were limestone and chert blades mass-produced and sent to various Harappan settlements in Sindh?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sukkur and Rohri Hills",
+                                          "Khetri in Rajasthan",
+                                          "Chagai Hills",
+                                          "Hills of Baluchistan"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Ancient India"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The Harappans were among the earliest producers of cotton; the Greeks later referred to Indian cotton by which name, derived from “Sindh”?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sindon",
+                                          "Calico",
+                                          "Muslin",
+                                          "Chintz"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Ancient India"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The Mauryan emperor Bindusara, who bore the title “Amitraghata” (Slayer of Foes), received at his court a Greek ambassador named:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Megasthenes",
+                                          "Skylax",
+                                          "Nearchus",
+                                          "Deimachus"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Ancient India"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "In the Mauryan administration, Suvarnagiri served as the provincial capital of which region?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Uttarapatha (north)",
+                                          "Avantipatha (west)",
+                                          "Dakshinapatha (south)",
+                                          "Prachya (east)"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Ancient India"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "The Junagarh (Girnar) Rock Inscription, regarded as one of the earliest major inscriptions written entirely in Sanskrit, records the repair of the Sudarshan Lake by which ruler?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rudradaman I",
+                                          "Kanishka",
+                                          "Gautamiputra Satakarni",
+                                          "Kharavela"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Ancient India"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "The Chinese pilgrim who visited India during the reign of Harshavardhana and recorded his observations in the book “Si-yu-ki” (Records of the Western World) was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Fa-Hien",
+                                          "Hiuen Tsang",
+                                          "I-tsing",
+                                          "Sung Yun"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Ancient India"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "Which Gupta ruler is credited with founding Nalanda University, which became one of Asia\u0027s foremost centres of learning?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chandragupta I",
+                                          "Samudragupta",
+                                          "Kumaragupta I",
+                                          "Skandagupta"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Ancient India"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "The Tolkappiyam, one of the oldest surviving works of Tamil literature, is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A work of grammar",
+                                          "A Tamil poem in praise of Rajendra Chola",
+                                          "An ancient didactic work in Tamil",
+                                          "A drama composed by a Chera king"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Ancient India"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "In the Chola system of local self-government, the assembly consisting exclusively of Brahmins settled in a village granted to them was known as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ur",
+                                          "Nadu",
+                                          "Nagaram",
+                                          "Sabha"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Ancient India"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "The magnificent rock-cut Kailasa (Kailasanatha) Temple at Ellora was built under the patronage of which dynasty?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chalukyas of Badami",
+                                          "Pallavas",
+                                          "Rashtrakutas",
+                                          "Cholas"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Ancient India"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "The poet-musician of the Delhi Sultanate who held the title “Tuti-e-Hind” (Parrot of India) and is traditionally credited with the invention of the tabla was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Amir Khusrau",
+                                          "Ziauddin Barani",
+                                          "Minhaj-us-Siraj",
+                                          "Hasan Nizami"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Medieval India"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "Which Delhi Sultan founded the towns of Jaunpur, Hisar, Firozabad and Fatehabad, and established a free hospital called Dar-ul-Shafa?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Alauddin Khalji",
+                                          "Ghiyasuddin Balban",
+                                          "Firoz Shah Tughlaq",
+                                          "Sikandar Lodi"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Medieval India"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "The Arab conquest of Sindh and Multan in the early 8th century CE was led by Muhammad bin Qasim. The principal source of information on this invasion is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chach Nama",
+                                          "Tarikh-i-Firuz Shahi",
+                                          "Kitab-ul-Hind",
+                                          "Tabaqat-i-Nasiri"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Medieval India"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "The ruler who introduced the “Gaj-i-Sikandari,” a standardised unit for measuring land, and shifted the capital from Delhi to Agra, was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bahlul Lodi",
+                                          "Khizr Khan",
+                                          "Ibrahim Lodi",
+                                          "Sikandar Lodi"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Medieval India"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "In the Bahmani Kingdom, the administrative provinces were called tarafs, each governed by a Tarafdar. The two rival factions among its nobility were the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Deccanis and Afaqis (Pardesis)",
+                                          "Iqtadars and Muqtis",
+                                          "Amara-Nayakas and Ayagars",
+                                          "Jagirdars and Zamindars"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Medieval India"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "The medieval Portuguese traveller Domingo Paes has left a detailed description of which one of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Madurai",
+                                          "Vijayanagara",
+                                          "Arikamedu",
+                                          "Gingee"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Medieval India"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "The Yadava dynasty of the Deccan, later subdued by the Delhi Sultanate, had its capital at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Warangal",
+                                          "Dwarasamudra",
+                                          "Devagiri",
+                                          "Kalyani"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Medieval India"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "The Hoysala king Vishnuvardhana, who commissioned the famous Chennakeshava Temple at Belur, was converted from Jainism to Vaishnavism under the influence of which philosopher?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adi Shankaracharya",
+                                          "Ramanujacharya",
+                                          "Madhvacharya",
+                                          "Basavanna"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Medieval India"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "Which Delhi Sultan attempted to construct the Alai Minar, intended to be twice the height of the Qutb Minar, but left it unfinished?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Qutb-ud-din Aibak",
+                                          "Iltutmish",
+                                          "Alauddin Khalji",
+                                          "Firoz Shah Tughlaq"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Medieval India"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "Who among the following was the founder of the Virashaiva (Lingayat) movement in Karnataka?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Basavanna",
+                                          "Sambandar",
+                                          "Appar",
+                                          "Sundarar"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Medieval India"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "At which battle in 1540 did Sher Shah Suri decisively defeat Humayun, forcing him into exile in Persia?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Battle of Chausa",
+                                          "Battle of Ghaghara",
+                                          "Battle of Khanwa",
+                                          "Battle of Kannauj (Bilgram)"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Medieval India"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "In the Second Battle of Panipat (1556), the Mughal forces led by the regent Bairam Khan on behalf of Akbar defeated which one of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ibrahim Lodi",
+                                          "Rana Sanga",
+                                          "Hemu (Hemachandra Vikramaditya)",
+                                          "Sikandar Shah Suri"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Medieval India"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "The “Blue Water Policy” in India, aimed at controlling the seas and trade routes, was introduced by which Portuguese official?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vasco da Gama",
+                                          "Francisco de Almeida",
+                                          "Alfonso de Albuquerque",
+                                          "Nino da Cunha"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Medieval India"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "Sir Thomas Roe, who came to secure trade concessions for the English East India Company, was sent by King James I to the court of which Mughal emperor?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Akbar",
+                                          "Aurangzeb",
+                                          "Shah Jahan",
+                                          "Jahangir"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Modern India"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "The Young Bengal Movement of the 1820s–1830s, known for its radical rationalism, was led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Raja Ram Mohan Roy",
+                                          "Henry Louis Vivian Derozio",
+                                          "Ishwar Chandra Vidyasagar",
+                                          "Keshab Chandra Sen"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Modern India"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "Who founded the Seva Samiti at Allahabad in 1914?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Shri Ram Bajpai",
+                                          "Hriday Nath Kunzru",
+                                          "S. G. Vaze",
+                                          "Srinivasa Sastri"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Modern India"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "The Kheda Satyagraha of 1918, launched in support of peasants seeking remission of land revenue after crop failure, was organised on the ground by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rajendra Prasad",
+                                          "Sardar Vallabhbhai Patel",
+                                          "C. Rajagopalachari",
+                                          "Mahadev Desai"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Modern India"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "During the Revolt of 1857, the rebellion in the Arrah–Jagdishpur region of Bihar was led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nana Sahib",
+                                          "Kunwar Singh",
+                                          "Tantia Tope",
+                                          "Maulvi Ahmadullah Shah"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Modern India"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "The Portfolio System, under which each member of the Governor-General\u0027s executive council was placed in charge of a specific department, was introduced in India by which Act (during Canning\u0027s tenure)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Charter Act, 1853",
+                                          "Indian Councils Act, 1861",
+                                          "Indian Councils Act, 1892",
+                                          "Government of India Act, 1858"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Modern India"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "Who among the following was popularly known as “Lokahitwadi”?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gopal Hari Deshmukh",
+                                          "Mahadev Govind Ranade",
+                                          "Gopal Krishna Gokhale",
+                                          "Jyotiba Phule"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Modern India"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "At which session of 1920 did the Indian National Congress decide to attain Swaraj through extra-constitutional mass struggle and reorganise the party for the Non-Cooperation Movement?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Calcutta Session",
+                                          "Nagpur Session",
+                                          "Lucknow Session",
+                                          "Amritsar Session"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Modern India"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "The Nehru Report of 1928, the first major attempt by Indians to draft a constitutional framework for India, was prepared by a committee headed by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jawaharlal Nehru",
+                                          "Motilal Nehru",
+                                          "Tej Bahadur Sapru",
+                                          "M. A. Jinnah"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Modern India"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "The Tattvabodhini Sabha, which worked to spread rational and reformist ideas in Bengal, was established in 1839 by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Devendranath Tagore",
+                                          "Keshab Chandra Sen",
+                                          "Akshay Kumar Datta",
+                                          "Dwarkanath Tagore"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Modern India"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "The Rani of Jhansi Regiment, an all-women fighting unit of the Indian National Army (INA), was commanded by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Aruna Asaf Ali",
+                                          "Captain Lakshmi Sahgal",
+                                          "Usha Mehta",
+                                          "Sucheta Kripalani"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "History: Modern India"
+                      }
+                  ]
+}
