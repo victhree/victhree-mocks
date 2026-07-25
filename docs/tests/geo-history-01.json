@@ -19,15 +19,16 @@
                       },
                       {
                           "n":  2,
-                          "stem":  "When the supercontinent Pangaea began to break up, it first split into two large blocks. The northern block was Laurasia; the southern block was:",
+                          "stem":  "With reference to the Nebular Hypothesis of the origin of celestial bodies, consider the following statements:",
                           "subs":  [
-
+                                       "1. The solar system developed out of an interstellar cloud of dust and gas called a nebula.",
+                                       "2. The planets formed from a cloud of material composed mostly of hydrogen and helium."
                                    ],
                           "options":  [
-                                          "Gondwanaland",
-                                          "Panthalassa",
-                                          "Angaraland",
-                                          "Tethys"
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
                                       ],
                           "pyq":  null,
                           "topic":  "Geography: Geomorphology \u0026 Astronomy"
@@ -49,18 +50,20 @@
                       },
                       {
                           "n":  4,
-                          "stem":  "With reference to comets, which one of the following statements is correct?",
+                          "stem":  "With reference to water vapour in the Earth\u0027s atmosphere, consider the following statements:",
                           "subs":  [
-
+                                       "1. Its volume generally decreases as one moves from the equator towards the poles.",
+                                       "2. It absorbs both incoming solar radiation and outgoing terrestrial radiation.",
+                                       "3. It is the most abundant greenhouse gas on Earth."
                                    ],
                           "options":  [
-                                          "The tail of a comet always points towards the Sun",
-                                          "The tail of a comet always points away from the Sun",
-                                          "Comets are made mainly of iron and nickel",
-                                          "Comets do not orbit the Sun"
+                                          "1 only",
+                                          "1 and 3 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
                                       ],
                           "pyq":  null,
-                          "topic":  "Geography: Geomorphology \u0026 Astronomy"
+                          "topic":  "Geography: Climate \u0026 Oceans"
                       },
                       {
                           "n":  5,
@@ -156,16 +159,18 @@
                       },
                       {
                           "n":  11,
-                          "stem":  "Consider the following statements regarding the salinity of ocean water:",
+                          "stem":  "Which of the following forces play a significant role in the formation of ocean tides?",
                           "subs":  [
-                                       "1. The average salinity of ocean water is about 35 parts per thousand.",
-                                       "2. High evaporation tends to increase surface salinity, while heavy freshwater influx lowers it."
+                                       "1. Centrifugal force of the Earth.",
+                                       "2. Gravitational force of the Moon.",
+                                       "3. Coriolis force of the Earth.",
+                                       "4. Gravitational force of the Sun."
                                    ],
                           "options":  [
-                                          "1 only",
-                                          "2 only",
-                                          "Both 1 and 2",
-                                          "Neither 1 nor 2"
+                                          "1, 2 and 3 only",
+                                          "1 and 3 only",
+                                          "2 and 4 only",
+                                          "1, 2 and 4 only"
                                       ],
                           "pyq":  null,
                           "topic":  "Geography: Climate \u0026 Oceans"
@@ -202,33 +207,36 @@
                       },
                       {
                           "n":  14,
-                          "stem":  "Which one of the following is the largest tributary of the Indus river, formed by the union of the Chandra and Bhaga streams?",
+                          "stem":  "Springs (natural outflows of groundwater) are commonly found in which of the following situations?",
                           "subs":  [
-
+                                       "1. Well-jointed rocks.",
+                                       "2. Arid areas with underlying impermeable rocks.",
+                                       "3. Karst topography.",
+                                       "4. Tilted strata."
                                    ],
                           "options":  [
-                                          "Jhelum",
-                                          "Ravi",
-                                          "Chenab",
-                                          "Beas"
+                                          "1 and 3 only",
+                                          "1, 3 and 4",
+                                          "2 and 4 only",
+                                          "3 and 4 only"
                                       ],
                           "pyq":  null,
-                          "topic":  "Geography: Indian Physiography \u0026 Rivers"
+                          "topic":  "Geography: Geomorphology \u0026 Astronomy"
                       },
                       {
                           "n":  15,
-                          "stem":  "Which west-flowing river of India has the distinction of crossing the Tropic of Cancer twice?",
+                          "stem":  "In geomorphology, the term \"wind gap\" is best described as:",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Tapi",
-                                          "Luni",
-                                          "Mahi",
-                                          "Sabarmati"
+                                          "A narrow passage created by wind that channels an active river",
+                                          "A depression formed by wind erosion that holds a lake",
+                                          "A valley or pass that was once a river course but no longer carries water",
+                                          "A desert hollow that forms a temporary water reservoir"
                                       ],
                           "pyq":  null,
-                          "topic":  "Geography: Indian Physiography \u0026 Rivers"
+                          "topic":  "Geography: Geomorphology \u0026 Astronomy"
                       },
                       {
                           "n":  16,
@@ -277,33 +285,30 @@
                       },
                       {
                           "n":  19,
-                          "stem":  "In India, more than 99% of zinc is obtained from the Zawar area, which is located in which State?",
+                          "stem":  "In the classification of industries, which one of the following best describes a \"basic\" (key) industry?",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Jharkhand",
-                                          "Odisha",
-                                          "Rajasthan",
-                                          "Madhya Pradesh"
+                                          "An industry whose products serve as raw materials for the production of other goods",
+                                          "An industry that extracts and processes natural resources for final consumption",
+                                          "An industry that operates with low technology and minimal processing",
+                                          "An industry that manufactures essential consumer goods such as cooking oil"
                                       ],
                           "pyq":  null,
                           "topic":  "Geography: Resources \u0026 Economy"
                       },
                       {
                           "n":  20,
-                          "stem":  "Match List I (Major Port) with List II (Location) and select the correct answer:",
+                          "stem":  "Singapore is often described as a \"Port of Call\" because:",
                           "subs":  [
-                                       "A. Deendayal (Kandla) Port 1. Gulf of Mannar coast",
-                                       "B. V. O. Chidambaranar (Tuticorin) Port 2. Gulf of Kutch",
-                                       "C. Cochin Port 3. Zuari estuary",
-                                       "D. Mormugao Port 4. Vembanad Lake"
+
                                    ],
                           "options":  [
-                                          "A-2, B-1, C-4, D-3",
-                                          "A-1, B-2, C-3, D-4",
-                                          "A-2, B-1, C-3, D-4",
-                                          "A-3, B-1, C-4, D-2"
+                                          "It specialises in the processing and shipping of oil",
+                                          "It is a deep-water port built away from the actual harbour",
+                                          "It lies on a main sea route where ships anchor for refuelling, watering and taking on food",
+                                          "It serves parent ports by receiving ships too large to approach them"
                                       ],
                           "pyq":  null,
                           "topic":  "Geography: Resources \u0026 Economy"
@@ -355,15 +360,15 @@
                       },
                       {
                           "n":  24,
-                          "stem":  "Which one of the following is the smallest continent in the world by land area?",
+                          "stem":  "Kazakhstan is the world\u0027s leading producer of which one of the following minerals?",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Europe",
-                                          "Antarctica",
-                                          "South America",
-                                          "Australia"
+                                          "Copper",
+                                          "Uranium",
+                                          "Cobalt",
+                                          "Lithium"
                                       ],
                           "pyq":  null,
                           "topic":  "Geography: World"
@@ -415,15 +420,15 @@
                       },
                       {
                           "n":  28,
-                          "stem":  "The Harappans were among the earliest producers of cotton; the Greeks later referred to Indian cotton by which name, derived from “Sindh”?",
+                          "stem":  "Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, was located in which one of the following regions?",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Sindon",
-                                          "Calico",
-                                          "Muslin",
-                                          "Chintz"
+                                          "Andhra",
+                                          "Gandhara",
+                                          "Kalinga",
+                                          "Magadha"
                                       ],
                           "pyq":  null,
                           "topic":  "History: Ancient India"
@@ -445,15 +450,15 @@
                       },
                       {
                           "n":  30,
-                          "stem":  "In the Mauryan administration, Suvarnagiri served as the provincial capital of which region?",
+                          "stem":  "With reference to the Early Vedic Age, the term \"Godhuli\" referred to:",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Uttarapatha (north)",
-                                          "Avantipatha (west)",
-                                          "Dakshinapatha (south)",
-                                          "Prachya (east)"
+                                          "A village officer in charge of cattle",
+                                          "A measure of time",
+                                          "A war fought over cattle",
+                                          "The chief or raja of a village"
                                       ],
                           "pyq":  null,
                           "topic":  "History: Ancient India"
@@ -550,15 +555,15 @@
                       },
                       {
                           "n":  37,
-                          "stem":  "The poet-musician of the Delhi Sultanate who held the title “Tuti-e-Hind” (Parrot of India) and is traditionally credited with the invention of the tabla was:",
+                          "stem":  "In the context of Indian literature, \"Manipravalam\" refers to:",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Amir Khusrau",
-                                          "Ziauddin Barani",
-                                          "Minhaj-us-Siraj",
-                                          "Hasan Nizami"
+                                          "A dialect of Malayalam spoken by Namboodiri Brahmins",
+                                          "A hybrid literary style blending Sanskrit with a regional language such as Malayalam",
+                                          "A Tamil–Kannada hybrid literature of the Chola period",
+                                          "A type of Jain literature written in Ardhamagadhi"
                                       ],
                           "pyq":  null,
                           "topic":  "History: Medieval India"
@@ -580,15 +585,15 @@
                       },
                       {
                           "n":  39,
-                          "stem":  "The Arab conquest of Sindh and Multan in the early 8th century CE was led by Muhammad bin Qasim. The principal source of information on this invasion is the:",
+                          "stem":  "In the context of Mughal administration, the term \"Abwab\" is best described as:",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Chach Nama",
-                                          "Tarikh-i-Firuz Shahi",
-                                          "Kitab-ul-Hind",
-                                          "Tabaqat-i-Nasiri"
+                                          "A tax imposed on land in addition to the original rent",
+                                          "A toll tax levied on traders",
+                                          "High-ranking military officials of the Mughal army",
+                                          "A reward given to Mansabdars for good governance"
                                       ],
                           "pyq":  null,
                           "topic":  "History: Medieval India"
@@ -610,15 +615,15 @@
                       },
                       {
                           "n":  41,
-                          "stem":  "In the Bahmani Kingdom, the administrative provinces were called tarafs, each governed by a Tarafdar. The two rival factions among its nobility were the:",
+                          "stem":  "In Indian history, who among the following were known as \"Kulah-Daran\"?",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Deccanis and Afaqis (Pardesis)",
-                                          "Iqtadars and Muqtis",
-                                          "Amara-Nayakas and Ayagars",
-                                          "Jagirdars and Zamindars"
+                                          "Sayyids",
+                                          "Qalandars (wandering dervishes)",
+                                          "Persian calligraphists",
+                                          "Arab merchants"
                                       ],
                           "pyq":  null,
                           "topic":  "History: Medieval India"
@@ -655,15 +660,15 @@
                       },
                       {
                           "n":  44,
-                          "stem":  "The Hoysala king Vishnuvardhana, who commissioned the famous Chennakeshava Temple at Belur, was converted from Jainism to Vaishnavism under the influence of which philosopher?",
+                          "stem":  "In Indian history, which one of the following best describes the \"Jajmani system\"?",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Adi Shankaracharya",
-                                          "Ramanujacharya",
-                                          "Madhvacharya",
-                                          "Basavanna"
+                                          "A form of bonded labour in which lower castes worked for upper castes without wages",
+                                          "A system of land grants given by the state to lower castes for hereditary service",
+                                          "A complementary relationship between dominant peasant castes and service/artisan castes",
+                                          "A taxation system in which artisans paid dues to the ruling elite for occupational rights"
                                       ],
                           "pyq":  null,
                           "topic":  "History: Medieval India"
@@ -700,15 +705,15 @@
                       },
                       {
                           "n":  47,
-                          "stem":  "At which battle in 1540 did Sher Shah Suri decisively defeat Humayun, forcing him into exile in Persia?",
+                          "stem":  "Which dynasty ruled Odisha from the 11th to the 15th century, with rulers who commissioned the Jagannath Temple at Puri and the Sun Temple at Konark?",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Battle of Chausa",
-                                          "Battle of Ghaghara",
-                                          "Battle of Khanwa",
-                                          "Battle of Kannauj (Bilgram)"
+                                          "Sena dynasty",
+                                          "Somavamshi dynasty",
+                                          "Eastern Ganga dynasty",
+                                          "Eastern Chalukya dynasty"
                                       ],
                           "pyq":  null,
                           "topic":  "History: Medieval India"
@@ -730,45 +735,45 @@
                       },
                       {
                           "n":  49,
-                          "stem":  "The “Blue Water Policy” in India, aimed at controlling the seas and trade routes, was introduced by which Portuguese official?",
+                          "stem":  "Who among the following founded the Bhil Seva Mandal in 1922?",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Vasco da Gama",
-                                          "Francisco de Almeida",
-                                          "Alfonso de Albuquerque",
-                                          "Nino da Cunha"
+                                          "Amritlal Vithaldas Thakkar",
+                                          "Gurusaday Dutt",
+                                          "Dhondo Keshav Karve",
+                                          "Dayaram Gidumal"
                                       ],
                           "pyq":  null,
-                          "topic":  "History: Medieval India"
+                          "topic":  "History: Modern India"
                       },
                       {
                           "n":  50,
-                          "stem":  "Sir Thomas Roe, who came to secure trade concessions for the English East India Company, was sent by King James I to the court of which Mughal emperor?",
+                          "stem":  "In India\u0027s struggle for independence, \"Praja Mandals\" are best described as:",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Akbar",
-                                          "Aurangzeb",
-                                          "Shah Jahan",
-                                          "Jahangir"
+                                          "Organisations formed to fight for the rights of the people in the princely states",
+                                          "Secret societies and underground revolutionary groups",
+                                          "Block-level committees of the Indian National Congress",
+                                          "Volunteer corps that promoted the boycott of foreign goods during the Swadeshi Movement"
                                       ],
                           "pyq":  null,
                           "topic":  "History: Modern India"
                       },
                       {
                           "n":  51,
-                          "stem":  "The Young Bengal Movement of the 1820s–1830s, known for its radical rationalism, was led by:",
+                          "stem":  "The Cunningham Circular, issued in Assam in 1930, was primarily aimed at:",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Raja Ram Mohan Roy",
-                                          "Henry Louis Vivian Derozio",
-                                          "Ishwar Chandra Vidyasagar",
-                                          "Keshab Chandra Sen"
+                                          "Restricting the admission of Indian students to higher education institutions",
+                                          "Preventing students from participating in anti-government demonstrations and movements",
+                                          "Promoting Western education and culture among Indian students",
+                                          "Regulating the recruitment of students into the colonial administrative services"
                                       ],
                           "pyq":  null,
                           "topic":  "History: Modern India"
@@ -805,15 +810,15 @@
                       },
                       {
                           "n":  54,
-                          "stem":  "During the Revolt of 1857, the rebellion in the Arrah–Jagdishpur region of Bihar was led by:",
+                          "stem":  "Which one of the following statements about the Act V of 1843 relating to slavery in India is correct?",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Nana Sahib",
-                                          "Kunwar Singh",
-                                          "Tantia Tope",
-                                          "Maulvi Ahmadullah Shah"
+                                          "It gave masters the right to keep their slaves tied to their estates",
+                                          "It denied masters the use of the courts to enforce their claims over slaves",
+                                          "It made the law courts and masters jointly resolve cases of desertion",
+                                          "It made the slaves the owners of the land they worked on"
                                       ],
                           "pyq":  null,
                           "topic":  "History: Modern India"
@@ -850,15 +855,15 @@
                       },
                       {
                           "n":  57,
-                          "stem":  "At which session of 1920 did the Indian National Congress decide to attain Swaraj through extra-constitutional mass struggle and reorganise the party for the Non-Cooperation Movement?",
+                          "stem":  "The Kundara Proclamation (1809) is associated with which one of the following revolts?",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Calcutta Session",
-                                          "Nagpur Session",
-                                          "Lucknow Session",
-                                          "Amritsar Session"
+                                          "Diwan Velu Thampi\u0027s Revolt",
+                                          "Poligars\u0027 Revolt",
+                                          "Sanyasi Revolt",
+                                          "Revolt of the Moamarias"
                                       ],
                           "pyq":  null,
                           "topic":  "History: Modern India"
@@ -895,15 +900,17 @@
                       },
                       {
                           "n":  60,
-                          "stem":  "The Rani of Jhansi Regiment, an all-women fighting unit of the Indian National Army (INA), was commanded by:",
+                          "stem":  "Consider the following statements regarding the Paika Rebellion (1817):",
                           "subs":  [
-
+                                       "1. It was led by Bakshi Jagabandhu Bidyadhar.",
+                                       "2. The abolition of the local cowrie currency and the demand for tax payment in silver caused resentment among the Paikas.",
+                                       "3. It received support from local zamindars of the region."
                                    ],
                           "options":  [
-                                          "Aruna Asaf Ali",
-                                          "Captain Lakshmi Sahgal",
-                                          "Usha Mehta",
-                                          "Sucheta Kripalani"
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
                                       ],
                           "pyq":  null,
                           "topic":  "History: Modern India"
