@@ -4,15 +4,15 @@
     "questions":  [
                       {
                           "n":  1,
-                          "stem":  "The deepest artificially drilled point on Earth, which has provided direct geological information about the crust, is:",
+                          "stem":  "The \"Big Splat theory\" (Giant Impact hypothesis), sometimes seen in the news, is associated with which one of the following?",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Kola Superdeep Borehole",
-                                          "Mponeng Gold Mine",
-                                          "Bingham Canyon Mine",
-                                          "Chuquicamata Mine"
+                                          "The formation of the Earth\u0027s Moon",
+                                          "The origin of the asteroid belt",
+                                          "The impact of solar winds on the Earth",
+                                          "The formation of Saturn\u0027s rings"
                                       ],
                           "pyq":  null,
                           "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
@@ -34,15 +34,15 @@
                       },
                       {
                           "n":  3,
-                          "stem":  "Consider the following statements regarding temperature conditions inside the Earth:",
+                          "stem":  "With reference to the Dharwar rock system of India, consider the following statements:",
                           "subs":  [
-                                       "1. On average, temperature rises by about 1°C for every 32 metres of depth in the upper crust.",
-                                       "2. Radioactive disintegration of rocks is one of the main reasons for the increase in internal heat."
+                                       "1. It is the oldest metamorphosed sedimentary rock system in India.",
+                                       "2. It is economically important as a source of minerals such as gold, iron ore, manganese and mica."
                                    ],
                           "options":  [
                                           "1 only",
-                                          "2 only",
                                           "Both 1 and 2",
+                                          "2 only",
                                           "Neither 1 nor 2"
                                       ],
                           "pyq":  null,
@@ -65,15 +65,17 @@
                       },
                       {
                           "n":  5,
-                          "stem":  "With reference to the layers of the Earth\u0027s crust, which one of the following statements is correct?",
+                          "stem":  "Which of the following conditions are conducive to the formation of Karst topography?",
                           "subs":  [
-
+                                       "1. Presence of soluble rocks such as limestone at or near the surface.",
+                                       "2. Presence of a perennial source of water.",
+                                       "3. A thick, continuous cover of impermeable clay over the rock."
                                    ],
                           "options":  [
-                                          "SIAL is richer in silica and magnesium than SIMA",
-                                          "SIMA forms the upper continental layer and SIAL the lower oceanic layer",
-                                          "SIMA is denser than SIAL and is rich in silica and magnesium",
-                                          "Both SIAL and SIMA have identical average densities"
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
                                       ],
                           "pyq":  null,
                           "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
@@ -143,15 +145,16 @@
                       },
                       {
                           "n":  10,
-                          "stem":  "The volcanic belt that contains the largest number of active volcanoes in the world is the:",
+                          "stem":  "The Western Ghats are a tectonically stable region, yet landslides are common there. Consider the following statements:",
                           "subs":  [
-
+                                       "1. The slopes of the Western Ghats are very steep.",
+                                       "2. Frequent temperature changes promote intense mechanical weathering of the rocks."
                                    ],
                           "options":  [
-                                          "Mid-Atlantic belt",
-                                          "Mid-Continental belt",
-                                          "Circum-Pacific belt",
-                                          "East African Rift belt"
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2",
+                                          "Both 1 and 2"
                                       ],
                           "pyq":  null,
                           "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
@@ -188,16 +191,15 @@
                       },
                       {
                           "n":  13,
-                          "stem":  "With reference to the measurement of earthquakes, consider the following statements:",
+                          "stem":  "Cement is primarily a mixture of which one of the following categories of minerals?",
                           "subs":  [
-                                       "1. The Richter scale measures the magnitude, i.e., the energy released by an earthquake.",
-                                       "2. The Mercalli scale measures the intensity, i.e., the observed effects and damage caused."
+
                                    ],
                           "options":  [
-                                          "1 only",
-                                          "2 only",
-                                          "Both 1 and 2",
-                                          "Neither 1 nor 2"
+                                          "Metallic minerals",
+                                          "Non-metallic minerals",
+                                          "Ferrous minerals",
+                                          "Both metallic and non-metallic minerals"
                                       ],
                           "pyq":  null,
                           "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
@@ -219,18 +221,16 @@
                       },
                       {
                           "n":  15,
-                          "stem":  "Match List I (Original Rock) with List II (Metamorphic Product) and select the correct answer:",
+                          "stem":  "Consider the following statements about canyons:",
                           "subs":  [
-                                       "A. Limestone 1. Slate",
-                                       "B. Sandstone 2. Marble",
-                                       "C. Shale 3. Graphite",
-                                       "D. Coal 4. Quartzite"
+                                       "1. A canyon is generally wider at the top than at the bottom and commonly forms in horizontally bedded sedimentary rocks.",
+                                       "2. The Gandikota gorge, often called the \"Grand Canyon of India,\" lies on the Pennar (Penna) river."
                                    ],
                           "options":  [
-                                          "A-2, B-4, C-1, D-3",
-                                          "A-1, B-4, C-2, D-3",
-                                          "A-2, B-1, C-4, D-3",
-                                          "A-4, B-2, C-1, D-3"
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
                                       ],
                           "pyq":  null,
                           "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
@@ -267,15 +267,15 @@
                       },
                       {
                           "n":  18,
-                          "stem":  "Which one of the following mass-movement processes is the SLOWEST?",
+                          "stem":  "A peripediment, a gently sloping surface of alluvial debris at the base of a mountain in a desert or semi-desert region, is also known as a:",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Soil creep",
-                                          "Earthflow",
-                                          "Mudflow",
-                                          "Avalanche"
+                                          "Bajada",
+                                          "Inselberg",
+                                          "Zeugen",
+                                          "Playa"
                                       ],
                           "pyq":  null,
                           "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
@@ -297,15 +297,15 @@
                       },
                       {
                           "n":  20,
-                          "stem":  "Loess, a fertile and uniform deposit found in several parts of the world, is best described as:",
+                          "stem":  "In the context of desert geomorphology, the term \"playa\" is best described as:",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "A thick deposit of fine, wind-blown silt",
-                                          "A ridge of sand deposited by ocean waves",
-                                          "Glacial till deposited directly by ice",
-                                          "Alluvium deposited by river floods"
+                                          "A shallow, temporary saline lake in a desert basin",
+                                          "An elongated sandy ridge formed by wind action",
+                                          "A depression formed by the dissolution of limestone",
+                                          "A deep valley carved by glacial erosion"
                                       ],
                           "pyq":  null,
                           "topic":  "Geomorphology \u0026 Earth\u0027s Interior"
@@ -327,15 +327,16 @@
                       },
                       {
                           "n":  22,
-                          "stem":  "The Kármán Line, conventionally taken as the boundary between the Earth\u0027s atmosphere and outer space, is located at an altitude of approximately:",
+                          "stem":  "With reference to Ocean Mean Temperature (OMT), consider the following statements:",
                           "subs":  [
-
+                                       "1. It is measured up to the depth of the 26°C isotherm.",
+                                       "2. OMT data collected during January–March can be used to assess whether monsoon rainfall will be above or below the long-term mean."
                                    ],
                           "options":  [
-                                          "50 km",
-                                          "100 km",
-                                          "400 km",
-                                          "1000 km"
+                                          "1 only",
+                                          "Both 1 and 2",
+                                          "2 only",
+                                          "Neither 1 nor 2"
                                       ],
                           "pyq":  null,
                           "topic":  "Atmosphere \u0026 Climatology"
@@ -375,10 +376,10 @@
                       },
                       {
                           "n":  25,
-                          "stem":  "Consider the following statements about temperature inversion:",
+                          "stem":  "Consider the following statements about ocean trenches:",
                           "subs":  [
-                                       "1. It is a reversal of the normal lapse rate in which temperature increases with height within a layer.",
-                                       "2. Calm, clear nights with cold air draining into valleys favour its formation."
+                                       "1. Earthquakes occur frequently in trench regions due to tectonic activity.",
+                                       "2. No life forms exist in trenches because of high pressure and the absence of sunlight."
                                    ],
                           "options":  [
                                           "1 only",
@@ -454,15 +455,16 @@
                       },
                       {
                           "n":  30,
-                          "stem":  "The strength and position of a permanent high-pressure cell located to the east of Madagascar (around 20°S over the Indian Ocean) significantly affects the Indian monsoon. This cell is called the:",
+                          "stem":  "Consider the following statements regarding ocean gyres:",
                           "subs":  [
-
+                                       "1. They are large systems of circular ocean currents formed by global wind patterns and the Coriolis effect.",
+                                       "2. They rotate clockwise in the Northern Hemisphere and anticlockwise in the Southern Hemisphere."
                                    ],
                           "options":  [
-                                          "Mascarene High",
-                                          "Azores High",
-                                          "Siberian High",
-                                          "Pacific High"
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
                                       ],
                           "pyq":  null,
                           "topic":  "Atmosphere \u0026 Climatology"
@@ -518,15 +520,15 @@
                       },
                       {
                           "n":  34,
-                          "stem":  "Which one of the following is the flattest and smoothest part of the ocean floor, generally lying at depths of 3,000–6,000 metres and covered with fine sediments?",
+                          "stem":  "Statement I: The soil of tropical rain forests is generally poor in nutrients.",
                           "subs":  [
-
+                                       "Statement II: High temperature and heavy rainfall cause rapid decomposition of organic matter and intense leaching of nutrients."
                                    ],
                           "options":  [
-                                          "Continental shelf",
-                                          "Continental slope",
-                                          "Abyssal plain",
-                                          "Oceanic ridge"
+                                          "Both statements are true and Statement II correctly explains Statement I",
+                                          "Both statements are true but Statement II does not explain Statement I",
+                                          "Statement I is true but Statement II is false",
+                                          "Statement I is false but Statement II is true"
                                       ],
                           "pyq":  null,
                           "topic":  "Oceanography"
@@ -593,15 +595,16 @@
                       },
                       {
                           "n":  39,
-                          "stem":  "A ring-shaped coral reef enclosing a shallow central lagoon is known as a/an:",
+                          "stem":  "Consider the following statements about dust particles in the atmosphere:",
                           "subs":  [
-
+                                       "1. Their concentration is generally higher in the subtropical and temperate regions than in the equatorial region.",
+                                       "2. They act as hygroscopic nuclei around which water vapour condenses to form clouds."
                                    ],
                           "options":  [
-                                          "Fringing reef",
-                                          "Barrier reef",
-                                          "Atoll",
-                                          "Guyot"
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
                                       ],
                           "pyq":  null,
                           "topic":  "Oceanography"
@@ -653,15 +656,15 @@
                       },
                       {
                           "n":  43,
-                          "stem":  "Mahendragiri is the highest peak of which one of the following?",
+                          "stem":  "Harike Wetland, a Ramsar site in India, is located at the confluence of which two rivers?",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Western Ghats",
-                                          "Eastern Ghats",
-                                          "Satpura Range",
-                                          "Vindhya Range"
+                                          "Ravi and Beas",
+                                          "Beas and Sutlej",
+                                          "Ghaggar and Sutlej",
+                                          "Ravi and Ghaggar"
                                       ],
                           "pyq":  null,
                           "topic":  "Indian Physiography"
@@ -683,15 +686,16 @@
                       },
                       {
                           "n":  45,
-                          "stem":  "Which one of the following rivers is known as the “Dakshin Ganga” (Ganga of the South) and is the largest of the Peninsular rivers?",
+                          "stem":  "With reference to the Meghalayan Plateau, consider the following statements:",
                           "subs":  [
-
+                                       "1. It is an extension of the Indian Peninsular Plateau.",
+                                       "2. It is rich in mineral resources such as coal and uranium."
                                    ],
                           "options":  [
-                                          "Krishna",
-                                          "Kaveri",
-                                          "Godavari",
-                                          "Mahanadi"
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
                                       ],
                           "pyq":  null,
                           "topic":  "Indian Rivers \u0026 Drainage"
@@ -728,30 +732,30 @@
                       },
                       {
                           "n":  48,
-                          "stem":  "A drainage pattern in which streams converge inward toward a central depression, such as around Loktak Lake in Manipur, is called:",
+                          "stem":  "Pyrolusite and braunite are important ores of which one of the following metals?",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Radial",
-                                          "Centripetal",
-                                          "Dendritic",
-                                          "Barbed"
+                                          "Zinc",
+                                          "Lead",
+                                          "Manganese",
+                                          "Nickel"
                                       ],
                           "pyq":  null,
                           "topic":  "Indian Rivers \u0026 Drainage"
                       },
                       {
                           "n":  49,
-                          "stem":  "The Chambal river is particularly noted for which one of the following features?",
+                          "stem":  "Which two countries are the world\u0027s two largest producers of cocoa?",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "The world\u0027s largest river island",
-                                          "Extensive badland (ravine) topography",
-                                          "A large inland delta",
-                                          "Cutting the Tropic of Cancer twice"
+                                          "Algeria and Morocco",
+                                          "Botswana and Namibia",
+                                          "Côte d\u0027Ivoire and Ghana",
+                                          "Madagascar and Mozambique"
                                       ],
                           "pyq":  null,
                           "topic":  "Indian Rivers \u0026 Drainage"
@@ -804,16 +808,15 @@
                       },
                       {
                           "n":  53,
-                          "stem":  "Consider the following statements about laterite soil:",
+                          "stem":  "Which one of the following statements best describes the concept of \"possibilism\" in human geography?",
                           "subs":  [
-                                       "1. It is formed by intense leaching under conditions of high rainfall and temperature.",
-                                       "2. It is rich in humus and nitrogen, making it naturally very fertile."
+
                                    ],
                           "options":  [
-                                          "1 only",
-                                          "2 only",
-                                          "Both 1 and 2",
-                                          "Neither 1 nor 2"
+                                          "Human beings are entirely controlled by nature, with no scope for cultural choice",
+                                          "Human beings make use of the opportunities provided by nature for their cultural development",
+                                          "Human beings can exploit nature without any constraints",
+                                          "Human activity and the forces of nature have no impact on each other"
                                       ],
                           "pyq":  null,
                           "topic":  "Soils, Minerals \u0026 Resources"
@@ -865,15 +868,15 @@
                       },
                       {
                           "n":  57,
-                          "stem":  "Thorium, an important atomic mineral, is chiefly derived from monazite sands found mainly along the coast of which Indian State?",
+                          "stem":  "In human geography, the term \"transhumance\" best refers to:",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "Gujarat",
-                                          "Kerala",
-                                          "West Bengal",
-                                          "Maharashtra"
+                                          "Large-scale rural-to-urban migration in search of employment",
+                                          "The permanent settlement of nomadic groups in one area",
+                                          "The seasonal movement of herders with livestock between plains and mountain pastures",
+                                          "The shift of nomadic groups to commercial livestock rearing"
                                       ],
                           "pyq":  null,
                           "topic":  "Soils, Minerals \u0026 Resources"
@@ -895,33 +898,32 @@
                       },
                       {
                           "n":  59,
-                          "stem":  "Match List I (Temperate Grassland) with List II (Region) and select the correct answer:",
+                          "stem":  "With reference to Mediterranean agriculture, consider the following statements:",
                           "subs":  [
-                                       "A. Prairies 1. South Africa",
-                                       "B. Pampas 2. Eurasia",
-                                       "C. Steppes 3. North America",
-                                       "D. Veld 4. Argentina–Uruguay"
+                                       "1. It is practised in regions such as southern California, central Chile and south-western South Africa.",
+                                       "2. Viticulture and orchard (fruit) farming are its characteristic features.",
+                                       "3. Hard winter wheat is one of its primary food crops."
                                    ],
                           "options":  [
-                                          "A-3, B-4, C-2, D-1",
-                                          "A-2, B-4, C-3, D-1",
-                                          "A-3, B-1, C-2, D-4",
-                                          "A-4, B-3, C-2, D-1"
+                                          "1 and 2 only",
+                                          "3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
                                       ],
                           "pyq":  null,
                           "topic":  "World Geography"
                       },
                       {
                           "n":  60,
-                          "stem":  "The Atacama Desert, often described as the driest desert in the world, owes its extreme aridity largely to the rain-shadow effect of which mountain range and a cold offshore current?",
+                          "stem":  "Which one of the following best describes the term \"conurbation\"?",
                           "subs":  [
 
                                    ],
                           "options":  [
-                                          "The Rockies and the California Current",
-                                          "The Andes and the Peru (Humboldt) Current",
-                                          "The Alps and the Canary Current",
-                                          "The Drakensberg and the Benguela Current"
+                                          "A city that acts as a key centre of trade and economic activity",
+                                          "An urban area with a population of more than 10 million people",
+                                          "A large urban area formed by the merging of several originally separate towns and cities",
+                                          "A rural area in which most people work in non-agricultural activities"
                                       ],
                           "pyq":  null,
                           "topic":  "World Geography"
