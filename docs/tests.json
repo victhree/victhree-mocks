@@ -56,6 +56,14 @@
       "durationMin": 60,
       "count": 60,
       "description": "60 combined MCQs — Geography (physical, climate, oceans, Indian) + History (Ancient, Medieval, Modern)."
+    },
+    {
+      "id": "polity-01",
+      "title": "Polity-Test 1",
+      "subject": "Polity",
+      "durationMin": 60,
+      "count": 60,
+      "description": "60 MCQs on Indian Polity & Constitution — framework, rights, DPSP, executive, legislature, judiciary, emergency & bodies; 20 tagged CDS PYQs."
     }
   ]
 }

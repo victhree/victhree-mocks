@@ -1,0 +1,939 @@
+{
+    "title":  "Polity-Test 1",
+    "durationMin":  60,
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The doctrine that the powers of the State must be subject to specific limits laid down by the Constitution, so as to prevent arbitrary rule, is known as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Constitutionalism",
+                                          "Constitutional morality",
+                                          "Parliamentary sovereignty",
+                                          "Rule by law"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Constitution: Framework, Preamble \u0026 Federalism"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Which one of the following is a feature of the parliamentary system of government as adopted in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The executive is not responsible to the legislature",
+                                          "There is a strict separation of powers between the executive and legislature",
+                                          "The real executive (Council of Ministers) is responsible to the legislature",
+                                          "Ministers cannot be members of the legislature"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Constitution: Framework, Preamble \u0026 Federalism"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Which of the following are “unitary” features that make the Indian Constitution quasi-federal?",
+                          "subs":  [
+                                       "1. Residuary powers are vested in the Union.",
+                                       "2. Single citizenship and an integrated judiciary.",
+                                       "3. Parliament can alter the area, boundaries or name of a state without its consent."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Constitution: Framework, Preamble \u0026 Federalism"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The doctrine of the “Basic Structure” of the Constitution — that Parliament can amend the Constitution but cannot destroy its basic structure — was propounded in which case?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Golaknath case (1967)",
+                                          "Kesavananda Bharati case (1973)",
+                                          "Minerva Mills case (1980)",
+                                          "S.R. Bommai case (1994)"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Constitution: Framework, Preamble \u0026 Federalism"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which of the following terms were added to the Preamble of the Constitution of India by the Constitutional (42nd) Amendment, 1976?",
+                          "subs":  [
+                                       "1. Socialist",
+                                       "2. Secular",
+                                       "3. Integrity",
+                                       "4. Fraternity"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 4",
+                                          "1, 3 and 4"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "topic":  "Constitution: Framework, Preamble \u0026 Federalism"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Consider the following statements about the Preamble of the Indian Constitution:",
+                          "subs":  [
+                                       "1. It is based on the Objectives Resolution moved by Jawaharlal Nehru.",
+                                       "2. It is enforceable in a court of law."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Constitution: Framework, Preamble \u0026 Federalism"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Match List I (Feature borrowed) with List II (Source Constitution) and select the correct answer:",
+                          "subs":  [
+                                       "A. Directive Principles of State Policy 1. British Constitution",
+                                       "B. Fundamental Rights and judicial review 2. Irish Constitution",
+                                       "C. Parliamentary form and rule of law 3. Canadian Constitution",
+                                       "D. Federation with a strong centre; residuary powers with the centre 4. US Constitution"
+                                   ],
+                          "options":  [
+                                          "A-2, B-4, C-1, D-3",
+                                          "A-1, B-4, C-2, D-3",
+                                          "A-2, B-1, C-4, D-3",
+                                          "A-3, B-4, C-1, D-2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Constitution: Framework, Preamble \u0026 Federalism"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The Sixth Schedule of the Constitution of India pertains to the administration of tribal areas in which of the following States?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Assam, Meghalaya, Tripura and Mizoram",
+                                          "Meghalaya, Tripura, Manipur and Mizoram",
+                                          "Assam, Manipur, Meghalaya and Tripura",
+                                          "Manipur, Meghalaya, Tripura and Arunachal Pradesh"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "Union, States, Schedules \u0026 Citizenship"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Consider the following statements regarding the distribution of legislative powers under the Seventh Schedule:",
+                          "subs":  [
+                                       "1. The residuary power to legislate on subjects not enumerated in any of the three Lists rests with the State Legislatures.",
+                                       "2. If a law made by Parliament and a law made by a State on a Concurrent-List subject conflict, the law made by Parliament prevails."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Union, States, Schedules \u0026 Citizenship"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Which one of the following languages was added to the Eighth Schedule by a Constitutional Amendment in 1967?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Khasi",
+                                          "Kashmiri",
+                                          "Sindhi",
+                                          "Urdu"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "topic":  "Union, States, Schedules \u0026 Citizenship"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. Article 1 describes India as a “Union of States.”",
+                                       "2. Under Article 3, Parliament can form a new state or alter the area, boundaries or name of an existing state."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Union, States, Schedules \u0026 Citizenship"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "With reference to Articles 2 and 3, which one of the following statements is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 2 deals with the reorganisation of existing states, while Article 3 deals with admission of new states",
+                                          "A bill under Article 3 requires the prior recommendation of the President and reference to the concerned state legislature",
+                                          "A bill under Article 3 needs the consent (not merely opinion) of the concerned state legislature",
+                                          "Article 3 requires ratification by half of the state legislatures"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Union, States, Schedules \u0026 Citizenship"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Consider the following statements about constitutional amendments requiring ratification by the states:",
+                          "subs":  [
+                                       "1. An amendment affecting the powers of the Supreme Court and the High Courts requires ratification by the legislatures of not less than half of the states.",
+                                       "2. An amendment to Article 368 itself also requires such ratification by the states."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Union, States, Schedules \u0026 Citizenship"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "With reference to the reorganisation of states, consider the following statements:",
+                          "subs":  [
+                                       "1. Andhra State, created in 1953, was the first state formed on a linguistic basis.",
+                                       "2. The Fazl Ali Commission accepted language as a basis for reorganisation but rejected the theory of “one language, one state.”"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Union, States, Schedules \u0026 Citizenship"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Which one of the following is NOT a characteristic feature of Indian federalism?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The federating units consented to form a union",
+                                          "Residuary powers vest with the Centre",
+                                          "Single citizenship",
+                                          "An extensive Union and Concurrent List"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "topic":  "Constitution: Framework, Preamble \u0026 Federalism"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Consider the following statements relating to Article 13:",
+                          "subs":  [
+                                       "1. A constitutional amendment is not treated as “law” under Article 13, though it can be struck down if it violates the basic structure.",
+                                       "2. Under the doctrine of severability, only the part of a law that is inconsistent with Fundamental Rights is struck down, while the rest survives if it can operate independently."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Fundamental Rights"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which of the following Fundamental Rights, as enshrined in the Constitution, belong only to citizens (and not to foreigners)?",
+                          "subs":  [
+                                       "1. Article 19 – Protection of the right to freedom of speech",
+                                       "2. Article 21 – Protection of life and personal liberty",
+                                       "3. Article 15 – Prohibition of discrimination",
+                                       "4. Article 16 – Equality of opportunity in public employment"
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "2, 3 and 4",
+                                          "1, 3 and 4",
+                                          "1 and 4 only"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "Fundamental Rights"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Which one of the following is an exception to the “equality before law” guaranteed under Article 14?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Members of the public",
+                                          "All civil servants",
+                                          "Judges of subordinate courts",
+                                          "The President of India and State Governors (Article 361)"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Fundamental Rights"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Consider the following statements regarding Fundamental Rights during a National Emergency:",
+                          "subs":  [
+                                       "1. During a National Emergency, all the Fundamental Rights stand automatically suspended.",
+                                       "2. Articles 20 and 21 can never be suspended, even during a National Emergency."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Fundamental Rights"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The Right to Privacy was declared a Fundamental Right (a facet of Article 21) by the Supreme Court in which case?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Maneka Gandhi v. Union of India (1978)",
+                                          "K.S. Puttaswamy v. Union of India (2017)",
+                                          "Kesavananda Bharati v. State of Kerala (1973)",
+                                          "A.K. Gopalan v. State of Madras (1950)"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Fundamental Rights"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "According to Dr. B.R. Ambedkar, which one of the following Articles is the “heart and soul” of the Constitution of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 15",
+                                          "Article 21",
+                                          "Article 23",
+                                          "Article 32"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "topic":  "Fundamental Rights"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Consider the following statements regarding the writ of Mandamus:",
+                          "subs":  [
+                                       "1. It can be issued to compel a public authority to perform a public duty that it has failed to discharge.",
+                                       "2. It can be issued against the President of India and the Governors of states."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Writs \u0026 Judicial Remedies"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following writs is issued by the Supreme Court to secure the freedom of a person upon unlawful arrest or detention?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Habeas Corpus",
+                                          "Mandamus",
+                                          "Certiorari",
+                                          "Quo Warranto"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "Writs \u0026 Judicial Remedies"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which among the following writs is issued to quash the order of a court or tribunal?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mandamus",
+                                          "Prohibition",
+                                          "Quo Warranto",
+                                          "Certiorari"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "topic":  "Writs \u0026 Judicial Remedies"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Consider the following statements regarding the rights of an arrested person under Article 22 (ordinary law):",
+                          "subs":  [
+                                       "1. The person must be produced before the nearest Magistrate within 24 hours of arrest, excluding the time needed for the journey.",
+                                       "2. The person has the right to consult and be defended by a legal practitioner of his or her choice."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Fundamental Rights"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Which one of the following Directive Principles of State Policy is classified as a “Gandhian” principle?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Securing a Uniform Civil Code (Article 44)",
+                                          "Providing free legal aid (Article 39A)",
+                                          "Promoting international peace and security (Article 51)",
+                                          "Organising village panchayats as units of self-government (Article 40)"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Which one of the following statements about the Directive Principles of State Policy (DPSPs) is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "They are enforceable in courts like Fundamental Rights",
+                                          "They are non-justiciable but fundamental in governance, aiming at social and economic democracy",
+                                          "They are individual-centric, unlike the community-centric Fundamental Rights",
+                                          "They were borrowed from the US Constitution"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "According to the provisions of the Constitution of India, which one of the following is NOT a Fundamental Duty?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To respect the National Flag",
+                                          "To defend the country",
+                                          "To provide education to one\u0027s child",
+                                          "To promote village and cottage industries"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which one of the following was added as a Fundamental Duty through the Constitution (86th Amendment) Act, 2002?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To strive towards excellence in individual and collective activity",
+                                          "To provide opportunities for education to one\u0027s child between the ages of 6 and 14 years",
+                                          "To work for the welfare of women and children",
+                                          "To promote peace and harmony"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The Fundamental Duties were added to the Constitution on the recommendation of which committee?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sardar Swaran Singh Committee",
+                                          "Balwant Rai Mehta Committee",
+                                          "Sarkaria Commission",
+                                          "Ashok Mehta Committee"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "Which one of the following is NOT included in the electoral college that elects the President of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nominated members of Parliament",
+                                          "Elected members of the Lok Sabha",
+                                          "Elected members of the state Legislative Assemblies",
+                                          "Elected members of the Legislative Assemblies of Delhi and Puducherry"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Union Executive"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "Which one of the following methods is followed in electing the President of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Proportional Representation only",
+                                          "First-Past-the-Post System only",
+                                          "Proportional Representation and the Single Transferable Vote System",
+                                          "Proportional Representation and the First-Past-the-Post System"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "topic":  "Union Executive"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "Consider the following statements about the impeachment of the President under Article 61:",
+                          "subs":  [
+                                       "1. The sole ground for impeachment is “violation of the Constitution.”",
+                                       "2. Both elected and nominated members of Parliament take part in the impeachment, but members of state legislatures do not."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Union Executive"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "With reference to the pardoning power of the Governor under Article 161, which one of the following is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Governor can pardon a death sentence",
+                                          "The Governor can pardon a sentence awarded by a court martial",
+                                          "The Governor cannot pardon a death sentence but can suspend, remit or commute it",
+                                          "The Governor has no power of pardon in any case"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Union Executive"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "Consider the following statements about the office of the Governor of a state:",
+                          "subs":  [
+                                       "1. The Governor is directly elected by the people of the state.",
+                                       "2. The Governor holds office during the pleasure of the President."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Union Executive"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "The Vice-President of India is elected by an electoral college consisting of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Members of the Lok Sabha only",
+                                          "Members of both Houses of Parliament (both elected and nominated)",
+                                          "Members of both Houses of Parliament and the state Legislative Assemblies",
+                                          "Elected members of both Houses of Parliament only"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Union Executive"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "Consider the following statements about the Attorney General of India (Article 76):",
+                          "subs":  [
+                                       "1. He is appointed by the President of India.",
+                                       "2. He is not debarred from private legal practice."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Union Executive"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "The total number of members in the Union Council of Ministers in India shall not exceed:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10% of the total number of members of Parliament",
+                                          "15% of the total number of members of Parliament",
+                                          "10% of the total number of members of the Lok Sabha",
+                                          "15% of the total number of members of the Lok Sabha"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "topic":  "Union Executive"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "The twelve members nominated by the President to the Rajya Sabha are chosen for their special knowledge or practical experience in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Politics and public administration",
+                                          "Sports and cinema",
+                                          "Literature, science, art and social service",
+                                          "Law and medicine"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Union Executive"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "Consider the following statements about the Anti-Defection Law:",
+                          "subs":  [
+                                       "1. It was added to the Constitution by the 42nd Amendment.",
+                                       "2. A question of disqualification on the ground of defection is decided by the President."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Parliament \u0026 State Legislature"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "Any question pertaining to the disqualification of a member of the Lok Sabha on the ground of defection is decided by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The President of India",
+                                          "The Speaker of the Lok Sabha",
+                                          "The Supreme Court of India",
+                                          "The concerned political party"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "topic":  "Parliament \u0026 State Legislature"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "Whether a particular bill is a Money Bill or not is finally decided by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The President of India",
+                                          "The Chairman of the Rajya Sabha",
+                                          "The Speaker of the Lok Sabha, whose decision is final",
+                                          "The Supreme Court"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Parliament \u0026 State Legislature"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "A Money Bill passed by the Lok Sabha can be held up (delayed) by the Rajya Sabha for a maximum of how many weeks?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Two",
+                                          "Three",
+                                          "Four",
+                                          "Five"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "topic":  "Parliament \u0026 State Legislature"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "Consider the following statements about a No-Confidence Motion:",
+                          "subs":  [
+                                       "1. It can be moved in either House of Parliament.",
+                                       "2. If it is passed, the entire Council of Ministers must resign."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Parliament \u0026 State Legislature"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "A motion of no-confidence is moved against:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "An individual Minister",
+                                          "The Council of Ministers",
+                                          "The Prime Minister",
+                                          "A political party"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "topic":  "Parliament \u0026 State Legislature"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "Consider the following statements about the Public Accounts Committee (PAC) of Parliament:",
+                          "subs":  [
+                                       "1. It has 22 members drawn from both the Lok Sabha and the Rajya Sabha.",
+                                       "2. By convention, its Chairman is appointed from the Opposition."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Parliament \u0026 State Legislature"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "Which one of the following statements about a Judge of the Supreme Court of India is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A Supreme Court judge retires on attaining the age of 62 years",
+                                          "A Supreme Court judge is appointed by the Chief Justice of India",
+                                          "A retired Supreme Court judge may plead before any court in India",
+                                          "A Supreme Court judge holds office until 65 years of age and is appointed by the President through the collegium system"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Judiciary"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "Which one of the following is NOT a qualification required for appointment as a Judge of the Supreme Court?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "At least five years as a Judge of a High Court",
+                                          "At least ten years as an Advocate of a High Court",
+                                          "In the opinion of the President, a distinguished jurist",
+                                          "At least twenty years as a Sub-Judicial Magistrate"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "topic":  "Judiciary"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "The power of the Supreme Court to decide a dispute between two or more States is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Original jurisdiction",
+                                          "Inherent jurisdiction",
+                                          "Plenary jurisdiction",
+                                          "Advisory jurisdiction"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "topic":  "Judiciary"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "The judgment of the Supreme Court of India in the Vishakha case pertains to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sexual harassment of women at the workplace",
+                                          "Sati",
+                                          "Dowry death",
+                                          "Rape"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "topic":  "Judiciary"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "A Judge of the Supreme Court or a High Court can be removed:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "By the President at his own discretion",
+                                          "By the collegium of judges",
+                                          "By a simple majority of Parliament",
+                                          "By the President, after an address by each House of Parliament passed by a special majority, on the ground of proved misbehaviour or incapacity"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Judiciary"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "A National Emergency under Article 352 can be proclaimed on which of the following grounds?",
+                          "subs":  [
+                                       "1. War",
+                                       "2. External aggression",
+                                       "3. Armed rebellion"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "Consider the following statements regarding Articles 358 and 359:",
+                          "subs":  [
+                                       "1. Under Article 359, the six freedoms of Article 19 are automatically suspended the moment a National Emergency is proclaimed.",
+                                       "2. Under Article 358, Article 19 is automatically suspended during an emergency declared on the ground of war or external aggression."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "President\u0027s Rule imposed in a state under Article 356 can be extended to a maximum period of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Six months",
+                                          "One year",
+                                          "Two years",
+                                          "Three years (with parliamentary approval every six months)"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "Which one of the following statements about a Financial Emergency (Article 360) is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It has never been proclaimed in India so far",
+                                          "It has been declared once, during the crisis of 1991",
+                                          "It is declared on the ground of armed rebellion",
+                                          "It requires fresh parliamentary approval every six months"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "Which one of the following States does NOT have a Legislative Council?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Karnataka",
+                                          "Telangana",
+                                          "Jammu and Kashmir",
+                                          "Arunachal Pradesh"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "topic":  "Parliament \u0026 State Legislature"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "Which of the following statements regarding the Indian federal system is/are correct?",
+                          "subs":  [
+                                       "1. All States have equal representation in the Rajya Sabha.",
+                                       "2. Consent of a State is not required for altering its boundaries.",
+                                       "3. There is no dual citizenship in India."
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "2 only"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "topic":  "Constitution: Framework, Preamble \u0026 Federalism"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "Consider the following statements about the 73rd Amendment (Panchayati Raj):",
+                          "subs":  [
+                                       "1. It added Part IX and the Eleventh Schedule to the Constitution.",
+                                       "2. The minimum age to contest a panchayat election is 21 years.",
+                                       "3. Not less than one-third of the seats are reserved for women at all three tiers."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Local Government \u0026 Bodies"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "Which one of the following is a STATUTORY body (created by an Act of Parliament), and not a constitutional body?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "National Human Rights Commission (NHRC)",
+                                          "Union Public Service Commission (UPSC)",
+                                          "Finance Commission",
+                                          "Election Commission of India"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Local Government \u0026 Bodies"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "Which one of the following statements about the Election Commission of India is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is established under Article 324, and the Chief Election Commissioner can be removed only in the same manner as a Judge of the Supreme Court",
+                                          "It conducts elections to the panchayats and municipalities as well",
+                                          "The Chief Election Commissioner holds office during the pleasure of the President and can be removed at any time",
+                                          "It consists only of the Chief Election Commissioner, with no other members"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Local Government \u0026 Bodies"
+                      }
+                  ]
+}
