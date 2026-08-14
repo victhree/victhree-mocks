@@ -481,6 +481,18 @@ function showResults(data) {
     const chosenText = r.chosen ? optText(q, r.chosen) : "—";
     const correctText = r.correctText || (r.correct ? optText(q, r.correct) : "");
 
+    // Full question with its options (the numbered statements are intentionally
+    // omitted here — only the stem and the four options are shown).
+    const optsHtml = (q.options || [])
+      .map((opt, i) => {
+        const letter = LETTERS[i];
+        const isCorrect = r.correct && letter === r.correct;
+        const isChosenWrong = r.chosen && letter === r.chosen && !r.isCorrect;
+        const cls = isCorrect ? "rev-opt is-correct" : isChosenWrong ? "rev-opt is-wrong" : "rev-opt";
+        return `<li class="${cls}"><span class="rev-opt-letter">${letter.toUpperCase()}</span><span>${escapeHtml(opt)}</span></li>`;
+      })
+      .join("");
+
     const card = document.createElement("div");
     card.className = `card rev-card ${status}`;
     card.innerHTML = `
@@ -488,6 +500,7 @@ function showResults(data) {
         <p class="rev-q">Q${r.n}. ${escapeHtml(q.stem || "")}</p>
         <span class="rev-badge badge-${status}">${badgeText}</span>
       </div>
+      ${optsHtml ? `<ul class="rev-opts">${optsHtml}</ul>` : ""}
       <p class="rev-line"><span class="lbl">Your answer:</span>
         <span class="${status === "correct" ? "ans-right" : status === "wrong" ? "ans-wrong" : ""}">
           ${r.chosen ? r.chosen.toUpperCase() + ") " + escapeHtml(chosenText) : "Not attempted"}
