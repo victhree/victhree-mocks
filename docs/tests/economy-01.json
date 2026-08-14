@@ -1,0 +1,956 @@
+{
+    "title":  "Economy-Test 1",
+    "durationMin":  60,
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Consider the following statements about Gross Value Added (GVA) and GDP:",
+                          "subs":  [
+                                       "1. GDP at market prices is obtained by adding product taxes to, and subtracting product subsidies from, GVA at basic prices.",
+                                       "2. GVA measures the value of output from the production (supply) side of the economy."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2",
+                                          "Both 1 and 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "National Income, GDP \u0026 Microeconomics"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Net Domestic Product (NDP) is arrived at by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "adding net factor income from abroad to GDP",
+                                          "adding subsidies to GDP",
+                                          "subtracting net indirect taxes from GDP",
+                                          "subtracting depreciation from GDP"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "National Income, GDP \u0026 Microeconomics"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The difference between Gross National Product (GNP) and Gross Domestic Product (GDP) of a country is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "depreciation",
+                                          "net factor income from abroad",
+                                          "net indirect taxes",
+                                          "net exports"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "National Income, GDP \u0026 Microeconomics"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "According to the Classical Theory of Employment, deviations from the state of full employment are:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "purely temporary in nature",
+                                          "permanent in nature",
+                                          "imaginary situations",
+                                          "normal situations"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "National Income, GDP \u0026 Microeconomics"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Consider the following statements about real and nominal GDP:",
+                          "subs":  [
+                                       "1. Nominal GDP is measured at current-year prices, while real GDP is measured at constant (base-year) prices.",
+                                       "2. The GDP deflator is the ratio of nominal GDP to real GDP."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2",
+                                          "Both 1 and 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "National Income, GDP \u0026 Microeconomics"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Which of the following statements is/are correct?",
+                          "subs":  [
+                                       "1. GDP deflator captures the average price of an unchanging basket of commodities that constitutes the GDP of the country.",
+                                       "2. GDP deflator can be used to measure the real GDP of the economy but not the inflation rate."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "topic":  "National Income, GDP \u0026 Microeconomics"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Level of per capita GDP depends upon which of the following?",
+                          "subs":  [
+                                       "1. Proportion of population in the working age",
+                                       "2. Work participation rate",
+                                       "3. Per worker productivity"
+                                   ],
+                          "options":  [
+                                          "3 only",
+                                          "1 and 3 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "topic":  "National Income, GDP \u0026 Microeconomics"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Capital deepening refers to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "going for more fixed capital per worker",
+                                          "emphasis on social overhead capital",
+                                          "constant capital-output ratio",
+                                          "increasing capital-output ratio"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "National Income, GDP \u0026 Microeconomics"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The phenomenon of demographic dividend of a country relates to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a sharp decline in total population",
+                                          "an increase in working age population",
+                                          "a decline in infant mortality rate",
+                                          "an increase in sex ratio"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "topic":  "National Income, GDP \u0026 Microeconomics"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Match List-I with List-II and select the correct answer using the code given below the Lists:",
+                          "subs":  [
+                                       "List-I (Market structure): A. Perfect competition B. Monopoly C. Monopolistic competition D. Oligopoly",
+                                       "List-II (Characteristic): 1. Only one producer selling one commodity 2. Few producers selling similar or almost similar products 3. Many producers selling differentiated products 4. Many producers selling similar products"
+                                   ],
+                          "options":  [
+                                          "A-4 B-3 C-1 D-2",
+                                          "A-4 B-1 C-3 D-2",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-3 C-1 D-4"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "topic":  "National Income, GDP \u0026 Microeconomics"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Which of the following factors signify monopolistic competition?",
+                          "subs":  [
+                                       "1. Differentiated products",
+                                       "2. Large number of buyers and sellers",
+                                       "3. Barriers to entry",
+                                       "4. Homogeneous products"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1, 2 and 3 only",
+                                          "3 and 4 only",
+                                          "2 and 4 only"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "topic":  "National Income, GDP \u0026 Microeconomics"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "According to John Maynard Keynes, employment depends upon:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "aggregate demand",
+                                          "aggregate supply",
+                                          "effective demand",
+                                          "rate of interest"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "topic":  "National Income, GDP \u0026 Microeconomics"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Which of the following monetary aggregates is the “broadest” measure of money supply used by the RBI?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "M1",
+                                          "M3",
+                                          "M0",
+                                          "M2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Money, Banking \u0026 Monetary Policy"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which of the following are included in the definition of Narrow Money?",
+                          "subs":  [
+                                       "1. Currency with the public",
+                                       "2. Demand deposits",
+                                       "3. Other deposits with Reserve Bank of India",
+                                       "4. Bankers\u0027 deposits with Reserve Bank of India"
+                                   ],
+                          "options":  [
+                                          "1, 2 and 4",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "3 and 4 only"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "topic":  "Money, Banking \u0026 Monetary Policy"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Which of the following are included in the M1 definition of money for the Indian economy?",
+                          "subs":  [
+                                       "1. Reserves",
+                                       "2. Currency",
+                                       "3. Time deposits",
+                                       "4. Demand deposits"
+                                   ],
+                          "options":  [
+                                          "1 and 3 only",
+                                          "2 and 3",
+                                          "2 and 4",
+                                          "1, 3 and 4"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "topic":  "Money, Banking \u0026 Monetary Policy"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Consider the following statements about the Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR):",
+                          "subs":  [
+                                       "1. CRR is the portion of Net Demand and Time Liabilities that banks must keep as cash balances with the RBI, and banks earn no interest on it.",
+                                       "2. SLR can be maintained in the form of cash, gold or approved government securities held by the bank itself."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2",
+                                          "Both 1 and 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Money, Banking \u0026 Monetary Policy"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Under the Liquidity Adjustment Facility (LAF) corridor, which rate ordinarily forms the upper bound (ceiling)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Repo rate",
+                                          "Marginal Standing Facility (MSF) rate",
+                                          "Standing Deposit Facility (SDF) rate",
+                                          "Reverse repo rate"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Money, Banking \u0026 Monetary Policy"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Which of the following actions by the Government/central bank would lead to contraction of money supply in the economy?",
+                          "subs":  [
+                                       "1. Purchase of Treasury Bills by the central bank from public",
+                                       "2. Sale of Treasury Bills by the central bank to public",
+                                       "3. Sale of foreign exchange by the central bank",
+                                       "4. Purchase of foreign exchange by the central bank"
+                                   ],
+                          "options":  [
+                                          "1 and 4 only",
+                                          "1 and 3 only",
+                                          "2 and 3 only",
+                                          "2 only"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "topic":  "Money, Banking \u0026 Monetary Policy"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Consider the following statements about the Monetary Policy Committee (MPC) of India:",
+                          "subs":  [
+                                       "1. The MPC has six members — three from the RBI and three nominated by the Central Government.",
+                                       "2. It is tasked with maintaining CPI (retail) inflation at 4% with a tolerance band of +/- 2%."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2",
+                                          "Both 1 and 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Money, Banking \u0026 Monetary Policy"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Consider the following statements about Non-Performing Assets (NPAs) and recovery mechanisms:",
+                          "subs":  [
+                                       "1. A loan is generally classified as an NPA when interest or principal remains overdue for more than 90 days.",
+                                       "2. The SARFAESI Act allows banks to seize and sell the secured assets of a defaulter without the intervention of a court.",
+                                       "3. The Insolvency and Bankruptcy Code (IBC) provides a time-bound process for resolving stressed assets."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Money, Banking \u0026 Monetary Policy"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Deposit insurance for bank depositors in India is provided by the DICGC up to a maximum of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "₹1 lakh per depositor per bank",
+                                          "₹5 lakh per depositor per bank",
+                                          "₹10 lakh per depositor per bank",
+                                          "₹2 lakh per depositor per bank"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Money, Banking \u0026 Monetary Policy"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which of the following with regard to the term “bank run” is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The net balance of money a bank has in its chest at the end of the day\u0027s business",
+                                          "The ratio of a bank\u0027s total deposits and total liabilities",
+                                          "A panic situation when the deposit holders start withdrawing cash from the banks",
+                                          "The period in which a bank creates highest credit in the market"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "topic":  "Money, Banking \u0026 Monetary Policy"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The Unified Payments Interface (UPI) in India is developed and operated by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Reserve Bank of India",
+                                          "The National Payments Corporation of India (NPCI)",
+                                          "The Securities and Exchange Board of India",
+                                          "The Ministry of Electronics and IT"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Money, Banking \u0026 Monetary Policy"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Consider the following statements about instruments of the money market:",
+                          "subs":  [
+                                       "1. Treasury Bills are short-term instruments issued by the Government of India to meet short-term borrowing needs.",
+                                       "2. Commercial Paper is an unsecured, short-term instrument issued by highly rated corporates.",
+                                       "3. A Certificate of Deposit is a short-term negotiable instrument issued by banks and select financial institutions."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Money, Banking \u0026 Monetary Policy"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The Securities and Exchange Board of India (SEBI) was given statutory status through the SEBI Act in the year:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1988",
+                                          "1991",
+                                          "1992",
+                                          "2002"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Money, Banking \u0026 Monetary Policy"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Consider the following statements about types of inflation:",
+                          "subs":  [
+                                       "1. Demand-pull inflation occurs when aggregate demand grows faster than aggregate supply.",
+                                       "2. Cost-push inflation arises when rising input costs, such as wages or fuel, push up the general price level."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2",
+                                          "Both 1 and 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Inflation, Prices \u0026 Distribution"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The sustained decrease in the general price level is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "deflation",
+                                          "stagflation",
+                                          "devaluation",
+                                          "recession"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "topic":  "Inflation, Prices \u0026 Distribution"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "A situation of persistently high inflation combined with stagnant output and high unemployment is termed:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Disinflation",
+                                          "Stagflation",
+                                          "Skewflation",
+                                          "Reflation"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Inflation, Prices \u0026 Distribution"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which one of the following indices is now used by the Reserve Bank of India to measure the rate of inflation in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "NASDAQ Index",
+                                          "BSE Index",
+                                          "Consumer Price Index",
+                                          "Wholesale Price Index"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "topic":  "Inflation, Prices \u0026 Distribution"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Consider the following statements about the WPI and CPI in India:",
+                          "subs":  [
+                                       "1. The Wholesale Price Index does not include the prices of services, whereas the Consumer Price Index covers services.",
+                                       "2. The Wholesale Price Index is released by the Office of the Economic Adviser (DPIIT), while the CPI (Combined) is released by the National Statistical Office."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2",
+                                          "Both 1 and 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Inflation, Prices \u0026 Distribution"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "Match List I with List II and select the correct answer using the code given below the lists:",
+                          "subs":  [
+                                       "List I (Curve): A. Lorenz curve B. Phillips curve C. Engel curve D. Laffer curve",
+                                       "List II (Indication): 1. Inflation and employment 2. Tax rates and tax revenue 3. Inequality in distribution of income or wealth 4. Income and proportion of expenditure on food"
+                                   ],
+                          "options":  [
+                                          "A-3 B-4 C-1 D-2",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-3 B-1 C-4 D-2",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "topic":  "Inflation, Prices \u0026 Distribution"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "Consider the following statements about measures of income inequality:",
+                          "subs":  [
+                                       "1. The Gini coefficient ranges from 0 (perfect equality) to 1 (perfect inequality).",
+                                       "2. The Gini coefficient is derived from the Lorenz curve."
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Inflation, Prices \u0026 Distribution"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "In Indian agriculture, a situation where more people are engaged in a job than are actually required — so that the marginal productivity of the extra workers is zero — is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Disguised unemployment",
+                                          "Frictional unemployment",
+                                          "Cyclical unemployment",
+                                          "Seasonal unemployment"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Inflation, Prices \u0026 Distribution"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "The natural rate of unemployment hypothesis was advocated by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Milton Friedman",
+                                          "A. W. Phillips",
+                                          "J. M. Keynes",
+                                          "R. G. Lipsey"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "topic":  "Inflation, Prices \u0026 Distribution"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "The “Annual Financial Statement” laid before Parliament, popularly called the Union Budget, is provided for under which Article of the Constitution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 110",
+                                          "Article 112",
+                                          "Article 265",
+                                          "Article 280"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Public Finance: Budget \u0026 Taxation"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "Consider the following statements about budgetary deficits:",
+                          "subs":  [
+                                       "1. Fiscal deficit is the excess of total expenditure over total receipts excluding borrowings.",
+                                       "2. Primary deficit is the fiscal deficit minus interest payments.",
+                                       "3. Revenue deficit is the excess of revenue expenditure over revenue receipts."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Public Finance: Budget \u0026 Taxation"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "Match List-I with List-II and select the correct answer using the code given below the Lists:",
+                          "subs":  [
+                                       "List-I: A. Fiscal Deficit B. Revenue Deficit C. Effective Revenue Deficit D. Primary Deficit",
+                                       "List-II: 1. Total Expenditure − Revenue Receipts − Non-debt Capital Receipts 2. Revenue Expenditure − Revenue Receipts 3. Revenue Deficit − Grants for Creation of Capital Assets 4. Fiscal Deficit − Interest Payments"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-4 B-2 C-3 D-1",
+                                          "A-4 B-3 C-2 D-1"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "topic":  "Public Finance: Budget \u0026 Taxation"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "The Fiscal Responsibility and Budget Management (FRBM) Act was enacted in India in the year:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1991",
+                                          "2000",
+                                          "2003",
+                                          "2016"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Public Finance: Budget \u0026 Taxation"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "Consider the following statements about taxation:",
+                          "subs":  [
+                                       "1. In a direct tax, the burden (incidence) and the payment (impact) fall on the same person, who cannot shift it to another.",
+                                       "2. A progressive tax is one in which the rate of tax rises as the taxable amount (income) increases."
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Public Finance: Budget \u0026 Taxation"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "Consider the following statements about the Goods and Services Tax (GST) in India:",
+                          "subs":  [
+                                       "1. On an intra-state supply, both Central GST (CGST) and State GST (SGST) are levied.",
+                                       "2. The GST Council is a constitutional body established under Article 279A."
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Public Finance: Budget \u0026 Taxation"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "Which one of the following taxes is not subsumed under the Goods and Services Tax in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Customs Duties",
+                                          "Central Excise Duties",
+                                          "Service Tax",
+                                          "Taxes on Petroleum and Petroleum Products"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "topic":  "Public Finance: Budget \u0026 Taxation"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "Which one of the following statements about a “cess” and a “surcharge” is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A cess is a tax on tax, whereas a surcharge is earmarked for a specific purpose",
+                                          "A cess is levied for a specific purpose, whereas a surcharge is a tax on tax not earmarked for any particular purpose",
+                                          "Both cess and surcharge are shared with the states through the divisible pool",
+                                          "Neither a cess nor a surcharge can be levied by the Union Government"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Public Finance: Budget \u0026 Taxation"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "Which one of the following expenditures is subtracted from Fiscal Deficit to arrive at Primary Deficit?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Defence expenditure",
+                                          "Expenditure on subsidies",
+                                          "Interest payments",
+                                          "Pension"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "topic":  "Public Finance: Budget \u0026 Taxation"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "Consider the following statements about the Balance of Payments (BoP):",
+                          "subs":  [
+                                       "1. The current account records trade in goods and services, income and current transfers.",
+                                       "2. Foreign Direct Investment and external borrowings are recorded in the capital account."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2",
+                                          "Both 1 and 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "External Sector \u0026 International Economy"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "How can currency depreciation stimulate an increase in net exports?",
+                          "subs":  [
+                                       "1. By reducing export costs",
+                                       "2. By reducing import prices"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "topic":  "External Sector \u0026 International Economy"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "Consider the following statements distinguishing Foreign Direct Investment (FDI) from Foreign Portfolio Investment (FPI):",
+                          "subs":  [
+                                       "1. FDI involves a lasting management interest, whereas FPI is investment purely in financial assets without management control.",
+                                       "2. FPI is generally more volatile and can exit an economy more quickly than FDI."
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "External Sector \u0026 International Economy"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "Which of the following is/are the effects of devaluation or depreciation of currency?",
+                          "subs":  [
+                                       "1. It leads to increase in imports and decrease in exports.",
+                                       "2. It leads to increase in exports and decrease in imports.",
+                                       "3. It leads to increase in domestic inflation.",
+                                       "4. It leads to decrease in domestic inflation."
+                                   ],
+                          "options":  [
+                                          "1 and 3 only",
+                                          "1 and 4 only",
+                                          "2 and 3 only",
+                                          "3 only"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "topic":  "External Sector \u0026 International Economy"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "India\u0027s foreign exchange reserves, as maintained by the RBI, comprise all of the following components EXCEPT:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Foreign Currency Assets",
+                                          "Gold reserves",
+                                          "External commercial borrowings of Indian companies",
+                                          "Special Drawing Rights (SDRs) and Reserve Tranche Position in the IMF"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "External Sector \u0026 International Economy"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "The International Monetary Fund (IMF) and the World Bank, often called the “Bretton Woods twins,” were established as an outcome of the Bretton Woods Conference held in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1930",
+                                          "1944",
+                                          "1948",
+                                          "1971"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "External Sector \u0026 International Economy"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "Consider the following statements about the World Bank Group:",
+                          "subs":  [
+                                       "1. The International Development Association (IDA) provides concessional (soft) loans and grants to the poorest countries.",
+                                       "2. The International Finance Corporation (IFC) is the arm of the Group that lends to and invests in the private sector."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2",
+                                          "Both 1 and 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "External Sector \u0026 International Economy"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "The Most Favoured Nation (MFN) Clause under the WTO regime is based on the principle of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "non-discrimination between nations",
+                                          "discrimination between nations",
+                                          "differential treatment between locals and foreigners",
+                                          "uniform tariff across commodities"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "topic":  "External Sector \u0026 International Economy"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "Kharif crops in India are those which are:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "sown in winter and harvested in spring",
+                                          "sown at the onset of the south-west monsoon and harvested in autumn",
+                                          "grown throughout the year with the help of irrigation",
+                                          "grown only in the short summer period between the two main seasons"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Agriculture, Industry, Planning \u0026 Development"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "Consider the following statements about the Minimum Support Price (MSP) mechanism in India:",
+                          "subs":  [
+                                       "1. The MSP is recommended by the Commission for Agricultural Costs and Prices (CACP).",
+                                       "2. The MSP is finally approved by the Cabinet Committee on Economic Affairs (CCEA).",
+                                       "3. “A2+FL” is one of the cost concepts used while determining the MSP."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Agriculture, Industry, Planning \u0026 Development"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "Consider the following statements about the Public Distribution System (PDS):",
+                          "subs":  [
+                                       "1. The PDS is operated under the joint responsibility of the Centre and the States/Union Territories.",
+                                       "2. The Food Corporation of India has assumed the responsibility for procurement, storage and transportation of food grains to the State Governments.",
+                                       "3. Both Centre and State have the joint responsibility to identify eligible beneficiaries.",
+                                       "4. Some States also distribute additional items of mass consumption through the PDS outlets, such as pulses, edible oil, etc."
+                                   ],
+                          "options":  [
+                                          "2 and 3 only",
+                                          "1, 2 and 4",
+                                          "1 and 2 only",
+                                          "3 and 4 only"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "topic":  "Agriculture, Industry, Planning \u0026 Development"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "Match List-I (Revolution) with List-II (Associated product) and select the correct answer using the code below:",
+                          "subs":  [
+                                       "List-I: A. Green Revolution B. White Revolution C. Blue Revolution D. Yellow Revolution",
+                                       "List-II: 1. Fish 2. Oilseeds 3. Foodgrains 4. Milk"
+                                   ],
+                          "options":  [
+                                          "A-3 B-1 C-4 D-2",
+                                          "A-4 B-3 C-1 D-2",
+                                          "A-3 B-4 C-1 D-2",
+                                          "A-3 B-4 C-2 D-1"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Agriculture, Industry, Planning \u0026 Development"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "Consider the following statements about the Eight Core Industries and the Index of Industrial Production (IIP):",
+                          "subs":  [
+                                       "1. The Eight Core Industries together have a combined weight of about two-fifths in the Index of Industrial Production.",
+                                       "2. Electricity is one of the Eight Core Industries."
+                                   ],
+                          "options":  [
+                                          "Both 1 and 2",
+                                          "1 only",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Agriculture, Industry, Planning \u0026 Development"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "Under the revised (2020) classification of Micro, Small and Medium Enterprises (MSMEs), an enterprise is classified on the basis of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "investment in plant and machinery only",
+                                          "both investment in plant and machinery/equipment and annual turnover",
+                                          "annual turnover only",
+                                          "the number of persons employed"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Agriculture, Industry, Planning \u0026 Development"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "Consider the following statements about economic planning in India:",
+                          "subs":  [
+                                       "1. The Second Five-Year Plan was based on the Mahalanobis model and emphasised heavy industry.",
+                                       "2. The Planning Commission was replaced by the NITI Aayog in 2015."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "topic":  "Agriculture, Industry, Planning \u0026 Development"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "The Rangarajan Committee methodology for determining the poverty line incorporated which of the following?",
+                          "subs":  [
+                                       "1. A food component",
+                                       "2. A normative level of expenditure for essential non-food items",
+                                       "3. A behaviourally determined expenditure for other non-food items"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3",
+                                          "1 and 3 only"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "topic":  "Agriculture, Industry, Planning \u0026 Development"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "The computation of poverty in terms of Monthly Per Capita Consumption Expenditure (MPCE) based on the Mixed Reference Period was recommended by the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lakdawala Committee",
+                                          "Tendulkar Committee",
+                                          "Dandekar Committee",
+                                          "Alagh Committee"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "topic":  "Agriculture, Industry, Planning \u0026 Development"
+                      }
+                  ]
+}

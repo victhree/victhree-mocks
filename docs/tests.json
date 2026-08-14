@@ -64,6 +64,14 @@
       "durationMin": 60,
       "count": 60,
       "description": "60 MCQs on Indian Polity & Constitution — framework, rights, DPSP, executive, legislature, judiciary, emergency & bodies; 20 tagged CDS PYQs."
+    },
+    {
+      "id": "economy-01",
+      "title": "Economy-Test 1",
+      "subject": "Economy",
+      "durationMin": 60,
+      "count": 60,
+      "description": "60 MCQs on Indian Economy — national income, money & banking, inflation, public finance & taxation, external sector, agriculture & planning; 25 tagged CDS PYQs."
     }
   ]
 }
