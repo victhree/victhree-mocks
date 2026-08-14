@@ -481,8 +481,19 @@ function showResults(data) {
     const chosenText = r.chosen ? optText(q, r.chosen) : "—";
     const correctText = r.correctText || (r.correct ? optText(q, r.correct) : "");
 
-    // Full question with its options (the numbered statements are intentionally
-    // omitted here — only the stem and the four options are shown).
+    // Full question exactly as it was asked: stem + numbered statements + options.
+    // (Same "Statement I / II" handling as the quiz screen.)
+    let stemText = q.stem || "";
+    let subLines = (q.subs || []).slice();
+    if (/^\s*statement\s+i\b/i.test(stemText)) {
+      subLines = [stemText].concat(subLines);
+      stemText = "";
+    }
+    const subsHtml = subLines
+      .flatMap((line) => splitNumberedRun(line))
+      .map((piece) => `<li>${escapeHtml(piece)}</li>`)
+      .join("");
+
     const optsHtml = (q.options || [])
       .map((opt, i) => {
         const letter = LETTERS[i];
@@ -493,13 +504,17 @@ function showResults(data) {
       })
       .join("");
 
+    // PYQ tag shown WITH the question (top of the card), not after the solution.
+    const pyqHtml = q.pyq ? `<span class="rev-pyq">Previous Year — ${escapeHtml(q.pyq)}</span>` : "";
+
     const card = document.createElement("div");
     card.className = `card rev-card ${status}`;
     card.innerHTML = `
       <div class="rev-head">
-        <p class="rev-q">Q${r.n}. ${escapeHtml(q.stem || "")}</p>
+        <p class="rev-q">Q${r.n}. ${escapeHtml(stemText)} ${pyqHtml}</p>
         <span class="rev-badge badge-${status}">${badgeText}</span>
       </div>
+      ${subsHtml ? `<ul class="rev-subs">${subsHtml}</ul>` : ""}
       ${optsHtml ? `<ul class="rev-opts">${optsHtml}</ul>` : ""}
       <p class="rev-line"><span class="lbl">Your answer:</span>
         <span class="${status === "correct" ? "ans-right" : status === "wrong" ? "ans-wrong" : ""}">
@@ -512,7 +527,6 @@ function showResults(data) {
           : ""
       }
       ${r.exp ? `<div class="rev-exp">${escapeHtml(r.exp)}</div>` : ""}
-      ${q.pyq ? `<div class="rev-pyq">Previous Year — ${escapeHtml(q.pyq)}</div>` : ""}
     `;
     review.appendChild(card);
   });
