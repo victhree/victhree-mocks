@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <title>VicThree Defence — Mock Test</title>
   <meta name="description" content="Timed mock test — VicThree Defence by Anmol Sharma." />
-  <link rel="stylesheet" href="styles.css?v=19" />
+  <link rel="stylesheet" href="styles.css?v=20" />
 </head>
 <body>
 
@@ -31,12 +31,6 @@
             <button id="freshBtn" class="btn btn-outline">Start fresh</button>
           </div>
         </div>
-        <div id="lastResultBox" class="resume-box" hidden>
-          <p class="resume-msg">Your last result for this test — <span id="lastResultInfo"></span>.</p>
-          <div class="resume-actions">
-            <button id="viewLastBtn" class="btn btn-gold">View my last result &amp; answers</button>
-          </div>
-        </div>
         <ul class="meta-list">
           <li><strong id="qCount">—</strong> questions</li>
           <li><strong id="durLabel">—</strong> minutes</li>
@@ -49,6 +43,13 @@
         <p id="startError" class="error-msg" hidden></p>
         <button id="startBtn" class="btn btn-gold btn-block">Start Test</button>
         <p class="fine-print">Once you start, the timer begins and cannot be paused.</p>
+        <div id="lastResultBox" class="lastresult-box" hidden>
+          <div class="lastresult-info">
+            <span class="lastresult-label">Last test result</span>
+            <span class="lastresult-meta"><span id="lastResultDate"></span> &middot; <span id="lastResultScore"></span></span>
+          </div>
+          <button id="viewLastBtn" class="btn lastresult-btn">View Last Result</button>
+        </div>
       </div>
     </section>
 
@@ -161,6 +162,6 @@
   </footer>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-  <script src="app.js?v=19"></script>
+  <script src="app.js?v=20"></script>
 </body>
 </html>

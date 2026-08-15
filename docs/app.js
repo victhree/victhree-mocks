@@ -189,12 +189,14 @@ function offerLastResult() {
   if (!saved || !saved.data) return;
   const d = saved.data;
   const score = (d.total != null ? d.total : "—") + "/" + (d.max || state.questions.length);
-  let when = "";
+  let dateStr = "";
   if (saved.ts) {
-    const days = Math.floor((Date.now() - saved.ts) / 86400000);
-    when = days <= 0 ? "today" : days === 1 ? "yesterday" : days + " days ago";
+    const dt = new Date(saved.ts);
+    const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+    dateStr = dt.getDate() + " " + months[dt.getMonth()] + " " + dt.getFullYear();
   }
-  $("lastResultInfo").textContent = "scored " + score + (when ? " · " + when : "");
+  $("lastResultDate").textContent = dateStr;
+  $("lastResultScore").textContent = score;
   show($("lastResultBox"));
 }
 
