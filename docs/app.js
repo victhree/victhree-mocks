@@ -58,6 +58,23 @@ function clearState() {
   try { localStorage.removeItem(stateKey()); } catch (e) { /* ignore */ }
 }
 
+/* Last graded result is kept separately so it survives a refresh/close and the
+   student can reopen their score + full answer review any time. */
+function resultKey() { return "v3result:" + (state.testId || "unknown"); }
+function saveResult(data) {
+  try {
+    localStorage.setItem(resultKey(), JSON.stringify({
+      name: state.name,
+      data: data,
+      ts: Date.now(),
+    }));
+  } catch (e) { /* storage unavailable — ignore */ }
+}
+function loadResult() {
+  try { return JSON.parse(localStorage.getItem(resultKey()) || "null"); }
+  catch (e) { return null; }
+}
+
 /* Read ?test=<id> from the URL. */
 function getTestId() {
   const params = new URLSearchParams(window.location.search);
@@ -96,6 +113,7 @@ async function loadQuiz() {
     $("remainingCount").textContent = state.questions.length;
 
     offerResume();
+    offerLastResult();
   } catch (err) {
     $("startError").textContent =
       'Could not load this test ("' + state.testId + '"). It may not exist. Go back to the test list and try again.';
@@ -163,6 +181,28 @@ function resumeTest() {
 function startFresh() {
   clearState();
   hide($("resumeBox"));
+}
+
+/* If a graded result was saved for this test, offer to reopen it. */
+function offerLastResult() {
+  const saved = loadResult();
+  if (!saved || !saved.data) return;
+  const d = saved.data;
+  const score = (d.total != null ? d.total : "—") + "/" + (d.max || state.questions.length);
+  let when = "";
+  if (saved.ts) {
+    const days = Math.floor((Date.now() - saved.ts) / 86400000);
+    when = days <= 0 ? "today" : days === 1 ? "yesterday" : days + " days ago";
+  }
+  $("lastResultInfo").textContent = "scored " + score + (when ? " · " + when : "");
+  show($("lastResultBox"));
+}
+
+function viewLastResult() {
+  const saved = loadResult();
+  if (!saved || !saved.data) return;
+  state.name = saved.name || "Student";
+  showResults(saved.data, true);
 }
 
 /* ============================================================
@@ -437,8 +477,12 @@ async function postWithRetry(url, body, tries = 4, timeoutMs = 15000) {
   throw lastErr;
 }
 
-function showResults(data) {
+function showResults(data, fromSaved) {
   clearState(); // attempt finished — drop saved progress
+  if (!fromSaved) saveResult(data); // keep the graded result so it survives refresh/close
+  hide($("startScreen"));
+  hide($("resumeBox"));
+  hide($("lastResultBox"));
   hide($("quizScreen"));
   show($("resultsScreen"));
   window.scrollTo(0, 0);
@@ -643,6 +687,7 @@ window.addEventListener("DOMContentLoaded", () => {
   $("markBtn").addEventListener("click", toggleMark);
   $("resumeBtn").addEventListener("click", resumeTest);
   $("freshBtn").addEventListener("click", startFresh);
+  $("viewLastBtn").addEventListener("click", viewLastResult);
 
   $("reportToggle").addEventListener("click", () => {
     const panel = $("reportPanel");
