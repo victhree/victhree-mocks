@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <title>VicThree Defence — Mock Test</title>
   <meta name="description" content="Timed mock test — VicThree Defence by Anmol Sharma." />
-  <link rel="stylesheet" href="styles.css?v=22" />
+  <link rel="stylesheet" href="styles.css?v=23" />
 </head>
 <body>
 
@@ -24,6 +24,8 @@
       <div class="card">
         <a href="index.html" class="back-link">‹ All tests</a>
         <h1 id="quizTitle">Mock Test</h1>
+        <div id="startGate" class="start-gate" hidden></div>
+        <div id="startBody">
         <div id="resumeBox" class="resume-box" hidden>
           <p class="resume-msg">You have an unfinished attempt — <span id="resumeInfo"></span>.</p>
           <div class="resume-actions">
@@ -34,7 +36,7 @@
         <ul class="meta-list">
           <li><strong id="qCount">—</strong> questions</li>
           <li><strong id="durLabel">—</strong> minutes</li>
-          <li>1 mark each · auto-submit at time-up</li>
+          <li id="metaScoring">1 mark each · auto-submit at time-up</li>
         </ul>
         <div class="field">
           <label for="nameInput">Full Name <span class="req">*</span></label>
@@ -50,6 +52,7 @@
           </div>
           <button id="viewLastBtn" class="btn lastresult-btn">View Last Result</button>
         </div>
+        </div><!-- /#startBody -->
       </div>
     </section>
 
@@ -74,6 +77,11 @@
             <ul id="qSubs" class="q-subs"></ul>
             <div id="qOptions" class="options"></div>
           </div>
+
+          <label id="guessWrap" class="guess-check" hidden>
+            <input type="checkbox" id="guessBox" />
+            <span>Guess Answer</span>
+          </label>
 
           <div class="nav-row">
             <button id="prevBtn" class="btn btn-outline">‹ Previous</button>
@@ -115,6 +123,7 @@
           <span class="pill pill-skip"><span id="skipCount">0</span> unattempted</span>
         </div>
         <div class="accuracy-line">Accuracy <strong id="accuracyVal">0%</strong> <span class="muted">of attempted</span></div>
+        <p id="scoreNote" class="score-note" hidden></p>
       </div>
 
       <button id="reportToggle" class="btn btn-outline btn-block report-toggle">View Detailed Performance Report ▾</button>
@@ -133,8 +142,24 @@
             <div class="rstat"><span class="rstat-num" id="reportAvg">—</span><span class="rstat-lbl">Avg / question</span></div>
           </div>
           <div id="reportHighlights" class="report-highlights"></div>
-          <h4 class="report-subhead">Performance by Topic</h4>
-          <div id="topicBars"></div>
+
+          <div id="subjectSection" hidden>
+            <h4 class="report-subhead">Subject-wise Performance</h4>
+            <div class="subject-table-wrap">
+              <table class="subject-table">
+                <thead>
+                  <tr><th>Subject</th><th>Att.</th><th>Right</th><th>Wrong</th><th>Accuracy</th><th>Guesses</th><th>Guesses right</th></tr>
+                </thead>
+                <tbody id="subjectRows"></tbody>
+              </table>
+            </div>
+            <p id="guessSummary" class="guess-summary"></p>
+          </div>
+
+          <div id="topicSection">
+            <h4 class="report-subhead">Performance by Topic</h4>
+            <div id="topicBars"></div>
+          </div>
         </div>
         <button id="downloadReport" class="btn btn-gold btn-block">⬇ Download report (PNG)</button>
       </div>
@@ -162,6 +187,6 @@
   </footer>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-  <script src="app.js?v=22"></script>
+  <script src="app.js?v=23"></script>
 </body>
 </html>

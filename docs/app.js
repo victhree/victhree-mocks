@@ -22,6 +22,7 @@ const state = {
   current: 0,        // index into questions[]
   answers: {},       // { questionNumber: "a"|"b"|"c"|"d" }
   marked: {},        // { questionNumber: true }  (flagged for review)
+  guesses: {},       // { questionNumber: true }  (student flagged it a guess)
   name: "",
   durationSec: 60 * 60,
   remaining: 60 * 60,
@@ -35,6 +36,12 @@ const $ = (id) => document.getElementById(id);
 const show = (el) => el.removeAttribute("hidden");
 const hide = (el) => el.setAttribute("hidden", "");
 
+/* A "full mock" is any test whose JSON defines a `scoring` block — it gets
+   weighted marks + negative marking, the Guess-Answer checkbox, and the
+   subject-wise report. Single-subject tests have no scoring block and behave
+   exactly as before (1 mark each, no negative, no guess UI). */
+function isFullMock() { return !!(state.quiz && state.quiz.scoring); }
+
 /* ---------- Auto-save / resume (localStorage, per test) ---------- */
 function stateKey() { return "v3quiz:" + (state.testId || "unknown"); }
 function saveState() {
@@ -43,6 +50,7 @@ function saveState() {
       name: state.name,
       answers: state.answers,
       marked: state.marked,
+      guesses: state.guesses,
       current: state.current,
       remaining: state.remaining,
       warned: state.warned,
@@ -112,8 +120,16 @@ async function loadQuiz() {
     $("scoreMax").textContent = state.questions.length;
     $("remainingCount").textContent = state.questions.length;
 
+    if (isFullMock()) {
+      const neg = state.quiz.scoring.negativeFraction;
+      const negLabel = Math.abs(neg - 1 / 3) < 0.02 ? "1/3" : neg;
+      $("metaScoring").textContent =
+        state.quiz.scoring.totalMarks + " marks · " + negLabel + " negative marking · auto-submit at time-up";
+    }
+
     offerResume();
     offerLastResult();
+    applyAccessWindow();
   } catch (err) {
     $("startError").textContent =
       'Could not load this test ("' + state.testId + '"). It may not exist. Go back to the test list and try again.';
@@ -164,6 +180,7 @@ function resumeTest() {
   state.name = saved.name || "Student";
   state.answers = saved.answers || {};
   state.marked = saved.marked || {};
+  state.guesses = saved.guesses || {};
   state.current = saved.current || 0;
   state.remaining = (typeof saved.remaining === "number") ? saved.remaining : state.durationSec;
   state.warned = !!saved.warned;
@@ -205,6 +222,43 @@ function viewLastResult() {
   if (!saved || !saved.data) return;
   state.name = saved.name || "Student";
   showResults(saved.data, true);
+}
+
+/* Timed access window. The test JSON may carry:
+   "window": { "start": "2026-08-22T10:00", "end": "2026-08-22T12:00",
+               "timingsLabel": "10:00 AM – 12:00 PM", "dateLabel": "22 August 2026" }
+   Times are interpreted in IST (UTC+5:30). Outside the window the start form is
+   replaced by a message; inside it, everything works normally. No window = always open. */
+function applyAccessWindow() {
+  const w = state.quiz && state.quiz.window;
+  if (!w || !w.start || !w.end) return; // always open
+
+  const startMs = Date.parse(w.start + ":00+05:30");
+  const endMs = Date.parse(w.end + ":00+05:30");
+  const now = Date.now();
+  if (isNaN(startMs) || isNaN(endMs)) return; // bad config → don't lock anyone out
+
+  const timings = w.timingsLabel || "";
+  const dateLabel = w.dateLabel || "";
+  const line = "Test timings: " + timings + (dateLabel ? " · " + dateLabel : "");
+
+  let msg = "";
+  if (now < startMs) {
+    msg =
+      '<p class="gate-line">' + line + "</p>" +
+      '<p class="gate-note">This test has not opened yet. Please come back during the test window.</p>';
+  } else if (now > endMs) {
+    msg =
+      '<p class="gate-line">' + line + "</p>" +
+      '<p class="gate-note">Sorry, you are late. You cannot attempt this test.</p>';
+  } else {
+    return; // inside the window → open
+  }
+
+  const gate = $("startGate");
+  gate.innerHTML = msg;
+  show(gate);
+  hide($("startBody"));
 }
 
 /* ============================================================
@@ -308,7 +362,24 @@ function renderQuestion() {
   $("prevBtn").disabled = state.current === 0;
   $("nextBtn").disabled = state.current === state.questions.length - 1;
 
+  // Guess-Answer checkbox (full mocks only)
+  const gw = $("guessWrap");
+  if (isFullMock()) {
+    show(gw);
+    $("guessBox").checked = !!state.guesses[q.n];
+  } else {
+    hide(gw);
+  }
+
   updatePaletteHighlight();
+}
+
+function toggleGuess() {
+  const q = state.questions[state.current];
+  if (!q) return;
+  if ($("guessBox").checked) state.guesses[q.n] = true;
+  else delete state.guesses[q.n];
+  saveState();
 }
 
 function toggleMark() {
@@ -501,8 +572,20 @@ function showResults(data, fromSaved) {
 
   const scoreNum = data.total != null ? data.total : right;
   $("resName").textContent = state.name;
-  $("scoreVal").textContent = scoreNum;
-  $("scoreMax").textContent = max;
+  const scored = isFullMock() && data.marks != null;
+  if (scored) {
+    $("scoreVal").textContent = fmtMarks(data.marks);
+    $("scoreMax").textContent = data.marksMax;
+    const negLabel = state.quiz.scoring && Math.abs(state.quiz.scoring.negativeFraction - 1 / 3) < 0.02
+      ? "1/3" : (state.quiz.scoring ? state.quiz.scoring.negativeFraction : "");
+    $("scoreNote").textContent =
+      "Marks after " + negLabel + " negative marking · " + right + " right, " + wrong + " wrong";
+    show($("scoreNote"));
+  } else {
+    $("scoreVal").textContent = scoreNum;
+    $("scoreMax").textContent = max;
+    hide($("scoreNote"));
+  }
   $("rightCount").textContent = right;
   $("wrongCount").textContent = wrong;
   $("skipCount").textContent = skip;
@@ -515,7 +598,10 @@ function showResults(data, fromSaved) {
   const byNum = {};
   state.questions.forEach((q) => (byNum[q.n] = q));
 
-  buildReport(results, byNum, scoreNum, max, right, attempted, accuracy);
+  buildReport(results, byNum,
+    scored ? fmtMarks(data.marks) : scoreNum,
+    scored ? data.marksMax : max,
+    right, attempted, accuracy);
 
   const review = $("review");
   review.innerHTML = "";
@@ -589,6 +675,43 @@ function fmtAvg(sec) {
   if (sec < 60) return sec + "s";
   return Math.floor(sec / 60) + "m " + (sec % 60) + "s";
 }
+function fmtMarks(m) {
+  const v = Math.round(m * 100) / 100;
+  return Number.isInteger(v) ? String(v) : v.toFixed(2).replace(/0+$/, "").replace(/\.$/, "");
+}
+
+/* Subject-wise performance + guess accuracy (full mocks only). */
+function renderSubjectReport(results, byNum) {
+  const subs = {};
+  const order = [];
+  let gTotal = 0, gRight = 0;
+  results.forEach((r) => {
+    const q = byNum[r.n] || {};
+    const name = q.subject || q.topic || "Other";
+    if (!subs[name]) { subs[name] = { att: 0, right: 0, wrong: 0, gTot: 0, gRight: 0 }; order.push(name); }
+    const s = subs[name];
+    if (r.chosen != null) { s.att++; if (r.isCorrect) s.right++; else s.wrong++; }
+    if (state.guesses[r.n]) {
+      s.gTot++; gTotal++;
+      if (r.isCorrect) { s.gRight++; gRight++; }
+    }
+  });
+  const tbody = $("subjectRows");
+  tbody.innerHTML = "";
+  order.forEach((name) => {
+    const s = subs[name];
+    const acc = s.att ? Math.round((s.right / s.att) * 100) : 0;
+    const tr = document.createElement("tr");
+    tr.innerHTML =
+      `<td class="subj-name">${escapeHtml(name)}</td>` +
+      `<td>${s.att}</td><td class="c-right">${s.right}</td><td class="c-wrong">${s.wrong}</td>` +
+      `<td>${acc}%</td><td>${s.gTot}</td><td>${s.gRight}</td>`;
+    tbody.appendChild(tr);
+  });
+  $("guessSummary").textContent = gTotal
+    ? `Guesses: ${gRight} of ${gTotal} guessed answers were correct (${Math.round((gRight / gTotal) * 100)}% of guesses).`
+    : "You did not flag any answer as a guess.";
+}
 
 function renderTopicBars(results, byNum) {
   const wrap = $("topicBars");
@@ -639,6 +762,17 @@ function buildReport(results, byNum, score, max, right, attempted, accuracy) {
   $("reportTime").textContent = fmtMMSS(timeTaken) + " / " + fmtMMSS(state.durationSec);
   $("reportAvg").textContent = attempted > 0 ? fmtAvg(timeTaken / attempted) : "—";
 
+  // Full mocks show the richer subject-wise table (with guess stats) instead of
+  // the single-subject topic bars.
+  if (isFullMock()) {
+    hide($("topicSection"));
+    show($("subjectSection"));
+    renderSubjectReport(results, byNum);
+  } else {
+    show($("topicSection"));
+    hide($("subjectSection"));
+  }
+
   // Topic bars (sorted weakest-first) + highlights
   const rows = renderTopicBars(results, byNum);
   const hl = $("reportHighlights");
@@ -687,6 +821,7 @@ window.addEventListener("DOMContentLoaded", () => {
   });
   $("clearBtn").addEventListener("click", clearChoice);
   $("markBtn").addEventListener("click", toggleMark);
+  $("guessBox").addEventListener("change", toggleGuess);
   $("resumeBtn").addEventListener("click", resumeTest);
   $("freshBtn").addEventListener("click", startFresh);
   $("viewLastBtn").addEventListener("click", viewLastResult);

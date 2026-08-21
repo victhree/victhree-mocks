@@ -112,6 +112,31 @@ html, body {
 .lastresult-btn { flex: none; background: #5c7296; color: #fff; border: none; padding: 8px 16px; font-size: 13.5px; white-space: nowrap; }
 .lastresult-btn:hover { filter: brightness(1.05); }
 
+/* ---- Guess-Answer checkbox (full mocks) ---- */
+.guess-check { display: inline-flex; align-items: center; gap: 8px; margin: 10px 2px 0; padding: 7px 12px;
+  background: #fff7e6; border: 1.5px solid #e6c877; border-radius: 8px; font-size: 13.5px; font-weight: 600;
+  color: #7a5a12; cursor: pointer; user-select: none; }
+.guess-check input { width: 16px; height: 16px; accent-color: #c9a24b; cursor: pointer; }
+
+/* ---- Access-window gate ---- */
+.start-gate { background: #fdecec; border: 1.5px solid #e0a9a9; border-radius: 12px; padding: 18px 16px; margin: 8px 0 4px; text-align: center; }
+.gate-line { margin: 0 0 8px; font-size: 15px; font-weight: 700; color: var(--navy); }
+.gate-note { margin: 0; font-size: 14px; color: #b23a2e; font-weight: 600; }
+
+/* ---- Results: negative-marking note ---- */
+.score-note { margin: 8px 0 0; font-size: 12.5px; color: var(--muted); }
+
+/* ---- Subject-wise performance table ---- */
+.subject-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.subject-table { width: 100%; border-collapse: collapse; font-size: 13px; margin: 4px 0 4px; }
+.subject-table th, .subject-table td { padding: 7px 8px; text-align: center; border-bottom: 1px solid var(--line); white-space: nowrap; }
+.subject-table th { font-size: 11px; text-transform: uppercase; letter-spacing: .3px; color: var(--muted); font-weight: 700; }
+.subject-table .subj-name { text-align: left; font-weight: 600; color: var(--navy); }
+.subject-table td.c-right { color: var(--green); font-weight: 600; }
+.subject-table td.c-wrong { color: var(--red); font-weight: 600; }
+.subject-table tbody tr:last-child td { border-bottom: none; }
+.guess-summary { margin: 10px 0 0; font-size: 13.5px; font-weight: 600; color: var(--navy); background: var(--paper); border-radius: 8px; padding: 10px 12px; }
+
 .back-link { display: inline-block; color: var(--muted); text-decoration: none; font-size: 13px; margin-bottom: 10px; }
 .back-link:hover { color: var(--navy); }
 .results-actions { display: flex; flex-direction: column; gap: 10px; }
