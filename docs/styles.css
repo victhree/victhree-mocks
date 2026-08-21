@@ -113,10 +113,19 @@ html, body {
 .lastresult-btn:hover { filter: brightness(1.05); }
 
 /* ---- Guess-Answer checkbox (full mocks) ---- */
+.guess-row { display: flex; justify-content: flex-end; }
 .guess-check { display: inline-flex; align-items: center; gap: 8px; margin: 10px 2px 0; padding: 7px 12px;
   background: #fff7e6; border: 1.5px solid #e6c877; border-radius: 8px; font-size: 13.5px; font-weight: 600;
   color: #7a5a12; cursor: pointer; user-select: none; }
 .guess-check input { width: 16px; height: 16px; accent-color: #c9a24b; cursor: pointer; }
+
+/* ---- Match-the-following table (List-I / List-II) ---- */
+.q-match:empty { display: none; }
+.match-table { width: 100%; border-collapse: collapse; margin: 10px 0 4px; font-size: 14.5px; }
+.match-table th, .match-table td { border: 1px solid var(--line); padding: 7px 10px; text-align: left; vertical-align: top; }
+.match-table th { background: var(--paper); font-weight: 700; color: var(--navy); font-size: 13px; }
+.match-table td { width: 50%; }
+.rev-match { font-size: 13.5px; margin: 6px 0; }
 
 /* ---- Access-window gate ---- */
 .start-gate { background: #fdecec; border: 1.5px solid #e0a9a9; border-radius: 12px; padding: 18px 16px; margin: 8px 0 4px; text-align: center; }

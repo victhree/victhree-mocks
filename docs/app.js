@@ -305,6 +305,47 @@ function splitNumberedRun(line) {
   return [t];
 }
 
+/* Match-the-following ("List-I / List-II") detection + table rendering.
+   Returns null if the sub-statements aren't a List-I/List-II pair. */
+function parseMatch(subLines) {
+  let li = -1, lii = -1;
+  subLines.forEach((s, idx) => {
+    if (lii < 0 && /^\s*list[-\s]?ii\b/i.test(s)) lii = idx;
+    else if (li < 0 && /^\s*list[-\s]?i\b/i.test(s)) li = idx;
+  });
+  if (li < 0 || lii < 0) return null;
+
+  const parseList = (s, splitRe) => {
+    const colon = s.indexOf(":");
+    const header = (colon >= 0 ? s.slice(0, colon) : "").trim();
+    const body = (colon >= 0 ? s.slice(colon + 1) : s).trim();
+    const items = body.split(splitRe).map((x) => x.trim()).filter(Boolean);
+    return { header, items };
+  };
+  const A = parseList(subLines[li], /(?=[A-Z]\.\s)/);
+  const B = parseList(subLines[lii], /(?=[1-9]\.\s)/);
+  if (A.items.length < 2 || B.items.length < 2) return null;
+
+  const n = Math.max(A.items.length, B.items.length);
+  const rows = [];
+  for (let i = 0; i < n; i++) rows.push([A.items[i] || "", B.items[i] || ""]);
+  const otherLines = subLines.filter((_, idx) => idx !== li && idx !== lii);
+  return {
+    headerI: cleanListHeader(A.header) || "List I",
+    headerII: cleanListHeader(B.header) || "List II",
+    rows: rows,
+    otherLines: otherLines,
+  };
+}
+function cleanListHeader(h) { return (h || "").replace(/^List-\s*/i, "List "); }
+function matchTableHtml(m, cls) {
+  const head = `<tr><th>${escapeHtml(m.headerI)}</th><th>${escapeHtml(m.headerII)}</th></tr>`;
+  const body = m.rows
+    .map((r) => `<tr><td>${escapeHtml(r[0])}</td><td>${escapeHtml(r[1])}</td></tr>`)
+    .join("");
+  return `<table class="${cls}"><thead>${head}</thead><tbody>${body}</tbody></table>`;
+}
+
 function renderQuestion() {
   const q = state.questions[state.current];
   if (!q) return;
@@ -326,10 +367,16 @@ function renderQuestion() {
   // (PYQ tag intentionally NOT shown during the quiz — it appears only in
   //  the answer/explanation review on the results page.)
 
-  // Sub-statements (split any "1. .. 2. .. 3. .." run onto separate lines)
+  // Sub-statements. Match-the-following (List-I/List-II) render as a table;
+  // everything else as split lines.
   const subs = $("qSubs");
+  const matchBox = $("qMatch");
   subs.innerHTML = "";
-  subLines.forEach((line) => {
+  matchBox.innerHTML = "";
+  const m = parseMatch(subLines);
+  const lineSource = m ? m.otherLines : subLines;
+  if (m) matchBox.innerHTML = matchTableHtml(m, "match-table");
+  lineSource.forEach((line) => {
     splitNumberedRun(line).forEach((piece) => {
       const li = document.createElement("li");
       li.textContent = piece;
@@ -621,10 +668,14 @@ function showResults(data, fromSaved) {
       subLines = [stemText].concat(subLines);
       stemText = "";
     }
-    const subsHtml = subLines
+    const m = parseMatch(subLines);
+    const lineSource = m ? m.otherLines : subLines;
+    const linesHtml = lineSource
       .flatMap((line) => splitNumberedRun(line))
       .map((piece) => `<li>${escapeHtml(piece)}</li>`)
       .join("");
+    const subsHtml = (m ? matchTableHtml(m, "match-table rev-match") : "") +
+      (linesHtml ? `<ul class="rev-subs">${linesHtml}</ul>` : "");
 
     const optsHtml = (q.options || [])
       .map((opt, i) => {
@@ -646,7 +697,7 @@ function showResults(data, fromSaved) {
         <p class="rev-q">Q${r.n}. ${escapeHtml(stemText)} ${pyqHtml}</p>
         <span class="rev-badge badge-${status}">${badgeText}</span>
       </div>
-      ${subsHtml ? `<ul class="rev-subs">${subsHtml}</ul>` : ""}
+      ${subsHtml}
       ${optsHtml ? `<ul class="rev-opts">${optsHtml}</ul>` : ""}
       <p class="rev-line"><span class="lbl">Your answer:</span>
         <span class="${status === "correct" ? "ans-right" : status === "wrong" ? "ans-wrong" : ""}">
@@ -684,7 +735,7 @@ function fmtMarks(m) {
 function renderSubjectReport(results, byNum) {
   const subs = {};
   const order = [];
-  let gTotal = 0, gRight = 0;
+  let gTotal = 0, gRight = 0, gWrongAtt = 0;
   results.forEach((r) => {
     const q = byNum[r.n] || {};
     const name = q.subject || q.topic || "Other";
@@ -694,6 +745,7 @@ function renderSubjectReport(results, byNum) {
     if (state.guesses[r.n]) {
       s.gTot++; gTotal++;
       if (r.isCorrect) { s.gRight++; gRight++; }
+      else if (r.chosen != null) gWrongAtt++;
     }
   });
   const tbody = $("subjectRows");
@@ -708,8 +760,16 @@ function renderSubjectReport(results, byNum) {
       `<td>${acc}%</td><td>${s.gRight}/${s.gTot}</td>`;
     tbody.appendChild(tr);
   });
+
+  // Net guess score = marks gained on correct guesses minus marks lost on wrong
+  // guesses (honours the negative marking), shown with an explicit +/- sign.
+  const sc = state.quiz && state.quiz.scoring;
+  const perQ = sc ? sc.totalMarks / state.questions.length : 1;
+  const negPerQ = sc ? perQ * (sc.negativeFraction || 0) : 0;
+  const net = Math.round((gRight * perQ - gWrongAtt * negPerQ) * 100) / 100;
+  const netStr = (net > 0 ? "+" : "") + fmtMarks(net);
   $("guessSummary").textContent = gTotal
-    ? `Guesses: ${gRight} of ${gTotal} guessed answers were correct (${Math.round((gRight / gTotal) * 100)}% of guesses).`
+    ? `Net guess score: ${netStr}  ·  ${gRight} of ${gTotal} guesses correct.`
     : "You did not flag any answer as a guess.";
 }
 

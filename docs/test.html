@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <title>VicThree Defence — Mock Test</title>
   <meta name="description" content="Timed mock test — VicThree Defence by Anmol Sharma." />
-  <link rel="stylesheet" href="styles.css?v=24" />
+  <link rel="stylesheet" href="styles.css?v=25" />
 </head>
 <body>
 
@@ -75,13 +75,16 @@
             </div>
             <p id="qStem" class="q-stem"></p>
             <ul id="qSubs" class="q-subs"></ul>
+            <div id="qMatch" class="q-match"></div>
             <div id="qOptions" class="options"></div>
           </div>
 
-          <label id="guessWrap" class="guess-check" hidden>
-            <input type="checkbox" id="guessBox" />
-            <span>Guess Answer</span>
-          </label>
+          <div class="guess-row">
+            <label id="guessWrap" class="guess-check" hidden>
+              <input type="checkbox" id="guessBox" />
+              <span>Guess Answer</span>
+            </label>
+          </div>
 
           <div class="nav-row">
             <button id="prevBtn" class="btn btn-outline">‹ Previous</button>
@@ -187,6 +190,6 @@
   </footer>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-  <script src="app.js?v=24"></script>
+  <script src="app.js?v=25"></script>
 </body>
 </html>
