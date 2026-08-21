@@ -224,41 +224,50 @@ function viewLastResult() {
   showResults(saved.data, true);
 }
 
-/* Timed access window. The test JSON may carry:
-   "window": { "start": "2026-08-22T10:00", "end": "2026-08-22T12:00",
-               "timingsLabel": "10:00 AM – 12:00 PM", "dateLabel": "22 August 2026" }
-   Times are interpreted in IST (UTC+5:30). Outside the window the start form is
-   replaced by a message; inside it, everything works normally. No window = always open. */
+/* Timed access window. The test JSON may carry any of:
+   "window": { "start": "2026-08-22T10:00",   // optional: no new starts before this
+               "end":   "2026-08-22T12:00",   // optional: no new starts after this
+               "deadlineLabel": "12:00 PM", "openLabel": "10:00 AM",
+               "dateLabel": "22 August 2026" }
+   Times are IST (UTC+5:30). The window only blocks NEW starts — a student already
+   mid-attempt keeps their full duration (they can refresh/resume past the deadline),
+   and finished students can still open their last result. No window = always open. */
 function applyAccessWindow() {
   const w = state.quiz && state.quiz.window;
-  if (!w || !w.start || !w.end) return; // always open
+  if (!w || (!w.start && !w.end)) return; // always open
 
-  const startMs = Date.parse(w.start + ":00+05:30");
-  const endMs = Date.parse(w.end + ":00+05:30");
   const now = Date.now();
-  if (isNaN(startMs) || isNaN(endMs)) return; // bad config → don't lock anyone out
+  const startMs = w.start ? Date.parse(w.start + ":00+05:30") : null;
+  const endMs = w.end ? Date.parse(w.end + ":00+05:30") : null;
+  if (startMs !== null && isNaN(startMs)) return; // bad config → don't lock anyone out
+  if (endMs !== null && isNaN(endMs)) return;
 
-  const timings = w.timingsLabel || "";
+  // Never gate someone who has already started (they keep their full 2 hours).
+  const saved = loadState();
+  const inProgress = saved && typeof saved.remaining === "number" &&
+    saved.remaining > 0 && saved.remaining < state.durationSec;
+  if (inProgress) return;
+
   const dateLabel = w.dateLabel || "";
-  const line = "Test timings: " + timings + (dateLabel ? " · " + dateLabel : "");
-
   let msg = "";
-  if (now < startMs) {
+  if (startMs !== null && now < startMs) {
+    const when = w.openLabel || "";
     msg =
-      '<p class="gate-line">' + line + "</p>" +
-      '<p class="gate-note">This test has not opened yet. Please come back during the test window.</p>';
-  } else if (now > endMs) {
+      '<p class="gate-line">The test opens at ' + when + (dateLabel ? " · " + dateLabel : "") + ".</p>" +
+      '<p class="gate-note">It has not opened yet. Please come back at the start time.</p>';
+  } else if (endMs !== null && now > endMs) {
+    const when = w.deadlineLabel || "";
     msg =
-      '<p class="gate-line">' + line + "</p>" +
+      '<p class="gate-line">New attempts closed at ' + when + (dateLabel ? " · " + dateLabel : "") + ".</p>" +
       '<p class="gate-note">Sorry, you are late. You cannot attempt this test.</p>';
   } else {
-    return; // inside the window → open
+    return; // within the allowed window → open
   }
 
   const gate = $("startGate");
   gate.innerHTML = msg;
   show(gate);
-  hide($("startBody"));
+  hide($("startControls")); // block only new starts; resume + last-result stay usable
 }
 
 /* ============================================================
