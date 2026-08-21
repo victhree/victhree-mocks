@@ -409,11 +409,16 @@ function renderQuestion() {
   $("prevBtn").disabled = state.current === 0;
   $("nextBtn").disabled = state.current === state.questions.length - 1;
 
-  // Guess-Answer checkbox (full mocks only)
+  // Guess-Answer checkbox (full mocks only). Can only be used once an option
+  // has been picked — you can't flag a guess without an answer.
   const gw = $("guessWrap");
   if (isFullMock()) {
     show(gw);
-    $("guessBox").checked = !!state.guesses[q.n];
+    const answered = state.answers[q.n] != null;
+    $("guessBox").disabled = !answered;
+    $("guessBox").checked = answered && !!state.guesses[q.n];
+    gw.classList.toggle("disabled", !answered);
+    gw.title = answered ? "" : "Pick an answer first";
   } else {
     hide(gw);
   }
@@ -424,8 +429,10 @@ function renderQuestion() {
 function toggleGuess() {
   const q = state.questions[state.current];
   if (!q) return;
-  if ($("guessBox").checked) state.guesses[q.n] = true;
+  // A guess only counts when an answer is actually selected.
+  if ($("guessBox").checked && state.answers[q.n] != null) state.guesses[q.n] = true;
   else delete state.guesses[q.n];
+  updatePaletteHighlight();
   saveState();
 }
 
@@ -449,6 +456,7 @@ function selectOption(qNum, letter) {
 function clearChoice() {
   const q = state.questions[state.current];
   delete state.answers[q.n];
+  delete state.guesses[q.n]; // clearing the answer also clears any guess flag
   renderQuestion();
   refreshCounts();
   saveState();
@@ -481,6 +489,7 @@ function updatePaletteHighlight() {
     const idx = Number(b.dataset.idx);
     const q = state.questions[idx];
     b.classList.toggle("answered", state.answers[q.n] != null);
+    b.classList.toggle("guessed", state.answers[q.n] != null && state.guesses[q.n] != null);
     b.classList.toggle("marked", state.marked[q.n] != null);
     b.classList.toggle("current", idx === state.current);
   });
@@ -769,7 +778,7 @@ function renderSubjectReport(results, byNum) {
   const net = Math.round((gRight * perQ - gWrongAtt * negPerQ) * 100) / 100;
   const netStr = (net > 0 ? "+" : "") + fmtMarks(net);
   $("guessSummary").textContent = gTotal
-    ? `Net guess score: ${netStr}  ·  ${gRight} of ${gTotal} guesses correct.`
+    ? `Net Guess Score: ${netStr}  ·  ${gRight} of ${gTotal} guesses correct.`
     : "You did not flag any answer as a guess.";
 }
 

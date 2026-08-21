@@ -118,6 +118,8 @@ html, body {
   background: #fff7e6; border: 1.5px solid #e6c877; border-radius: 8px; font-size: 13.5px; font-weight: 600;
   color: #7a5a12; cursor: pointer; user-select: none; }
 .guess-check input { width: 16px; height: 16px; accent-color: #c9a24b; cursor: pointer; }
+.guess-check.disabled { opacity: .5; cursor: not-allowed; }
+.guess-check.disabled input { cursor: not-allowed; }
 
 /* ---- Match-the-following table (List-I / List-II) ---- */
 .q-match:empty { display: none; }
@@ -254,6 +256,8 @@ html, body {
 .pal-btn.answered { background: var(--green-bg); border-color: var(--green); color: var(--green); }
 .pal-btn.marked { background: var(--review-bg); border-color: var(--review); color: #5a3a8a; }
 .pal-btn.answered.marked::after { content: ""; position: absolute; top: 3px; right: 3px; width: 7px; height: 7px; border-radius: 50%; background: var(--green); }
+/* Guessed (but answered) cells show amber-yellow instead of green. */
+.pal-btn.guessed { background: #f7dd8a; border-color: #d7a92c; color: #7a5c10; }
 .pal-btn.current { outline: 3px solid var(--gold); border-color: var(--gold); }
 .legend { display: flex; flex-wrap: wrap; gap: 10px; font-size: 12px; color: var(--muted); margin: 14px 0 10px; }
 .dot { display: inline-block; width: 11px; height: 11px; border-radius: 3px; vertical-align: middle; margin-right: 3px; }
