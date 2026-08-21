@@ -705,7 +705,7 @@ function renderSubjectReport(results, byNum) {
     tr.innerHTML =
       `<td class="subj-name">${escapeHtml(name)}</td>` +
       `<td>${s.att}</td><td class="c-right">${s.right}</td><td class="c-wrong">${s.wrong}</td>` +
-      `<td>${acc}%</td><td>${s.gTot}</td><td>${s.gRight}</td>`;
+      `<td>${acc}%</td><td>${s.gRight}/${s.gTot}</td>`;
     tbody.appendChild(tr);
   });
   $("guessSummary").textContent = gTotal
