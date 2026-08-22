@@ -5,6 +5,11 @@
                     "totalMarks":  100,
                     "negativeFraction":  0.3333
                 },
+    "window":  {
+                    "end":  "2026-08-22T12:00",
+                    "deadlineLabel":  "12:00 PM",
+                    "dateLabel":  "22 August 2026"
+                },
     "questions":  [
                       {
                           "n":  1,
