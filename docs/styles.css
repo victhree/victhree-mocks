@@ -285,6 +285,9 @@ html, body {
 
 /* ---- Detailed performance report (toggle) ---- */
 .report-toggle { margin-bottom: 18px; }
+/* Yellowish "View Detailed Performance Report" button */
+button.report-toggle { background: #f9e6a3; border: 1.5px solid #dcbb4e; color: #5f4b0f; }
+button.report-toggle:hover { filter: brightness(1.04); }
 .report-panel { margin-bottom: 18px; }
 .report-capture { background: var(--white); padding: 4px 2px 8px; }
 .report-head { text-align: center; border-bottom: 2px solid var(--gold); padding-bottom: 12px; margin-bottom: 16px; }
