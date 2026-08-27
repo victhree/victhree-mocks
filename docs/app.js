@@ -938,15 +938,19 @@ function routeMulti() {
   hideAllScreens();
   const idx = currentPaperIdx();
   if (idx >= state.multi.papers.length) { renderFinalMulti(); return; }
-  const paper = state.multi.papers[idx];
-  state.testId = paper.id;
-  const sv = loadState();
-  const dur = (state.multi.loaded[paper.id].durationMin || 120) * 60;
-  if (sv && typeof sv.remaining === "number" && sv.remaining > 0 && sv.remaining < dur) {
-    resumePaper(paper, sv);
-  } else {
-    showOverview();
-  }
+  // Always land on the overview — if the current paper was left mid-attempt,
+  // its tile offers "Resume ›" (an explicit choice, not a silent jump).
+  showOverview();
+}
+
+/* Is there a saved, unfinished attempt for this paper (so it can be resumed)? */
+function paperInProgress(paperId) {
+  try {
+    const sv = JSON.parse(localStorage.getItem("v3quiz:" + paperId) || "null");
+    if (!sv || typeof sv.remaining !== "number" || sv.remaining <= 0) return false;
+    const dur = (state.multi.loaded[paperId].durationMin || 120) * 60;
+    return sv.remaining < dur || Object.keys(sv.answers || {}).length > 0;
+  } catch (e) { return false; }
 }
 
 function paperMetaLine(pj) {
@@ -970,33 +974,48 @@ function showOverview() {
     let status, label;
     if (res && res.skipped) { status = "skipped"; label = "Skipped"; }
     else if (res) { status = "done"; label = "Submitted ✓"; }
-    else if (i === idx) { status = "active"; label = "Start now ›"; }
+    else if (i === idx) { status = "active"; label = ""; }
     else { status = "locked"; label = "Locked"; }
     const pj = state.multi.loaded[p.id];
-    const tile = document.createElement(status === "active" ? "button" : "div");
+    const tile = document.createElement("div");
     tile.className = "paper-tile " + status;
-    if (status === "active") { tile.type = "button"; tile.addEventListener("click", onStartActive); }
-    tile.innerHTML =
+    let inner =
       `<div class="pt-badge">Paper ${i + 1}</div>` +
       `<div class="pt-title">${escapeHtml(p.title)}</div>` +
-      `<div class="pt-meta">${pj.questions.length} Q · ${pj.scoring ? pj.scoring.totalMarks : 100} marks · ${pj.durationMin || 120} min</div>` +
-      `<div class="pt-status">${label}</div>`;
+      `<div class="pt-meta">${pj.questions.length} Q · ${pj.scoring ? pj.scoring.totalMarks : 100} marks · ${pj.durationMin || 120} min</div>`;
+    if (status !== "active") inner += `<div class="pt-status">${label}</div>`;
+    tile.innerHTML = inner;
+
+    if (status === "active") {
+      const row = document.createElement("div");
+      row.className = "pt-actions";
+      const resuming = paperInProgress(p.id);
+      const startBtn = document.createElement("button");
+      startBtn.type = "button";
+      startBtn.className = "btn btn-gold";
+      startBtn.textContent = resuming ? "Resume ›" : "Start now ›";
+      startBtn.addEventListener("click", onStartActive);
+      row.appendChild(startBtn);
+      if (p.skippable) {
+        const skipBtn = document.createElement("button");
+        skipBtn.type = "button";
+        skipBtn.className = "btn btn-outline";
+        skipBtn.textContent = "Skip";
+        skipBtn.addEventListener("click", skipRest);
+        row.appendChild(skipBtn);
+      }
+      tile.appendChild(row);
+    }
     wrap.appendChild(tile);
   });
 
+  // Below the tiles: only a "See my result" once every paper is done/skipped.
   const actions = $("overviewActions");
   actions.innerHTML = "";
-  const notDone = ps.filter((p) => !state.paperResults[p.id]);
-  const anyAttempted = ps.some((p) => state.paperResults[p.id] && !state.paperResults[p.id].skipped);
-  if (notDone.length === 0) {
+  if (ps.every((p) => state.paperResults[p.id])) {
     const b = document.createElement("button");
     b.className = "btn btn-gold btn-block"; b.textContent = "See my result";
     b.addEventListener("click", renderFinalMulti); actions.appendChild(b);
-  } else if (notDone.every((p) => p.skippable) && anyAttempted) {
-    const b = document.createElement("button");
-    b.className = "btn btn-outline btn-block";
-    b.textContent = "Skip " + notDone.map((p) => p.title).join(" & ") + " & see my result";
-    b.addEventListener("click", skipRest); actions.appendChild(b);
   }
   show($("overviewScreen"));
   window.scrollTo(0, 0);
@@ -1011,7 +1030,12 @@ function onStartActive() {
     if (!nm) { $("ovError").textContent = "Please enter your name."; show($("ovError")); return; }
     state.name = nm; saveMulti();
   }
-  startPaper(paper);
+  if (paperInProgress(paper.id)) {
+    const sv = JSON.parse(localStorage.getItem("v3quiz:" + paper.id) || "null");
+    resumePaper(paper, sv);
+  } else {
+    startPaper(paper);
+  }
 }
 
 function setPaperTag(paper) {
