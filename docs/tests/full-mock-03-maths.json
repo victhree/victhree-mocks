@@ -1,0 +1,1625 @@
+{
+    "title":  "Mathematics",
+    "durationMin":  120,
+    "scoring":  {
+                    "totalMarks":  100,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "What is the remainder when (17^29 + 19^29) is divided by 18?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6",
+                                          "2",
+                                          "1",
+                                          "0"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "What is the unit place digit in the expansion of 7^73?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1",
+                                          "3",
+                                          "7",
+                                          "9"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The highest four-digit number which is divisible by each of the numbers 16, 36, 45, 48 is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "9180",
+                                          "9360",
+                                          "9630",
+                                          "9840"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "What is the remainder when the number 4444^4444 is divided by 9?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4",
+                                          "6",
+                                          "7",
+                                          "8"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The number of prime numbers which are less than 100 is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "25",
+                                          "26",
+                                          "27",
+                                          "28"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The product of two integers p and q, where p \u003e 60 and q \u003e 60, is 7168 and their HCF is 16. The sum of these two integers is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "256",
+                                          "184",
+                                          "176",
+                                          "164"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Consider the following in respect of natural numbers a, b and c:",
+                          "subs":  [
+                                       "1. LCM(ab, ac) = a·LCM(b, c)",
+                                       "2. HCF(ab, ac) = a·HCF(b, c)",
+                                       "3. HCF(a, b) \u003c LCM(a, b)",
+                                       "4. HCF(a, b) divides LCM(a, b)",
+                                       "Which of the above are correct?   [2016-I]"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "3 and 4 only",
+                                          "1, 2 and 4 only",
+                                          "1, 2, 3 and 4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The LCM of two numbers is 90 times their HCF. The sum of LCM and HCF is 1456. If one of the numbers is 160, then what is the other number?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "120",
+                                          "136",
+                                          "144",
+                                          "184"
+                                      ],
+                          "pyq":  "CDS 2014-I",
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "For any integers \u0027a\u0027 and \u0027b\u0027 with HCF(a, b) = 1, what is HCF(a + b, a − b) equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is always 1",
+                                          "It is always 2",
+                                          "Either 1 or 2",
+                                          "None of these"
+                                      ],
+                          "pyq":  "CDS 2014-I",
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Priya\u0027s age was the cube of an integral number (different from 1) four years ago, and the square of an integral number after four years. How long should she wait so that her age becomes the square of a number in the previous year and a cube of a number in the next year?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "7 years",
+                                          "12 years",
+                                          "14 years",
+                                          "21 years"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Power, Roots and Decimals",
+                          "topic":  "Power, Roots and Decimals"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "What is the value of the infinite expression: 2 + √(2 + √(2 + √(2 + ...)))?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1",
+                                          "2",
+                                          "3",
+                                          "4"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Power, Roots and Decimals",
+                          "topic":  "Power, Roots and Decimals"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "If a/(b+c) = b/(c+a) = c/(a+b), then which one of the following statements is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Each fraction is equal to 1 or −1.",
+                                          "Each fraction is equal to 1/2 or 1.",
+                                          "Each fraction is equal to 1/2 or −1.",
+                                          "Each fraction is equal to 1/2 only."
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Power, Roots and Decimals",
+                          "topic":  "Power, Roots and Decimals"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "A field can be reaped by 12 men or 18 women in 14 days. In how many days can 8 men and 16 women reap it?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "26 days",
+                                          "24 days",
+                                          "9 days",
+                                          "8 days"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Two workers \u0027A\u0027 and \u0027B\u0027 working together completed a job in 5 days. Had \u0027A\u0027 worked twice as efficiently as he actually did and \u0027B\u0027 worked one-third as efficiently as he actually did, the work would have been completed in 3 days. In how many days could \u0027A\u0027 alone complete the job?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3½ days",
+                                          "4⁵⁄₆ days",
+                                          "5½ days",
+                                          "6¼ days"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "\u0027A\u0027 is thrice as good a workman as \u0027B\u0027 and takes 10 days less to do a piece of work than \u0027B\u0027 takes. The number of days taken by \u0027B\u0027 alone to finish the work is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "12",
+                                          "15",
+                                          "20",
+                                          "30"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "X and Y together can finish a job in 6 days. X alone can do the same job in 12 days. How long will Y alone take to do the same job?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "16 days",
+                                          "12 days",
+                                          "10 days",
+                                          "8 days"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Three cars A, B and C started from a point at 5 pm, 6 pm and 7 pm respectively and travelled at uniform speeds of 60 km/hr, 80 km/hr and x km/hr respectively in the same direction. If all three met at another point at the same instant during their journey, then what is the value of x?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "120",
+                                          "110",
+                                          "105",
+                                          "100"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Radha and Hema are neighbours who cycle to the same school. Radha\u0027s speed is 8 km/hr while Hema\u0027s speed is 10 km/hr. Hema takes 9 minutes less than Radha to reach the school. How far is the school from their locality?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5 km",
+                                          "5.5 km",
+                                          "6 km",
+                                          "6.5 km"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "A train 100 m long passes a platform 100 m long in 10 seconds. The speed of the train is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "36 kmph",
+                                          "45 kmph",
+                                          "54 kmph",
+                                          "72 kmph"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "A cyclist covers his first 20 km at an average speed of 40 kmph, another 10 km at an average speed of 10 kmph, and the last 30 km at an average speed of 40 kmph. The average speed of the entire journey is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "20 kmph",
+                                          "26.67 kmph",
+                                          "28.24 kmph",
+                                          "30 kmph"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The sum of the ages of a father, mother, son Sonu and daughters Savita and Sonia is 96 years. Sonu is the youngest member of the family. The year Sonu was born, the sum of ages of all family members was 66 years. If the father\u0027s age now is 6 times Sonu\u0027s present age, then 12 years hence the father\u0027s age will be:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "44 years",
+                                          "45 years",
+                                          "46 years",
+                                          "48 years"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Average",
+                          "topic":  "Average"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The average marks of section A are 65 and that of section B are 70. If the average marks of both sections combined are 67, then the ratio of the number of students of section A to that of section B is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3:2",
+                                          "1:3",
+                                          "3:1",
+                                          "2:3"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Average",
+                          "topic":  "Average"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "A man walking at 5 km/hour noticed that a 225 m long train coming in the opposite direction crossed him in 9 seconds. The speed of the train is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "75 km/hour",
+                                          "80 km/hour",
+                                          "85 km/hour",
+                                          "90 km/hour"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Average",
+                          "topic":  "Average"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "In a hostel the rent per room is increased by 20%. If the number of rooms in the hostel is also increased by 20% and the hostel is always full, what is the percentage change in the total collection at the cash counter?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "30%",
+                                          "40%",
+                                          "44%",
+                                          "48%"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "x, y and z are three numbers such that x is 30% of z and y is 40% of z. If x is p% of y, what is the value of p?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "45",
+                                          "55",
+                                          "65",
+                                          "75"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "According to Mr. Sharma\u0027s will, half of his property goes to his wife and the rest is equally divided between his two sons, Ravi and Raj. Some years later, Ravi dies and leaves half of his property to his widow and the rest to his brother Raj. When Raj dies, he leaves half of his property to his widow and the rest to his mother, who is still alive. The mother now owns Rs. 88,000 worth of property. What was the total worth of Mr. Sharma\u0027s property?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 1,00,000",
+                                          "Rs. 1,24,000",
+                                          "Rs. 1,28,000",
+                                          "Rs. 1,32,000"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The value of a single discount which is equivalent to a series of discounts of 10%, 20% and 40% on the same amount, is equal to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "43.2%",
+                                          "50%",
+                                          "56.8%",
+                                          "70%"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "On a 20% discount sale, an article costs Rs. 596. What was the original price of the article?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 720",
+                                          "Rs. 735",
+                                          "Rs. 745",
+                                          "Rs. 775"
+                                      ],
+                          "pyq":  "CDS 2014-I",
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "In a class of 100 students, the average weight is 30 kg. If the average weight of the girls is 24 kg and that of the boys is 32 kg, then what is the number of girls in the class?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "25",
+                                          "26",
+                                          "27",
+                                          "28"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "A man who recently died left a sum of Rs. 3,90,000 to be divided among his wife, five sons and four daughters. He directed that each son should receive 3 times as much as each daughter, and that each daughter should receive twice as much as their mother. What was the wife\u0027s share?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 14,000",
+                                          "Rs. 12,000",
+                                          "Rs. 10,000",
+                                          "Rs. 9,000"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "Ten years before, the ages of a mother and her daughter were in the ratio 3:1. In another 10 years from now, the ratio of their ages will be 13:7. What are their present ages?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "39 years, 21 years",
+                                          "55 years, 25 years",
+                                          "75 years, 25 years",
+                                          "49 years, 31 years"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "A milkman claims to sell milk at its cost price only, but he is making a profit of 20% since he has mixed some amount of water in the milk. What is the percentage of milk in the mixture?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "80%",
+                                          "250/3 %",
+                                          "75%",
+                                          "200/3 %"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "The ratio of ages of A and B is 2:5, and the ratio of ages of B and C is 3:4. What is the ratio of ages of A, B and C?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6:15:20",
+                                          "8:5:3",
+                                          "6:5:4",
+                                          "2:15:4"
+                                      ],
+                          "pyq":  "CDS 2014-II",
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "If an article is sold at a gain of 6% instead of a loss of 6%, the seller gets Rs. 6 more. What is the cost price of the article?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 18",
+                                          "Rs. 36",
+                                          "Rs. 42",
+                                          "Rs. 50"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "A person bought two articles X and Y from a departmental store. The sum of prices before sales tax was Rs. 130. There was no sales tax on article X and 9% sales tax on article Y. The total amount paid, including sales tax, was Rs. 136.75. What was the price of article Y before sales tax?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 75",
+                                          "Rs. 85",
+                                          "Rs. 122",
+                                          "Rs. 125"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "A milk vendor bought 28 litres of milk at the rate of Rs. 8.50 per litre. After adding some water, he sold the mixture at the same price. If his gain is 12.5%, how much water did he add?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4.5 litres",
+                                          "4 litres",
+                                          "3.5 litres",
+                                          "3 litres"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "A cloth merchant buys cloth from a weaver and cheats him by using a scale which is 10 cm longer than a normal metre scale. He claims to sell cloth at the cost price to his customers, but while selling uses a scale which is 10 cm shorter than a normal metre scale. What is his gain?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "20%",
+                                          "21%",
+                                          "22²/₉ %",
+                                          "23₁/₃ %"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "What is the least number of complete years in which a sum of money put out at 40% annual compound interest will be more than trebled?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3",
+                                          "4",
+                                          "5",
+                                          "6"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "A person divided a sum of Rs. 17,200 into three parts and invested at 5%, 6% and 9% per annum simple interest. At the end of two years, he got the same interest on each part of money. What is the money invested at 9%?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 3,200",
+                                          "Rs. 4,000",
+                                          "Rs. 4,800",
+                                          "Rs. 5,000"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "Two equal amounts were borrowed at 5% and 4% simple interest. The total interest after 4 years amounted to Rs. 405. What was the total amount borrowed?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 1075",
+                                          "Rs. 1100",
+                                          "Rs. 1125",
+                                          "Rs. 1150"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "A sum of Rs. 10,000 is deposited for 1 year at the rate of interest 10% compounded half yearly. What will be the interest at the end of one year?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 1000",
+                                          "Rs. 1025",
+                                          "Rs. 1050",
+                                          "Rs. 1100"
+                                      ],
+                          "pyq":  "CDS 2015-II",
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "There is a 60% increase in an amount in 6 years at simple interest. What will be the compound interest on Rs. 12,000 after 3 years at the same rate of interest?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 2,160",
+                                          "Rs. 3,120",
+                                          "Rs. 3,972",
+                                          "Rs. 6,240"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "It is given that log₁₀ 2 = 0.301 and log₁₀ 3 = 0.477. How many digits are there in 108¹⁰?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "19",
+                                          "20",
+                                          "21",
+                                          "22"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Logarithm",
+                          "topic":  "Logarithm"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "If 3^x = 4^y = 12^z, then z is equal to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "xy",
+                                          "x + y",
+                                          "xy/(x + y)",
+                                          "4x + 3y"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Logarithm",
+                          "topic":  "Logarithm"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "For any two real numbers a and b, √(a−b)² + √(b−a)² is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "always zero",
+                                          "never zero",
+                                          "positive only if a ≠ b",
+                                          "positive if and only if a \u003e b"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "If p and q are the roots of the equation x² − 15x + r = 0, and p − q = 1, then what is the value of r?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "55",
+                                          "56",
+                                          "60",
+                                          "64"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "For the inequation x² − 7x + 12 \u003e 0, which one of the following is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3 \u003c x \u003c 4",
+                                          "−∞ \u003c x \u003c 3 only",
+                                          "4 \u003c x \u003c ∞ only",
+                                          "−∞ \u003c x \u003c 3 or 4 \u003c x \u003c ∞"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "If x = 2 + 2^(2/3) + 2^(1/3), then the value of the expression x³ − 6x² + 6x will be:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2",
+                                          "1",
+                                          "0",
+                                          "−2"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "The minimum value of the expression 2x² + 5x + 5 is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5",
+                                          "15/8",
+                                          "−15/8",
+                                          "0"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "The expression 5^(2n) − 2^(3n) has a factor:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3",
+                                          "7",
+                                          "17",
+                                          "None of the above"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "For what value of k is (x − 5) a factor of x³ − 3x² + kx − 10?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "−8",
+                                          "4",
+                                          "2",
+                                          "1"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "What is the remainder when (1235 × 4523 × 2451) is divided by 12?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1",
+                                          "3",
+                                          "5",
+                                          "7"
+                                      ],
+                          "pyq":  "CDS 2014-II",
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "What is the highest common factor of (2x³ + x² − x − 2) and (3x³ − 2x² + x − 2)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "x − 1",
+                                          "x + 1",
+                                          "2x + 1",
+                                          "2x − 1"
+                                      ],
+                          "pyq":  "CDS 2014-II",
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "Which of the following pairs of numbers is a solution of the equation 3^(x+2) + 3^(−x) = 10?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0, 2",
+                                          "0, −2",
+                                          "1, −1",
+                                          "1, 2"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "A certain two-digit number is three times the sum of its digits. If 45 is added to the number, the digits get reversed. What is the sum of the squares of the two digits of the number?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "41",
+                                          "45",
+                                          "53",
+                                          "64"
+                                      ],
+                          "pyq":  "CDS 2014-II",
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "The present age of Ravi\u0027s father is 4 times Ravi\u0027s present age. Five years back, Ravi\u0027s father was seven times as old as Ravi was at that time. What is the present age of Ravi\u0027s father?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "84 years",
+                                          "70 years",
+                                          "40 years",
+                                          "35 years"
+                                      ],
+                          "pyq":  "CDS 2014-I",
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "A positive number, when increased by 10, equals 200 times its reciprocal. What is the number?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "100",
+                                          "10",
+                                          "20",
+                                          "200"
+                                      ],
+                          "pyq":  "CDS 2014-I",
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "[Common data] In a certain town of population size 1,00,000, three types of newspapers (I, II, III) are read as follows — I: 10%, II: 30%, III: 5%, Both I and II: 8%, Both II and III: 4%, Both I and III: 2%, All three: 1%.",
+                          "subs":  [
+                                       "What is the number of people who read only one newspaper?   [2019-I]"
+                                   ],
+                          "options":  [
+                                          "20,000",
+                                          "25,000",
+                                          "30,000",
+                                          "35,000"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Set Theory",
+                          "topic":  "Set Theory"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "In an examination, 52% of candidates failed in English and 42% failed in Mathematics. If 17% failed in both subjects, what percent passed in both subjects?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "77",
+                                          "58",
+                                          "48",
+                                          "23"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Set Theory",
+                          "topic":  "Set Theory"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "In an examination, 50% of the candidates failed in English, 40% failed in Hindi, and 15% failed in both subjects. The percentage of candidates who passed in both English and Hindi is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "20%",
+                                          "25%",
+                                          "60%",
+                                          "75%"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Set Theory",
+                          "topic":  "Set Theory"
+                      },
+                      {
+                          "n":  61,
+                          "stem":  "A plane circling an airport takes 3 minutes to complete one round. The angle of elevation of the plane from a point P on the ground at time t seconds equals that at time (t + 30) seconds. At time (t + x) seconds, the plane flies vertically above point P. What is x equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "75 seconds",
+                                          "90 seconds",
+                                          "105 seconds",
+                                          "135 seconds"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  62,
+                          "stem":  "A ladder is resting against a vertical wall with its bottom 2.5 m from the wall. If it slips 0.8 m down the wall, its bottom moves away from the wall by 1.4 m. What is the length of the ladder?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6.2 m",
+                                          "6.5 m",
+                                          "6.8 m",
+                                          "7.5 m"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  63,
+                          "stem":  "From the top of a tower, the angles of depression of two objects P and Q (on the ground, on the same side of the tower) separated by a distance of 100(3 − √3) m are 45° and 60° respectively. The height of the tower is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "200 m",
+                                          "250 m",
+                                          "300 m",
+                                          "None of the above"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  64,
+                          "stem":  "The angle of elevation of a cloud from a point 200 m above a lake is 30°, and the angle of depression of its reflection in the lake is 60°. The height of the cloud is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "200 m",
+                                          "300 m",
+                                          "400 m",
+                                          "600 m"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  65,
+                          "stem":  "If tan x = 1, 0 \u003c x \u003c 90°, what is the value of 2 sin x cos x?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1/2",
+                                          "1",
+                                          "√3/2",
+                                          "√3"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  66,
+                          "stem":  "What is the value of sin 46° cos 44° + cos 46° sin 44°?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "sin 2°",
+                                          "0",
+                                          "1",
+                                          "2"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  67,
+                          "stem":  "For 0° \u003c θ \u003c 90°, 4 sin²θ + 1 is greater than or equal to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2",
+                                          "4 sin θ",
+                                          "4 cos θ",
+                                          "4 tan θ"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  68,
+                          "stem":  "What is the value of tan 1° · tan 2° · tan 3° ... tan 89°?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "1",
+                                          "2",
+                                          "∞"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  69,
+                          "stem":  "If √3 tan θ = cot θ, where 0 \u003c θ \u003c π/2, what is the value of θ?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "π/6",
+                                          "π/4",
+                                          "π/3",
+                                          "π/2"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  70,
+                          "stem":  "What is the value of sin²25° + sin²65°?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "1",
+                                          "2",
+                                          "4"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  71,
+                          "stem":  "What is the value of sin⁶θ + cos⁶θ + 3 sin²θ cos²θ − 1?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "1",
+                                          "2",
+                                          "4"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  72,
+                          "stem":  "If cos θ = 1/√5, where 0 \u003c θ \u003c π/2, then 2 tan θ / (1 − tan²θ) is equal to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4/3",
+                                          "−4/3",
+                                          "1/3",
+                                          "−2/3"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  73,
+                          "stem":  "If 0° \u003c θ \u003c 90°, 0° \u003c φ \u003c 90°, and cos θ \u003c cos φ, then which one of the following is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "θ \u003c φ",
+                                          "θ \u003e φ",
+                                          "θ + φ = 90°",
+                                          "No conclusion can be drawn"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  74,
+                          "stem":  "In a triangle ABC, sides AB and AC are produced, and the bisectors of the exterior angles of ∠ABC and ∠ACB intersect at D. If ∠BAC = 50°, then ∠BDC is equal to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "115°",
+                                          "65°",
+                                          "55°",
+                                          "40°"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  75,
+                          "stem":  "If two lines AB and CD intersect at O such that ∠AOC = 5∠AOD, then the four angles at O are:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "40°,40°,140°,140°",
+                                          "30°,30°,150°,150°",
+                                          "30°,45°,75°,210°",
+                                          "60°,60°,120°,120°"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  76,
+                          "stem":  "At 8:30, the angle formed by the hour hand and the minute hand of a clock is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "80°",
+                                          "75°",
+                                          "70°",
+                                          "60°"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  77,
+                          "stem":  "Three consecutive integers form the lengths of the sides of a right-angled triangle. How many sets of such three consecutive integers are possible?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Only one",
+                                          "Only two",
+                                          "Only three",
+                                          "Infinitely many"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  78,
+                          "stem":  "The angles of a triangle are in the ratio 1 : 1 : 4. If the perimeter of the triangle is k times its largest side, what is the value of k?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 + 2/√3",
+                                          "1 − 2/√3",
+                                          "2 + 2/√3",
+                                          "2"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  79,
+                          "stem":  "Consider the following inequalities in respect of any triangle ABC:",
+                          "subs":  [
+                                       "1. AC − AB \u003c BC",
+                                       "2. BC − AC \u003c AB",
+                                       "3. AB − BC \u003c AC",
+                                       "Which of the above are correct?   [2019-I]"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  80,
+                          "stem":  "An equilateral triangle ABC is inscribed in a circle of radius 20√3. What is the length of the side of the triangle?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "30 cm",
+                                          "40 cm",
+                                          "50 cm",
+                                          "60 cm"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  81,
+                          "stem":  "Considering two opposite vertices of a square of side \u0027a\u0027 as centres, two circular arcs are drawn within the square joining the other two vertices, forming two sectors. What is the common area of these two sectors?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a²(π + 1)/2",
+                                          "a²(π − 1)/2",
+                                          "a²(π/2 − 1)",
+                                          "a²(π/2 + 1)"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  82,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. An isosceles trapezium is always cyclic.",
+                                       "2. Any cyclic parallelogram is a rectangle.",
+                                       "Which of the above statements is/are correct?   [2019-I]"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  83,
+                          "stem":  "If the lengths of two parallel chords in a circle of radius 10 cm are 12 cm and 16 cm, what is the distance between these two chords?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 cm or 7 cm",
+                                          "2 cm or 14 cm",
+                                          "3 cm or 21 cm",
+                                          "4 cm or 28 cm"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  84,
+                          "stem":  "Two concentric circles are drawn. The circumference of the smaller circle is 44 cm, and that of the bigger circle is double the smaller one. What is the area between the two circles?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "154 sq cm",
+                                          "308 sq cm",
+                                          "462 sq cm",
+                                          "616 sq cm"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  85,
+                          "stem":  "If a point P moves such that the sum of the squares of its distances from two fixed points A and B is a constant, then the locus of the point P is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A straight line",
+                                          "A circle",
+                                          "Perpendicular bisector of AB",
+                                          "An arbitrary curve"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  86,
+                          "stem":  "Let ABC be a triangle in which AB = AC. Let L be the locus of points X inside or on the triangle such that BX = CX. Which of the following statements are correct?",
+                          "subs":  [
+                                       "1. L is a straight line passing through A, and the in-centre of triangle ABC lies on L.",
+                                       "2. L is a straight line passing through A, and the orthocentre of triangle ABC lies on L.",
+                                       "3. L is a straight line passing through A, and the centroid of triangle ABC lies on L.   [2016-II]"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  87,
+                          "stem":  "In a rectangle, the length is three times its breadth. If the length and breadth are increased by 30% and 10% respectively, its perimeter increases by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "40/3 %",
+                                          "20%",
+                                          "25%",
+                                          "27%"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  88,
+                          "stem":  "What is the percentage decrease in the area of a triangle if each of its sides is halved?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "75%",
+                                          "50%",
+                                          "25%",
+                                          "No change"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  89,
+                          "stem":  "A rectangular red carpet of size 6 ft × 12 ft has a dark red border 6 inches wide. What is the area of the dark red border?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "9 square feet",
+                                          "15 square feet",
+                                          "17 square feet",
+                                          "18 square feet"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  90,
+                          "stem":  "The perimeter of a right-angled triangle is k times its shortest side. If the ratio of the other side to the hypotenuse is 4 : 5, what is the value of k?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2",
+                                          "3",
+                                          "4",
+                                          "5"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  91,
+                          "stem":  "The volume of a spherical balloon is increased by 700%. What is the percentage increase in its surface area?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "300%",
+                                          "400%",
+                                          "450%",
+                                          "500%"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  92,
+                          "stem":  "[Common data] The sum of the length, breadth and height of a cuboid is 22 cm, and the length of its diagonal is 14 cm.",
+                          "subs":  [
+                                       "What is the surface area of the cuboid?   [2019-I]"
+                                   ],
+                          "options":  [
+                                          "288 cm²",
+                                          "216 cm²",
+                                          "114 cm²",
+                                          "Cannot be determined"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  93,
+                          "stem":  "A rectangular block of length 20 cm, breadth 15 cm and height 10 cm is cut up into the least possible number of equal cubes. What is that number?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "12",
+                                          "16",
+                                          "20",
+                                          "24"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  94,
+                          "stem":  "If the diagonal of a cube is of length l, then the total surface area of the cube is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3l²",
+                                          "√3 l²",
+                                          "√2 l²",
+                                          "2l²"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  95,
+                          "stem":  "The data collected from which one of the following methods is NOT primary data?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "By direct personal interviews",
+                                          "By indirect personal interviews",
+                                          "By schedules sent through enumerators",
+                                          "From published thesis"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  96,
+                          "stem":  "Data on ratings of hotels in a city is measured on:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nominal scale",
+                                          "Ordinal scale",
+                                          "Interval scale",
+                                          "Ratio scale"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  97,
+                          "stem":  "Diagrammatic representation of data includes which of the following?",
+                          "subs":  [
+                                       "1. Bar diagram",
+                                       "2. Pie-diagram",
+                                       "3. Pictogram   [2019-I]"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  98,
+                          "stem":  "The monthly expenditure of a person is Rs. 6000, distributed as: Food Rs. 2000, Clothing Rs. 660, Fuel \u0026 rent Rs. 1200, Education Rs. 480, Miscellaneous Rs. 1660. If this is represented by a percentage bar diagram of height 15 cm, what are the lengths of the segments for education and miscellaneous respectively?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1.25 cm and 5 cm",
+                                          "1.2 cm and 4.15 cm",
+                                          "1.2 cm and 3.5 cm",
+                                          "4.15 cm and 6 cm"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  99,
+                          "stem":  "Consider the following grouped frequency distribution:",
+                          "subs":  [
+                                       "Class: 0-10, 10-20, 20-30, 30-40, 40-50",
+                                       "Frequency: 8, 12, 10, p, 9",
+                                       "If the mean of the above data is 25.2, what is the value of p?   [2019-I]"
+                                   ],
+                          "options":  [
+                                          "9",
+                                          "10",
+                                          "11",
+                                          "12"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  100,
+                          "stem":  "The median of 19 observations is 30. Two more observations, 8 and 32, are added. What is the median of the 21 observations?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "32",
+                                          "30",
+                                          "20",
+                                          "Cannot be determined due to insufficient data"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      }
+                  ]
+}

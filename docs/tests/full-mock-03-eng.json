@@ -1,0 +1,2028 @@
+{
+    "title":  "English",
+    "durationMin":  120,
+    "scoring":  {
+                    "totalMarks":  100,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Which of the following best expresses the central idea of the passage?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "India\u0027s water crisis is chiefly a failure of conservation and management rather than a shortage of rainfall.",
+                                          "Rainfall in India has been steadily declining over the decades.",
+                                          "Traditional water-harvesting methods are superior to all modern engineering solutions.",
+                                          "Cities should stop depending on groundwater altogether."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Water has always been treated as the one resource nature would never let us run short of. For centuries, rivers were diverted, wells were dug, and rains were awaited with quiet confidence that the cycle would repeat itself, generation after generation, without much effort on our part. That confidence is no longer warranted. Groundwater tables in large parts of the country have fallen by tens of metres within a single lifetime, and cities that once boasted of lakes and stepwells now import water by tanker in the summer months. The crisis is not one of absolute scarcity so much as of mismanagement: rainfall over a year, if captured and stored efficiently, would be more than adequate for most regions. What is missing is not water but the discipline to conserve it, the infrastructure to store it, and the will to price it so that it is neither wasted by the profligate nor denied to the poor. Traditional systems of water harvesting, dismissed as primitive by planners in the decades after independence, are being rediscovered today precisely because they solved, cheaply and locally, a problem that centralised piped supply has struggled to solve at scale. The lesson is an uncomfortable one for a civilisation enamoured of technological solutions: sometimes the answer lies not in inventing something new but in re-learning what was once common knowledge and needlessly abandoned."
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The word \u0027profligate\u0027 as used in the passage most nearly means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "economical",
+                                          "cautious",
+                                          "wasteful",
+                                          "poor"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Water has always been treated as the one resource nature would never let us run short of. For centuries, rivers were diverted, wells were dug, and rains were awaited with quiet confidence that the cycle would repeat itself, generation after generation, without much effort on our part. That confidence is no longer warranted. Groundwater tables in large parts of the country have fallen by tens of metres within a single lifetime, and cities that once boasted of lakes and stepwells now import water by tanker in the summer months. The crisis is not one of absolute scarcity so much as of mismanagement: rainfall over a year, if captured and stored efficiently, would be more than adequate for most regions. What is missing is not water but the discipline to conserve it, the infrastructure to store it, and the will to price it so that it is neither wasted by the profligate nor denied to the poor. Traditional systems of water harvesting, dismissed as primitive by planners in the decades after independence, are being rediscovered today precisely because they solved, cheaply and locally, a problem that centralised piped supply has struggled to solve at scale. The lesson is an uncomfortable one for a civilisation enamoured of technological solutions: sometimes the answer lies not in inventing something new but in re-learning what was once common knowledge and needlessly abandoned."
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "According to the passage, why are traditional water-harvesting systems being \u0027rediscovered\u0027?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Because they are cheaper to build than any modern system.",
+                                          "Because they were proven superior in scientific trials.",
+                                          "Because government planners always preferred them.",
+                                          "Because they solved the storage problem locally and inexpensively where centralised piped supply has struggled."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Water has always been treated as the one resource nature would never let us run short of. For centuries, rivers were diverted, wells were dug, and rains were awaited with quiet confidence that the cycle would repeat itself, generation after generation, without much effort on our part. That confidence is no longer warranted. Groundwater tables in large parts of the country have fallen by tens of metres within a single lifetime, and cities that once boasted of lakes and stepwells now import water by tanker in the summer months. The crisis is not one of absolute scarcity so much as of mismanagement: rainfall over a year, if captured and stored efficiently, would be more than adequate for most regions. What is missing is not water but the discipline to conserve it, the infrastructure to store it, and the will to price it so that it is neither wasted by the profligate nor denied to the poor. Traditional systems of water harvesting, dismissed as primitive by planners in the decades after independence, are being rediscovered today precisely because they solved, cheaply and locally, a problem that centralised piped supply has struggled to solve at scale. The lesson is an uncomfortable one for a civilisation enamoured of technological solutions: sometimes the answer lies not in inventing something new but in re-learning what was once common knowledge and needlessly abandoned."
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "What is the author\u0027s tone in the final sentence of the passage?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Purely celebratory",
+                                          "Triumphant",
+                                          "Indifferent",
+                                          "Reflective and mildly critical"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Water has always been treated as the one resource nature would never let us run short of. For centuries, rivers were diverted, wells were dug, and rains were awaited with quiet confidence that the cycle would repeat itself, generation after generation, without much effort on our part. That confidence is no longer warranted. Groundwater tables in large parts of the country have fallen by tens of metres within a single lifetime, and cities that once boasted of lakes and stepwells now import water by tanker in the summer months. The crisis is not one of absolute scarcity so much as of mismanagement: rainfall over a year, if captured and stored efficiently, would be more than adequate for most regions. What is missing is not water but the discipline to conserve it, the infrastructure to store it, and the will to price it so that it is neither wasted by the profligate nor denied to the poor. Traditional systems of water harvesting, dismissed as primitive by planners in the decades after independence, are being rediscovered today precisely because they solved, cheaply and locally, a problem that centralised piped supply has struggled to solve at scale. The lesson is an uncomfortable one for a civilisation enamoured of technological solutions: sometimes the answer lies not in inventing something new but in re-learning what was once common knowledge and needlessly abandoned."
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which of the following can be inferred about the author\u0027s view of pricing water?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pricing should discourage wasteful use while still protecting the poor from being denied access.",
+                                          "Pricing is irrelevant to the water crisis.",
+                                          "Water should be free for everyone regardless of usage.",
+                                          "Water should be priced identically to any other commodity with no exceptions."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Water has always been treated as the one resource nature would never let us run short of. For centuries, rivers were diverted, wells were dug, and rains were awaited with quiet confidence that the cycle would repeat itself, generation after generation, without much effort on our part. That confidence is no longer warranted. Groundwater tables in large parts of the country have fallen by tens of metres within a single lifetime, and cities that once boasted of lakes and stepwells now import water by tanker in the summer months. The crisis is not one of absolute scarcity so much as of mismanagement: rainfall over a year, if captured and stored efficiently, would be more than adequate for most regions. What is missing is not water but the discipline to conserve it, the infrastructure to store it, and the will to price it so that it is neither wasted by the profligate nor denied to the poor. Traditional systems of water harvesting, dismissed as primitive by planners in the decades after independence, are being rediscovered today precisely because they solved, cheaply and locally, a problem that centralised piped supply has struggled to solve at scale. The lesson is an uncomfortable one for a civilisation enamoured of technological solutions: sometimes the answer lies not in inventing something new but in re-learning what was once common knowledge and needlessly abandoned."
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "According to the passage, why were traditional water-harvesting systems \u0027dismissed as primitive\u0027 by planners after independence?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Because they were far more expensive than centralised piped supply.",
+                                          "Because they required imported technology India did not have.",
+                                          "Because rainfall levels were too low for them to work at the time.",
+                                          "The passage does not say — it only notes that they were dismissed, without giving the planners\u0027 reasoning."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Water has always been treated as the one resource nature would never let us run short of. For centuries, rivers were diverted, wells were dug, and rains were awaited with quiet confidence that the cycle would repeat itself, generation after generation, without much effort on our part. That confidence is no longer warranted. Groundwater tables in large parts of the country have fallen by tens of metres within a single lifetime, and cities that once boasted of lakes and stepwells now import water by tanker in the summer months. The crisis is not one of absolute scarcity so much as of mismanagement: rainfall over a year, if captured and stored efficiently, would be more than adequate for most regions. What is missing is not water but the discipline to conserve it, the infrastructure to store it, and the will to price it so that it is neither wasted by the profligate nor denied to the poor. Traditional systems of water harvesting, dismissed as primitive by planners in the decades after independence, are being rediscovered today precisely because they solved, cheaply and locally, a problem that centralised piped supply has struggled to solve at scale. The lesson is an uncomfortable one for a civilisation enamoured of technological solutions: sometimes the answer lies not in inventing something new but in re-learning what was once common knowledge and needlessly abandoned."
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The passage argues that effective military leadership is primarily built on:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Shared risk, competence under fire, and genuine concern for one\u0027s men, which together earn trust.",
+                                          "Strict enforcement of rank and hierarchy.",
+                                          "The ability to issue orders without being questioned.",
+                                          "Harsh discipline that leaves no room for dissent."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Leadership in uniform is often imagined as a matter of command: the ability to give an order and have it obeyed without question. This is a shallow reading of what makes an officer effective, particularly in conditions of extreme stress. Soldiers who have served under genuinely capable leaders describe something quite different from mere authority — they speak of an officer who ate what they ate, marched when they marched, and was seen forward of the position he was defending rather than behind it. Trust of this kind cannot be manufactured by rank alone; it is earned through a visible sharing of risk and hardship. Historians of warfare have long noted that units with the highest morale are rarely those with the harshest discipline, but those whose commanders demonstrated competence under fire and genuine concern for the welfare of their men. This does not mean that discipline is unimportant — an army without it dissolves into a mob — but that discipline sustained by fear is brittle, while discipline sustained by respect endures the worst that a battlefield can offer. The finest military traditions, across very different armies and eras, converge on this single insight: command is granted by rank, but leadership must be earned afresh, every single day, in the eyes of those who are asked to follow."
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "According to the passage, what is the danger of discipline \u0027sustained by fear\u0027?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is brittle and does not endure hardship.",
+                                          "It is not possible in a military setting.",
+                                          "It works just as well as discipline sustained by respect.",
+                                          "It leads to better morale than respect-based discipline."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Leadership in uniform is often imagined as a matter of command: the ability to give an order and have it obeyed without question. This is a shallow reading of what makes an officer effective, particularly in conditions of extreme stress. Soldiers who have served under genuinely capable leaders describe something quite different from mere authority — they speak of an officer who ate what they ate, marched when they marched, and was seen forward of the position he was defending rather than behind it. Trust of this kind cannot be manufactured by rank alone; it is earned through a visible sharing of risk and hardship. Historians of warfare have long noted that units with the highest morale are rarely those with the harshest discipline, but those whose commanders demonstrated competence under fire and genuine concern for the welfare of their men. This does not mean that discipline is unimportant — an army without it dissolves into a mob — but that discipline sustained by fear is brittle, while discipline sustained by respect endures the worst that a battlefield can offer. The finest military traditions, across very different armies and eras, converge on this single insight: command is granted by rank, but leadership must be earned afresh, every single day, in the eyes of those who are asked to follow."
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The word \u0027brittle\u0027 in the passage is closest in meaning to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "durable",
+                                          "flexible",
+                                          "aggressive",
+                                          "fragile"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Leadership in uniform is often imagined as a matter of command: the ability to give an order and have it obeyed without question. This is a shallow reading of what makes an officer effective, particularly in conditions of extreme stress. Soldiers who have served under genuinely capable leaders describe something quite different from mere authority — they speak of an officer who ate what they ate, marched when they marched, and was seen forward of the position he was defending rather than behind it. Trust of this kind cannot be manufactured by rank alone; it is earned through a visible sharing of risk and hardship. Historians of warfare have long noted that units with the highest morale are rarely those with the harshest discipline, but those whose commanders demonstrated competence under fire and genuine concern for the welfare of their men. This does not mean that discipline is unimportant — an army without it dissolves into a mob — but that discipline sustained by fear is brittle, while discipline sustained by respect endures the worst that a battlefield can offer. The finest military traditions, across very different armies and eras, converge on this single insight: command is granted by rank, but leadership must be earned afresh, every single day, in the eyes of those who are asked to follow."
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Which statement would the author most likely agree with?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Discipline is unnecessary as long as soldiers respect their officer.",
+                                          "Rank alone is sufficient to guarantee genuine leadership.",
+                                          "Leadership has to be continuously re-earned through action, not assumed permanently on the basis of rank.",
+                                          "Officers should avoid sharing hardship with their troops to maintain authority."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Leadership in uniform is often imagined as a matter of command: the ability to give an order and have it obeyed without question. This is a shallow reading of what makes an officer effective, particularly in conditions of extreme stress. Soldiers who have served under genuinely capable leaders describe something quite different from mere authority — they speak of an officer who ate what they ate, marched when they marched, and was seen forward of the position he was defending rather than behind it. Trust of this kind cannot be manufactured by rank alone; it is earned through a visible sharing of risk and hardship. Historians of warfare have long noted that units with the highest morale are rarely those with the harshest discipline, but those whose commanders demonstrated competence under fire and genuine concern for the welfare of their men. This does not mean that discipline is unimportant — an army without it dissolves into a mob — but that discipline sustained by fear is brittle, while discipline sustained by respect endures the worst that a battlefield can offer. The finest military traditions, across very different armies and eras, converge on this single insight: command is granted by rank, but leadership must be earned afresh, every single day, in the eyes of those who are asked to follow."
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "What does the phrase \u0027forward of the position he was defending rather than behind it\u0027 suggest about the kind of officer soldiers respect?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "One who avoids danger to preserve his own safety.",
+                                          "One who leads from the front, visibly sharing the danger his men face.",
+                                          "One who commands remotely without visiting the front line.",
+                                          "One who focuses only on paperwork and logistics."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Leadership in uniform is often imagined as a matter of command: the ability to give an order and have it obeyed without question. This is a shallow reading of what makes an officer effective, particularly in conditions of extreme stress. Soldiers who have served under genuinely capable leaders describe something quite different from mere authority — they speak of an officer who ate what they ate, marched when they marched, and was seen forward of the position he was defending rather than behind it. Trust of this kind cannot be manufactured by rank alone; it is earned through a visible sharing of risk and hardship. Historians of warfare have long noted that units with the highest morale are rarely those with the harshest discipline, but those whose commanders demonstrated competence under fire and genuine concern for the welfare of their men. This does not mean that discipline is unimportant — an army without it dissolves into a mob — but that discipline sustained by fear is brittle, while discipline sustained by respect endures the worst that a battlefield can offer. The finest military traditions, across very different armies and eras, converge on this single insight: command is granted by rank, but leadership must be earned afresh, every single day, in the eyes of those who are asked to follow."
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "According to the passage, what do historians of warfare say about units with the harshest discipline?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "They are rarely the units with the highest morale — that distinction belongs to units led with competence and genuine concern for welfare.",
+                                          "They are impossible to study historically.",
+                                          "They consistently have the highest morale of any unit type.",
+                                          "They always outperform units led by respected commanders."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Leadership in uniform is often imagined as a matter of command: the ability to give an order and have it obeyed without question. This is a shallow reading of what makes an officer effective, particularly in conditions of extreme stress. Soldiers who have served under genuinely capable leaders describe something quite different from mere authority — they speak of an officer who ate what they ate, marched when they marched, and was seen forward of the position he was defending rather than behind it. Trust of this kind cannot be manufactured by rank alone; it is earned through a visible sharing of risk and hardship. Historians of warfare have long noted that units with the highest morale are rarely those with the harshest discipline, but those whose commanders demonstrated competence under fire and genuine concern for the welfare of their men. This does not mean that discipline is unimportant — an army without it dissolves into a mob — but that discipline sustained by fear is brittle, while discipline sustained by respect endures the worst that a battlefield can offer. The finest military traditions, across very different armies and eras, converge on this single insight: command is granted by rank, but leadership must be earned afresh, every single day, in the eyes of those who are asked to follow."
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "What does the passage suggest about how soldiers typically remember the outcome of a battle?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "As an inevitable result decided long before the fighting began.",
+                                          "As something they rarely think about afterwards.",
+                                          "As a matter decided by a series of small, uncertain moments rather than any predetermined outcome.",
+                                          "As entirely determined by which side had more soldiers."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "It is easy, looking back at a war from the safety of decades, to imagine that victory was inevitable and defeat foreordained. Soldiers who actually fought rarely describe it that way. What they remember, more often, is a string of moments in which the outcome hung on something as small as a signal received a few minutes late, a bridge held one hour longer than planned, or a reserve company committed at exactly the right time instead of five minutes too soon. Military historians have a name for this: the fog of war, the simple fact that no commander, however brilliant, ever has complete information about what is happening even a few kilometres away. Plans drawn up with perfect clarity on a map table dissolve, on contact with the enemy, into a chaos of contradictory reports, delayed messages and simple human error. The armies that win are rarely the ones with the most elegant plan; they are the ones whose soldiers and junior officers can improvise competently when that plan, as it always does, begins to fall apart. This is why military academies the world over spend as much time training judgement and initiative at the lowest ranks as they do teaching the formal theory of strategy. A private who can think for himself when his section commander falls is worth more, in the moment that matters, than an elegant plan nobody left alive can execute."
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The term \u0027fog of war\u0027 as used in the passage refers to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Literal fog and poor weather conditions on the battlefield.",
+                                          "A specific historical battle fought in foggy conditions.",
+                                          "The confusion soldiers feel about why a war is being fought.",
+                                          "The fact that no commander ever has complete information about what is happening even nearby."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "It is easy, looking back at a war from the safety of decades, to imagine that victory was inevitable and defeat foreordained. Soldiers who actually fought rarely describe it that way. What they remember, more often, is a string of moments in which the outcome hung on something as small as a signal received a few minutes late, a bridge held one hour longer than planned, or a reserve company committed at exactly the right time instead of five minutes too soon. Military historians have a name for this: the fog of war, the simple fact that no commander, however brilliant, ever has complete information about what is happening even a few kilometres away. Plans drawn up with perfect clarity on a map table dissolve, on contact with the enemy, into a chaos of contradictory reports, delayed messages and simple human error. The armies that win are rarely the ones with the most elegant plan; they are the ones whose soldiers and junior officers can improvise competently when that plan, as it always does, begins to fall apart. This is why military academies the world over spend as much time training judgement and initiative at the lowest ranks as they do teaching the formal theory of strategy. A private who can think for himself when his section commander falls is worth more, in the moment that matters, than an elegant plan nobody left alive can execute."
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "According to the passage, what ultimately distinguishes winning armies from losing ones?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Having the largest number of reserves.",
+                                          "Avoiding contact with the enemy for as long as possible.",
+                                          "Having soldiers and junior officers who can improvise competently when the original plan breaks down.",
+                                          "Having the most elegant, detailed plan drawn up in advance."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "It is easy, looking back at a war from the safety of decades, to imagine that victory was inevitable and defeat foreordained. Soldiers who actually fought rarely describe it that way. What they remember, more often, is a string of moments in which the outcome hung on something as small as a signal received a few minutes late, a bridge held one hour longer than planned, or a reserve company committed at exactly the right time instead of five minutes too soon. Military historians have a name for this: the fog of war, the simple fact that no commander, however brilliant, ever has complete information about what is happening even a few kilometres away. Plans drawn up with perfect clarity on a map table dissolve, on contact with the enemy, into a chaos of contradictory reports, delayed messages and simple human error. The armies that win are rarely the ones with the most elegant plan; they are the ones whose soldiers and junior officers can improvise competently when that plan, as it always does, begins to fall apart. This is why military academies the world over spend as much time training judgement and initiative at the lowest ranks as they do teaching the formal theory of strategy. A private who can think for himself when his section commander falls is worth more, in the moment that matters, than an elegant plan nobody left alive can execute."
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Why, according to the passage, do military academies train judgement and initiative at the lowest ranks?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Because plans reliably fall apart in execution, and a soldier who can think independently is more valuable at that moment than a plan nobody survives to execute.",
+                                          "Because formal strategy theory is considered unimportant.",
+                                          "Because senior officers are usually unavailable during battle.",
+                                          "Because junior soldiers are expected to lead entire campaigns."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "It is easy, looking back at a war from the safety of decades, to imagine that victory was inevitable and defeat foreordained. Soldiers who actually fought rarely describe it that way. What they remember, more often, is a string of moments in which the outcome hung on something as small as a signal received a few minutes late, a bridge held one hour longer than planned, or a reserve company committed at exactly the right time instead of five minutes too soon. Military historians have a name for this: the fog of war, the simple fact that no commander, however brilliant, ever has complete information about what is happening even a few kilometres away. Plans drawn up with perfect clarity on a map table dissolve, on contact with the enemy, into a chaos of contradictory reports, delayed messages and simple human error. The armies that win are rarely the ones with the most elegant plan; they are the ones whose soldiers and junior officers can improvise competently when that plan, as it always does, begins to fall apart. This is why military academies the world over spend as much time training judgement and initiative at the lowest ranks as they do teaching the formal theory of strategy. A private who can think for himself when his section commander falls is worth more, in the moment that matters, than an elegant plan nobody left alive can execute."
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The word \u0027foreordained\u0027 in the passage most nearly means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Uncertain and unpredictable",
+                                          "Forgotten with time",
+                                          "Widely celebrated",
+                                          "Decided or determined in advance"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "It is easy, looking back at a war from the safety of decades, to imagine that victory was inevitable and defeat foreordained. Soldiers who actually fought rarely describe it that way. What they remember, more often, is a string of moments in which the outcome hung on something as small as a signal received a few minutes late, a bridge held one hour longer than planned, or a reserve company committed at exactly the right time instead of five minutes too soon. Military historians have a name for this: the fog of war, the simple fact that no commander, however brilliant, ever has complete information about what is happening even a few kilometres away. Plans drawn up with perfect clarity on a map table dissolve, on contact with the enemy, into a chaos of contradictory reports, delayed messages and simple human error. The armies that win are rarely the ones with the most elegant plan; they are the ones whose soldiers and junior officers can improvise competently when that plan, as it always does, begins to fall apart. This is why military academies the world over spend as much time training judgement and initiative at the lowest ranks as they do teaching the formal theory of strategy. A private who can think for himself when his section commander falls is worth more, in the moment that matters, than an elegant plan nobody left alive can execute."
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The examples given in the passage — \u0027a signal received a few minutes late, a bridge held one hour longer than planned, or a reserve company committed at exactly the right time\u0027 — are used to illustrate:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Why reserves should never be used in battle.",
+                                          "How the outcome of a battle can turn on small, contingent details rather than grand strategy alone.",
+                                          "The specific tactics used in one named historical battle.",
+                                          "How poorly trained most armies are."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "It is easy, looking back at a war from the safety of decades, to imagine that victory was inevitable and defeat foreordained. Soldiers who actually fought rarely describe it that way. What they remember, more often, is a string of moments in which the outcome hung on something as small as a signal received a few minutes late, a bridge held one hour longer than planned, or a reserve company committed at exactly the right time instead of five minutes too soon. Military historians have a name for this: the fog of war, the simple fact that no commander, however brilliant, ever has complete information about what is happening even a few kilometres away. Plans drawn up with perfect clarity on a map table dissolve, on contact with the enemy, into a chaos of contradictory reports, delayed messages and simple human error. The armies that win are rarely the ones with the most elegant plan; they are the ones whose soldiers and junior officers can improvise competently when that plan, as it always does, begins to fall apart. This is why military academies the world over spend as much time training judgement and initiative at the lowest ranks as they do teaching the formal theory of strategy. A private who can think for himself when his section commander falls is worth more, in the moment that matters, than an elegant plan nobody left alive can execute."
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: is what determines",
+                                       "Q: Discipline, more than raw talent,",
+                                       "R: who ultimately succeeds",
+                                       "S: in the long run"
+                                   ],
+                          "options":  [
+                                          "PQRS",
+                                          "QRPS",
+                                          "QPRS",
+                                          "RQPS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: have always depended",
+                                       "Q: for their survival",
+                                       "R: human beings",
+                                       "S: on cooperation within the group"
+                                   ],
+                          "options":  [
+                                          "RPQS",
+                                          "RQPS",
+                                          "PRQS",
+                                          "RPSQ"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: that a soldier learns",
+                                       "Q: the first lesson",
+                                       "R: on the parade ground",
+                                       "S: is obedience to command"
+                                   ],
+                          "options":  [
+                                          "QPSR",
+                                          "QPRS",
+                                          "QRPS",
+                                          "PQRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: cannot be built overnight",
+                                       "Q: a reputation earned",
+                                       "R: over decades of honest work",
+                                       "S: but it can be destroyed in a single careless act"
+                                   ],
+                          "options":  [
+                                          "QRPS",
+                                          "PQRS",
+                                          "QRSP",
+                                          "QPRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: is often the difference",
+                                       "Q: between a good plan",
+                                       "R: and a plan that actually succeeds",
+                                       "S: careful preparation"
+                                   ],
+                          "options":  [
+                                          "SPQR",
+                                          "PSQR",
+                                          "SQPR",
+                                          "SPRQ"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: rarely notice",
+                                       "Q: the quiet, steady contributors",
+                                       "R: who keep an organisation running",
+                                       "S: most people"
+                                   ],
+                          "options":  [
+                                          "SPRQ",
+                                          "QSPR",
+                                          "PSQR",
+                                          "SPQR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: was not won",
+                                       "Q: on the battlefield alone",
+                                       "R: but through years of patient diplomacy",
+                                       "S: the country\u0027s independence"
+                                   ],
+                          "options":  [
+                                          "SPRQ",
+                                          "SPQR",
+                                          "PSQR",
+                                          "SQPR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: before it becomes",
+                                       "Q: a habit is easier to correct",
+                                       "R: a permanent part of one\u0027s character",
+                                       "S: in its early stages"
+                                   ],
+                          "options":  [
+                                          "SQPR",
+                                          "QSPR",
+                                          "QPSR",
+                                          "QSRP"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: is not the absence of fear",
+                                       "Q: but the ability to act",
+                                       "R: courage, as every veteran knows,",
+                                       "S: in spite of it"
+                                   ],
+                          "options":  [
+                                          "RPQS",
+                                          "RPSQ",
+                                          "RQPS",
+                                          "PRQS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: that no amount of equipment",
+                                       "Q: can compensate for the lack of",
+                                       "R: a well-trained and motivated soldier learns",
+                                       "S: sound judgement under pressure"
+                                   ],
+                          "options":  [
+                                          "RQPS",
+                                          "PRQS",
+                                          "RPQS",
+                                          "RPSQ"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "S1. The Indian Army\u0027s regimental system dates back to the colonial period.",
+                          "subs":  [
+                                       "P: It groups soldiers by region, community or historical tradition into distinct regiments.",
+                                       "Q: Each regiment carries its own customs, war cries and battle honours.",
+                                       "R: Critics argue the system is outdated in a modern, integrated force.",
+                                       "S: Supporters counter that it builds a fierce esprit de corps that raw individual recruitment cannot replicate.",
+                                       "S6. The debate over its future therefore remains unresolved even today."
+                                   ],
+                          "options":  [
+                                          "PQRS",
+                                          "PRQS",
+                                          "PQSR",
+                                          "QPRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "S1. Climate change is no longer a distant threat confined to scientific journals.",
+                          "subs":  [
+                                       "P: Farmers report shifting monsoon patterns that upend generations of planting wisdom.",
+                                       "Q: Coastal cities face the slow but steady advance of rising seas.",
+                                       "R: These are lived realities, not abstract projections.",
+                                       "S: Mountain communities watch glaciers retreat within a single lifetime.",
+                                       "S6. Policy, however, still moves at the pace of debate rather than emergency."
+                                   ],
+                          "options":  [
+                                          "PQRS",
+                                          "PSQR",
+                                          "PQSR",
+                                          "QPSR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "S1. A young officer\u0027s first command is rarely glamorous.",
+                          "subs":  [
+                                       "P: It usually involves managing rations, resolving petty disputes and inspecting equipment.",
+                                       "Q: Yet it is here, in these unglamorous tasks, that character is truly tested.",
+                                       "R: How a young leader handles small responsibilities predicts how he will handle large ones.",
+                                       "S: Textbooks rarely mention this, but veteran officers insist it is the real training ground.",
+                                       "S6. Command, in other words, is learned in the details long before it is exercised in crisis."
+                                   ],
+                          "options":  [
+                                          "PQRS",
+                                          "PRQS",
+                                          "PQSR",
+                                          "QPRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "S1. The printing press changed the course of human history within a few generations.",
+                          "subs":  [
+                                       "P: Ideas that once travelled at the speed of a horse could now spread within weeks.",
+                                       "Q: Books, once rare and expensive, became affordable to ordinary readers.",
+                                       "R: Religious and political authorities lost their monopoly over information.",
+                                       "S: Literacy rates rose sharply across Europe as a direct consequence.",
+                                       "S6. Few inventions since have matched its effect on the structure of society."
+                                   ],
+                          "options":  [
+                                          "PQSR",
+                                          "QSPR",
+                                          "QPSR",
+                                          "QSRP"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "S1. Water scarcity in urban India is often described as a supply problem.",
+                          "subs":  [
+                                       "P: In truth, most cities receive enough rainfall to meet their annual needs.",
+                                       "Q: What they lack is the infrastructure to capture and store it efficiently.",
+                                       "R: Ageing pipelines lose a significant share of treated water before it reaches homes.",
+                                       "S: The result is an artificial scarcity created by poor management, not by nature.",
+                                       "S6. Fixing this requires investment in storage and distribution, not merely prayers for rain."
+                                   ],
+                          "options":  [
+                                          "PQSR",
+                                          "QPRS",
+                                          "PQRS",
+                                          "PRQS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "S1. Teamwork under pressure looks very different from teamwork in a classroom exercise.",
+                          "subs":  [
+                                       "P: Under real pressure, roles blur and every member must be ready to step up.",
+                                       "Q: There is little time for lengthy discussion or consensus-building.",
+                                       "R: Trust built beforehand becomes the only currency that matters.",
+                                       "S: Decisions must be made quickly, often on incomplete information.",
+                                       "S6. This is why military training emphasises drills over theory: instinct must replace deliberation."
+                                   ],
+                          "options":  [
+                                          "PQRS",
+                                          "QPSR",
+                                          "PSQR",
+                                          "PQSR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "S1. History remembers few battles won by superior numbers alone.",
+                          "subs":  [
+                                       "P: Far more often, victory belonged to the side with better intelligence.",
+                                       "Q: Knowing the terrain, the enemy\u0027s supply lines and morale mattered more than headcount.",
+                                       "R: Commanders who understood this invested heavily in scouting and reconnaissance.",
+                                       "S: Those who ignored it paid the price, however large their armies.",
+                                       "S6. Modern warfare, for all its technology, has only sharpened this old lesson."
+                                   ],
+                          "options":  [
+                                          "PQSR",
+                                          "PQRS",
+                                          "QPRS",
+                                          "PRQS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "S1. Every profession has its own definition of a \u0027good day at work\u0027.",
+                          "subs":  [
+                                       "P: For a soldier on the border, it might simply mean a quiet, uneventful shift.",
+                                       "Q: For a surgeon, it might mean an operation that goes exactly to plan.",
+                                       "R: For a teacher, it might mean a single student finally understanding a difficult idea.",
+                                       "S: What unites these very different definitions is a sense of quiet, unspectacular competence.",
+                                       "S6. Success, in most serious professions, rarely announces itself with fanfare."
+                                   ],
+                          "options":  [
+                                          "QPRS",
+                                          "PQRS",
+                                          "PQSR",
+                                          "PRQS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "S1. The habit of reading widely is often undervalued in career advice.",
+                          "subs":  [
+                                       "P: Yet it quietly builds a store of ideas that no single course can teach.",
+                                       "Q: A well-read officer draws on history, literature and science to solve unfamiliar problems.",
+                                       "R: This breadth becomes most valuable precisely when a situation has no textbook answer.",
+                                       "S: Narrow expertise, by contrast, can leave a person helpless outside its boundaries.",
+                                       "S6. This is why the best training academies still insist on a broad, liberal curriculum."
+                                   ],
+                          "options":  [
+                                          "PQRS",
+                                          "PSQR",
+                                          "QPRS",
+                                          "PQSR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "S1. Punctuality is often dismissed as a minor virtue compared to competence or courage.",
+                          "subs":  [
+                                       "P: But a person who is habitually late is quietly telling others their time does not matter.",
+                                       "Q: Over time, this erodes trust far more than a single dramatic failure would.",
+                                       "R: Reliability, built minute by minute, is what makes a team predictable under stress.",
+                                       "S: Armies have long understood this, which is why timing is drilled relentlessly.",
+                                       "S6. Small disciplines, repeated daily, are what larger disciplines are ultimately built from."
+                                   ],
+                          "options":  [
+                                          "QPRS",
+                                          "PRQS",
+                                          "PQRS",
+                                          "PQSR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "Have you ever tried ________ a coconut tree?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "to climbing",
+                                          "going on",
+                                          "going up",
+                                          "climbing"
+                                      ],
+                          "pyq":  "CDS 2 2021",
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "Some people are often ________ with their own uniqueness.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "deranged",
+                                          "dissatisfied",
+                                          "unbalanced",
+                                          "obsessed"
+                                      ],
+                          "pyq":  "CDS 1 2016",
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "It is best to ________ politics when in the classroom.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "keeping",
+                                          "keep out",
+                                          "keep off",
+                                          "keep on"
+                                      ],
+                          "pyq":  "CDS 1 2020",
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "We should give everyone training in citizenship but we have ________ this aspect till now.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "refused",
+                                          "disallowed",
+                                          "denied",
+                                          "neglected"
+                                      ],
+                          "pyq":  "CDS 1 2017",
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "Sandhya ________ me from the top of the house.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "shouted",
+                                          "shouted on",
+                                          "shouted to",
+                                          "shouted at"
+                                      ],
+                          "pyq":  "CDS 2 2018",
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "The commanding officer ________ the young recruits before their first field exercise.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "explained",
+                                          "briefed",
+                                          "told to",
+                                          "informed about"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "Despite repeated warnings, the company continued to ________ safety regulations.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "float",
+                                          "flute",
+                                          "flaunt",
+                                          "flout"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "The negotiations broke down because neither side was willing to ________.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "compromise",
+                                          "compliment",
+                                          "complement",
+                                          "comprise"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "She has an uncanny ability to ________ people\u0027s intentions before they speak.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "describe",
+                                          "discern",
+                                          "discard",
+                                          "descry"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "The general refused to ________ ground even when the odds were heavily against his battalion.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "give in to",
+                                          "concede",
+                                          "give",
+                                          "give up"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Looking ahead, the university is",
+                                          "expunging revenue generation opportunities",
+                                          "to add more facilities for students and staff.",
+                                          "No error"
+                                      ],
+                          "pyq":  "CDS 2 2023",
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tell him to take",
+                                          "another photograph",
+                                          "of the group.",
+                                          "No error"
+                                      ],
+                          "pyq":  "CDS 1 2017",
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Except for few days",
+                                          "in a year during the monsoon",
+                                          "the river cannot flow on its own.",
+                                          "No error"
+                                      ],
+                          "pyq":  "CDS 1 2019",
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "As I was leaving for Delhi,",
+                                          "he asked me whether",
+                                          "I could buy a tape recorder",
+                                          "for him. No error"
+                                      ],
+                          "pyq":  "CDS 2 2016",
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The police",
+                                          "accused him",
+                                          "FOR theft",
+                                          "No error"
+                                      ],
+                          "pyq":  "CDS 1 2016",
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Neither the coach nor the players was aware",
+                                          "of the sudden change in the venue",
+                                          "announced just an hour before the match.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Each of the recruits were given",
+                                          "a rifle, a uniform and",
+                                          "a set of instructions before dawn.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The officer, along with his men,",
+                                          "were forced to take shelter",
+                                          "when the storm hit the outpost.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Scarcely had the parade begun",
+                                          "than the rain started",
+                                          "pouring down heavily on the ground.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "One of the most important quality",
+                                          "of a good leader is",
+                                          "the ability to remain calm under pressure.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "He has been living in the jungle for long and he knows all the animals here. [identify the part of speech of the underlined word \u0027and\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Coordinating conjunction",
+                                          "Personal pronoun",
+                                          "Preposition",
+                                          "Subordinating conjunction"
+                                      ],
+                          "pyq":  "CDS 1 2021",
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "There is still some water in the bottle. [underlined word: \u0027some\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Verb",
+                                          "Adverb",
+                                          "Determiner",
+                                          "Conjunction"
+                                      ],
+                          "pyq":  "CDS 1 2024",
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes"
+                      },
+                      {
+                          "n":  61,
+                          "stem":  "They are all going to attend the function. [underlined word: \u0027They\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pronoun",
+                                          "Adverb",
+                                          "Noun",
+                                          "Conjunction"
+                                      ],
+                          "pyq":  "CDS 2 2023",
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes"
+                      },
+                      {
+                          "n":  62,
+                          "stem":  "His only answer was a grunt. [underlined word: \u0027grunt\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Noun",
+                                          "Adverb",
+                                          "Adjective",
+                                          "Pronoun"
+                                      ],
+                          "pyq":  "CDS 2 2024",
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes"
+                      },
+                      {
+                          "n":  63,
+                          "stem":  "He is the most sought after teacher in the school. [underlined phrase: \u0027most sought after\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adverb",
+                                          "Determiner",
+                                          "Adjective",
+                                          "Interjection"
+                                      ],
+                          "pyq":  "CDS 2 2022",
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes"
+                      },
+                      {
+                          "n":  64,
+                          "stem":  "The soldiers marched briskly towards the border post. [underlined word: \u0027briskly\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adjective",
+                                          "Adverb",
+                                          "Noun",
+                                          "Preposition"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes"
+                      },
+                      {
+                          "n":  65,
+                          "stem":  "Alas! We have lost the match after such a hard fight. [underlined word: \u0027Alas\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Conjunction",
+                                          "Adverb",
+                                          "Interjection",
+                                          "Adjective"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes"
+                      },
+                      {
+                          "n":  66,
+                          "stem":  "Whoever completes the obstacle course first will be rewarded. [underlined word: \u0027Whoever\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Interrogative pronoun",
+                                          "Reflexive pronoun",
+                                          "Relative pronoun",
+                                          "Demonstrative pronoun"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes"
+                      },
+                      {
+                          "n":  67,
+                          "stem":  "The general spoke, however, with unmistakable authority. [underlined word: \u0027however\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Conjunctive adverb",
+                                          "Preposition",
+                                          "Coordinating conjunction",
+                                          "Subordinating conjunction"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes"
+                      },
+                      {
+                          "n":  68,
+                          "stem":  "Every recruit must clear the physical test himself. [underlined word: \u0027himself\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Demonstrative pronoun",
+                                          "Personal pronoun",
+                                          "Reflexive pronoun",
+                                          "Possessive pronoun"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes"
+                      },
+                      {
+                          "n":  69,
+                          "stem":  "We live near a busy airport; the planes fly ________.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "over our house",
+                                          "around our house",
+                                          "by our house",
+                                          "near our house"
+                                      ],
+                          "pyq":  "CDS 2 2021",
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion"
+                      },
+                      {
+                          "n":  70,
+                          "stem":  "It is not that I do not take a decision, ________.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "I decide not to take a decision.",
+                                          "I decide I would not have taken a decision.",
+                                          "I had not taken a decision.",
+                                          "I do not decide a decision."
+                                      ],
+                          "pyq":  "CDS 2 2022",
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion"
+                      },
+                      {
+                          "n":  71,
+                          "stem":  "I will come to meet you ________.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "because you need",
+                                          "in case of time",
+                                          "although you want",
+                                          "in case you want"
+                                      ],
+                          "pyq":  "CDS 1 2021",
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion"
+                      },
+                      {
+                          "n":  72,
+                          "stem":  "I am trying to ________.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cut down on coffee.",
+                                          "shut down on coffee.",
+                                          "break down on coffee.",
+                                          "turn down on coffee."
+                                      ],
+                          "pyq":  "CDS 1 2023",
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion"
+                      },
+                      {
+                          "n":  73,
+                          "stem":  "I could not sleep ________.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "in spite of being sleepless",
+                                          "because being very tired",
+                                          "despite being very tired",
+                                          "since being very tired"
+                                      ],
+                          "pyq":  "CDS 1 2021",
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion"
+                      },
+                      {
+                          "n":  74,
+                          "stem":  "No sooner had the officer given the command ________.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "when the soldiers sprang into action",
+                                          "than the soldiers sprang into action",
+                                          "then the soldiers sprang into action",
+                                          "the soldiers sprang into action"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion"
+                      },
+                      {
+                          "n":  75,
+                          "stem":  "Hardly had the ceremony begun ________.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "then the rain started",
+                                          "the rain started",
+                                          "than it started to rain",
+                                          "when it started to rain"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion"
+                      },
+                      {
+                          "n":  76,
+                          "stem":  "It is high time we ________ our approach to border security.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "review",
+                                          "will review",
+                                          "reviewed",
+                                          "are reviewing"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion"
+                      },
+                      {
+                          "n":  77,
+                          "stem":  "Had he trained harder, he ________ the selection trial.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "will clear",
+                                          "had cleared",
+                                          "would clear",
+                                          "would have cleared"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion"
+                      },
+                      {
+                          "n":  78,
+                          "stem":  "Not only did the platoon complete the march on time ________.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "but also it saved two hours",
+                                          "and it saved two hours too",
+                                          "but it also saved two hours",
+                                          "but also saved two hours"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion"
+                      },
+                      {
+                          "n":  79,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "misunderstood",
+                                          "forgotten",
+                                          "celebrated",
+                                          "understood"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                      },
+                      {
+                          "n":  80,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "expand",
+                                          "ignore",
+                                          "restrict",
+                                          "describe"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                      },
+                      {
+                          "n":  81,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "avoids",
+                                          "cultivates",
+                                          "imposes",
+                                          "forgets"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                      },
+                      {
+                          "n":  82,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "paid",
+                                          "promoted",
+                                          "watched",
+                                          "rewarded"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                      },
+                      {
+                          "n":  83,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ignored",
+                                          "failed",
+                                          "withstood",
+                                          "avoided"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                      },
+                      {
+                          "n":  84,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "postponed",
+                                          "internalised",
+                                          "forgotten",
+                                          "broken"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                      },
+                      {
+                          "n":  85,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "reward",
+                                          "measure",
+                                          "stifle",
+                                          "require"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                      },
+                      {
+                          "n":  86,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "trust",
+                                          "question",
+                                          "forget",
+                                          "doubt"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                      },
+                      {
+                          "n":  87,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "copy",
+                                          "enemy",
+                                          "condition",
+                                          "opposite"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                      },
+                      {
+                          "n":  88,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "scattered",
+                                          "loyal",
+                                          "disciplined",
+                                          "senior"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                      },
+                      {
+                          "n":  89,
+                          "stem":  "EFFUSIVE",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "gushing and unrestrained in expressing feeling",
+                                          "reserved and cold",
+                                          "angry and hostile",
+                                          "brief and formal"
+                                      ],
+                          "pyq":  "headword (options reconstructed)",
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms"
+                      },
+                      {
+                          "n":  90,
+                          "stem":  "NADIR",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a moment of celebration",
+                                          "a turning point",
+                                          "the all-time low or lowest point",
+                                          "the peak or highest point"
+                                      ],
+                          "pyq":  "headword (options reconstructed)",
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms"
+                      },
+                      {
+                          "n":  91,
+                          "stem":  "TAUTOLOGY",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "brevity of expression",
+                                          "a logical proof",
+                                          "a formal speech",
+                                          "needless repetition of an idea in different words"
+                                      ],
+                          "pyq":  "headword (options reconstructed)",
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms"
+                      },
+                      {
+                          "n":  92,
+                          "stem":  "EXHORTED",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "urged strongly",
+                                          "discouraged",
+                                          "ignored",
+                                          "threatened"
+                                      ],
+                          "pyq":  "headword (options reconstructed)",
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms"
+                      },
+                      {
+                          "n":  93,
+                          "stem":  "RUDIMENTARY",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "advanced and complex",
+                                          "expensive",
+                                          "irrelevant",
+                                          "basic and undeveloped"
+                                      ],
+                          "pyq":  "headword (options reconstructed)",
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms"
+                      },
+                      {
+                          "n":  94,
+                          "stem":  "INCONGRUOUS",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "fitting and suitable",
+                                          "out of place and inappropriate",
+                                          "colourful",
+                                          "expensive"
+                                      ],
+                          "pyq":  "headword (options reconstructed)",
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms"
+                      },
+                      {
+                          "n":  95,
+                          "stem":  "PRAGMATIC",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "overly idealistic",
+                                          "dealing with things sensibly and realistically",
+                                          "emotional and impulsive",
+                                          "secretive"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms"
+                      },
+                      {
+                          "n":  96,
+                          "stem":  "VIGILANT",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "careless",
+                                          "cheerful",
+                                          "keeping careful watch for possible danger",
+                                          "talkative"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms"
+                      },
+                      {
+                          "n":  97,
+                          "stem":  "SANGUINE",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "pessimistic",
+                                          "optimistic",
+                                          "careless",
+                                          "calm"
+                                      ],
+                          "pyq":  "headword (options reconstructed)",
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms"
+                      },
+                      {
+                          "n":  98,
+                          "stem":  "INERTIA",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "laziness",
+                                          "sluggishness",
+                                          "indolence",
+                                          "activity"
+                                      ],
+                          "pyq":  "headword (options reconstructed)",
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms"
+                      },
+                      {
+                          "n":  99,
+                          "stem":  "PERPETUATE",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "sustain",
+                                          "maintain",
+                                          "abolish",
+                                          "continue"
+                                      ],
+                          "pyq":  "headword (options reconstructed)",
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms"
+                      },
+                      {
+                          "n":  100,
+                          "stem":  "FRUGAL",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "extravagant",
+                                          "sparing",
+                                          "thrifty",
+                                          "meagre"
+                                      ],
+                          "pyq":  "headword (options reconstructed)",
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms"
+                      },
+                      {
+                          "n":  101,
+                          "stem":  "PROFOUND",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "superficial",
+                                          "deep and learned",
+                                          "scholarly",
+                                          "erudite"
+                                      ],
+                          "pyq":  "headword (options reconstructed)",
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms"
+                      },
+                      {
+                          "n":  102,
+                          "stem":  "INSOLENT",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "arrogant",
+                                          "rude and disrespectful",
+                                          "respectful",
+                                          "impudent"
+                                      ],
+                          "pyq":  "headword (options reconstructed)",
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms"
+                      },
+                      {
+                          "n":  103,
+                          "stem":  "RETICENT",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "reserved",
+                                          "talkative",
+                                          "secretive",
+                                          "calm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms"
+                      },
+                      {
+                          "n":  104,
+                          "stem":  "OBSTINATE",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "rigid",
+                                          "stubborn",
+                                          "flexible",
+                                          "determined"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms"
+                      },
+                      {
+                          "n":  105,
+                          "stem":  "\u0027A bolt from the blue\u0027 means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "An event or piece of news that is completely unexpected",
+                                          "A recurring problem",
+                                          "A minor inconvenience",
+                                          "A carefully planned event"
+                                      ],
+                          "pyq":  "(options reconstructed)",
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  106,
+                          "stem":  "\u0027To be in the soup\u0027 means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To be well prepared",
+                                          "To be in a difficult or troublesome situation",
+                                          "To be extremely hungry",
+                                          "To be relaxed and carefree"
+                                      ],
+                          "pyq":  "(options reconstructed)",
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  107,
+                          "stem":  "\u0027Brain drain\u0027 refers to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Excessive mental fatigue",
+                                          "The emigration of highly skilled or educated people to another country for better prospects",
+                                          "Forgetting important information under stress",
+                                          "A sudden loss of memory"
+                                      ],
+                          "pyq":  "(options reconstructed)",
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  108,
+                          "stem":  "\u0027Feather your own nest\u0027 means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To save money cautiously",
+                                          "To make money for oneself, especially by dishonest means, often abusing a position of trust",
+                                          "To decorate your house lavishly",
+                                          "To retire early"
+                                      ],
+                          "pyq":  "(options reconstructed)",
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  109,
+                          "stem":  "\u0027Bite the bullet\u0027 means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To celebrate a hard-won victory",
+                                          "To accept something unpleasant or difficult because it is unavoidable",
+                                          "To avoid an unpleasant task altogether",
+                                          "To argue fiercely with someone"
+                                      ],
+                          "pyq":  "(options reconstructed)",
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  110,
+                          "stem":  "\u0027The ball is in your court\u0027 means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is now your turn to take action or make a decision",
+                                          "Nobody is responsible for the decision",
+                                          "You have lost the advantage",
+                                          "The game has ended in a draw"
+                                      ],
+                          "pyq":  "(options reconstructed)",
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  111,
+                          "stem":  "\u0027To hold one\u0027s ground\u0027 means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To agree with everyone",
+                                          "To lose an argument",
+                                          "To refuse to give way or change one\u0027s position despite pressure",
+                                          "To retreat quickly from a difficult situation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  112,
+                          "stem":  "\u0027To smell a rat\u0027 means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To praise someone highly",
+                                          "To ignore a warning",
+                                          "To notice a bad odour",
+                                          "To suspect that something is wrong or dishonest"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  113,
+                          "stem":  "Choose the option that correctly explains the difference between \u0027Appraise\u0027 and \u0027Apprise\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Appraise and Apprise are both nouns",
+                                          "Appraise = to examine and form an opinion about something (e.g. a performance); Apprise = to inform someone about something",
+                                          "Both words mean exactly the same thing",
+                                          "Appraise = to inform someone; Apprise = to examine and form an opinion about something"
+                                      ],
+                          "pyq":  "(options reconstructed)",
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                      },
+                      {
+                          "n":  114,
+                          "stem":  "Choose the option that correctly explains the difference between \u0027Sympathy\u0027 and \u0027Empathy\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sympathy = understanding another\u0027s position; Empathy = feeling sorry for someone",
+                                          "Sympathy = sharing another person\u0027s feelings from outside (compassion for them); Empathy = understanding another\u0027s feelings by imagining oneself in their position",
+                                          "Neither word relates to feelings",
+                                          "Sympathy and Empathy mean exactly the same thing"
+                                      ],
+                          "pyq":  "(options reconstructed)",
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                      },
+                      {
+                          "n":  115,
+                          "stem":  "Choose the option that correctly explains the difference between \u0027Masterful\u0027 and \u0027Masterly\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Masterful = highly skilful; Masterly = imperious/domineering",
+                                          "Masterful is an adverb; Masterly is a noun",
+                                          "Both words mean incompetent",
+                                          "Masterful = imperious/domineering; Masterly = performed with great skill"
+                                      ],
+                          "pyq":  "(options reconstructed)",
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                      },
+                      {
+                          "n":  116,
+                          "stem":  "Choose the option that correctly explains the difference between \u0027Climatic\u0027 and \u0027Climactic\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Climatic is a noun; Climactic is a verb",
+                                          "Climatic = relating to the most exciting point; Climactic = relating to climate",
+                                          "Climatic = relating to climate; Climactic = relating to the most exciting/decisive point of a story or situation",
+                                          "Both words mean the same thing"
+                                      ],
+                          "pyq":  "(options reconstructed)",
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                      },
+                      {
+                          "n":  117,
+                          "stem":  "Choose the option that correctly explains the difference between \u0027Invoke\u0027 and \u0027Revoke\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Both words mean to summon a spirit",
+                                          "Invoke = to cite or call upon (a law, right or authority) to achieve something; Revoke = to officially cancel or withdraw permission previously granted",
+                                          "Invoke and Revoke are synonyms",
+                                          "Invoke = to officially cancel permission or an agreement; Revoke = to cite the law or a right to achieve something"
+                                      ],
+                          "pyq":  "(options reconstructed)",
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                      },
+                      {
+                          "n":  118,
+                          "stem":  "Choose the option that correctly explains the difference between \u0027Allusion\u0027 and \u0027Illusion\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Allusion = an indirect or implied reference; Illusion = a false idea or deceptive appearance",
+                                          "Allusion and Illusion mean exactly the same thing",
+                                          "Both words are verbs meaning \u0027to deceive\u0027",
+                                          "Allusion = a false idea; Illusion = an indirect reference"
+                                      ],
+                          "pyq":  "(options reconstructed)",
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                      },
+                      {
+                          "n":  119,
+                          "stem":  "Choose the correctly used sentence:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The officer complimented the young cadet on his sharp turnout.",
+                                          "The officer complimentary the young cadet on his sharp turnout.",
+                                          "The officer complement the young cadet on his sharp turnout.",
+                                          "The officer complemented the young cadet on his sharp turnout."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                      },
+                      {
+                          "n":  120,
+                          "stem":  "Choose the correctly used sentence:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The council decided to censorship the officer for his conduct during the exercise.",
+                                          "The council decided to censor the officer for his conduct during the exercise.",
+                                          "The council decided to censer the officer for his conduct during the exercise.",
+                                          "The council decided to censure the officer for his conduct during the exercise."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                      }
+                  ]
+}

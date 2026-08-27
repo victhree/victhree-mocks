@@ -107,6 +107,7 @@ async function loadQuiz() {
     const res = await fetch("tests/" + state.testId + ".json", { cache: "no-store" });
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
+    if (data.multiPaper) { await loadMultiPaper(state.testId, data); return; }
     state.quiz = data;
     state.questions = data.questions || [];
     state.durationSec = (data.durationMin || 60) * 60;
@@ -373,6 +374,13 @@ function renderQuestion() {
   $("qStem").textContent = stemText;
   $("qStem").style.display = stemText ? "" : "none";
 
+  // Reading-comprehension / cloze passage (shown above the stem when present)
+  const pw = $("qPassage");
+  if (pw) {
+    if (q.passage) { pw.textContent = q.passage; pw.style.display = ""; }
+    else { pw.textContent = ""; pw.style.display = "none"; }
+  }
+
   // (PYQ tag intentionally NOT shown during the quiz — it appears only in
   //  the answer/explanation review on the results page.)
 
@@ -566,7 +574,7 @@ async function submitTest(auto = false) {
   try {
     const data = await postWithRetry(CONFIG.BACKEND_URL, JSON.stringify(payload));
     hide($("overlay"));
-    showResults(data);
+    if (state.multi) { onPaperGraded(data); } else { showResults(data); }
   } catch (err) {
     hide($("overlay"));
     console.error(err);
@@ -613,6 +621,50 @@ async function postWithRetry(url, body, tries = 4, timeoutMs = 15000) {
     }
   }
   throw lastErr;
+}
+
+/* Build the inner HTML for one answer-review card (shared by single-paper
+   results and the multi-paper final report). Renders passage → stem → PYQ tag →
+   statements/match-table → options (correct/your-wrong highlighted) → answers → explanation. */
+function reviewCardInner(r, q) {
+  q = q || {};
+  const status = r.chosen == null ? "skipped" : r.isCorrect ? "correct" : "wrong";
+  const badgeText = status === "correct" ? "Correct" : status === "wrong" ? "Wrong" : "Not attempted";
+  const chosenText = r.chosen ? optText(q, r.chosen) : "—";
+  const correctText = r.correctText || (r.correct ? optText(q, r.correct) : "");
+  let stemText = q.stem || "";
+  let subLines = (q.subs || []).slice();
+  if (/^\s*statement\s+i\b/i.test(stemText)) { subLines = [stemText].concat(subLines); stemText = ""; }
+  const m = parseMatch(subLines);
+  const lineSource = m ? m.otherLines : subLines;
+  const linesHtml = lineSource.flatMap((line) => splitNumberedRun(line)).map((p) => `<li>${escapeHtml(p)}</li>`).join("");
+  const subsHtml = (m ? matchTableHtml(m, "match-table rev-match") : "") + (linesHtml ? `<ul class="rev-subs">${linesHtml}</ul>` : "");
+  const optsHtml = (q.options || []).map((opt, i) => {
+    const letter = LETTERS[i];
+    const isCorrect = r.correct && letter === r.correct;
+    const isChosenWrong = r.chosen && letter === r.chosen && !r.isCorrect;
+    const cls = isCorrect ? "rev-opt is-correct" : isChosenWrong ? "rev-opt is-wrong" : "rev-opt";
+    return `<li class="${cls}"><span class="rev-opt-letter">${letter.toUpperCase()}</span><span>${escapeHtml(opt)}</span></li>`;
+  }).join("");
+  const pyqHtml = q.pyq ? `<span class="rev-pyq">Previous Year — ${escapeHtml(q.pyq)}</span>` : "";
+  const passageHtml = q.passage ? `<div class="rev-passage">${escapeHtml(q.passage)}</div>` : "";
+  const html = `
+      <div class="rev-head">
+        <p class="rev-q">Q${r.n}. ${escapeHtml(stemText)} ${pyqHtml}</p>
+        <span class="rev-badge badge-${status}">${badgeText}</span>
+      </div>
+      ${passageHtml}
+      ${subsHtml}
+      ${optsHtml ? `<ul class="rev-opts">${optsHtml}</ul>` : ""}
+      <p class="rev-line"><span class="lbl">Your answer:</span>
+        <span class="${status === "correct" ? "ans-right" : status === "wrong" ? "ans-wrong" : ""}">
+          ${r.chosen ? r.chosen.toUpperCase() + ") " + escapeHtml(chosenText) : "Not attempted"}
+        </span></p>
+      ${status !== "correct" && r.correct
+        ? `<p class="rev-line"><span class="lbl">Correct answer:</span> <span class="ans-right">${r.correct.toUpperCase()}) ${escapeHtml(correctText)}</span></p>`
+        : ""}
+      ${r.exp ? `<div class="rev-exp">${escapeHtml(r.exp)}</div>` : ""}`;
+  return { status, html };
 }
 
 function showResults(data, fromSaved) {
@@ -671,64 +723,10 @@ function showResults(data, fromSaved) {
   const review = $("review");
   review.innerHTML = "";
   results.forEach((r) => {
-    const q = byNum[r.n] || {};
-    const status = r.chosen == null ? "skipped" : r.isCorrect ? "correct" : "wrong";
-    const badgeText = status === "correct" ? "Correct" : status === "wrong" ? "Wrong" : "Not attempted";
-
-    const chosenText = r.chosen ? optText(q, r.chosen) : "—";
-    const correctText = r.correctText || (r.correct ? optText(q, r.correct) : "");
-
-    // Full question exactly as it was asked: stem + numbered statements + options.
-    // (Same "Statement I / II" handling as the quiz screen.)
-    let stemText = q.stem || "";
-    let subLines = (q.subs || []).slice();
-    if (/^\s*statement\s+i\b/i.test(stemText)) {
-      subLines = [stemText].concat(subLines);
-      stemText = "";
-    }
-    const m = parseMatch(subLines);
-    const lineSource = m ? m.otherLines : subLines;
-    const linesHtml = lineSource
-      .flatMap((line) => splitNumberedRun(line))
-      .map((piece) => `<li>${escapeHtml(piece)}</li>`)
-      .join("");
-    const subsHtml = (m ? matchTableHtml(m, "match-table rev-match") : "") +
-      (linesHtml ? `<ul class="rev-subs">${linesHtml}</ul>` : "");
-
-    const optsHtml = (q.options || [])
-      .map((opt, i) => {
-        const letter = LETTERS[i];
-        const isCorrect = r.correct && letter === r.correct;
-        const isChosenWrong = r.chosen && letter === r.chosen && !r.isCorrect;
-        const cls = isCorrect ? "rev-opt is-correct" : isChosenWrong ? "rev-opt is-wrong" : "rev-opt";
-        return `<li class="${cls}"><span class="rev-opt-letter">${letter.toUpperCase()}</span><span>${escapeHtml(opt)}</span></li>`;
-      })
-      .join("");
-
-    // PYQ tag shown WITH the question (top of the card), not after the solution.
-    const pyqHtml = q.pyq ? `<span class="rev-pyq">Previous Year — ${escapeHtml(q.pyq)}</span>` : "";
-
+    const ci = reviewCardInner(r, byNum[r.n] || {});
     const card = document.createElement("div");
-    card.className = `card rev-card ${status}`;
-    card.innerHTML = `
-      <div class="rev-head">
-        <p class="rev-q">Q${r.n}. ${escapeHtml(stemText)} ${pyqHtml}</p>
-        <span class="rev-badge badge-${status}">${badgeText}</span>
-      </div>
-      ${subsHtml}
-      ${optsHtml ? `<ul class="rev-opts">${optsHtml}</ul>` : ""}
-      <p class="rev-line"><span class="lbl">Your answer:</span>
-        <span class="${status === "correct" ? "ans-right" : status === "wrong" ? "ans-wrong" : ""}">
-          ${r.chosen ? r.chosen.toUpperCase() + ") " + escapeHtml(chosenText) : "Not attempted"}
-        </span></p>
-      ${
-        status !== "correct" && r.correct
-          ? `<p class="rev-line"><span class="lbl">Correct answer:</span>
-               <span class="ans-right">${r.correct.toUpperCase()}) ${escapeHtml(correctText)}</span></p>`
-          : ""
-      }
-      ${r.exp ? `<div class="rev-exp">${escapeHtml(r.exp)}</div>` : ""}
-    `;
+    card.className = `card rev-card ${ci.status}`;
+    card.innerHTML = ci.html;
     review.appendChild(card);
   });
 }
@@ -885,6 +883,287 @@ function escapeHtml(s) {
 /* ============================================================
    WIRING
    ============================================================ */
+/* ============================================================
+   MULTI-PAPER  (Full-Length Mock 3: English → GK → Maths)
+   Each paper is graded independently (its own answer key + scoring).
+   Papers run in order; a submitted paper locks; Maths is skippable;
+   results (per-paper + grand total) are shown only at the very end.
+   ============================================================ */
+function hideAllScreens() {
+  ["startScreen", "quizScreen", "resultsScreen", "paperIntroScreen", "paperDoneScreen", "finalScreen", "overlay"]
+    .forEach((id) => { const el = $(id); if (el) hide(el); });
+}
+function multiKey() { return "v3multi:" + state.containerId; }
+function saveMulti() {
+  try { localStorage.setItem(multiKey(), JSON.stringify({ name: state.name, results: state.paperResults })); } catch (e) {}
+}
+function loadMultiSaved() { try { return JSON.parse(localStorage.getItem(multiKey()) || "null"); } catch (e) { return null; } }
+
+async function loadMultiPaper(containerId, container) {
+  state.containerId = containerId;
+  state.multi = container;
+  state.paperResults = {};
+  container.loaded = {};
+  for (const p of container.papers) {
+    const r = await fetch("tests/" + p.id + ".json", { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status + " loading " + p.id);
+    container.loaded[p.id] = await r.json();
+  }
+  document.title = (container.title || "Mock Test") + " — VicThree Defence";
+  const saved = loadMultiSaved();
+  if (saved) { state.name = saved.name || ""; state.paperResults = saved.results || {}; }
+  let idx = 0;
+  while (idx < container.papers.length && state.paperResults[container.papers[idx].id]) idx++;
+  state.paperIdx = idx;
+  routeMulti();
+}
+
+function preparePaper(paper) {
+  const pj = state.multi.loaded[paper.id];
+  state.testId = paper.id;
+  state.quiz = pj;
+  state.questions = pj.questions || [];
+  state.durationSec = (pj.durationMin || 120) * 60;
+  state.remaining = state.durationSec;
+  state.answers = {}; state.marked = {}; state.guesses = {};
+  state.current = 0; state.warned = false; state.submitted = false;
+}
+
+function routeMulti() {
+  hideAllScreens();
+  if (state.paperIdx >= state.multi.papers.length) { renderFinalMulti(); return; }
+  const paper = state.multi.papers[state.paperIdx];
+  state.testId = paper.id;
+  const sv = loadState();
+  const dur = (state.multi.loaded[paper.id].durationMin || 120) * 60;
+  if (sv && typeof sv.remaining === "number" && sv.remaining > 0 && sv.remaining < dur) {
+    resumePaper(paper, sv);
+  } else {
+    showPaperIntro(paper);
+  }
+}
+
+function paperMetaLine(pj) {
+  const neg = pj.scoring ? (Math.abs(pj.scoring.negativeFraction - 1 / 3) < 0.02 ? "1/3" : pj.scoring.negativeFraction) : null;
+  return (pj.questions.length) + " questions · " + (pj.scoring ? pj.scoring.totalMarks + " marks" : "") +
+    " · " + (pj.durationMin || 120) + " min" + (neg ? " · " + neg + " negative" : "");
+}
+
+function showPaperIntro(paper) {
+  hideAllScreens();
+  setPaperTag(null);
+  const pj = state.multi.loaded[paper.id];
+  $("mpPaperLabel").textContent = "Paper " + (state.paperIdx + 1) + " of " + state.multi.papers.length;
+  $("mpPaperTitle").textContent = paper.title;
+  $("mpPaperMeta").textContent = paperMetaLine(pj);
+  $("mpNameField").style.display = state.name ? "none" : "";
+  hide($("mpStartError"));
+  $("mpStartBtn").textContent = "Start " + paper.title + " Paper";
+  show($("paperIntroScreen"));
+  window.scrollTo(0, 0);
+}
+
+function onStartPaperClick() {
+  const paper = state.multi.papers[state.paperIdx];
+  if (!state.name) {
+    const nm = $("mpName").value.trim();
+    if (!nm) { $("mpStartError").textContent = "Please enter your name."; show($("mpStartError")); return; }
+    state.name = nm; saveMulti();
+  }
+  startPaper(paper);
+}
+
+function setPaperTag(paper) {
+  const tag = $("paperTag");
+  if (tag) { tag.textContent = paper ? paper.title : ""; tag.style.display = paper ? "" : "none"; }
+}
+
+function startPaper(paper) {
+  preparePaper(paper);
+  hideAllScreens();
+  setPaperTag(paper);
+  show($("quizScreen"));
+  buildPalette();
+  renderQuestion();
+  startTimer();
+  saveState();
+  window.scrollTo(0, 0);
+}
+
+function resumePaper(paper, sv) {
+  preparePaper(paper);
+  state.answers = sv.answers || {}; state.marked = sv.marked || {}; state.guesses = sv.guesses || {};
+  state.current = sv.current || 0;
+  state.remaining = (typeof sv.remaining === "number") ? sv.remaining : state.durationSec;
+  state.warned = !!sv.warned;
+  hideAllScreens();
+  setPaperTag(paper);
+  show($("quizScreen"));
+  buildPalette();
+  renderQuestion();
+  if (state.remaining <= 300) $("timer").classList.add("warn");
+  startTimer();
+}
+
+function onPaperGraded(data) {
+  const paper = state.multi.papers[state.paperIdx];
+  state.paperResults[paper.id] = {
+    id: paper.id, title: paper.title, skipped: false, data: data,
+    guesses: state.guesses, scoring: state.quiz.scoring,
+  };
+  clearState();          // drop this paper's in-progress attempt (no retake)
+  state.paperIdx++;
+  saveMulti();
+  showPaperDone(paper);
+}
+
+function showPaperDone(justFinished) {
+  hideAllScreens();
+  setPaperTag(null);
+  $("paperDoneMsg").textContent = justFinished.title + " paper submitted.";
+  const actions = $("paperDoneActions");
+  actions.innerHTML = "";
+  if (state.paperIdx < state.multi.papers.length) {
+    const next = state.multi.papers[state.paperIdx];
+    const startBtn = document.createElement("button");
+    startBtn.className = "btn btn-gold btn-block";
+    startBtn.textContent = "Start " + next.title + " Paper";
+    startBtn.addEventListener("click", () => showPaperIntro(next));
+    actions.appendChild(startBtn);
+    if (next.skippable) {
+      const skipBtn = document.createElement("button");
+      skipBtn.className = "btn btn-outline btn-block";
+      skipBtn.textContent = "Skip " + next.title + " & see my result";
+      skipBtn.addEventListener("click", skipRest);
+      actions.appendChild(skipBtn);
+    }
+    $("paperDoneNote").textContent = "Your " + justFinished.title + " paper is locked — it cannot be reattempted.";
+  } else {
+    const seeBtn = document.createElement("button");
+    seeBtn.className = "btn btn-gold btn-block";
+    seeBtn.textContent = "See my result";
+    seeBtn.addEventListener("click", renderFinalMulti);
+    actions.appendChild(seeBtn);
+    $("paperDoneNote").textContent = "All papers submitted.";
+  }
+  show($("paperDoneScreen"));
+  window.scrollTo(0, 0);
+}
+
+function skipRest() {
+  for (let k = state.paperIdx; k < state.multi.papers.length; k++) {
+    const p = state.multi.papers[k];
+    if (!state.paperResults[p.id]) state.paperResults[p.id] = { id: p.id, title: p.title, skipped: true };
+  }
+  state.paperIdx = state.multi.papers.length;
+  saveMulti();
+  renderFinalMulti();
+}
+
+function paperMarks(res) {
+  const d = res.data || {};
+  const total = res.scoring ? res.scoring.totalMarks : 100;
+  if (d.marks != null) return { marks: d.marks, max: d.marksMax != null ? d.marksMax : total };
+  let right = 0, wrong = 0;
+  (d.results || []).forEach((r) => { if (r.chosen != null) { if (r.isCorrect) right++; else wrong++; } });
+  const cnt = (d.results || []).length || 1;
+  const perQ = total / cnt, neg = perQ * (res.scoring ? res.scoring.negativeFraction : 0);
+  return { marks: Math.round((right * perQ - wrong * neg) * 100) / 100, max: total };
+}
+
+function computeSubjectStats(results, byNum, guesses, scoring) {
+  const subs = {}, order = [];
+  let gTot = 0, gRight = 0, gWrongAtt = 0;
+  results.forEach((r) => {
+    const q = byNum[r.n] || {};
+    const name = q.subject || q.topic || "Other";
+    if (!subs[name]) { subs[name] = { att: 0, right: 0, wrong: 0, gTot: 0, gRight: 0 }; order.push(name); }
+    const s = subs[name];
+    if (r.chosen != null) { s.att++; if (r.isCorrect) s.right++; else s.wrong++; }
+    if (guesses && guesses[r.n]) { s.gTot++; gTot++; if (r.isCorrect) { s.gRight++; gRight++; } else if (r.chosen != null) gWrongAtt++; }
+  });
+  const cnt = results.length || 1, total = scoring ? scoring.totalMarks : 100;
+  const perQ = total / cnt, neg = perQ * (scoring ? scoring.negativeFraction : 0);
+  return { subs, order, gTot, gRight, net: Math.round((gRight * perQ - gWrongAtt * neg) * 100) / 100 };
+}
+
+function subjectTableHtml(stat) {
+  const rows = stat.order.map((name) => {
+    const s = stat.subs[name];
+    const acc = s.att ? Math.round(s.right / s.att * 100) : 0;
+    return `<tr><td class="subj-name">${escapeHtml(name)}</td><td>${s.att}</td><td class="c-right">${s.right}</td><td class="c-wrong">${s.wrong}</td><td>${acc}%</td><td>${s.gRight}/${s.gTot}</td></tr>`;
+  }).join("");
+  const netStr = (stat.net > 0 ? "+" : "") + fmtMarks(stat.net);
+  const tile = stat.gTot
+    ? `<p class="guess-summary">Net Guess Score: ${netStr}  ·  ${stat.gRight} of ${stat.gTot} guesses correct.</p>`
+    : `<p class="guess-summary">No answers were flagged as guesses.</p>`;
+  return `<div class="subject-table-wrap"><table class="subject-table"><thead><tr><th>Subject</th><th>Attempted</th><th>Right</th><th>Wrong</th><th>Accuracy</th><th>Correct guesses</th></tr></thead><tbody>${rows}</tbody></table></div>${tile}`;
+}
+
+function renderFinalMulti() {
+  hideAllScreens();
+  setPaperTag(null);
+  const papers = state.multi.papers;
+  let grand = 0, grandMax = 0;
+  const rowsHtml = papers.map((p) => {
+    const res = state.paperResults[p.id];
+    if (!res || res.skipped) {
+      return `<div class="fin-prow"><span class="fin-pname">${escapeHtml(p.title)}</span><span class="fin-pscore muted">${res && res.skipped ? "Skipped" : "—"}</span></div>`;
+    }
+    const mm = paperMarks(res); grand += mm.marks; grandMax += mm.max;
+    return `<div class="fin-prow"><span class="fin-pname">${escapeHtml(p.title)}</span><span class="fin-pscore">${fmtMarks(mm.marks)} / ${mm.max}</span></div>`;
+  }).join("");
+  grand = Math.round(grand * 100) / 100;
+
+  let html = `<div class="card score-card">
+    <h2>Result</h2>
+    <p class="score-name"><span>${escapeHtml(state.name || "Student")}</span></p>
+    <div class="fin-papers">${rowsHtml}</div>
+    <div class="score-big"><span>${fmtMarks(grand)}</span><span class="score-total">/ ${grandMax}</span></div>
+    <div class="accuracy-line"><span class="muted">Combined total across attempted papers</span></div>
+  </div>`;
+
+  papers.forEach((p) => {
+    const res = state.paperResults[p.id];
+    if (!res || res.skipped) return;
+    const pj = state.multi.loaded[p.id];
+    const byNum = {}; (pj.questions || []).forEach((q) => (byNum[q.n] = q));
+    const results = (res.data && res.data.results) || [];
+    let right = 0, wrong = 0, skip = 0;
+    results.forEach((r) => { if (r.chosen == null) skip++; else if (r.isCorrect) right++; else wrong++; });
+    const attempted = right + wrong, acc = attempted ? Math.round(right / attempted * 100) : 0;
+    const mm = paperMarks(res);
+    const stat = computeSubjectStats(results, byNum, res.guesses, res.scoring);
+    const cards = results.map((r) => { const ci = reviewCardInner(r, byNum[r.n] || {}); return `<div class="card rev-card ${ci.status}">${ci.html}</div>`; }).join("");
+    html += `<div class="fin-paper">
+      <h3 class="fin-paper-title">${escapeHtml(p.title)} — ${fmtMarks(mm.marks)} / ${mm.max}</h3>
+      <div class="score-sub">
+        <span class="pill pill-right">${right} correct</span>
+        <span class="pill pill-wrong">${wrong} wrong</span>
+        <span class="pill pill-skip">${skip} unattempted</span>
+        <span class="pill">${acc}% accuracy</span>
+      </div>
+      <h4 class="report-subhead">Subject-wise Performance</h4>
+      ${subjectTableHtml(stat)}
+      <button class="btn btn-outline btn-block fin-rev-toggle" type="button">View answers &amp; explanations ▾</button>
+      <div class="fin-review" hidden>${cards}</div>
+    </div>`;
+  });
+
+  html += `<div class="results-actions"><a href="index.html" class="btn btn-navy btn-block">‹ Back to all tests</a></div>`;
+  const fc = $("finalContent");
+  fc.innerHTML = html;
+  fc.querySelectorAll(".fin-rev-toggle").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const rev = btn.nextElementSibling;
+      if (rev.hasAttribute("hidden")) { show(rev); btn.textContent = "Hide answers & explanations ▴"; }
+      else { hide(rev); btn.textContent = "View answers & explanations ▾"; }
+    });
+  });
+  show($("finalScreen"));
+  window.scrollTo(0, 0);
+}
+
 window.addEventListener("DOMContentLoaded", () => {
   loadQuiz();
 
@@ -933,6 +1212,12 @@ window.addEventListener("DOMContentLoaded", () => {
   });
   $("submitBtn").addEventListener("click", () => submitTest(false));
   $("restartBtn").addEventListener("click", () => location.reload());
+
+  // Multi-paper (Mock 3) paper-intro start
+  const mpBtn = $("mpStartBtn");
+  if (mpBtn) mpBtn.addEventListener("click", onStartPaperClick);
+  const mpName = $("mpName");
+  if (mpName) mpName.addEventListener("keydown", (e) => { if (e.key === "Enter") onStartPaperClick(); });
 
   // Warn before leaving mid-test
   window.addEventListener("beforeunload", (e) => {

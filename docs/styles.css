@@ -148,6 +148,27 @@ html, body {
 .subject-table tbody tr:last-child td { border-bottom: none; }
 .guess-summary { margin: 10px 0 0; font-size: 13.5px; font-weight: 600; color: #6b5410; background: #fdf6d8; border: 1px solid #ecd98f; border-radius: 8px; padding: 10px 12px; }
 
+/* ---- Reading-comprehension / cloze passage ---- */
+.q-passage { background: var(--paper); border: 1px solid var(--line); border-left: 4px solid var(--navy); border-radius: 8px; padding: 12px 14px; margin: 0 0 12px; font-size: 14.5px; line-height: 1.6; max-height: 260px; overflow-y: auto; color: #243b5e; }
+.rev-passage { background: var(--paper); border: 1px solid var(--line); border-left: 4px solid var(--navy); border-radius: 8px; padding: 10px 12px; margin: 6px 0; font-size: 13px; line-height: 1.55; max-height: 200px; overflow-y: auto; color: #243b5e; }
+
+/* ---- Multi-paper (Mock 3) ---- */
+.paper-tag { font-weight: 700; color: var(--gold); background: rgba(201,162,75,.16); border: 1px solid rgba(201,162,75,.45); padding: 2px 10px; border-radius: 999px; font-size: 12px; margin-right: 8px; }
+.mp-steplabel { font-size: 12px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--gold); margin-bottom: 2px; }
+.mp-done-card { text-align: center; }
+.mp-done-check { width: 64px; height: 64px; margin: 6px auto 12px; border-radius: 50%; background: var(--green-bg); color: var(--green); font-size: 34px; line-height: 64px; font-weight: 700; }
+.mp-done-actions { display: flex; flex-direction: column; gap: 10px; margin-top: 16px; }
+.fin-papers { margin: 12px 0; }
+.fin-prow { display: flex; justify-content: space-between; align-items: baseline; padding: 7px 2px; border-bottom: 1px dashed var(--line); font-size: 15px; }
+.fin-prow:last-child { border-bottom: none; }
+.fin-pname { color: var(--navy); font-weight: 600; }
+.fin-pscore { font-weight: 700; color: var(--navy); }
+.fin-paper { margin-top: 24px; }
+.fin-paper-title { color: var(--navy); border-left: 4px solid var(--gold); padding-left: 10px; margin: 0 0 10px; font-size: 18px; }
+.fin-rev-toggle { margin-top: 12px; }
+.fin-review { margin-top: 12px; }
+.score-sub .pill { background: #eef1f6; color: var(--muted); }
+
 .back-link { display: inline-block; color: var(--muted); text-decoration: none; font-size: 13px; margin-bottom: 10px; }
 .back-link:hover { color: var(--navy); }
 .results-actions { display: flex; flex-direction: column; gap: 10px; }

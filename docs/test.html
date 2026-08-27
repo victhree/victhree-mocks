@@ -62,6 +62,7 @@
     <section id="quizScreen" class="screen" hidden>
       <div class="topbar">
         <div class="topbar-left">
+          <span id="paperTag" class="paper-tag" style="display:none"></span>
           <span class="muted">Question</span>
           <span id="progressLabel">1 / 60</span>
         </div>
@@ -75,6 +76,7 @@
               <div class="q-number">Q<span id="qNum">1</span>.</div>
               <button id="markBtn" type="button" class="mark-btn">☆ Mark for review</button>
             </div>
+            <div id="qPassage" class="q-passage" style="display:none"></div>
             <p id="qStem" class="q-stem"></p>
             <ul id="qSubs" class="q-subs"></ul>
             <div id="qMatch" class="q-match"></div>
@@ -175,6 +177,38 @@
         <a href="index.html" class="btn btn-navy btn-block">‹ Back to all tests</a>
         <button id="restartBtn" class="btn btn-outline btn-block">Retake this test</button>
       </div>
+    </section>
+
+    <!-- ============ MULTI-PAPER: PAPER INTRO ============ -->
+    <section id="paperIntroScreen" class="screen" hidden>
+      <div class="card">
+        <a href="index.html" class="back-link">‹ All tests</a>
+        <div class="mp-steplabel" id="mpPaperLabel">Paper 1 of 3</div>
+        <h1 id="mpPaperTitle">Paper</h1>
+        <ul class="meta-list"><li id="mpPaperMeta">—</li></ul>
+        <div id="mpNameField" class="field">
+          <label for="mpName">Full Name <span class="req">*</span></label>
+          <input id="mpName" type="text" autocomplete="name" />
+        </div>
+        <p id="mpStartError" class="error-msg" hidden></p>
+        <button id="mpStartBtn" class="btn btn-gold btn-block">Start Paper</button>
+        <p class="fine-print">Once you start, the 2-hour timer begins and cannot be paused. A submitted paper cannot be reattempted.</p>
+      </div>
+    </section>
+
+    <!-- ============ MULTI-PAPER: PAPER SUBMITTED ============ -->
+    <section id="paperDoneScreen" class="screen" hidden>
+      <div class="card mp-done-card">
+        <div class="mp-done-check">✓</div>
+        <h2 id="paperDoneMsg">Paper submitted.</h2>
+        <p id="paperDoneNote" class="fine-print"></p>
+        <div id="paperDoneActions" class="mp-done-actions"></div>
+      </div>
+    </section>
+
+    <!-- ============ MULTI-PAPER: FINAL RESULT ============ -->
+    <section id="finalScreen" class="screen" hidden>
+      <div id="finalContent"></div>
     </section>
 
   </main>

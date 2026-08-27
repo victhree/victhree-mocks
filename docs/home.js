@@ -43,7 +43,7 @@ async function loadTests() {
         </h3>
         <div class="test-card-meta">
           <span>${t.count != null ? t.count + " questions" : ""}</span>
-          <span>${t.durationMin != null ? t.durationMin + " min" : ""}</span>
+          <span>${t.durationMin != null ? t.durationMin + " min" : (t.metaNote ? escapeHtml(t.metaNote) : "")}</span>
         </div>
         <span class="test-card-cta">Start ›</span>
       `;

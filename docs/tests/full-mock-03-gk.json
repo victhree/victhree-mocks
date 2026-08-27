@@ -1,0 +1,2016 @@
+{
+    "title":  "General Knowledge",
+    "durationMin":  120,
+    "scoring":  {
+                    "totalMarks":  100,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "A body of mass 2 kg is moving with a speed of 3 m/s. Its kinetic energy is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6 J",
+                                          "9 J",
+                                          "12 J",
+                                          "18 J"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "In a circuit, two 6 Ω resistors are connected in parallel, and this parallel combination is joined in series with a 4 Ω resistor. The total resistance of the circuit is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "16 Ω",
+                                          "7 Ω",
+                                          "10 Ω",
+                                          "3 Ω"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "An electric heater of resistance 22 Ω is connected to a 220 V supply for 5 minutes. The heat produced is approximately:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "66 kJ",
+                                          "110 kJ",
+                                          "660 kJ",
+                                          "2,200 kJ"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "An object has a mass of 200 g and a volume of 100 cm³. Its density is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0.5 g/cm³",
+                                          "2 g/cm³",
+                                          "20 g/cm³",
+                                          "200 g/cm³"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "A sound wave has a frequency of 500 Hz and a wavelength of 0.6 m. Its speed is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "150 m/s",
+                                          "500 m/s",
+                                          "833 m/s",
+                                          "300 m/s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The pH of a 0.001 M (10⁻³ M) solution of a strong acid such as HCl is approximately:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1",
+                                          "2",
+                                          "3",
+                                          "11"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. Newton\u0027s second law can be stated as: force equals the rate of change of momentum.",
+                                       "2. The impulse acting on a body equals the change in its momentum.",
+                                       "3. In a perfectly inelastic collision, kinetic energy is conserved but momentum is not."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Consider the following statements about optics:",
+                          "subs":  [
+                                       "1. The power of a lens, measured in dioptres, equals the reciprocal of its focal length in metres.",
+                                       "2. A concave lens always forms a virtual, erect and diminished image of a real object.",
+                                       "3. The human eye focuses images by changing the refractive index of its lens."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "How many of the following statements are correct?",
+                          "subs":  [
+                                       "1. The mass number of an atom is the sum of its protons and neutrons.",
+                                       "2. Isotopes of an element have the same number of neutrons.",
+                                       "3. The modern periodic table arranges elements by increasing atomic number.",
+                                       "4. Mendeleev arranged the elements in order of increasing atomic number."
+                                   ],
+                          "options":  [
+                                          "Only one statement is correct",
+                                          "Only two statements are correct",
+                                          "Only three statements are correct",
+                                          "All four statements are correct"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following statements about heat:",
+                          "subs":  [
+                                       "1. The specific heat capacity of water is approximately 4,200 J/kg·K.",
+                                       "2. While water is boiling, its temperature remains constant even though heat is supplied.",
+                                       "3. Two bodies in thermal equilibrium can be at different temperatures."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Consider the following statements about the cell:",
+                          "subs":  [
+                                       "1. In eukaryotic cells, ribosomes may be attached to the rough endoplasmic reticulum.",
+                                       "2. Lysosomes are known as the ‘suicide bags’ of the cell.",
+                                       "3. In a eukaryotic cell, DNA is found only in the nucleus."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Consider the following statements about human physiology:",
+                          "subs":  [
+                                       "1. Insulin is secreted by the beta cells of the islets of Langerhans in the pancreas.",
+                                       "2. The normal resting heart rate of an adult is about 72 beats per minute.",
+                                       "3. Deoxygenated blood is carried from the heart to the lungs by the pulmonary vein."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "How many of the following statements are correct?",
+                          "subs":  [
+                                       "1. The ozone layer lies mainly in the stratosphere.",
+                                       "2. Nitrogen dioxide is the main greenhouse gas emitted by human activity.",
+                                       "3. Normal, unpolluted rainwater is slightly acidic, with a pH of about 5.6.",
+                                       "4. Chlorofluorocarbons are inert in the lower atmosphere but release chlorine in the stratosphere."
+                                   ],
+                          "options":  [
+                                          "Only one statement is correct",
+                                          "Only two statements are correct",
+                                          "Only three statements are correct",
+                                          "All four statements are correct"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Match List-I (Scientist) with List-II (Contribution) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Isaac Newton B. Charles Darwin C. Gregor Mendel D. Albert Einstein",
+                                       "List-II: 1. Laws of heredity 2. Law of gravitation 3. Photoelectric effect and relativity 4. Theory of evolution by natural selection"
+                                   ],
+                          "options":  [
+                                          "A-2 B-4 C-1 D-3",
+                                          "A-4 B-2 C-1 D-3",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-3 D-1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Which one of the following pairs of a disease and its causative agent is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Malaria — Protozoan",
+                                          "Tuberculosis — Bacterium",
+                                          "Ringworm — Fungus",
+                                          "AIDS — Bacterium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Which one of the following is a scalar quantity?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Velocity",
+                                          "Acceleration",
+                                          "Speed",
+                                          "Force"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The SI unit of electric current is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Volt",
+                                          "Ampere",
+                                          "Ohm",
+                                          "Coulomb"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Atmospheric pressure is measured using a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hygrometer",
+                                          "Barometer",
+                                          "Thermometer",
+                                          "Lactometer"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Which of the following is the second-hardest naturally occurring mineral after diamond, used as an abrasive and forming the gemstones ruby and sapphire?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Topaz",
+                                          "Corundum",
+                                          "Quartz",
+                                          "Graphite"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following pairs of a common name and its chemical formula is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Baking soda — NaHCO₃",
+                                          "Washing soda — Na₂CO₃·10H₂O",
+                                          "Common salt — NaCl",
+                                          "Bleaching powder — CaSO₄"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Plaster of Paris is obtained by heating gypsum. Its chemical formula is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "CaSO₄·2H₂O",
+                                          "CaSO₄·½H₂O",
+                                          "CaCO₃",
+                                          "Ca(OH)₂"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Electric bulbs are usually filled with which gas to prevent the filament from burning out?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Oxygen",
+                                          "Argon (an inert gas)",
+                                          "Carbon dioxide",
+                                          "Hydrogen"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following pairs of a vitamin and its chemical name is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vitamin B1 — Thiamine",
+                                          "Vitamin B2 — Riboflavin",
+                                          "Vitamin K — Phylloquinone",
+                                          "Vitamin C — Calciferol"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "How many of the following deficiency–disorder pairs are correctly matched?",
+                          "subs":  [
+                                       "1. Iodine — Goitre",
+                                       "2. Vitamin D — Rickets",
+                                       "3. Iron — Beriberi",
+                                       "4. Vitamin A — Night blindness"
+                                   ],
+                          "options":  [
+                                          "Only one pair",
+                                          "Only two pairs",
+                                          "Only three pairs",
+                                          "All four pairs"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The loss of water in the form of vapour from the aerial parts of a plant, mainly through the stomata of the leaves, is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Guttation",
+                                          "Transpiration",
+                                          "Translocation",
+                                          "Respiration"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Which blood group is the ‘universal recipient’, carrying both A and B antigens on the red cells but no anti-A or anti-B antibodies in the plasma?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "O negative",
+                                          "AB positive",
+                                          "A positive",
+                                          "B negative"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "How many of the following statements about the human skeleton are correct?",
+                          "subs":  [
+                                       "1. A normal adult human has 206 bones.",
+                                       "2. The femur is the longest bone in the body.",
+                                       "3. The stapes, in the middle ear, is the smallest bone.",
+                                       "4. The human skull is made of a single bone."
+                                   ],
+                          "options":  [
+                                          "Only one statement",
+                                          "Only two statements",
+                                          "Only three statements",
+                                          "All four statements"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "India\u0027s Mars Orbiter Mission (Mangalyaan), which entered Mars orbit in 2014, was launched using which vehicle?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "GSLV Mk-III",
+                                          "PSLV-C25",
+                                          "GSLV Mk-II",
+                                          "SSLV"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "SONAR, used to detect underwater objects and measure sea depth, works on the principle of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "total internal reflection of light",
+                                          "reflection of ultrasonic (sound) waves",
+                                          "reflection of radio waves",
+                                          "refraction of infrared waves"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which part of the electromagnetic spectrum is used in TV remote controls?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "X-rays",
+                                          "Infrared",
+                                          "Ultraviolet",
+                                          "Gamma rays"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "When pure water is heated above 25°C, its pH:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "rises above 7",
+                                          "falls slightly below 7, though the water remains neutral",
+                                          "stays exactly at 7",
+                                          "makes the water acidic"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "‘Dry ice’ (solid carbon dioxide) is used for refrigeration because, at atmospheric pressure, it changes state by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "melting into a liquid",
+                                          "sublimation, passing directly from solid to gas",
+                                          "evaporation from a liquid surface",
+                                          "condensation into a liquid"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "Consider the following statements about the Right to Equality:",
+                          "subs":  [
+                                       "1. Article 15 prohibits discrimination on grounds only of religion, race, caste, sex or place of birth.",
+                                       "2. Article 16 guarantees equality of opportunity in matters of public employment.",
+                                       "3. Article 18 abolishes titles, except military and academic distinctions."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "Match List-I (Writ) with List-II (Purpose) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Habeas Corpus B. Mandamus C. Quo Warranto D. Prohibition",
+                                       "List-II: 1. Commands a public authority to perform its duty 2. Questions the legality of a person\u0027s claim to a public office 3. Orders the production of a detained person 4. Stops a lower court from exceeding its jurisdiction"
+                                   ],
+                          "options":  [
+                                          "A-3 B-1 C-2 D-4",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-3 B-1 C-4 D-2",
+                                          "A-3 B-2 C-1 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "Consider the following statements about the election of the President of India:",
+                          "subs":  [
+                                       "1. The President is elected by proportional representation using a single transferable vote.",
+                                       "2. The electoral college includes the elected members of both Houses of Parliament and of the state legislative assemblies.",
+                                       "3. The value of votes is weighted to maintain uniformity among states and parity with the Union."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "Which Article of the Constitution deals with the proclamation of a Financial Emergency?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 352",
+                                          "Article 356",
+                                          "Article 360",
+                                          "Article 365"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "Which one of the following statements about the Rajya Sabha is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is a permanent House.",
+                                          "Its members have a term of six years.",
+                                          "It can be dissolved like the Lok Sabha.",
+                                          "One-third of its members retire every second year."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "The Attorney General of India is appointed under which Article?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 148",
+                                          "Article 76",
+                                          "Article 324",
+                                          "Article 280"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "Consider the following statements about the Directive Principles of State Policy:",
+                          "subs":  [
+                                       "1. Article 39A directs the State to provide equal justice and free legal aid.",
+                                       "2. Article 43 speaks of a living wage for workers.",
+                                       "3. Article 48A directs the State to protect and improve the environment."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "Which Article states that the Directive Principles are not enforceable by any court?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 32",
+                                          "Article 44",
+                                          "Article 37",
+                                          "Article 51"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "Which one of the following statements about the Sixth Schedule is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It provides for the administration of certain tribal areas through Autonomous District Councils.",
+                                          "It applies to tribal areas in Assam, Meghalaya, Tripura and Mizoram.",
+                                          "It applies to the tribal areas of all the North-Eastern states.",
+                                          "The Governor has significant powers over these autonomous areas."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "The 44th Amendment Act, 1978 made which of the following a legal right under Article 300A?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Right to Education",
+                                          "The Right to Information",
+                                          "The Right to Property",
+                                          "The Right to Privacy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "Consider the following statements about urban local government:",
+                          "subs":  [
+                                       "1. The 74th Amendment gave constitutional status to municipalities.",
+                                       "2. The Twelfth Schedule lists 18 functional items for municipalities.",
+                                       "3. A Nagar Panchayat is provided for a transitional (rural-to-urban) area."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "Who is the ex-officio Chairman of the Rajya Sabha?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Prime Minister",
+                                          "The Speaker of the Lok Sabha",
+                                          "The Vice-President of India",
+                                          "The senior-most member of the Rajya Sabha"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "A Money Bill is defined in which Article of the Constitution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 108",
+                                          "Article 112",
+                                          "Article 110",
+                                          "Article 123"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "Who was the first Law Minister of independent India and the Chairman of the Drafting Committee of the Constitution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dr. Rajendra Prasad",
+                                          "K. M. Munshi",
+                                          "Dr. B. R. Ambedkar",
+                                          "Alladi Krishnaswamy Ayyar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "The provisions relating to the disqualification of members on the ground of defection are contained in which Schedule?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ninth Schedule",
+                                          "Eleventh Schedule",
+                                          "Tenth Schedule",
+                                          "Twelfth Schedule"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "Consider the following pairs of Constitutional Amendment and its subject:",
+                          "subs":  [
+                                       "1. 42nd Amendment — added the Fundamental Duties",
+                                       "2. 61st Amendment — lowered the voting age to 18",
+                                       "3. 103rd Amendment — reservation for Economically Weaker Sections"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "Consider the following statements about the interior of the Earth:",
+                          "subs":  [
+                                       "1. The continental crust is largely made of SIAL (silica and alumina).",
+                                       "2. The Mohorovicic discontinuity separates the crust from the mantle.",
+                                       "3. The outer core is in a liquid state."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "Match List-I (Strait) with List-II (Water bodies it connects) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Bering Strait B. Strait of Gibraltar C. Bosphorus D. Strait of Dover",
+                                       "List-II: 1. Atlantic and Mediterranean 2. Pacific and Arctic 3. English Channel and North Sea 4. Black Sea and Sea of Marmara"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "Consider the following statements about global pressure and wind belts:",
+                          "subs":  [
+                                       "1. The doldrums are the equatorial low-pressure belt of calm, light winds.",
+                                       "2. The horse latitudes are the subtropical high-pressure belts.",
+                                       "3. The “Roaring Forties” are strong westerlies of the Southern Hemisphere."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "Which one of the following parallels of latitude is a “great circle”?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Tropic of Cancer",
+                                          "The Arctic Circle",
+                                          "The Equator",
+                                          "The Tropic of Capricorn"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "Consider the following statements about two peninsular rivers:",
+                          "subs":  [
+                                       "1. The Narmada and Tapi flow westward into the Arabian Sea.",
+                                       "2. They flow through rift valleys (grabens).",
+                                       "3. They form estuaries rather than deltas."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "The Shipki La pass, an important trade and route point, connects India with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nepal",
+                                          "Bhutan",
+                                          "the Tibet region of China",
+                                          "Myanmar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "The highest mountain peak located entirely within India is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mount Everest",
+                                          "K2",
+                                          "Kanchenjunga",
+                                          "Nanda Devi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "Consider the following statements about India\u0027s rainfall:",
+                          "subs":  [
+                                       "1. The south-west monsoon normally sets in over Kerala around 1 June.",
+                                       "2. The Tamil Nadu coast receives most of its rainfall from the retreating (north-east) monsoon.",
+                                       "3. Mawsynram and Cherrapunji, among the wettest places on Earth, are in Meghalaya."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "Which type of Indian soil is often described as “self-ploughing” because it develops deep cracks on drying?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Alluvial soil",
+                                          "Laterite soil",
+                                          "Black (regur) soil",
+                                          "Red soil"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "Mawsynram, recorded as one of the wettest inhabited places on Earth, is located in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Assam",
+                                          "Arunachal Pradesh",
+                                          "Meghalaya",
+                                          "Sikkim"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "Which one of the following pairs of a desert and its continent is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Great Victoria — Africa",
+                                          "Kalahari — Africa",
+                                          "Atacama — South America",
+                                          "Gobi — Asia"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "Consider the following statements about oceans:",
+                          "subs":  [
+                                       "1. The continental shelf is the richest fishing ground because sunlight reaches its shallow waters.",
+                                       "2. Salinity is very high in enclosed water bodies such as the Dead Sea.",
+                                       "3. Coral reefs flourish in warm, shallow, clear waters."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  61,
+                          "stem":  "The “Grand Banks”, one of the world\u0027s richest fishing grounds where warm and cold currents meet, lies off the coast of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Peru",
+                                          "Japan",
+                                          "Newfoundland (Canada)",
+                                          "Norway"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  62,
+                          "stem":  "Which Indian state has the longest coastline?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tamil Nadu",
+                                          "Andhra Pradesh",
+                                          "Gujarat",
+                                          "Maharashtra"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  63,
+                          "stem":  "Loktak Lake, famous for its floating masses of vegetation (phumdis) and a floating national park, is located in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Manipur",
+                                          "Meghalaya",
+                                          "Tripura",
+                                          "Nagaland"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  64,
+                          "stem":  "The “Palakkad (Palghat) Gap”, an important break that eases movement between Kerala and Tamil Nadu, is a gap in the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Eastern Ghats",
+                                          "Aravalli Range",
+                                          "Western Ghats",
+                                          "Vindhya Range"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  65,
+                          "stem":  "The International Date Line roughly follows which meridian of longitude?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0°",
+                                          "90° E",
+                                          "180°",
+                                          "82°30′ E"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  66,
+                          "stem":  "In a year the nominal GDP of a country is ₹750 crore and its real GDP is ₹600 crore. The GDP deflator is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "80",
+                                          "110",
+                                          "125",
+                                          "150"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  67,
+                          "stem":  "Consider the following statements about types of inflation:",
+                          "subs":  [
+                                       "1. Demand-pull inflation arises when aggregate demand outstrips supply.",
+                                       "2. Cost-push inflation arises from rising input costs.",
+                                       "3. Stagflation is the coexistence of high inflation and economic stagnation."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  68,
+                          "stem":  "Match List-I (Regulator) with List-II (Sector) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. SEBI B. IRDAI C. PFRDA D. RBI",
+                                       "List-II: 1. Insurance 2. Pensions 3. Securities market 4. Banking and monetary policy"
+                                   ],
+                          "options":  [
+                                          "A-3 B-1 C-2 D-4",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-3 B-1 C-4 D-2",
+                                          "A-3 B-2 C-1 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  69,
+                          "stem":  "Which one of the following statements about taxation is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The basic customs duty has been subsumed under GST.",
+                                          "GST is an indirect tax.",
+                                          "GST subsumed the erstwhile service tax and central excise duty.",
+                                          "Income tax and corporation tax are direct taxes."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  70,
+                          "stem":  "Consider the following statements about banking in India:",
+                          "subs":  [
+                                       "1. The Reserve Bank of India was established in 1935.",
+                                       "2. Fourteen major commercial banks were nationalised in 1969.",
+                                       "3. The Statutory Liquidity Ratio is maintained by banks themselves in liquid assets."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  71,
+                          "stem":  "The function of “lender of last resort” in the Indian financial system is performed by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "SEBI",
+                                          "SBI",
+                                          "The Reserve Bank of India",
+                                          "NABARD"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  72,
+                          "stem":  "The fiscal deficit is the excess of total expenditure over total receipts, excluding:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "tax revenue",
+                                          "interest payments",
+                                          "borrowings",
+                                          "non-tax revenue"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  73,
+                          "stem":  "Consider the following statements about the external sector:",
+                          "subs":  [
+                                       "1. The current account records trade in goods and services and current transfers.",
+                                       "2. Foreign Direct Investment is recorded in the capital account.",
+                                       "3. India\u0027s foreign-exchange reserves include gold, SDRs, foreign currency assets and the reserve tranche position in the IMF."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  74,
+                          "stem":  "The “repo rate” is the rate at which:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the RBI borrows from commercial banks",
+                                          "the RBI lends short-term funds to commercial banks against securities",
+                                          "commercial banks lend to their prime customers",
+                                          "banks lend to one another in the call money market"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  75,
+                          "stem":  "“Operation Flood” is associated with a major increase in the production of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "foodgrains",
+                                          "milk",
+                                          "fish",
+                                          "oilseeds"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  76,
+                          "stem":  "The NITI Aayog replaced the Planning Commission in the year:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2014",
+                                          "2015",
+                                          "2017",
+                                          "2019"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  77,
+                          "stem":  "Consider the following statements about the Indus Valley Civilisation:",
+                          "subs":  [
+                                       "1. A ploughed field and fire altars have been reported from Kalibangan.",
+                                       "2. The Great Bath is a notable structure at Mohenjo-daro.",
+                                       "3. Chanhudaro is notable for being a Harappan city without a citadel.",
+                                       "4. Lothal is located in Sindh."
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3 only",
+                                          "1 and 2 only",
+                                          "2, 3 and 4 only",
+                                          "1, 2, 3 and 4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  78,
+                          "stem":  "How many of the following statements are correct?",
+                          "subs":  [
+                                       "1. The First Buddhist Council was held at Rajagriha.",
+                                       "2. The Third Buddhist Council was held at Pataliputra under Ashoka.",
+                                       "3. The Fourth Buddhist Council was held in Kashmir under Kanishka.",
+                                       "4. The First Jain Council was held at Pataliputra under Sthulabhadra."
+                                   ],
+                          "options":  [
+                                          "Only one statement is correct",
+                                          "Only two statements are correct",
+                                          "Only three statements are correct",
+                                          "All four statements are correct"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  79,
+                          "stem":  "Match List-I (Dynasty) with List-II (Capital) and select the correct answer using the code below:",
+                          "subs":  [
+                                       "List-I: A. Pallava B. Chola C. Chalukya (of Badami) D. Rashtrakuta",
+                                       "List-II: 1. Manyakheta 2. Kanchipuram 3. Thanjavur 4. Vatapi"
+                                   ],
+                          "options":  [
+                                          "A-2 B-3 C-4 D-1",
+                                          "A-2 B-4 C-3 D-1",
+                                          "A-3 B-2 C-4 D-1",
+                                          "A-2 B-3 C-1 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  80,
+                          "stem":  "Arrange the following in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Composition of the Rigveda",
+                                       "2. Mature phase of the Harappan Civilisation",
+                                       "3. Mahaparinirvana of the Buddha",
+                                       "4. Accession of Chandragupta Maurya"
+                                   ],
+                          "options":  [
+                                          "2, 1, 3, 4",
+                                          "1, 2, 3, 4",
+                                          "2, 1, 4, 3",
+                                          "1, 2, 4, 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  81,
+                          "stem":  "The Sangam assemblies of poets, from which the earliest Tamil literature derives, were patronised by which dynasty at Madurai?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cheras",
+                                          "Cholas",
+                                          "Pandyas",
+                                          "Pallavas"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  82,
+                          "stem":  "Which one of the following pairs of a Chinese pilgrim and the ruler during whose reign he visited India is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hiuen Tsang — Chandragupta Maurya",
+                                          "Hiuen Tsang — Harshavardhana",
+                                          "I-tsing — the later 7th century",
+                                          "Fa-Hien — Chandragupta II"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  83,
+                          "stem":  "Krishnadevaraya, the greatest ruler of Vijayanagara, belonged to which dynasty?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sangama",
+                                          "Saluva",
+                                          "Tuluva",
+                                          "Aravidu"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  84,
+                          "stem":  "Consider the following statements about Mughal administration and culture:",
+                          "subs":  [
+                                       "1. The Mansabdari system graded officials by zat and sawar ranks.",
+                                       "2. Raja Todar Mal is associated with the Dahsala (Zabti) revenue system.",
+                                       "3. The Ain-i-Akbari was written by Abul Fazl."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  85,
+                          "stem":  "Match List-I (Bhakti saint) with List-II (Region) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Namdev B. Chaitanya C. Shankaradeva D. Ramananda",
+                                       "List-II: 1. Bengal 2. North India 3. Maharashtra 4. Assam"
+                                   ],
+                          "options":  [
+                                          "A-3 B-1 C-4 D-2",
+                                          "A-3 B-4 C-1 D-2",
+                                          "A-1 B-3 C-4 D-2",
+                                          "A-3 B-1 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  86,
+                          "stem":  "The Battle of Talikota (1565) resulted in the decline of which empire?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Vijayanagara Empire",
+                                          "The Bahmani Sultanate",
+                                          "The Mughal Empire",
+                                          "The Maratha Empire"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  87,
+                          "stem":  "The tomb of Sher Shah Suri, a fine example of Indo-Islamic architecture, is located at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sasaram (Bihar)",
+                                          "Agra",
+                                          "Delhi",
+                                          "Fatehpur Sikri"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  88,
+                          "stem":  "Consider the following statements about British land-revenue systems:",
+                          "subs":  [
+                                       "1. The Permanent Settlement (1793) in Bengal was associated with Lord Cornwallis.",
+                                       "2. The Ryotwari system was introduced in the Madras and Bombay presidencies.",
+                                       "3. The Mahalwari system was introduced in the North-Western Provinces."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  89,
+                          "stem":  "Arrange the following in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Regulating Act, 1773 2. Battle of Plassey 3. Battle of Buxar 4. Permanent Settlement"
+                                   ],
+                          "options":  [
+                                          "2, 3, 1, 4",
+                                          "2, 1, 3, 4",
+                                          "1, 2, 3, 4",
+                                          "2, 3, 4, 1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  90,
+                          "stem":  "The capital of British India was shifted from Calcutta to Delhi in the year:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1911",
+                                          "1905",
+                                          "1919",
+                                          "1935"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  91,
+                          "stem":  "The “Prarthana Samaj”, a socio-religious reform movement in western India, was founded by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Atmaram Pandurang",
+                                          "Dayanand Saraswati",
+                                          "Keshab Chandra Sen",
+                                          "Jyotiba Phule"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  92,
+                          "stem":  "Consider the following statements about Gandhian mass movements:",
+                          "subs":  [
+                                       "1. The Non-Cooperation Movement was launched in 1920 alongside the Khilafat Movement.",
+                                       "2. It was withdrawn after the Chauri Chaura incident in 1922.",
+                                       "3. The Civil Disobedience Movement began with the Dandi March in 1930."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  93,
+                          "stem":  "The “August Offer” of 1940 was made by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lord Linlithgow",
+                                          "Lord Wavell",
+                                          "Lord Mountbatten",
+                                          "Stafford Cripps"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  94,
+                          "stem":  "Which one of the following pairs of an event and its year is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jallianwala Bagh massacre — 1919",
+                                          "Quit India Movement — 1942",
+                                          "Cripps Mission — 1946",
+                                          "Dandi March — 1930"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  95,
+                          "stem":  "The revolutionary slogan “Inquilab Zindabad” was coined by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hasrat Mohani",
+                                          "Bhagat Singh",
+                                          "Chandrashekhar Azad",
+                                          "Subhas Chandra Bose"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  96,
+                          "stem":  "The Interim Government formed in 1946 was headed (as Vice-President of the Executive Council) by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jawaharlal Nehru",
+                                          "Dr. Rajendra Prasad",
+                                          "Sardar Patel",
+                                          "C. Rajagopalachari"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  97,
+                          "stem":  "The Bolshevik (October) Revolution of 1917 in Russia was led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vladimir Lenin",
+                                          "Karl Marx",
+                                          "Joseph Stalin",
+                                          "Leon Trotsky"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  98,
+                          "stem":  "Which one of the following pairs of a medieval text and its language is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kitab-ul-Hind — Arabic",
+                                          "Baburnama — Chagatai Turkish",
+                                          "Amuktamalyada — Telugu",
+                                          "Razmnama — Sanskrit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  99,
+                          "stem":  "Consider the following statements about Sangam-age Tamil society and literature:",
+                          "subs":  [
+                                       "1. Silappadikaram is one of the five great epics of Tamil literature.",
+                                       "2. The Alvars were Vaishnava saints and the Nayanars were Shaiva saints.",
+                                       "3. In Sangam society, the Vellalars were the large landowners."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  100,
+                          "stem":  "Consider the following statements about Jain philosophy:",
+                          "subs":  [
+                                       "1. Parshvanatha taught four vows, and Mahavira added celibacy as the fifth.",
+                                       "2. Anekantavada, the doctrine of many-sided reality, is connected with Syadvada.",
+                                       "3. Digambara means ‘sky-clad’ and Shvetambara means ‘white-clad’."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  101,
+                          "stem":  "Which one of the following animals does NOT appear on the seals of the Indus Valley Civilisation?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Humped bull",
+                                          "Elephant",
+                                          "Rhinoceros",
+                                          "Lion"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  102,
+                          "stem":  "Arrange the following Delhi-region monuments in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Qutub Minar 2. Tughlaqabad 3. Lodhi Gardens tombs 4. Fatehpur Sikri"
+                                   ],
+                          "options":  [
+                                          "2, 1, 3, 4",
+                                          "1, 2, 3, 4",
+                                          "1, 3, 2, 4",
+                                          "2, 3, 1, 4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  103,
+                          "stem":  "Match List-I (Dynasty) with List-II (Temple/site) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Chola B. Pallava C. Hoysala D. Chalukya",
+                                       "List-II: 1. Mamallapuram 2. Brihadisvara, Thanjavur 3. Pattadakal 4. Halebidu"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-3 B-1 C-4 D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  104,
+                          "stem":  "Consider the following statements about the Bhakti movement:",
+                          "subs":  [
+                                       "1. Basava led the Virashaiva (Lingayat) movement in Karnataka.",
+                                       "2. The Varkari saints of Maharashtra were devoted to Vitthal of Pandharpur.",
+                                       "3. Shankardeva of Assam founded satras and preached Ekasarana dharma."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  105,
+                          "stem":  "The roots of Indian classical music are traditionally traced to which of the Vedas?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rigveda",
+                                          "Samaveda",
+                                          "Yajurveda",
+                                          "Atharvaveda"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  106,
+                          "stem":  "Who among the following was the first to treat zero as a number and to work with negative numbers?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Aryabhata",
+                                          "Brahmagupta",
+                                          "Bhaskaracharya",
+                                          "Varahamihira"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  107,
+                          "stem":  "Consider the following statements about the tri-commissioning of warships at Kolkata in 2026:",
+                          "subs":  [
+                                       "1. INS Dunagiri is a Project 17A stealth guided-missile frigate.",
+                                       "2. All three warships were built by GRSE, Kolkata.",
+                                       "3. Project 17A is the successor to the Shivalik-class (Project 17)."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs \u0026 General Awareness",
+                          "topic":  "Current Affairs \u0026 General Awareness"
+                      },
+                      {
+                          "n":  108,
+                          "stem":  "Agni-V, first tested under ‘Mission Divyastra’, is significant because it carries which technology?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A hypersonic glide vehicle",
+                                          "MIRV (Multiple Independently-targetable Re-entry Vehicles)",
+                                          "A scramjet air-breathing engine",
+                                          "A quasi-ballistic manoeuvring warhead"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs \u0026 General Awareness",
+                          "topic":  "Current Affairs \u0026 General Awareness"
+                      },
+                      {
+                          "n":  109,
+                          "stem":  "COP30, the UN climate summit under the UNFCCC, was held in 2025 at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Baku, Azerbaijan",
+                                          "Belém, Brazil",
+                                          "Dubai, UAE",
+                                          "Sharm el-Sheikh, Egypt"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs \u0026 General Awareness",
+                          "topic":  "Current Affairs \u0026 General Awareness"
+                      },
+                      {
+                          "n":  110,
+                          "stem":  "Match List-I (Military exercise) with List-II (India\u0027s partner country) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Dharma Guardian B. Dustlik C. Surya Kiran D. Khanjar",
+                                       "List-II: 1. Uzbekistan 2. Japan 3. Kyrgyzstan 4. Nepal"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-3 B-4 C-1 D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs \u0026 General Awareness",
+                          "topic":  "Current Affairs \u0026 General Awareness"
+                      },
+                      {
+                          "n":  111,
+                          "stem":  "The Kimberley Process, which India is chairing, regulates the international trade in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rare-earth minerals",
+                                          "Rough (‘conflict’) diamonds",
+                                          "Enriched uranium",
+                                          "Endangered wildlife"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs \u0026 General Awareness",
+                          "topic":  "Current Affairs \u0026 General Awareness"
+                      },
+                      {
+                          "n":  112,
+                          "stem":  "‘Heart Lamp’, which won the International Booker Prize, was originally written in which language?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Malayalam",
+                                          "Kannada",
+                                          "Tamil",
+                                          "Bengali"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs \u0026 General Awareness",
+                          "topic":  "Current Affairs \u0026 General Awareness"
+                      },
+                      {
+                          "n":  113,
+                          "stem":  "Robert Prevost, recently elected head of the Roman Catholic Church, took which papal name?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pope Benedict XVII",
+                                          "Pope Leo XIV",
+                                          "Pope John XXIV",
+                                          "Pope Pius XIII"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs \u0026 General Awareness",
+                          "topic":  "Current Affairs \u0026 General Awareness"
+                      },
+                      {
+                          "n":  114,
+                          "stem":  "Consider the following statements about the Union Budget 2026-27:",
+                          "subs":  [
+                                       "1. The base year for GDP and CPI is to be revised to 2024.",
+                                       "2. Under its Nuclear Energy Mission, the Budget set a target of at least 5 indigenous Small Modular Reactors by 2033.",
+                                       "3. The Fund of Funds for Startups (FoF 2.0) invests through SEBI-registered AIFs, managed by SIDBI."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs \u0026 General Awareness",
+                          "topic":  "Current Affairs \u0026 General Awareness"
+                      },
+                      {
+                          "n":  115,
+                          "stem":  "GSAT-7R / CMS-03, the heaviest communication satellite launched from Indian soil, was placed in orbit by which launch vehicle?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "PSLV",
+                                          "LVM3",
+                                          "GSLV Mk-II",
+                                          "SSLV"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs \u0026 General Awareness",
+                          "topic":  "Current Affairs \u0026 General Awareness"
+                      },
+                      {
+                          "n":  116,
+                          "stem":  "Consider the following statements about the Brahmaputra river:",
+                          "subs":  [
+                                       "1. It is called the Yarlung Tsangpo in Tibet.",
+                                       "2. It is known as the Siang in Arunachal Pradesh.",
+                                       "3. India\u0027s first under-river road-cum-rail tunnel is being built beneath it in Assam."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs \u0026 General Awareness",
+                          "topic":  "Current Affairs \u0026 General Awareness"
+                      },
+                      {
+                          "n":  117,
+                          "stem":  "Consider the following statements about India\u0027s sea-based nuclear deterrent:",
+                          "subs":  [
+                                       "1. INS Arihant was India\u0027s first indigenous nuclear-powered ballistic-missile submarine (SSBN).",
+                                       "2. The K-15 and K-4 are submarine-launched ballistic missiles.",
+                                       "3. The sea-based leg of the triad is the least survivable and offers no second-strike capability."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Defence",
+                          "topic":  "Defence"
+                      },
+                      {
+                          "n":  118,
+                          "stem":  "Match List-I (Missile) with List-II (Category) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. BrahMos B. Nag C. Prithvi D. Astra",
+                                       "List-II: 1. Air-to-air missile 2. Supersonic cruise missile 3. Anti-tank guided missile 4. Surface-to-surface ballistic missile"
+                                   ],
+                          "options":  [
+                                          "A-2 B-3 C-4 D-1",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-1 B-3 C-4 D-2",
+                                          "A-4 B-3 C-2 D-1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Defence",
+                          "topic":  "Defence"
+                      },
+                      {
+                          "n":  119,
+                          "stem":  "Which one of the following pairs of a naval exercise and its participating countries is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Varuna — India and France",
+                                          "Indra — India and Russia",
+                                          "Konkan — India and the United Kingdom",
+                                          "SIMBEX — India and Sri Lanka"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Defence",
+                          "topic":  "Defence"
+                      },
+                      {
+                          "n":  120,
+                          "stem":  "The post of Chief of Defence Staff (CDS), created in 2019, was set up on the recommendation of which committee?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Shekatkar Committee",
+                                          "The Kargil Review Committee",
+                                          "The Naresh Chandra Committee",
+                                          "The Arun Singh Committee"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Defence",
+                          "topic":  "Defence"
+                      }
+                  ]
+}
