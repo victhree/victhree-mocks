@@ -1144,28 +1144,24 @@ function renderFinalMulti() {
   }).join("");
   grand = Math.round(grand * 100) / 100;
 
-  let html = `<div class="card score-card">
-    <h2>Result</h2>
-    <p class="score-name"><span>${escapeHtml(state.name || "Student")}</span></p>
-    <div class="fin-papers">${rowsHtml}</div>
-    <div class="score-big"><span>${fmtMarks(grand)}</span><span class="score-total">/ ${grandMax}</span></div>
-    <div class="accuracy-line"><span class="muted">Combined total across attempted papers</span></div>
-  </div>`;
+  // Only attempted (non-skipped) papers get a tab + panel.
+  const attempted = papers.filter((p) => state.paperResults[p.id] && !state.paperResults[p.id].skipped);
+  const tabsHtml = attempted.map((p, i) =>
+    `<button type="button" class="fin-tab${i === 0 ? " active" : ""}" data-i="${i}">${escapeHtml(p.title)}</button>`).join("");
 
-  papers.forEach((p) => {
+  const panelsHtml = attempted.map((p, i) => {
     const res = state.paperResults[p.id];
-    if (!res || res.skipped) return;
     const pj = state.multi.loaded[p.id];
     const byNum = {}; (pj.questions || []).forEach((q) => (byNum[q.n] = q));
     const results = (res.data && res.data.results) || [];
     let right = 0, wrong = 0, skip = 0;
     results.forEach((r) => { if (r.chosen == null) skip++; else if (r.isCorrect) right++; else wrong++; });
-    const attempted = right + wrong, acc = attempted ? Math.round(right / attempted * 100) : 0;
+    const attemptedN = right + wrong, acc = attemptedN ? Math.round(right / attemptedN * 100) : 0;
     const mm = paperMarks(res);
     const stat = computeSubjectStats(results, byNum, res.guesses, res.scoring);
     const cards = results.map((r) => { const ci = reviewCardInner(r, byNum[r.n] || {}); return `<div class="card rev-card ${ci.status}">${ci.html}</div>`; }).join("");
-    html += `<div class="fin-paper">
-      <h3 class="fin-paper-title">${escapeHtml(p.title)} — ${fmtMarks(mm.marks)} / ${mm.max}</h3>
+    return `<div class="fin-panel" data-i="${i}"${i === 0 ? "" : " hidden"}>
+      <div class="fin-paper-head"><span class="fin-paper-score">${escapeHtml(p.title)} — ${fmtMarks(mm.marks)} / ${mm.max}</span></div>
       <div class="score-sub">
         <span class="pill pill-right">${right} correct</span>
         <span class="pill pill-wrong">${wrong} wrong</span>
@@ -1177,11 +1173,32 @@ function renderFinalMulti() {
       <button class="btn btn-outline btn-block fin-rev-toggle" type="button">View answers &amp; explanations ▾</button>
       <div class="fin-review" hidden>${cards}</div>
     </div>`;
-  });
+  }).join("");
 
-  html += `<div class="results-actions"><a href="index.html" class="btn btn-navy btn-block">‹ Back to all tests</a></div>`;
+  const html = `<div class="card score-card">
+    <h2>Result</h2>
+    <p class="score-name"><span>${escapeHtml(state.name || "Student")}</span></p>
+    <div class="fin-papers">${rowsHtml}</div>
+    <div class="score-big"><span>${fmtMarks(grand)}</span><span class="score-total">/ ${grandMax}</span></div>
+    <div class="accuracy-line"><span class="muted">Combined total across attempted papers</span></div>
+  </div>
+  <div class="fin-tabs">${tabsHtml}</div>
+  <div class="fin-panels">${panelsHtml}</div>
+  <div class="results-actions"><a href="index.html" class="btn btn-navy btn-block">‹ Back to all tests</a></div>`;
+
   const fc = $("finalContent");
   fc.innerHTML = html;
+
+  // tab switching
+  fc.querySelectorAll(".fin-tab").forEach((tab) => {
+    tab.addEventListener("click", () => {
+      const i = tab.getAttribute("data-i");
+      fc.querySelectorAll(".fin-tab").forEach((t) => t.classList.toggle("active", t === tab));
+      fc.querySelectorAll(".fin-panel").forEach((pnl) => { if (pnl.getAttribute("data-i") === i) show(pnl); else hide(pnl); });
+      window.scrollTo(0, 0);
+    });
+  });
+  // per-panel review expand/collapse
   fc.querySelectorAll(".fin-rev-toggle").forEach((btn) => {
     btn.addEventListener("click", () => {
       const rev = btn.nextElementSibling;
