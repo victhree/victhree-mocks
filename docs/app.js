@@ -890,8 +890,13 @@ function escapeHtml(s) {
    results (per-paper + grand total) are shown only at the very end.
    ============================================================ */
 function hideAllScreens() {
-  ["startScreen", "quizScreen", "resultsScreen", "paperIntroScreen", "paperDoneScreen", "finalScreen", "overlay"]
+  ["startScreen", "quizScreen", "resultsScreen", "overviewScreen", "finalScreen", "overlay"]
     .forEach((id) => { const el = $(id); if (el) hide(el); });
+}
+function currentPaperIdx() {
+  const ps = state.multi.papers;
+  for (let i = 0; i < ps.length; i++) { if (!state.paperResults[ps[i].id]) return i; }
+  return ps.length;
 }
 function multiKey() { return "v3multi:" + state.containerId; }
 function saveMulti() {
@@ -931,15 +936,16 @@ function preparePaper(paper) {
 
 function routeMulti() {
   hideAllScreens();
-  if (state.paperIdx >= state.multi.papers.length) { renderFinalMulti(); return; }
-  const paper = state.multi.papers[state.paperIdx];
+  const idx = currentPaperIdx();
+  if (idx >= state.multi.papers.length) { renderFinalMulti(); return; }
+  const paper = state.multi.papers[idx];
   state.testId = paper.id;
   const sv = loadState();
   const dur = (state.multi.loaded[paper.id].durationMin || 120) * 60;
   if (sv && typeof sv.remaining === "number" && sv.remaining > 0 && sv.remaining < dur) {
     resumePaper(paper, sv);
   } else {
-    showPaperIntro(paper);
+    showOverview();
   }
 }
 
@@ -949,25 +955,60 @@ function paperMetaLine(pj) {
     " · " + (pj.durationMin || 120) + " min" + (neg ? " · " + neg + " negative" : "");
 }
 
-function showPaperIntro(paper) {
+function showOverview() {
   hideAllScreens();
   setPaperTag(null);
-  const pj = state.multi.loaded[paper.id];
-  $("mpPaperLabel").textContent = "Paper " + (state.paperIdx + 1) + " of " + state.multi.papers.length;
-  $("mpPaperTitle").textContent = paper.title;
-  $("mpPaperMeta").textContent = paperMetaLine(pj);
-  $("mpNameField").style.display = state.name ? "none" : "";
-  hide($("mpStartError"));
-  $("mpStartBtn").textContent = "Start " + paper.title + " Paper";
-  show($("paperIntroScreen"));
+  const ps = state.multi.papers;
+  const idx = currentPaperIdx();
+  $("ovNameField").style.display = state.name ? "none" : "";
+  hide($("ovError"));
+
+  const wrap = $("paperTiles");
+  wrap.innerHTML = "";
+  ps.forEach((p, i) => {
+    const res = state.paperResults[p.id];
+    let status, label;
+    if (res && res.skipped) { status = "skipped"; label = "Skipped"; }
+    else if (res) { status = "done"; label = "Submitted ✓"; }
+    else if (i === idx) { status = "active"; label = "Start now ›"; }
+    else { status = "locked"; label = "Locked"; }
+    const pj = state.multi.loaded[p.id];
+    const tile = document.createElement(status === "active" ? "button" : "div");
+    tile.className = "paper-tile " + status;
+    if (status === "active") { tile.type = "button"; tile.addEventListener("click", onStartActive); }
+    tile.innerHTML =
+      `<div class="pt-badge">Paper ${i + 1}</div>` +
+      `<div class="pt-title">${escapeHtml(p.title)}</div>` +
+      `<div class="pt-meta">${pj.questions.length} Q · ${pj.scoring ? pj.scoring.totalMarks : 100} marks · ${pj.durationMin || 120} min</div>` +
+      `<div class="pt-status">${label}</div>`;
+    wrap.appendChild(tile);
+  });
+
+  const actions = $("overviewActions");
+  actions.innerHTML = "";
+  const notDone = ps.filter((p) => !state.paperResults[p.id]);
+  const anyAttempted = ps.some((p) => state.paperResults[p.id] && !state.paperResults[p.id].skipped);
+  if (notDone.length === 0) {
+    const b = document.createElement("button");
+    b.className = "btn btn-gold btn-block"; b.textContent = "See my result";
+    b.addEventListener("click", renderFinalMulti); actions.appendChild(b);
+  } else if (notDone.every((p) => p.skippable) && anyAttempted) {
+    const b = document.createElement("button");
+    b.className = "btn btn-outline btn-block";
+    b.textContent = "Skip " + notDone.map((p) => p.title).join(" & ") + " & see my result";
+    b.addEventListener("click", skipRest); actions.appendChild(b);
+  }
+  show($("overviewScreen"));
   window.scrollTo(0, 0);
 }
 
-function onStartPaperClick() {
-  const paper = state.multi.papers[state.paperIdx];
+function onStartActive() {
+  const idx = currentPaperIdx();
+  if (idx >= state.multi.papers.length) return;
+  const paper = state.multi.papers[idx];
   if (!state.name) {
-    const nm = $("mpName").value.trim();
-    if (!nm) { $("mpStartError").textContent = "Please enter your name."; show($("mpStartError")); return; }
+    const nm = $("ovName").value.trim();
+    if (!nm) { $("ovError").textContent = "Please enter your name."; show($("ovError")); return; }
     state.name = nm; saveMulti();
   }
   startPaper(paper);
@@ -1006,56 +1047,20 @@ function resumePaper(paper, sv) {
 }
 
 function onPaperGraded(data) {
-  const paper = state.multi.papers[state.paperIdx];
+  const paper = state.multi.papers.find((p) => p.id === state.testId) || state.multi.papers[currentPaperIdx()];
   state.paperResults[paper.id] = {
     id: paper.id, title: paper.title, skipped: false, data: data,
     guesses: state.guesses, scoring: state.quiz.scoring,
   };
   clearState();          // drop this paper's in-progress attempt (no retake)
-  state.paperIdx++;
   saveMulti();
-  showPaperDone(paper);
-}
-
-function showPaperDone(justFinished) {
-  hideAllScreens();
-  setPaperTag(null);
-  $("paperDoneMsg").textContent = justFinished.title + " paper submitted.";
-  const actions = $("paperDoneActions");
-  actions.innerHTML = "";
-  if (state.paperIdx < state.multi.papers.length) {
-    const next = state.multi.papers[state.paperIdx];
-    const startBtn = document.createElement("button");
-    startBtn.className = "btn btn-gold btn-block";
-    startBtn.textContent = "Start " + next.title + " Paper";
-    startBtn.addEventListener("click", () => showPaperIntro(next));
-    actions.appendChild(startBtn);
-    if (next.skippable) {
-      const skipBtn = document.createElement("button");
-      skipBtn.className = "btn btn-outline btn-block";
-      skipBtn.textContent = "Skip " + next.title + " & see my result";
-      skipBtn.addEventListener("click", skipRest);
-      actions.appendChild(skipBtn);
-    }
-    $("paperDoneNote").textContent = "Your " + justFinished.title + " paper is locked — it cannot be reattempted.";
-  } else {
-    const seeBtn = document.createElement("button");
-    seeBtn.className = "btn btn-gold btn-block";
-    seeBtn.textContent = "See my result";
-    seeBtn.addEventListener("click", renderFinalMulti);
-    actions.appendChild(seeBtn);
-    $("paperDoneNote").textContent = "All papers submitted.";
-  }
-  show($("paperDoneScreen"));
-  window.scrollTo(0, 0);
+  showOverview();        // back to the hub — this paper now shows green, next is active
 }
 
 function skipRest() {
-  for (let k = state.paperIdx; k < state.multi.papers.length; k++) {
-    const p = state.multi.papers[k];
+  state.multi.papers.forEach((p) => {
     if (!state.paperResults[p.id]) state.paperResults[p.id] = { id: p.id, title: p.title, skipped: true };
-  }
-  state.paperIdx = state.multi.papers.length;
+  });
   saveMulti();
   renderFinalMulti();
 }
@@ -1213,11 +1218,9 @@ window.addEventListener("DOMContentLoaded", () => {
   $("submitBtn").addEventListener("click", () => submitTest(false));
   $("restartBtn").addEventListener("click", () => location.reload());
 
-  // Multi-paper (Mock 3) paper-intro start
-  const mpBtn = $("mpStartBtn");
-  if (mpBtn) mpBtn.addEventListener("click", onStartPaperClick);
-  const mpName = $("mpName");
-  if (mpName) mpName.addEventListener("keydown", (e) => { if (e.key === "Enter") onStartPaperClick(); });
+  // Multi-paper (Mock 3) overview: Enter in the name field starts the active paper
+  const ovName = $("ovName");
+  if (ovName) ovName.addEventListener("keydown", (e) => { if (e.key === "Enter") onStartActive(); });
 
   // Warn before leaving mid-test
   window.addEventListener("beforeunload", (e) => {

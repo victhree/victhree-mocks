@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <title>VicThree Defence — Mock Test</title>
   <meta name="description" content="Timed mock test — VicThree Defence by Anmol Sharma." />
-  <link rel="stylesheet" href="styles.css?v=34" />
+  <link rel="stylesheet" href="styles.css?v=35" />
 </head>
 <body>
 
@@ -179,30 +179,20 @@
       </div>
     </section>
 
-    <!-- ============ MULTI-PAPER: PAPER INTRO ============ -->
-    <section id="paperIntroScreen" class="screen" hidden>
+    <!-- ============ MULTI-PAPER: PAPERS OVERVIEW ============ -->
+    <section id="overviewScreen" class="screen" hidden>
       <div class="card">
         <a href="index.html" class="back-link">‹ All tests</a>
-        <div class="mp-steplabel" id="mpPaperLabel">Paper 1 of 3</div>
-        <h1 id="mpPaperTitle">Paper</h1>
-        <ul class="meta-list"><li id="mpPaperMeta">—</li></ul>
-        <div id="mpNameField" class="field">
-          <label for="mpName">Full Name <span class="req">*</span></label>
-          <input id="mpName" type="text" autocomplete="name" />
+        <h1 id="ovTitle">Full-Length Mock 3</h1>
+        <p class="mp-sub">Three papers, taken in order. Each is a separate 2-hour paper worth 100 marks with 1/3 negative marking. A submitted paper cannot be reattempted.</p>
+        <div id="ovNameField" class="field">
+          <label for="ovName">Full Name <span class="req">*</span></label>
+          <input id="ovName" type="text" autocomplete="name" />
         </div>
-        <p id="mpStartError" class="error-msg" hidden></p>
-        <button id="mpStartBtn" class="btn btn-gold btn-block">Start Paper</button>
-        <p class="fine-print">Once you start, the 2-hour timer begins and cannot be paused. A submitted paper cannot be reattempted.</p>
-      </div>
-    </section>
-
-    <!-- ============ MULTI-PAPER: PAPER SUBMITTED ============ -->
-    <section id="paperDoneScreen" class="screen" hidden>
-      <div class="card mp-done-card">
-        <div class="mp-done-check">✓</div>
-        <h2 id="paperDoneMsg">Paper submitted.</h2>
-        <p id="paperDoneNote" class="fine-print"></p>
-        <div id="paperDoneActions" class="mp-done-actions"></div>
+        <p id="ovError" class="error-msg" hidden></p>
+        <div id="paperTiles" class="paper-tiles"></div>
+        <div id="overviewActions" class="ov-actions"></div>
+        <p class="fine-print">Tap the highlighted paper to begin — its 2-hour timer starts immediately and cannot be paused.</p>
       </div>
     </section>
 
@@ -226,6 +216,6 @@
   </footer>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-  <script src="app.js?v=34"></script>
+  <script src="app.js?v=35"></script>
 </body>
 </html>

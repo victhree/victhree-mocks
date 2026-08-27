@@ -154,10 +154,23 @@ html, body {
 
 /* ---- Multi-paper (Mock 3) ---- */
 .paper-tag { font-weight: 700; color: var(--gold); background: rgba(201,162,75,.16); border: 1px solid rgba(201,162,75,.45); padding: 2px 10px; border-radius: 999px; font-size: 12px; margin-right: 8px; }
-.mp-steplabel { font-size: 12px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--gold); margin-bottom: 2px; }
-.mp-done-card { text-align: center; }
-.mp-done-check { width: 64px; height: 64px; margin: 6px auto 12px; border-radius: 50%; background: var(--green-bg); color: var(--green); font-size: 34px; line-height: 64px; font-weight: 700; }
-.mp-done-actions { display: flex; flex-direction: column; gap: 10px; margin-top: 16px; }
+.mp-sub { font-size: 13.5px; color: var(--muted); margin: 4px 0 14px; line-height: 1.5; }
+.paper-tiles { display: flex; flex-direction: column; gap: 12px; margin: 6px 0 4px; }
+.paper-tile { display: block; width: 100%; text-align: left; border-radius: 12px; padding: 14px 16px; border: 1.5px solid var(--line); background: #fff; font: inherit; color: inherit; }
+.paper-tile .pt-badge { font-size: 11px; font-weight: 700; letter-spacing: .6px; text-transform: uppercase; color: var(--muted); }
+.paper-tile .pt-title { font-size: 17px; font-weight: 700; color: var(--navy); margin: 2px 0; }
+.paper-tile .pt-meta { font-size: 12.5px; color: var(--muted); }
+.paper-tile .pt-status { margin-top: 6px; font-size: 13px; font-weight: 700; }
+.paper-tile.active { border-color: var(--gold); background: #fdf8ee; cursor: pointer; box-shadow: 0 2px 8px rgba(201,162,75,.18); }
+.paper-tile.active:hover { filter: brightness(1.01); }
+.paper-tile.active .pt-status { color: #9a7b1f; }
+.paper-tile.done { border-color: var(--green); background: var(--green-bg); }
+.paper-tile.done .pt-status { color: var(--green); }
+.paper-tile.locked { opacity: .6; background: #f3f5f8; }
+.paper-tile.locked .pt-status { color: var(--muted); }
+.paper-tile.skipped { border-style: dashed; background: #f3f5f8; }
+.paper-tile.skipped .pt-status { color: var(--muted); }
+.ov-actions { display: flex; flex-direction: column; gap: 10px; margin: 16px 0 4px; }
 .fin-papers { margin: 12px 0; }
 .fin-prow { display: flex; justify-content: space-between; align-items: baseline; padding: 7px 2px; border-bottom: 1px dashed var(--line); font-size: 15px; }
 .fin-prow:last-child { border-bottom: none; }
