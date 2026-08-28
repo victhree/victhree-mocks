@@ -371,7 +371,7 @@ function renderQuestion() {
     subLines = [stemText].concat(subLines);
     stemText = "";
   }
-  $("qStem").textContent = stemText;
+  $("qStem").innerHTML = sciHtml(stemText);
   $("qStem").style.display = stemText ? "" : "none";
 
   // Reading-comprehension / cloze passage (shown above the stem when present)
@@ -396,7 +396,7 @@ function renderQuestion() {
   lineSource.forEach((line) => {
     splitNumberedRun(line).forEach((piece) => {
       const li = document.createElement("li");
-      li.textContent = piece;
+      li.innerHTML = sciHtml(piece);
       subs.appendChild(li);
     });
   });
@@ -409,7 +409,7 @@ function renderQuestion() {
     const div = document.createElement("div");
     div.className = "option" + (state.answers[q.n] === letter ? " selected" : "");
     div.innerHTML = `<span class="letter">${letter}</span><span class="opt-text"></span>`;
-    div.querySelector(".opt-text").textContent = opt;
+    div.querySelector(".opt-text").innerHTML = sciHtml(opt);
     div.addEventListener("click", () => selectOption(q.n, letter));
     wrap.appendChild(div);
   });
@@ -637,20 +637,20 @@ function reviewCardInner(r, q) {
   if (/^\s*statement\s+i\b/i.test(stemText)) { subLines = [stemText].concat(subLines); stemText = ""; }
   const m = parseMatch(subLines);
   const lineSource = m ? m.otherLines : subLines;
-  const linesHtml = lineSource.flatMap((line) => splitNumberedRun(line)).map((p) => `<li>${escapeHtml(p)}</li>`).join("");
+  const linesHtml = lineSource.flatMap((line) => splitNumberedRun(line)).map((p) => `<li>${sciHtml(p)}</li>`).join("");
   const subsHtml = (m ? matchTableHtml(m, "match-table rev-match") : "") + (linesHtml ? `<ul class="rev-subs">${linesHtml}</ul>` : "");
   const optsHtml = (q.options || []).map((opt, i) => {
     const letter = LETTERS[i];
     const isCorrect = r.correct && letter === r.correct;
     const isChosenWrong = r.chosen && letter === r.chosen && !r.isCorrect;
     const cls = isCorrect ? "rev-opt is-correct" : isChosenWrong ? "rev-opt is-wrong" : "rev-opt";
-    return `<li class="${cls}"><span class="rev-opt-letter">${letter.toUpperCase()}</span><span>${escapeHtml(opt)}</span></li>`;
+    return `<li class="${cls}"><span class="rev-opt-letter">${letter.toUpperCase()}</span><span>${sciHtml(opt)}</span></li>`;
   }).join("");
   const pyqHtml = q.pyq ? `<span class="rev-pyq">Previous Year — ${escapeHtml(q.pyq)}</span>` : "";
   const passageHtml = q.passage ? `<div class="rev-passage">${escapeHtml(q.passage)}</div>` : "";
   const html = `
       <div class="rev-head">
-        <p class="rev-q">Q${r.n}. ${escapeHtml(stemText)} ${pyqHtml}</p>
+        <p class="rev-q">Q${r.n}. ${sciHtml(stemText)} ${pyqHtml}</p>
         <span class="rev-badge badge-${status}">${badgeText}</span>
       </div>
       ${passageHtml}
@@ -658,12 +658,12 @@ function reviewCardInner(r, q) {
       ${optsHtml ? `<ul class="rev-opts">${optsHtml}</ul>` : ""}
       <p class="rev-line"><span class="lbl">Your answer:</span>
         <span class="${status === "correct" ? "ans-right" : status === "wrong" ? "ans-wrong" : ""}">
-          ${r.chosen ? r.chosen.toUpperCase() + ") " + escapeHtml(chosenText) : "Not attempted"}
+          ${r.chosen ? r.chosen.toUpperCase() + ") " + sciHtml(chosenText) : "Not attempted"}
         </span></p>
       ${status !== "correct" && r.correct
-        ? `<p class="rev-line"><span class="lbl">Correct answer:</span> <span class="ans-right">${r.correct.toUpperCase()}) ${escapeHtml(correctText)}</span></p>`
+        ? `<p class="rev-line"><span class="lbl">Correct answer:</span> <span class="ans-right">${r.correct.toUpperCase()}) ${sciHtml(correctText)}</span></p>`
         : ""}
-      ${r.exp ? `<div class="rev-exp">${escapeHtml(r.exp)}</div>` : ""}`;
+      ${r.exp ? `<div class="rev-exp">${sciHtml(r.exp)}</div>` : ""}`;
   return { status, html };
 }
 
@@ -878,6 +878,15 @@ function escapeHtml(s) {
   return String(s)
     .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+}
+
+/* Escape for HTML, then render caret-powers as real superscripts:
+   7^73 → 7<sup>73</sup>, 2^(2n+1) → 2<sup>(2n+1)</sup>, 3^x → 3<sup>x</sup>.
+   Safe: input is escaped first, so only our own <sup> tags are added. */
+function sciHtml(s) {
+  return escapeHtml(s)
+    .replace(/\^\{([^}]*)\}/g, "<sup>$1</sup>")
+    .replace(/\^(\([^)]*\)|[0-9A-Za-z+\-]+)/g, "<sup>$1</sup>");
 }
 
 /* ============================================================
