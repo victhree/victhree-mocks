@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&display=swap" />
-  <link rel="stylesheet" href="styles.css?v=38" />
+  <link rel="stylesheet" href="styles.css?v=39" />
 </head>
 <body>
 
@@ -36,6 +36,11 @@
     <div class="home-intro">
       <h1>Mock Tests for Defense Exams</h1>
       <p class="muted">Choose a test below. Each is timed and auto-submits at time-up.</p>
+    </div>
+
+    <div class="test-tabs" id="testTabs" hidden>
+      <button class="test-tab active" type="button" data-cat="sectional">Sectional Tests</button>
+      <button class="test-tab" type="button" data-cat="full">Full-Length Tests</button>
     </div>
 
     <div id="testList" class="test-list">
@@ -77,7 +82,7 @@
     VicThree Defence · Mock Tests
   </footer>
 
-  <script src="home.js?v=38"></script>
+  <script src="home.js?v=39"></script>
   <script>
   (function(){
     var today = new Date(); today.setHours(0,0,0,0);

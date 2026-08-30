@@ -82,6 +82,10 @@ html, body {
 @media (max-width: 600px){
   .home-intro h1{ white-space: nowrap; font-size: clamp(14px, 5.2vw, 26px); letter-spacing: .3px; }
 }
+.test-tabs { display: flex; justify-content: center; gap: 10px; margin: 0 0 20px; flex-wrap: wrap; }
+.test-tab { background: #fff; border: 1.5px solid var(--line); color: var(--navy); font-weight: 700; font-size: 14px; padding: 9px 20px; border-radius: 999px; cursor: pointer; }
+.test-tab:hover { border-color: var(--navy); }
+.test-tab.active { background: var(--navy); color: #fff; border-color: var(--navy); }
 .test-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
 .test-card {
   display: flex; flex-direction: column; gap: 10px;

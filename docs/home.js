@@ -28,6 +28,8 @@ async function loadTests() {
     tests.forEach((t) => {
       const card = document.createElement("a");
       card.className = "test-card";
+      // Full-length mocks are ids like "full-mock-01"; everything else is sectional.
+      card.dataset.cat = /^full-mock-\d/.test(t.id) ? "full" : "sectional";
       card.href = "test.html?test=" + encodeURIComponent(t.id);
 
       // Split a title like "Geography-Test 1" into "Geography" / "Test 1".
@@ -49,10 +51,34 @@ async function loadTests() {
       `;
       list.appendChild(card);
     });
+    setupTabs();
   } catch (err) {
     console.error(err);
     msg.textContent =
       "Could not load the test list. If you opened the file directly, use the live site or a local server.";
+  }
+}
+
+/* Two tabs: Sectional Tests / Full-Length Tests. Filters cards by data-cat. */
+function setupTabs() {
+  const tabsWrap = document.getElementById("testTabs");
+  const tabs = document.querySelectorAll(".test-tab");
+  if (!tabsWrap || !tabs.length) return;
+
+  const cards = document.querySelectorAll("#testList .test-card");
+  const hasFull = [...cards].some((c) => c.dataset.cat === "full");
+  const hasSectional = [...cards].some((c) => c.dataset.cat === "sectional");
+
+  function apply(cat) {
+    cards.forEach((c) => { c.style.display = c.dataset.cat === cat ? "" : "none"; });
+    tabs.forEach((t) => t.classList.toggle("active", t.dataset.cat === cat));
+  }
+  tabs.forEach((t) => t.addEventListener("click", () => apply(t.dataset.cat)));
+
+  // Show the tab bar only when both categories exist; default to Sectional.
+  if (hasFull && hasSectional) {
+    tabsWrap.removeAttribute("hidden");
+    apply("sectional");
   }
 }
 
