@@ -329,7 +329,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Words in a Sentence",
-                          "topic":  "Ordering of Words in a Sentence"
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
                       },
                       {
                           "n":  20,
@@ -348,7 +349,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Words in a Sentence",
-                          "topic":  "Ordering of Words in a Sentence"
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
                       },
                       {
                           "n":  21,
@@ -367,7 +369,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Words in a Sentence",
-                          "topic":  "Ordering of Words in a Sentence"
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
                       },
                       {
                           "n":  22,
@@ -386,7 +389,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Words in a Sentence",
-                          "topic":  "Ordering of Words in a Sentence"
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
                       },
                       {
                           "n":  23,
@@ -405,7 +409,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Words in a Sentence",
-                          "topic":  "Ordering of Words in a Sentence"
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
                       },
                       {
                           "n":  24,
@@ -424,7 +429,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Words in a Sentence",
-                          "topic":  "Ordering of Words in a Sentence"
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
                       },
                       {
                           "n":  25,
@@ -443,7 +449,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Words in a Sentence",
-                          "topic":  "Ordering of Words in a Sentence"
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
                       },
                       {
                           "n":  26,
@@ -462,7 +469,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Words in a Sentence",
-                          "topic":  "Ordering of Words in a Sentence"
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
                       },
                       {
                           "n":  27,
@@ -481,7 +489,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Words in a Sentence",
-                          "topic":  "Ordering of Words in a Sentence"
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
                       },
                       {
                           "n":  28,
@@ -500,7 +509,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Words in a Sentence",
-                          "topic":  "Ordering of Words in a Sentence"
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
                       },
                       {
                           "n":  29,
@@ -520,7 +530,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Sentences / Para-jumbles",
-                          "topic":  "Ordering of Sentences / Para-jumbles"
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
                       },
                       {
                           "n":  30,
@@ -540,7 +551,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Sentences / Para-jumbles",
-                          "topic":  "Ordering of Sentences / Para-jumbles"
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
                       },
                       {
                           "n":  31,
@@ -560,7 +572,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Sentences / Para-jumbles",
-                          "topic":  "Ordering of Sentences / Para-jumbles"
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
                       },
                       {
                           "n":  32,
@@ -580,7 +593,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Sentences / Para-jumbles",
-                          "topic":  "Ordering of Sentences / Para-jumbles"
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
                       },
                       {
                           "n":  33,
@@ -600,7 +614,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Sentences / Para-jumbles",
-                          "topic":  "Ordering of Sentences / Para-jumbles"
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
                       },
                       {
                           "n":  34,
@@ -620,7 +635,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Sentences / Para-jumbles",
-                          "topic":  "Ordering of Sentences / Para-jumbles"
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
                       },
                       {
                           "n":  35,
@@ -640,7 +656,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Sentences / Para-jumbles",
-                          "topic":  "Ordering of Sentences / Para-jumbles"
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
                       },
                       {
                           "n":  36,
@@ -660,7 +677,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Sentences / Para-jumbles",
-                          "topic":  "Ordering of Sentences / Para-jumbles"
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
                       },
                       {
                           "n":  37,
@@ -680,7 +698,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Sentences / Para-jumbles",
-                          "topic":  "Ordering of Sentences / Para-jumbles"
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
                       },
                       {
                           "n":  38,
@@ -700,7 +719,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Ordering of Sentences / Para-jumbles",
-                          "topic":  "Ordering of Sentences / Para-jumbles"
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
                       },
                       {
                           "n":  39,
@@ -716,7 +736,8 @@
                                       ],
                           "pyq":  "CDS 2 2021",
                           "subject":  "Fill in the Blanks",
-                          "topic":  "Fill in the Blanks"
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
                       },
                       {
                           "n":  40,
@@ -732,7 +753,8 @@
                                       ],
                           "pyq":  "CDS 1 2016",
                           "subject":  "Fill in the Blanks",
-                          "topic":  "Fill in the Blanks"
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
                       },
                       {
                           "n":  41,
@@ -748,7 +770,8 @@
                                       ],
                           "pyq":  "CDS 1 2020",
                           "subject":  "Fill in the Blanks",
-                          "topic":  "Fill in the Blanks"
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
                       },
                       {
                           "n":  42,
@@ -764,7 +787,8 @@
                                       ],
                           "pyq":  "CDS 1 2017",
                           "subject":  "Fill in the Blanks",
-                          "topic":  "Fill in the Blanks"
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
                       },
                       {
                           "n":  43,
@@ -780,7 +804,8 @@
                                       ],
                           "pyq":  "CDS 2 2018",
                           "subject":  "Fill in the Blanks",
-                          "topic":  "Fill in the Blanks"
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
                       },
                       {
                           "n":  44,
@@ -796,7 +821,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Fill in the Blanks",
-                          "topic":  "Fill in the Blanks"
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
                       },
                       {
                           "n":  45,
@@ -812,7 +838,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Fill in the Blanks",
-                          "topic":  "Fill in the Blanks"
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
                       },
                       {
                           "n":  46,
@@ -828,7 +855,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Fill in the Blanks",
-                          "topic":  "Fill in the Blanks"
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
                       },
                       {
                           "n":  47,
@@ -844,7 +872,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Fill in the Blanks",
-                          "topic":  "Fill in the Blanks"
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
                       },
                       {
                           "n":  48,
@@ -860,7 +889,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Fill in the Blanks",
-                          "topic":  "Fill in the Blanks"
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
                       },
                       {
                           "n":  49,
@@ -876,7 +906,8 @@
                                       ],
                           "pyq":  "CDS 2 2023",
                           "subject":  "Spotting Errors",
-                          "topic":  "Spotting Errors"
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
                       },
                       {
                           "n":  50,
@@ -892,7 +923,8 @@
                                       ],
                           "pyq":  "CDS 1 2017",
                           "subject":  "Spotting Errors",
-                          "topic":  "Spotting Errors"
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
                       },
                       {
                           "n":  51,
@@ -908,7 +940,8 @@
                                       ],
                           "pyq":  "CDS 1 2019",
                           "subject":  "Spotting Errors",
-                          "topic":  "Spotting Errors"
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
                       },
                       {
                           "n":  52,
@@ -924,7 +957,8 @@
                                       ],
                           "pyq":  "CDS 2 2016",
                           "subject":  "Spotting Errors",
-                          "topic":  "Spotting Errors"
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
                       },
                       {
                           "n":  53,
@@ -940,7 +974,8 @@
                                       ],
                           "pyq":  "CDS 1 2016",
                           "subject":  "Spotting Errors",
-                          "topic":  "Spotting Errors"
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
                       },
                       {
                           "n":  54,
@@ -956,7 +991,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Spotting Errors",
-                          "topic":  "Spotting Errors"
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
                       },
                       {
                           "n":  55,
@@ -972,7 +1008,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Spotting Errors",
-                          "topic":  "Spotting Errors"
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
                       },
                       {
                           "n":  56,
@@ -988,7 +1025,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Spotting Errors",
-                          "topic":  "Spotting Errors"
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
                       },
                       {
                           "n":  57,
@@ -1004,7 +1042,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Spotting Errors",
-                          "topic":  "Spotting Errors"
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
                       },
                       {
                           "n":  58,
@@ -1020,7 +1059,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Spotting Errors",
-                          "topic":  "Spotting Errors"
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
                       },
                       {
                           "n":  59,
@@ -1036,7 +1076,8 @@
                                       ],
                           "pyq":  "CDS 1 2021",
                           "subject":  "Parts of Speech / Word Classes",
-                          "topic":  "Parts of Speech / Word Classes"
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
                       },
                       {
                           "n":  60,
@@ -1052,7 +1093,8 @@
                                       ],
                           "pyq":  "CDS 1 2024",
                           "subject":  "Parts of Speech / Word Classes",
-                          "topic":  "Parts of Speech / Word Classes"
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
                       },
                       {
                           "n":  61,
@@ -1068,7 +1110,8 @@
                                       ],
                           "pyq":  "CDS 2 2023",
                           "subject":  "Parts of Speech / Word Classes",
-                          "topic":  "Parts of Speech / Word Classes"
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
                       },
                       {
                           "n":  62,
@@ -1084,7 +1127,8 @@
                                       ],
                           "pyq":  "CDS 2 2024",
                           "subject":  "Parts of Speech / Word Classes",
-                          "topic":  "Parts of Speech / Word Classes"
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
                       },
                       {
                           "n":  63,
@@ -1100,7 +1144,8 @@
                                       ],
                           "pyq":  "CDS 2 2022",
                           "subject":  "Parts of Speech / Word Classes",
-                          "topic":  "Parts of Speech / Word Classes"
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
                       },
                       {
                           "n":  64,
@@ -1116,7 +1161,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Parts of Speech / Word Classes",
-                          "topic":  "Parts of Speech / Word Classes"
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
                       },
                       {
                           "n":  65,
@@ -1132,7 +1178,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Parts of Speech / Word Classes",
-                          "topic":  "Parts of Speech / Word Classes"
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
                       },
                       {
                           "n":  66,
@@ -1148,7 +1195,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Parts of Speech / Word Classes",
-                          "topic":  "Parts of Speech / Word Classes"
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
                       },
                       {
                           "n":  67,
@@ -1164,7 +1212,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Parts of Speech / Word Classes",
-                          "topic":  "Parts of Speech / Word Classes"
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
                       },
                       {
                           "n":  68,
@@ -1180,7 +1229,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Parts of Speech / Word Classes",
-                          "topic":  "Parts of Speech / Word Classes"
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
                       },
                       {
                           "n":  69,
@@ -1196,7 +1246,8 @@
                                       ],
                           "pyq":  "CDS 2 2021",
                           "subject":  "Sentence Improvement / Completion",
-                          "topic":  "Sentence Improvement / Completion"
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
                       },
                       {
                           "n":  70,
@@ -1212,7 +1263,8 @@
                                       ],
                           "pyq":  "CDS 2 2022",
                           "subject":  "Sentence Improvement / Completion",
-                          "topic":  "Sentence Improvement / Completion"
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
                       },
                       {
                           "n":  71,
@@ -1228,7 +1280,8 @@
                                       ],
                           "pyq":  "CDS 1 2021",
                           "subject":  "Sentence Improvement / Completion",
-                          "topic":  "Sentence Improvement / Completion"
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
                       },
                       {
                           "n":  72,
@@ -1244,7 +1297,8 @@
                                       ],
                           "pyq":  "CDS 1 2023",
                           "subject":  "Sentence Improvement / Completion",
-                          "topic":  "Sentence Improvement / Completion"
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
                       },
                       {
                           "n":  73,
@@ -1260,7 +1314,8 @@
                                       ],
                           "pyq":  "CDS 1 2021",
                           "subject":  "Sentence Improvement / Completion",
-                          "topic":  "Sentence Improvement / Completion"
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
                       },
                       {
                           "n":  74,
@@ -1276,7 +1331,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Sentence Improvement / Completion",
-                          "topic":  "Sentence Improvement / Completion"
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
                       },
                       {
                           "n":  75,
@@ -1292,7 +1348,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Sentence Improvement / Completion",
-                          "topic":  "Sentence Improvement / Completion"
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
                       },
                       {
                           "n":  76,
@@ -1308,7 +1365,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Sentence Improvement / Completion",
-                          "topic":  "Sentence Improvement / Completion"
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
                       },
                       {
                           "n":  77,
@@ -1324,7 +1382,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Sentence Improvement / Completion",
-                          "topic":  "Sentence Improvement / Completion"
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
                       },
                       {
                           "n":  78,
@@ -1340,7 +1399,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Sentence Improvement / Completion",
-                          "topic":  "Sentence Improvement / Completion"
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
                       },
                       {
                           "n":  79,
@@ -1357,7 +1417,8 @@
                           "pyq":  null,
                           "subject":  "Cloze Passage",
                           "topic":  "Cloze Passage",
-                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
                       },
                       {
                           "n":  80,
@@ -1374,7 +1435,8 @@
                           "pyq":  null,
                           "subject":  "Cloze Passage",
                           "topic":  "Cloze Passage",
-                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
                       },
                       {
                           "n":  81,
@@ -1391,7 +1453,8 @@
                           "pyq":  null,
                           "subject":  "Cloze Passage",
                           "topic":  "Cloze Passage",
-                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
                       },
                       {
                           "n":  82,
@@ -1408,7 +1471,8 @@
                           "pyq":  null,
                           "subject":  "Cloze Passage",
                           "topic":  "Cloze Passage",
-                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
                       },
                       {
                           "n":  83,
@@ -1425,7 +1489,8 @@
                           "pyq":  null,
                           "subject":  "Cloze Passage",
                           "topic":  "Cloze Passage",
-                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
                       },
                       {
                           "n":  84,
@@ -1442,7 +1507,8 @@
                           "pyq":  null,
                           "subject":  "Cloze Passage",
                           "topic":  "Cloze Passage",
-                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
                       },
                       {
                           "n":  85,
@@ -1459,7 +1525,8 @@
                           "pyq":  null,
                           "subject":  "Cloze Passage",
                           "topic":  "Cloze Passage",
-                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
                       },
                       {
                           "n":  86,
@@ -1476,7 +1543,8 @@
                           "pyq":  null,
                           "subject":  "Cloze Passage",
                           "topic":  "Cloze Passage",
-                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
                       },
                       {
                           "n":  87,
@@ -1493,7 +1561,8 @@
                           "pyq":  null,
                           "subject":  "Cloze Passage",
                           "topic":  "Cloze Passage",
-                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
                       },
                       {
                           "n":  88,
@@ -1510,7 +1579,8 @@
                           "pyq":  null,
                           "subject":  "Cloze Passage",
                           "topic":  "Cloze Passage",
-                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals."
+                          "passage":  "Discipline is often (79)________ as something imposed from outside, a set of rules that (80)________ personal freedom. This is a narrow view. In its truest sense, discipline is a habit a person (81)________ for himself, long before anyone else demands it of him. A soldier who waits to be (82)________ before doing the right thing has not really understood what discipline means. The armies that have (83)________ the test of history are rarely those with the most elaborate rulebooks; they are the ones whose soldiers had (84)________ the habit so completely that it no longer felt like a rule at all. Such discipline does not (85)________ initiative — it actually makes bold action possible, because everyone can (86)________ that their comrades will do exactly what is expected of them. Seen this way, discipline is not the opposite of freedom but its (87)________. It is what allows an army, or indeed any team, to act as one body rather than a collection of (88)________ individuals.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
                       },
                       {
                           "n":  89,
@@ -1526,7 +1596,8 @@
                                       ],
                           "pyq":  "headword (options reconstructed)",
                           "subject":  "Vocabulary: Synonyms",
-                          "topic":  "Vocabulary: Synonyms"
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
                       },
                       {
                           "n":  90,
@@ -1542,7 +1613,8 @@
                                       ],
                           "pyq":  "headword (options reconstructed)",
                           "subject":  "Vocabulary: Synonyms",
-                          "topic":  "Vocabulary: Synonyms"
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
                       },
                       {
                           "n":  91,
@@ -1558,7 +1630,8 @@
                                       ],
                           "pyq":  "headword (options reconstructed)",
                           "subject":  "Vocabulary: Synonyms",
-                          "topic":  "Vocabulary: Synonyms"
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
                       },
                       {
                           "n":  92,
@@ -1574,7 +1647,8 @@
                                       ],
                           "pyq":  "headword (options reconstructed)",
                           "subject":  "Vocabulary: Synonyms",
-                          "topic":  "Vocabulary: Synonyms"
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
                       },
                       {
                           "n":  93,
@@ -1590,7 +1664,8 @@
                                       ],
                           "pyq":  "headword (options reconstructed)",
                           "subject":  "Vocabulary: Synonyms",
-                          "topic":  "Vocabulary: Synonyms"
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
                       },
                       {
                           "n":  94,
@@ -1606,7 +1681,8 @@
                                       ],
                           "pyq":  "headword (options reconstructed)",
                           "subject":  "Vocabulary: Synonyms",
-                          "topic":  "Vocabulary: Synonyms"
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
                       },
                       {
                           "n":  95,
@@ -1622,7 +1698,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Vocabulary: Synonyms",
-                          "topic":  "Vocabulary: Synonyms"
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
                       },
                       {
                           "n":  96,
@@ -1638,7 +1715,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Vocabulary: Synonyms",
-                          "topic":  "Vocabulary: Synonyms"
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
                       },
                       {
                           "n":  97,
@@ -1654,7 +1732,8 @@
                                       ],
                           "pyq":  "headword (options reconstructed)",
                           "subject":  "Vocabulary: Antonyms",
-                          "topic":  "Vocabulary: Antonyms"
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
                       },
                       {
                           "n":  98,
@@ -1670,7 +1749,8 @@
                                       ],
                           "pyq":  "headword (options reconstructed)",
                           "subject":  "Vocabulary: Antonyms",
-                          "topic":  "Vocabulary: Antonyms"
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
                       },
                       {
                           "n":  99,
@@ -1686,7 +1766,8 @@
                                       ],
                           "pyq":  "headword (options reconstructed)",
                           "subject":  "Vocabulary: Antonyms",
-                          "topic":  "Vocabulary: Antonyms"
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
                       },
                       {
                           "n":  100,
@@ -1702,7 +1783,8 @@
                                       ],
                           "pyq":  "headword (options reconstructed)",
                           "subject":  "Vocabulary: Antonyms",
-                          "topic":  "Vocabulary: Antonyms"
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
                       },
                       {
                           "n":  101,
@@ -1718,7 +1800,8 @@
                                       ],
                           "pyq":  "headword (options reconstructed)",
                           "subject":  "Vocabulary: Antonyms",
-                          "topic":  "Vocabulary: Antonyms"
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
                       },
                       {
                           "n":  102,
@@ -1734,7 +1817,8 @@
                                       ],
                           "pyq":  "headword (options reconstructed)",
                           "subject":  "Vocabulary: Antonyms",
-                          "topic":  "Vocabulary: Antonyms"
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
                       },
                       {
                           "n":  103,
@@ -1750,7 +1834,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Vocabulary: Antonyms",
-                          "topic":  "Vocabulary: Antonyms"
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
                       },
                       {
                           "n":  104,
@@ -1766,7 +1851,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Vocabulary: Antonyms",
-                          "topic":  "Vocabulary: Antonyms"
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
                       },
                       {
                           "n":  105,
@@ -1782,7 +1868,8 @@
                                       ],
                           "pyq":  "(options reconstructed)",
                           "subject":  "Vocabulary: Idioms \u0026 Phrases",
-                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
                       },
                       {
                           "n":  106,
@@ -1798,7 +1885,8 @@
                                       ],
                           "pyq":  "(options reconstructed)",
                           "subject":  "Vocabulary: Idioms \u0026 Phrases",
-                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
                       },
                       {
                           "n":  107,
@@ -1814,7 +1902,8 @@
                                       ],
                           "pyq":  "(options reconstructed)",
                           "subject":  "Vocabulary: Idioms \u0026 Phrases",
-                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
                       },
                       {
                           "n":  108,
@@ -1830,7 +1919,8 @@
                                       ],
                           "pyq":  "(options reconstructed)",
                           "subject":  "Vocabulary: Idioms \u0026 Phrases",
-                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
                       },
                       {
                           "n":  109,
@@ -1846,7 +1936,8 @@
                                       ],
                           "pyq":  "(options reconstructed)",
                           "subject":  "Vocabulary: Idioms \u0026 Phrases",
-                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
                       },
                       {
                           "n":  110,
@@ -1862,7 +1953,8 @@
                                       ],
                           "pyq":  "(options reconstructed)",
                           "subject":  "Vocabulary: Idioms \u0026 Phrases",
-                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
                       },
                       {
                           "n":  111,
@@ -1878,7 +1970,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Vocabulary: Idioms \u0026 Phrases",
-                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
                       },
                       {
                           "n":  112,
@@ -1894,7 +1987,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Vocabulary: Idioms \u0026 Phrases",
-                          "topic":  "Vocabulary: Idioms \u0026 Phrases"
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
                       },
                       {
                           "n":  113,
@@ -1910,7 +2004,8 @@
                                       ],
                           "pyq":  "(options reconstructed)",
                           "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
-                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
                       },
                       {
                           "n":  114,
@@ -1926,7 +2021,8 @@
                                       ],
                           "pyq":  "(options reconstructed)",
                           "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
-                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
                       },
                       {
                           "n":  115,
@@ -1942,7 +2038,8 @@
                                       ],
                           "pyq":  "(options reconstructed)",
                           "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
-                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
                       },
                       {
                           "n":  116,
@@ -1958,7 +2055,8 @@
                                       ],
                           "pyq":  "(options reconstructed)",
                           "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
-                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
                       },
                       {
                           "n":  117,
@@ -1974,7 +2072,8 @@
                                       ],
                           "pyq":  "(options reconstructed)",
                           "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
-                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
                       },
                       {
                           "n":  118,
@@ -1990,7 +2089,8 @@
                                       ],
                           "pyq":  "(options reconstructed)",
                           "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
-                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
                       },
                       {
                           "n":  119,
@@ -2006,7 +2106,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
-                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
                       },
                       {
                           "n":  120,
@@ -2022,7 +2123,8 @@
                                       ],
                           "pyq":  null,
                           "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
-                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs"
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
                       }
                   ]
 }

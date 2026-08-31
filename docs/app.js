@@ -374,6 +374,13 @@ function renderQuestion() {
   $("qStem").innerHTML = sciHtml(stemText);
   $("qStem").style.display = stemText ? "" : "none";
 
+  // Section directions (shown above the question so short stems make sense)
+  const dir = $("qDirection");
+  if (dir) {
+    if (q.direction) { dir.textContent = q.direction; dir.style.display = ""; }
+    else { dir.textContent = ""; dir.style.display = "none"; }
+  }
+
   // Reading-comprehension / cloze passage (shown above the stem when present)
   const pw = $("qPassage");
   if (pw) {
@@ -648,7 +655,9 @@ function reviewCardInner(r, q) {
   }).join("");
   const pyqHtml = q.pyq ? `<span class="rev-pyq">Previous Year — ${escapeHtml(q.pyq)}</span>` : "";
   const passageHtml = q.passage ? `<div class="rev-passage">${escapeHtml(q.passage)}</div>` : "";
+  const directionHtml = q.direction ? `<p class="rev-direction">${escapeHtml(q.direction)}</p>` : "";
   const html = `
+      ${directionHtml}
       <div class="rev-head">
         <p class="rev-q">Q${r.n}. ${sciHtml(stemText)} ${pyqHtml}</p>
         <span class="rev-badge badge-${status}">${badgeText}</span>

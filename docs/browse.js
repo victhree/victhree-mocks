@@ -1,11 +1,12 @@
-/* Browse page: lists the tests for one category (?cat=sectional|full). */
+/* Browse page: lists the tests for one category (?cat=sectional|full|english). */
 function escapeHtml(s){ return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;"); }
-function catParam(){ var c = new URLSearchParams(location.search).get("cat"); return c === "full" ? "full" : "sectional"; }
+function catParam(){ var c = new URLSearchParams(location.search).get("cat"); return (c === "full" || c === "english") ? c : "sectional"; }
+function catOf(id){ if (/^full-mock-\d/.test(id)) return "full"; if (/^eng-mock-\d/.test(id)) return "english"; return "sectional"; }
+function catTitle(cat){ return cat === "full" ? "Full-Length Tests" : (cat === "english" ? "English Tests" : "GK Sectional Tests"); }
 async function loadTests(){
   var cat = catParam();
-  var title = cat === "full" ? "Full-Length Tests" : "Sectional Tests";
-  document.getElementById("browseHeading").textContent = title;
-  document.title = title + " - VicThree Defence";
+  document.getElementById("browseHeading").textContent = catTitle(cat);
+  document.title = catTitle(cat) + " - VicThree Defence";
   var list = document.getElementById("testList");
   var msg = document.getElementById("testListMsg");
   try {
@@ -13,7 +14,7 @@ async function loadTests(){
     if (!res.ok) throw new Error("HTTP " + res.status);
     var data = await res.json();
     var tests = (data.tests || []).filter(function(t){ return t && t.id; });
-    tests = tests.filter(function(t){ return (/^full-mock-\d/.test(t.id) ? "full" : "sectional") === cat; });
+    tests = tests.filter(function(t){ return catOf(t.id) === cat; });
     if (!tests.length) { msg.textContent = "No tests in this category yet."; return; }
     list.innerHTML = "";
     tests.forEach(function(t){
