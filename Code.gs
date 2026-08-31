@@ -1200,8 +1200,8 @@ const ANSWER_KEYS = {
     "100": { correct: "b", correctText: "30", exp: "The median of 19 numbers is the 10th value = 30 (with 9 values on each side). Adding 8 (below) and 32 (above) keeps the same middle value as the new (11th of 21) median, so the median remains 30." }
     },
 
-  /* ----- English - Test 2 ----- */
-  "eng-mock-02": {
+  /* ----- English - Test 1 ----- */
+  "eng-mock-01": {
     "1": { correct: "a", correctText: "Routine, framework-preserving work is essential to progress, yet the very consensus that enables it can blind a science to contrary evidence until anomalies force a crisis.", exp: "The passage praises \u0027unglamorous labour\u0027 as \u0027the very condition of progress\u0027 but immediately notes \u0027the same agreement... breeds a peculiar blindness\u0027, culminating in the crisis-and-revolution point. (b) captures both halves; the others each seize one detail and distort it." },
     "2": { correct: "c", correctText: "Concerned mainly with consolidating and extending an existing framework rather than seeking to overthrow it.", exp: "An accountant reconciles and tidies within established rules; the explorer seeks the new. The passage explicitly says practitioners are \u0027not... trying to overturn the framework... they are trying to extend it\u0027, which is the accountant image. (a) mistakes \u0027unglamorous\u0027 for \u0027worthless\u0027, which the author denies." },
     "3": { correct: "d", correctText: "Isolated and kept from affecting the wider framework.", exp: "An anomaly \u0027becomes a crisis only when it can no longer be quarantined, when it multiplies and begins to touch the framework\u0027s load-bearing assumptions\u0027 — i.e. so long as it can be walled off from the core, it is contained/isolated, not resolved." },
@@ -1343,7 +1343,7 @@ var SCORING = {
   "full-mock-03-eng": { totalMarks: 100, negativeFraction: 1 / 3 },
   "full-mock-03-gk": { totalMarks: 100, negativeFraction: 1 / 3 },
   "full-mock-03-maths": { totalMarks: 100, negativeFraction: 1 / 3 },
-  "eng-mock-02": { totalMarks: 100, negativeFraction: 1 / 3 }
+  "eng-mock-01": { totalMarks: 100, negativeFraction: 1 / 3 }
 };
 
 function doPost(e) {
