@@ -1,0 +1,2130 @@
+{
+    "title":  "English",
+    "durationMin":  120,
+    "scoring":  {
+                    "totalMarks":  100,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "According to the passage, how do the roots of trees help the soil?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "They take oxygen out of the soil.",
+                                          "They make the soil dry and hard.",
+                                          "They turn the soil into desert.",
+                                          "They bind the soil and hold it in place so that rain cannot wash it away."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Trees are among the most useful of nature\u0027s gifts to human beings. They give us shade in the hot summer months, and their falling leaves enrich the soil in which they grow. From trees we obtain timber for our houses and furniture, fruit for our tables, and firewood for our kitchens. But the value of trees goes far beyond these everyday uses. Their roots bind the soil and hold it firmly in place, so that heavy rain cannot wash it away. Their leaves take in the carbon dioxide that we breathe out and give back the oxygen without which no living creature could survive. Forests also attract rain and keep the air cool and clean. Yet, despite knowing all this, people continue to cut down trees carelessly to make room for houses, roads and factories. When too many trees are cut, the rain washes away the fertile topsoil, rivers overflow, and once-green land slowly turns into desert. It is high time we understood that planting a tree is not a small act of charity but a duty we owe to those who will come after us."
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Which of the following is NOT mentioned in the passage as a use of trees?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Fruit for our tables",
+                                          "Medicines for the sick",
+                                          "Firewood for our kitchens",
+                                          "Timber for houses and furniture"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Trees are among the most useful of nature\u0027s gifts to human beings. They give us shade in the hot summer months, and their falling leaves enrich the soil in which they grow. From trees we obtain timber for our houses and furniture, fruit for our tables, and firewood for our kitchens. But the value of trees goes far beyond these everyday uses. Their roots bind the soil and hold it firmly in place, so that heavy rain cannot wash it away. Their leaves take in the carbon dioxide that we breathe out and give back the oxygen without which no living creature could survive. Forests also attract rain and keep the air cool and clean. Yet, despite knowing all this, people continue to cut down trees carelessly to make room for houses, roads and factories. When too many trees are cut, the rain washes away the fertile topsoil, rivers overflow, and once-green land slowly turns into desert. It is high time we understood that planting a tree is not a small act of charity but a duty we owe to those who will come after us."
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "According to the passage, what happens when too many trees are cut down?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The fertile topsoil is washed away and land can turn into desert.",
+                                          "Rivers dry up completely.",
+                                          "Rain increases everywhere.",
+                                          "The air becomes cleaner."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Trees are among the most useful of nature\u0027s gifts to human beings. They give us shade in the hot summer months, and their falling leaves enrich the soil in which they grow. From trees we obtain timber for our houses and furniture, fruit for our tables, and firewood for our kitchens. But the value of trees goes far beyond these everyday uses. Their roots bind the soil and hold it firmly in place, so that heavy rain cannot wash it away. Their leaves take in the carbon dioxide that we breathe out and give back the oxygen without which no living creature could survive. Forests also attract rain and keep the air cool and clean. Yet, despite knowing all this, people continue to cut down trees carelessly to make room for houses, roads and factories. When too many trees are cut, the rain washes away the fertile topsoil, rivers overflow, and once-green land slowly turns into desert. It is high time we understood that planting a tree is not a small act of charity but a duty we owe to those who will come after us."
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The phrase \u0027it is high time\u0027 in the last sentence suggests that:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "there is plenty of time left to act.",
+                                          "the time of day is late.",
+                                          "action to protect trees is already overdue.",
+                                          "trees grow only at a certain time."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Trees are among the most useful of nature\u0027s gifts to human beings. They give us shade in the hot summer months, and their falling leaves enrich the soil in which they grow. From trees we obtain timber for our houses and furniture, fruit for our tables, and firewood for our kitchens. But the value of trees goes far beyond these everyday uses. Their roots bind the soil and hold it firmly in place, so that heavy rain cannot wash it away. Their leaves take in the carbon dioxide that we breathe out and give back the oxygen without which no living creature could survive. Forests also attract rain and keep the air cool and clean. Yet, despite knowing all this, people continue to cut down trees carelessly to make room for houses, roads and factories. When too many trees are cut, the rain washes away the fertile topsoil, rivers overflow, and once-green land slowly turns into desert. It is high time we understood that planting a tree is not a small act of charity but a duty we owe to those who will come after us."
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "What does the author mean by calling the planting of a tree \u0027a duty we owe to those who will come after us\u0027?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Trees should be planted only by the government.",
+                                          "We plant trees mainly for our own profit.",
+                                          "Planting trees is an act of charity that can be ignored.",
+                                          "We should plant trees for the benefit of future generations."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Trees are among the most useful of nature\u0027s gifts to human beings. They give us shade in the hot summer months, and their falling leaves enrich the soil in which they grow. From trees we obtain timber for our houses and furniture, fruit for our tables, and firewood for our kitchens. But the value of trees goes far beyond these everyday uses. Their roots bind the soil and hold it firmly in place, so that heavy rain cannot wash it away. Their leaves take in the carbon dioxide that we breathe out and give back the oxygen without which no living creature could survive. Forests also attract rain and keep the air cool and clean. Yet, despite knowing all this, people continue to cut down trees carelessly to make room for houses, roads and factories. When too many trees are cut, the rain washes away the fertile topsoil, rivers overflow, and once-green land slowly turns into desert. It is high time we understood that planting a tree is not a small act of charity but a duty we owe to those who will come after us."
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Which of the following would be the most suitable title for the passage?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Importance of Trees",
+                                          "How to Build Houses",
+                                          "The Beauty of Flowers",
+                                          "Rivers and Rain"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Trees are among the most useful of nature\u0027s gifts to human beings. They give us shade in the hot summer months, and their falling leaves enrich the soil in which they grow. From trees we obtain timber for our houses and furniture, fruit for our tables, and firewood for our kitchens. But the value of trees goes far beyond these everyday uses. Their roots bind the soil and hold it firmly in place, so that heavy rain cannot wash it away. Their leaves take in the carbon dioxide that we breathe out and give back the oxygen without which no living creature could survive. Forests also attract rain and keep the air cool and clean. Yet, despite knowing all this, people continue to cut down trees carelessly to make room for houses, roads and factories. When too many trees are cut, the rain washes away the fertile topsoil, rivers overflow, and once-green land slowly turns into desert. It is high time we understood that planting a tree is not a small act of charity but a duty we owe to those who will come after us."
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "What mistaken belief about students does the author mention?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "That students should play all day.",
+                                          "That the only duty of a student is to study and pass examinations.",
+                                          "That students should never read books.",
+                                          "That games are more important than studies."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Games and sports have an important place in the life of a student. Many people think that the only duty of a student is to study his books and pass his examinations. This is a mistake. A student who spends all his time bent over his books, and never steps out into the playground, may do well in his examinations, but he often grows weak in body and dull in mind. Games keep the body fit and the mind fresh. A short game in the evening drives away the tiredness of a long day\u0027s study and sends the student back to his books with new energy. But the benefits of games are not limited to health alone. On the playing field a student learns lessons that no classroom can teach him. He learns to obey the captain, to play fair, to keep his temper when he loses, and to work with others for the good of his team. These are the very qualities that he will need in later life, when the playground of childhood has given way to the harder field of the world. A good player, it is often said, makes a good citizen."
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "According to the passage, what happens to a student who never plays games?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "He learns to work well with others.",
+                                          "He becomes the best student in class.",
+                                          "He always fails his examinations.",
+                                          "He may grow weak in body and dull in mind."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Games and sports have an important place in the life of a student. Many people think that the only duty of a student is to study his books and pass his examinations. This is a mistake. A student who spends all his time bent over his books, and never steps out into the playground, may do well in his examinations, but he often grows weak in body and dull in mind. Games keep the body fit and the mind fresh. A short game in the evening drives away the tiredness of a long day\u0027s study and sends the student back to his books with new energy. But the benefits of games are not limited to health alone. On the playing field a student learns lessons that no classroom can teach him. He learns to obey the captain, to play fair, to keep his temper when he loses, and to work with others for the good of his team. These are the very qualities that he will need in later life, when the playground of childhood has given way to the harder field of the world. A good player, it is often said, makes a good citizen."
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Which of these qualities does the passage say a student learns on the playing field?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Selfishness and pride",
+                                          "Studying alone",
+                                          "Playing fair and keeping one\u0027s temper when losing",
+                                          "Avoiding hard work"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Games and sports have an important place in the life of a student. Many people think that the only duty of a student is to study his books and pass his examinations. This is a mistake. A student who spends all his time bent over his books, and never steps out into the playground, may do well in his examinations, but he often grows weak in body and dull in mind. Games keep the body fit and the mind fresh. A short game in the evening drives away the tiredness of a long day\u0027s study and sends the student back to his books with new energy. But the benefits of games are not limited to health alone. On the playing field a student learns lessons that no classroom can teach him. He learns to obey the captain, to play fair, to keep his temper when he loses, and to work with others for the good of his team. These are the very qualities that he will need in later life, when the playground of childhood has given way to the harder field of the world. A good player, it is often said, makes a good citizen."
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The phrase \u0027the harder field of the world\u0027 refers to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a subject that is hard to study",
+                                          "the challenges and struggles of adult life",
+                                          "a difficult sports ground",
+                                          "a distant country"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Games and sports have an important place in the life of a student. Many people think that the only duty of a student is to study his books and pass his examinations. This is a mistake. A student who spends all his time bent over his books, and never steps out into the playground, may do well in his examinations, but he often grows weak in body and dull in mind. Games keep the body fit and the mind fresh. A short game in the evening drives away the tiredness of a long day\u0027s study and sends the student back to his books with new energy. But the benefits of games are not limited to health alone. On the playing field a student learns lessons that no classroom can teach him. He learns to obey the captain, to play fair, to keep his temper when he loses, and to work with others for the good of his team. These are the very qualities that he will need in later life, when the playground of childhood has given way to the harder field of the world. A good player, it is often said, makes a good citizen."
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "What does the author mean by \u0027A good player makes a good citizen\u0027?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Citizens should be paid to play games.",
+                                          "Only players are allowed to be citizens.",
+                                          "A citizen must win every game.",
+                                          "The teamwork, fairness and self-control learned in games help a person become a responsible member of society."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Games and sports have an important place in the life of a student. Many people think that the only duty of a student is to study his books and pass his examinations. This is a mistake. A student who spends all his time bent over his books, and never steps out into the playground, may do well in his examinations, but he often grows weak in body and dull in mind. Games keep the body fit and the mind fresh. A short game in the evening drives away the tiredness of a long day\u0027s study and sends the student back to his books with new energy. But the benefits of games are not limited to health alone. On the playing field a student learns lessons that no classroom can teach him. He learns to obey the captain, to play fair, to keep his temper when he loses, and to work with others for the good of his team. These are the very qualities that he will need in later life, when the playground of childhood has given way to the harder field of the world. A good player, it is often said, makes a good citizen."
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The word \u0027dull\u0027 in \u0027dull in mind\u0027 is closest in meaning to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cheerful",
+                                          "bright",
+                                          "slow or lacking in liveliness",
+                                          "sharp"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Games and sports have an important place in the life of a student. Many people think that the only duty of a student is to study his books and pass his examinations. This is a mistake. A student who spends all his time bent over his books, and never steps out into the playground, may do well in his examinations, but he often grows weak in body and dull in mind. Games keep the body fit and the mind fresh. A short game in the evening drives away the tiredness of a long day\u0027s study and sends the student back to his books with new energy. But the benefits of games are not limited to health alone. On the playing field a student learns lessons that no classroom can teach him. He learns to obey the captain, to play fair, to keep his temper when he loses, and to work with others for the good of his team. These are the very qualities that he will need in later life, when the playground of childhood has given way to the harder field of the world. A good player, it is often said, makes a good citizen."
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Why does the author call a good book \u0027a faithful friend\u0027?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Because books can quarrel with us.",
+                                          "Because books are expensive.",
+                                          "Because a book never tires of us, never quarrels, and keeps us company when we are lonely.",
+                                          "Because friends give us books."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "The habit of reading is one of the greatest pleasures that a person can enjoy, and also one of the most useful. A good book is a faithful friend. It never grows tired of us, never quarrels with us, and is always ready to keep us company when we are lonely. Through books we can travel to distant lands without leaving our chairs, and meet the wisest men and women of every age, though they died hundreds of years ago. A person who has learned to love reading is never quite alone and never quite without resources. He can turn to a book for knowledge when he is puzzled, for comfort when he is sad, and for entertainment when he is bored. But like every good habit, the love of reading must be formed early and formed with care. Those who read nothing but cheap and worthless books gain little from the hours they spend, for the mind takes the shape of what it feeds upon. To choose one\u0027s books wisely is, therefore, almost as important as to read them at all."
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "According to the passage, how can books let us \u0027travel to distant lands\u0027?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "By turning into vehicles",
+                                          "By selling us aeroplane tickets",
+                                          "Only if we are wealthy",
+                                          "Through the imagination and knowledge they give us, without our leaving our chairs"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "The habit of reading is one of the greatest pleasures that a person can enjoy, and also one of the most useful. A good book is a faithful friend. It never grows tired of us, never quarrels with us, and is always ready to keep us company when we are lonely. Through books we can travel to distant lands without leaving our chairs, and meet the wisest men and women of every age, though they died hundreds of years ago. A person who has learned to love reading is never quite alone and never quite without resources. He can turn to a book for knowledge when he is puzzled, for comfort when he is sad, and for entertainment when he is bored. But like every good habit, the love of reading must be formed early and formed with care. Those who read nothing but cheap and worthless books gain little from the hours they spend, for the mind takes the shape of what it feeds upon. To choose one\u0027s books wisely is, therefore, almost as important as to read them at all."
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "What does the author say a reader can turn to a book for?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Only for entertainment",
+                                          "For knowledge when puzzled, comfort when sad, and entertainment when bored",
+                                          "For money when poor",
+                                          "For food when hungry"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "The habit of reading is one of the greatest pleasures that a person can enjoy, and also one of the most useful. A good book is a faithful friend. It never grows tired of us, never quarrels with us, and is always ready to keep us company when we are lonely. Through books we can travel to distant lands without leaving our chairs, and meet the wisest men and women of every age, though they died hundreds of years ago. A person who has learned to love reading is never quite alone and never quite without resources. He can turn to a book for knowledge when he is puzzled, for comfort when he is sad, and for entertainment when he is bored. But like every good habit, the love of reading must be formed early and formed with care. Those who read nothing but cheap and worthless books gain little from the hours they spend, for the mind takes the shape of what it feeds upon. To choose one\u0027s books wisely is, therefore, almost as important as to read them at all."
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The sentence \u0027the mind takes the shape of what it feeds upon\u0027 suggests that:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "what we read shapes the kind of mind we develop.",
+                                          "reading has no effect on the mind.",
+                                          "cheap books are the best.",
+                                          "the mind is shaped only by food."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "The habit of reading is one of the greatest pleasures that a person can enjoy, and also one of the most useful. A good book is a faithful friend. It never grows tired of us, never quarrels with us, and is always ready to keep us company when we are lonely. Through books we can travel to distant lands without leaving our chairs, and meet the wisest men and women of every age, though they died hundreds of years ago. A person who has learned to love reading is never quite alone and never quite without resources. He can turn to a book for knowledge when he is puzzled, for comfort when he is sad, and for entertainment when he is bored. But like every good habit, the love of reading must be formed early and formed with care. Those who read nothing but cheap and worthless books gain little from the hours they spend, for the mind takes the shape of what it feeds upon. To choose one\u0027s books wisely is, therefore, almost as important as to read them at all."
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "According to the passage, why is it important to choose one\u0027s books wisely?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Because books must be kept clean.",
+                                          "Because reading worthless books brings little gain, since the mind is shaped by what it reads.",
+                                          "Because good books are hard to find.",
+                                          "Because all books are equally useful."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "The habit of reading is one of the greatest pleasures that a person can enjoy, and also one of the most useful. A good book is a faithful friend. It never grows tired of us, never quarrels with us, and is always ready to keep us company when we are lonely. Through books we can travel to distant lands without leaving our chairs, and meet the wisest men and women of every age, though they died hundreds of years ago. A person who has learned to love reading is never quite alone and never quite without resources. He can turn to a book for knowledge when he is puzzled, for comfort when he is sad, and for entertainment when he is bored. But like every good habit, the love of reading must be formed early and formed with care. Those who read nothing but cheap and worthless books gain little from the hours they spend, for the mind takes the shape of what it feeds upon. To choose one\u0027s books wisely is, therefore, almost as important as to read them at all."
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The main idea of the passage is that:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Reading is a valuable habit that should be formed early, with a wise choice of books.",
+                                          "Books are only for lonely people.",
+                                          "Reading is a waste of time.",
+                                          "One should read as many books as possible, of any kind."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "The habit of reading is one of the greatest pleasures that a person can enjoy, and also one of the most useful. A good book is a faithful friend. It never grows tired of us, never quarrels with us, and is always ready to keep us company when we are lonely. Through books we can travel to distant lands without leaving our chairs, and meet the wisest men and women of every age, though they died hundreds of years ago. A person who has learned to love reading is never quite alone and never quite without resources. He can turn to a book for knowledge when he is puzzled, for comfort when he is sad, and for entertainment when he is bored. But like every good habit, the love of reading must be formed early and formed with care. Those who read nothing but cheap and worthless books gain little from the hours they spend, for the mind takes the shape of what it feeds upon. To choose one\u0027s books wisely is, therefore, almost as important as to read them at all."
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: early in the morning",
+                                       "Q: every day",
+                                       "R: he goes for a walk",
+                                       "S: to keep himself fit"
+                                   ],
+                          "options":  [
+                                          "RQPS",
+                                          "RPSQ",
+                                          "PRQS",
+                                          "RPQS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: we should always",
+                                       "Q: who are in trouble",
+                                       "R: try to help those",
+                                       "S: in whatever way we can"
+                                   ],
+                          "options":  [
+                                          "PRQS",
+                                          "PQRS",
+                                          "RPQS",
+                                          "PRSQ"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: the teacher advised",
+                                       "Q: the students",
+                                       "R: before the examination",
+                                       "S: to revise their lessons"
+                                   ],
+                          "options":  [
+                                          "PQRS",
+                                          "QPSR",
+                                          "PSQR",
+                                          "PQSR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: as soon as the rain stopped",
+                                       "Q: the children",
+                                       "R: ran out",
+                                       "S: to play in the garden"
+                                   ],
+                          "options":  [
+                                          "PQSR",
+                                          "PQRS",
+                                          "QPRS",
+                                          "PRQS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: honesty and hard work",
+                                       "Q: are the two qualities",
+                                       "R: in any walk of life",
+                                       "S: that lead to success"
+                                   ],
+                          "options":  [
+                                          "PSQR",
+                                          "PQSR",
+                                          "PQRS",
+                                          "QPSR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: the old man",
+                                       "Q: thanked the boy",
+                                       "R: for helping him",
+                                       "S: cross the busy road"
+                                   ],
+                          "options":  [
+                                          "QPRS",
+                                          "PRQS",
+                                          "PQRS",
+                                          "PQSR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: if you work hard",
+                                       "Q: you will certainly",
+                                       "R: in the coming examination",
+                                       "S: do well"
+                                   ],
+                          "options":  [
+                                          "QPSR",
+                                          "PQSR",
+                                          "PQRS",
+                                          "PSQR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: the doctor told the patient",
+                                       "Q: to take the medicine",
+                                       "R: three times a day",
+                                       "S: after meals"
+                                   ],
+                          "options":  [
+                                          "SQPR",
+                                          "SQRP",
+                                          "QSRP",
+                                          "SRQP"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: she was so tired",
+                                       "Q: that she fell asleep",
+                                       "R: the moment",
+                                       "S: she lay down on the bed"
+                                   ],
+                          "options":  [
+                                          "PRQS",
+                                          "QPRS",
+                                          "PQRS",
+                                          "PQSR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: we must save water",
+                                       "Q: for it is",
+                                       "R: one of the most precious",
+                                       "S: of all natural resources"
+                                   ],
+                          "options":  [
+                                          "PQSR",
+                                          "PQRS",
+                                          "QPRS",
+                                          "PRQS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The following sentence has been split into four parts, P, Q, R and S. Select the option that arranges them in the correct order to form a meaningful sentence."
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "S1. Once upon a time there lived a thirsty crow.",
+                          "subs":  [
+                                       "P: But the water was too low for the crow to reach.",
+                                       "Q: It flew here and there in search of water.",
+                                       "R: The clever crow then thought of a plan.",
+                                       "S: At last it found a pitcher with a little water at the bottom.",
+                                       "S6. It dropped pebbles into the pitcher until the water rose to the top."
+                                   ],
+                          "options":  [
+                                          "QPRS",
+                                          "QSPR",
+                                          "QPSR",
+                                          "PQRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "S1. Mahatma Gandhi is remembered all over the world today.",
+                          "subs":  [
+                                       "P: After studying law in England, he went to South Africa.",
+                                       "Q: On his return to India, he led the freedom movement.",
+                                       "R: There he fought against the unjust treatment of Indians.",
+                                       "S: He was born in Porbandar in the year 1869.",
+                                       "S6. His weapons in this struggle were truth and non-violence."
+                                   ],
+                          "options":  [
+                                          "SPRQ",
+                                          "SPQR",
+                                          "PSRQ",
+                                          "SRPQ"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "S1. Early rising is a very good habit.",
+                          "subs":  [
+                                       "P: He can enjoy the fresh morning air, which is good for health.",
+                                       "Q: The late riser, on the other hand, is always short of time.",
+                                       "R: A person who rises early gets plenty of time for his work.",
+                                       "S: He can also finish his tasks without hurry.",
+                                       "S6. No wonder it is said that the early bird catches the worm."
+                                   ],
+                          "options":  [
+                                          "RPQS",
+                                          "PRSQ",
+                                          "RPSQ",
+                                          "RSPQ"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "S1. A farmer had four sons who were always quarrelling.",
+                          "subs":  [
+                                       "P: Each stick was broken at once, without any effort.",
+                                       "Q: None of them could break the bundle, however hard he tried.",
+                                       "R: Then the farmer untied the bundle and gave each son a single stick.",
+                                       "S: One day he called them and gave them a bundle of sticks to break.",
+                                       "S6. In this way the farmer taught his sons the value of unity."
+                                   ],
+                          "options":  [
+                                          "SQPR",
+                                          "SQRP",
+                                          "QSRP",
+                                          "SRQP"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "S1. The postman is a familiar figure in every town and village.",
+                          "subs":  [
+                                       "P: He carries a heavy bag full of letters and parcels.",
+                                       "Q: In rain or shine, he never fails in his duty.",
+                                       "R: From morning till evening he goes from house to house.",
+                                       "S: He brings us news of our friends who live far away.",
+                                       "S6. He is thus a humble but very useful servant of the public."
+                                   ],
+                          "options":  [
+                                          "PRQS",
+                                          "PQRS",
+                                          "PRSQ",
+                                          "RPQS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "S1. Water is essential for all forms of life on earth.",
+                          "subs":  [
+                                       "P: Yet many people waste this precious gift carelessly.",
+                                       "Q: We use it for drinking, cooking and washing every day.",
+                                       "R: Farmers need it to grow their crops in the fields.",
+                                       "S: If we are not careful, we may one day face a serious shortage.",
+                                       "S6. It is therefore our duty to use every drop of water wisely."
+                                   ],
+                          "options":  [
+                                          "QPRS",
+                                          "QRSP",
+                                          "QRPS",
+                                          "RQPS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "S1. The cinema has become one of the most popular forms of entertainment.",
+                          "subs":  [
+                                       "P: But films that show violence and crime can do great harm.",
+                                       "Q: For a small sum, it offers a few hours of enjoyment.",
+                                       "R: It attracts people of all ages and all classes.",
+                                       "S: It can also teach us many useful things about life.",
+                                       "S6. Like every powerful invention, the cinema can be a friend or an enemy."
+                                   ],
+                          "options":  [
+                                          "RQPS",
+                                          "RSQP",
+                                          "RQSP",
+                                          "QRSP"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "S1. A wise king once wished to test his three ministers.",
+                          "subs":  [
+                                       "P: He gave each of them an empty sack and a few seeds.",
+                                       "Q: Two of them planted the seeds and grew a fine crop.",
+                                       "R: The third, being lazy, kept the seeds locked in a box.",
+                                       "S: He asked them to return after a year with the harvest.",
+                                       "S6. When the year ended, the king easily saw who deserved his trust."
+                                   ],
+                          "options":  [
+                                          "PSRQ",
+                                          "PSQR",
+                                          "PQSR",
+                                          "SPQR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "S1. The village fair is an event that everyone looks forward to.",
+                          "subs":  [
+                                       "P: Shops and stalls of every kind spring up overnight.",
+                                       "Q: It is held once a year, usually after the harvest.",
+                                       "R: Their elders meet old friends and buy what they need.",
+                                       "S: Children ride the merry-go-round and eat sweets.",
+                                       "S6. For a few happy days the whole village comes alive."
+                                   ],
+                          "options":  [
+                                          "QPRS",
+                                          "QPSR",
+                                          "PQSR",
+                                          "QSPR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "S1. Honesty is a quality that everyone admires.",
+                          "subs":  [
+                                       "P: People trust him and are glad to deal with him.",
+                                       "Q: Even his enemies respect him in their hearts.",
+                                       "R: He does not cheat others for his own gain.",
+                                       "S: An honest person always speaks the truth.",
+                                       "S6. In the long run, honesty is truly the best policy."
+                                   ],
+                          "options":  [
+                                          "SRQP",
+                                          "SPRQ",
+                                          "SRPQ",
+                                          "RSPQ"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. The middle four sentences P, Q, R, S are jumbled. Choose the option that gives the correct sequence."
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "He was congratulated ________ his brilliant success in the examination.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "on",
+                                          "at",
+                                          "with",
+                                          "for"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "The poor man was deprived ________ all his belongings by the flood.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "of",
+                                          "off",
+                                          "from",
+                                          "with"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "If you had started earlier, you ________ the train.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "would catch",
+                                          "would have caught",
+                                          "had caught",
+                                          "will catch"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "She is very good ________ solving difficult problems.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "for",
+                                          "with",
+                                          "in",
+                                          "at"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "The teacher asked the noisy students to ________ talking at once.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "stops",
+                                          "stopped",
+                                          "stop",
+                                          "stopping"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "Hard work, along with a little luck, ________ the secret of his success.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "are",
+                                          "is",
+                                          "have been",
+                                          "were"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "He ran fast ________ he might catch the bus.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "in order",
+                                          "because",
+                                          "although",
+                                          "so that"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "I have not seen my old friend ________ a long time.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "from",
+                                          "since",
+                                          "during",
+                                          "for"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "No sooner did the bell ring ________ the children rushed out of the class.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "than",
+                                          "when",
+                                          "then",
+                                          "that"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "The little boy was afraid ________ the barking dog.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "from",
+                                          "for",
+                                          "with",
+                                          "of"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "One of the students",
+                                          "have left his bag",
+                                          "in the classroom.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "She sings more sweetly",
+                                          "than any girl",
+                                          "in her class.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The teacher told the students",
+                                          "that honesty was",
+                                          "the best policy.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "He is senior than me",
+                                          "by three years",
+                                          "in this office.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "I am looking forward",
+                                          "to meet you",
+                                          "at the function next week.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Each boy and each girl",
+                                          "were given a prize",
+                                          "on Sports Day.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The scenery of Kashmir",
+                                          "are very beautiful",
+                                          "in the spring.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "He did not come to school",
+                                          "yesterday because",
+                                          "he was ill.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "My father goes to office",
+                                          "by a car",
+                                          "every morning.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Neither of the two brothers",
+                                          "are interested",
+                                          "in the family business.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "The children were playing happily in the park. [word: \u0027happily\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adverb",
+                                          "Adjective",
+                                          "Noun",
+                                          "Verb"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "Honesty is the best policy. [word: \u0027Honesty\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adverb",
+                                          "Noun",
+                                          "Verb",
+                                          "Adjective"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  61,
+                          "stem":  "She bought a beautiful red dress for the wedding. [word: \u0027beautiful\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adverb",
+                                          "Pronoun",
+                                          "Noun",
+                                          "Adjective"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  62,
+                          "stem":  "He ran quickly but could not catch the bus. [word: \u0027but\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Preposition",
+                                          "Interjection",
+                                          "Conjunction",
+                                          "Adverb"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  63,
+                          "stem":  "The cat is hiding under the table. [word: \u0027under\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adverb",
+                                          "Adjective",
+                                          "Preposition",
+                                          "Conjunction"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  64,
+                          "stem":  "Wow! What a wonderful surprise this is. [word: \u0027Wow\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adverb",
+                                          "Noun",
+                                          "Conjunction",
+                                          "Interjection"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  65,
+                          "stem":  "They have finished their homework already. [word: \u0027their\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Possessive adjective (determiner)",
+                                          "Noun",
+                                          "Personal pronoun",
+                                          "Adverb"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  66,
+                          "stem":  "This book is mine, not yours. [word: \u0027mine\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Possessive pronoun",
+                                          "Adverb",
+                                          "Noun",
+                                          "Possessive adjective"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  67,
+                          "stem":  "He works hard to support his family. [word: \u0027hard\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Noun",
+                                          "Adverb",
+                                          "Adjective",
+                                          "Preposition"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  68,
+                          "stem":  "We waited for the rain to stop. [word: \u0027for\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adverb",
+                                          "Conjunction",
+                                          "Interjection",
+                                          "Preposition"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  69,
+                          "stem":  "Unless you work hard, you ________ in the examination.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "would succeed",
+                                          "will succeed",
+                                          "succeeded",
+                                          "will not succeed"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  70,
+                          "stem":  "He talks as if he ________ everything about the matter.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "knew",
+                                          "has known",
+                                          "knows",
+                                          "will know"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  71,
+                          "stem":  "It is time we ________ home; it is getting dark.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "went",
+                                          "have gone",
+                                          "will go",
+                                          "go"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  72,
+                          "stem":  "She is one of the best singers who ________ ever performed here.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "was",
+                                          "is",
+                                          "have",
+                                          "has"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  73,
+                          "stem":  "The old woman was too weak ________ without help.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "that she walks",
+                                          "walking",
+                                          "to walk",
+                                          "for walking"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  74,
+                          "stem":  "Hardly had he entered the room ________ the lights went out.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "that",
+                                          "when",
+                                          "then",
+                                          "than"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  75,
+                          "stem":  "I would rather walk ________ wait for the crowded bus.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "then",
+                                          "to",
+                                          "that",
+                                          "than"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  76,
+                          "stem":  "If I ________ you, I would accept the offer at once.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "am",
+                                          "was",
+                                          "be",
+                                          "were"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  77,
+                          "stem":  "The manager as well as his assistants ________ present at the meeting.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "have been",
+                                          "are",
+                                          "was",
+                                          "were"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  78,
+                          "stem":  "He worked hard so that he ________ pass the examination.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "might",
+                                          "must",
+                                          "can",
+                                          "should have"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  79,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "possess",
+                                          "possessed",
+                                          "possession",
+                                          "possessing"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Time is one of the most valuable things we (79)________. Once a moment has passed, it can never be (80)________ again, no matter how rich or powerful we may be. Many people, however, do not (81)________ the value of time until it is too late. They waste their precious hours in idle gossip and useless amusements, and then (82)________ that the day is over before their work is done. A wise person, on the other hand, makes the (83)________ of every hour. He knows that success in life (84)________ largely on the proper use of time. He does his work at the (85)________ time and never puts off till tomorrow what he can do today. Such a person is (86)________ respected by all, for he can be depended (87)________ in every situation. If we wish to make our lives useful and happy, we must therefore learn to (88)________ our time with the greatest care.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
+                      },
+                      {
+                          "n":  80,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "brought back",
+                                          "found",
+                                          "taken",
+                                          "called"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Time is one of the most valuable things we (79)________. Once a moment has passed, it can never be (80)________ again, no matter how rich or powerful we may be. Many people, however, do not (81)________ the value of time until it is too late. They waste their precious hours in idle gossip and useless amusements, and then (82)________ that the day is over before their work is done. A wise person, on the other hand, makes the (83)________ of every hour. He knows that success in life (84)________ largely on the proper use of time. He does his work at the (85)________ time and never puts off till tomorrow what he can do today. Such a person is (86)________ respected by all, for he can be depended (87)________ in every situation. If we wish to make our lives useful and happy, we must therefore learn to (88)________ our time with the greatest care.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
+                      },
+                      {
+                          "n":  81,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "forget",
+                                          "waste",
+                                          "enjoy",
+                                          "realise"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Time is one of the most valuable things we (79)________. Once a moment has passed, it can never be (80)________ again, no matter how rich or powerful we may be. Many people, however, do not (81)________ the value of time until it is too late. They waste their precious hours in idle gossip and useless amusements, and then (82)________ that the day is over before their work is done. A wise person, on the other hand, makes the (83)________ of every hour. He knows that success in life (84)________ largely on the proper use of time. He does his work at the (85)________ time and never puts off till tomorrow what he can do today. Such a person is (86)________ respected by all, for he can be depended (87)________ in every situation. If we wish to make our lives useful and happy, we must therefore learn to (88)________ our time with the greatest care.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
+                      },
+                      {
+                          "n":  82,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "promise",
+                                          "decide",
+                                          "complain",
+                                          "hope"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Time is one of the most valuable things we (79)________. Once a moment has passed, it can never be (80)________ again, no matter how rich or powerful we may be. Many people, however, do not (81)________ the value of time until it is too late. They waste their precious hours in idle gossip and useless amusements, and then (82)________ that the day is over before their work is done. A wise person, on the other hand, makes the (83)________ of every hour. He knows that success in life (84)________ largely on the proper use of time. He does his work at the (85)________ time and never puts off till tomorrow what he can do today. Such a person is (86)________ respected by all, for he can be depended (87)________ in every situation. If we wish to make our lives useful and happy, we must therefore learn to (88)________ our time with the greatest care.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
+                      },
+                      {
+                          "n":  83,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "most",
+                                          "end",
+                                          "least",
+                                          "start"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Time is one of the most valuable things we (79)________. Once a moment has passed, it can never be (80)________ again, no matter how rich or powerful we may be. Many people, however, do not (81)________ the value of time until it is too late. They waste their precious hours in idle gossip and useless amusements, and then (82)________ that the day is over before their work is done. A wise person, on the other hand, makes the (83)________ of every hour. He knows that success in life (84)________ largely on the proper use of time. He does his work at the (85)________ time and never puts off till tomorrow what he can do today. Such a person is (86)________ respected by all, for he can be depended (87)________ in every situation. If we wish to make our lives useful and happy, we must therefore learn to (88)________ our time with the greatest care.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
+                      },
+                      {
+                          "n":  84,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "insists",
+                                          "spends",
+                                          "decides",
+                                          "depends"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Time is one of the most valuable things we (79)________. Once a moment has passed, it can never be (80)________ again, no matter how rich or powerful we may be. Many people, however, do not (81)________ the value of time until it is too late. They waste their precious hours in idle gossip and useless amusements, and then (82)________ that the day is over before their work is done. A wise person, on the other hand, makes the (83)________ of every hour. He knows that success in life (84)________ largely on the proper use of time. He does his work at the (85)________ time and never puts off till tomorrow what he can do today. Such a person is (86)________ respected by all, for he can be depended (87)________ in every situation. If we wish to make our lives useful and happy, we must therefore learn to (88)________ our time with the greatest care.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
+                      },
+                      {
+                          "n":  85,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "last",
+                                          "wrong",
+                                          "right",
+                                          "same"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Time is one of the most valuable things we (79)________. Once a moment has passed, it can never be (80)________ again, no matter how rich or powerful we may be. Many people, however, do not (81)________ the value of time until it is too late. They waste their precious hours in idle gossip and useless amusements, and then (82)________ that the day is over before their work is done. A wise person, on the other hand, makes the (83)________ of every hour. He knows that success in life (84)________ largely on the proper use of time. He does his work at the (85)________ time and never puts off till tomorrow what he can do today. Such a person is (86)________ respected by all, for he can be depended (87)________ in every situation. If we wish to make our lives useful and happy, we must therefore learn to (88)________ our time with the greatest care.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
+                      },
+                      {
+                          "n":  86,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "rarely",
+                                          "never",
+                                          "hardly",
+                                          "greatly"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Time is one of the most valuable things we (79)________. Once a moment has passed, it can never be (80)________ again, no matter how rich or powerful we may be. Many people, however, do not (81)________ the value of time until it is too late. They waste their precious hours in idle gossip and useless amusements, and then (82)________ that the day is over before their work is done. A wise person, on the other hand, makes the (83)________ of every hour. He knows that success in life (84)________ largely on the proper use of time. He does his work at the (85)________ time and never puts off till tomorrow what he can do today. Such a person is (86)________ respected by all, for he can be depended (87)________ in every situation. If we wish to make our lives useful and happy, we must therefore learn to (88)________ our time with the greatest care.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
+                      },
+                      {
+                          "n":  87,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "in",
+                                          "of",
+                                          "at",
+                                          "on"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Time is one of the most valuable things we (79)________. Once a moment has passed, it can never be (80)________ again, no matter how rich or powerful we may be. Many people, however, do not (81)________ the value of time until it is too late. They waste their precious hours in idle gossip and useless amusements, and then (82)________ that the day is over before their work is done. A wise person, on the other hand, makes the (83)________ of every hour. He knows that success in life (84)________ largely on the proper use of time. He does his work at the (85)________ time and never puts off till tomorrow what he can do today. Such a person is (86)________ respected by all, for he can be depended (87)________ in every situation. If we wish to make our lives useful and happy, we must therefore learn to (88)________ our time with the greatest care.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
+                      },
+                      {
+                          "n":  88,
+                          "stem":  "________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "spend",
+                                          "waste",
+                                          "kill",
+                                          "use"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "Time is one of the most valuable things we (79)________. Once a moment has passed, it can never be (80)________ again, no matter how rich or powerful we may be. Many people, however, do not (81)________ the value of time until it is too late. They waste their precious hours in idle gossip and useless amusements, and then (82)________ that the day is over before their work is done. A wise person, on the other hand, makes the (83)________ of every hour. He knows that success in life (84)________ largely on the proper use of time. He does his work at the (85)________ time and never puts off till tomorrow what he can do today. Such a person is (86)________ respected by all, for he can be depended (87)________ in every situation. If we wish to make our lives useful and happy, we must therefore learn to (88)________ our time with the greatest care.",
+                          "direction":  "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate word for each blank from the given options."
+                      },
+                      {
+                          "n":  89,
+                          "stem":  "BRAVE",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "courageous",
+                                          "weak",
+                                          "fearful",
+                                          "selfish"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  90,
+                          "stem":  "ABOLISH",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "repair",
+                                          "establish",
+                                          "do away with",
+                                          "support"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  91,
+                          "stem":  "RARE",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "uncommon",
+                                          "common",
+                                          "cheap",
+                                          "frequent"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  92,
+                          "stem":  "GENEROUS",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "liberal in giving",
+                                          "stingy",
+                                          "greedy",
+                                          "cruel"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  93,
+                          "stem":  "ANCIENT",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "very old",
+                                          "new",
+                                          "future",
+                                          "modern"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  94,
+                          "stem":  "DILIGENT",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "careless",
+                                          "hard-working",
+                                          "cheerful",
+                                          "lazy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  95,
+                          "stem":  "VICTORY",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "struggle",
+                                          "defeat",
+                                          "triumph",
+                                          "danger"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  96,
+                          "stem":  "CALM",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "stormy",
+                                          "angry",
+                                          "noisy",
+                                          "peaceful"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  97,
+                          "stem":  "ARTIFICIAL",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "modern",
+                                          "false",
+                                          "natural",
+                                          "cheap"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  98,
+                          "stem":  "EXPAND",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "grow",
+                                          "stretch",
+                                          "widen",
+                                          "contract"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  99,
+                          "stem":  "PERMANENT",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "lasting",
+                                          "strong",
+                                          "temporary",
+                                          "fixed"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  100,
+                          "stem":  "COMPULSORY",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "important",
+                                          "optional",
+                                          "required",
+                                          "necessary"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  101,
+                          "stem":  "PRAISE",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "thank",
+                                          "admire",
+                                          "blame",
+                                          "reward"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  102,
+                          "stem":  "INCREASE",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "rise",
+                                          "grow",
+                                          "decrease",
+                                          "gain"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  103,
+                          "stem":  "TRANSPARENT",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "clear",
+                                          "bright",
+                                          "thin",
+                                          "opaque"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  104,
+                          "stem":  "HUMBLE",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "simple",
+                                          "modest",
+                                          "gentle",
+                                          "proud"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  105,
+                          "stem":  "To \u0027burn the midnight oil\u0027 means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "to waste electricity",
+                                          "to set something on fire",
+                                          "to work or study late into the night",
+                                          "to sleep during the day"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
+                      },
+                      {
+                          "n":  106,
+                          "stem":  "To \u0027let the cat out of the bag\u0027 means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "to lose something valuable",
+                                          "to reveal a secret carelessly",
+                                          "to make a loud noise",
+                                          "to buy a pet"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
+                      },
+                      {
+                          "n":  107,
+                          "stem":  "Something that happens \u0027once in a blue moon\u0027 happens:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "very rarely",
+                                          "at night only",
+                                          "very often",
+                                          "never at all"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
+                      },
+                      {
+                          "n":  108,
+                          "stem":  "To \u0027hit the nail on the head\u0027 means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "to work with tools",
+                                          "to do something dangerous",
+                                          "to say exactly the right thing",
+                                          "to injure oneself"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
+                      },
+                      {
+                          "n":  109,
+                          "stem":  "A \u0027piece of cake\u0027 means something that is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "very expensive",
+                                          "very tasty",
+                                          "very easy to do",
+                                          "very small"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
+                      },
+                      {
+                          "n":  110,
+                          "stem":  "To be \u0027in hot water\u0027 means to be:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "very comfortable",
+                                          "feeling unwell",
+                                          "in trouble or difficulty",
+                                          "taking a bath"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
+                      },
+                      {
+                          "n":  111,
+                          "stem":  "To \u0027turn a deaf ear\u0027 to something means to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "refuse to listen or pay attention",
+                                          "repeat what is said",
+                                          "listen very carefully",
+                                          "become hard of hearing"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
+                      },
+                      {
+                          "n":  112,
+                          "stem":  "To \u0027call it a day\u0027 means to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "decide the date",
+                                          "start a new task",
+                                          "stop work for the time being",
+                                          "name a festival"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
+                      },
+                      {
+                          "n":  113,
+                          "stem":  "Choose the option that correctly distinguishes \u0027accept\u0027 and \u0027except\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Accept = to leave out; Except = to receive willingly",
+                                          "Both words mean the same thing",
+                                          "Accept = to receive or agree to; Except = other than / leaving out",
+                                          "Accept and Except are both prepositions"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
+                      },
+                      {
+                          "n":  114,
+                          "stem":  "Choose the option that correctly distinguishes \u0027advice\u0027 and \u0027advise\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Advice = a noun (a suggestion/counsel); Advise = a verb (to give counsel)",
+                                          "Both are verbs",
+                                          "Advice = a verb meaning to counsel; Advise = a noun meaning counsel",
+                                          "Both are nouns"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
+                      },
+                      {
+                          "n":  115,
+                          "stem":  "Choose the correctly used sentence:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "He is so weak that he may losing the match.",
+                                          "He is so weak that he may loss the match.",
+                                          "He is so weak that he may lose the match.",
+                                          "He is so weak that he may loose the match."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
+                      },
+                      {
+                          "n":  116,
+                          "stem":  "Choose the option that correctly distinguishes \u0027later\u0027 and \u0027latter\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Both mean \u0027recent\u0027",
+                                          "Later = afterwards in time; Latter = the second of two things mentioned",
+                                          "Later = a noun; Latter = a verb",
+                                          "Later = the second of two; Latter = afterwards in time"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
+                      },
+                      {
+                          "n":  117,
+                          "stem":  "Choose the correctly used sentence:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Beside of English, she also speaks French and German.",
+                                          "Beside English, she also speaks French and German.",
+                                          "Besides English, she also speaks French and German.",
+                                          "Besides to English, she speaks French."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
+                      },
+                      {
+                          "n":  118,
+                          "stem":  "Choose the option that correctly distinguishes \u0027borrow\u0027 and \u0027lend\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Borrow = to give something temporarily; Lend = to take something temporarily",
+                                          "Both mean the same thing",
+                                          "Borrow = to take something temporarily (from someone); Lend = to give something temporarily (to someone)",
+                                          "Borrow and Lend are nouns"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
+                      },
+                      {
+                          "n":  119,
+                          "stem":  "Choose the correctly used sentence:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The school is farthest from my house than the market.",
+                                          "The school is more far from my house than the market.",
+                                          "The school is farther from my house than the market.",
+                                          "The school is father from my house than the market."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
+                      },
+                      {
+                          "n":  120,
+                          "stem":  "Choose the option that correctly distinguishes \u0027imply\u0027 and \u0027infer\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Both mean \u0027to state clearly\u0027",
+                                          "Imply and Infer mean exactly the same thing",
+                                          "Imply = to draw a conclusion; Infer = to hint or suggest",
+                                          "Imply = to suggest something without stating it; Infer = to work out a conclusion from evidence"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
+                      }
+                  ]
+}
