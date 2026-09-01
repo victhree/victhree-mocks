@@ -1,0 +1,1641 @@
+{
+    "title":  "Mathematics",
+    "durationMin":  120,
+    "scoring":  {
+                    "totalMarks":  100,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "For x \u003e 0, what is the minimum value of x + (x+2)/(2x)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1",
+                                          "2",
+                                          "5/2",
+                                          "Cannot be determined"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The sum of three prime numbers is 100. If one of them exceeds another by 36, then one of the numbers is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "17",
+                                          "29",
+                                          "43",
+                                          "None of the above"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Which one of the following is an irrational number?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "√59049",
+                                          "231/593",
+                                          "0.454545...",
+                                          "0.1211221112221111122222..."
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The average of 50 consecutive natural numbers is x. What will be the average when the next four natural numbers are also included?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "x + 1",
+                                          "x + 2",
+                                          "x + 4",
+                                          "x + (x/54)"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "If x = y^a, y = z^b and z = x^c, then the value of abc is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1",
+                                          "2",
+                                          "−1",
+                                          "0"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "What is the sum of digits of the least multiple of 13, which when divided by 6, 8 and 12 leaves 5, 7 and 11 respectively as the remainders?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5",
+                                          "6",
+                                          "7",
+                                          "8"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "A tin of oil was 4/5 full. When 6 bottles of oil were taken out from this tin and 4 bottles of oil were poured into it, it was 3/4 full. Oil of how many bottles can the tin contain? (All bottles are of equal volume)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "35",
+                                          "40",
+                                          "45",
+                                          "50"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The HCF of two natural numbers m and n is 24 and their product is 552. How many sets of values of m and n are possible?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1",
+                                          "2",
+                                          "4",
+                                          "No set of m and n is possible satisfying the given conditions"
+                                      ],
+                          "pyq":  "CDS 2014-I",
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The HCF of two numbers is 98 and their LCM is 2352. The sum of the numbers may be:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1372",
+                                          "1398",
+                                          "1426",
+                                          "1484"
+                                      ],
+                          "pyq":  "CDS 2013-II",
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Suppose n is a positive integer such that (n² + 48) is a perfect square. What is the number of such n?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "One",
+                                          "Two",
+                                          "Three",
+                                          "Four"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Power, Roots and Decimals",
+                          "topic":  "Power, Roots and Decimals"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "If a − b = 4 and a² + b² = 40, where a and b are positive integers, then a³ + b⁶ is equal to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "264",
+                                          "280",
+                                          "300",
+                                          "324"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Power, Roots and Decimals",
+                          "topic":  "Power, Roots and Decimals"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The difference of cubes of two consecutive integers:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "is odd or even",
+                                          "is never divisible by 2",
+                                          "is always even",
+                                          "None of these"
+                                      ],
+                          "pyq":  "CDS 2014-I",
+                          "subject":  "Power, Roots and Decimals",
+                          "topic":  "Power, Roots and Decimals"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Twelve (12) men work 8 hours per day and require 10 days to build a wall. If 8 men are available, how many hours per day must they work to finish the work in 8 days?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10 hours",
+                                          "12 hours",
+                                          "15 hours",
+                                          "18 hours"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Twelve (12) persons can paint 10 identical rooms in 16 days. In how many days can 8 persons paint 20 such rooms?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "12",
+                                          "24",
+                                          "36",
+                                          "48"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Two pipes A and B can fill a tank in 60 minutes and 75 minutes respectively. There is also an outlet C. If A, B and C are opened together, the tank is full in 50 minutes. How much time will be taken by C to empty the full tank?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "100 minutes",
+                                          "110 minutes",
+                                          "120 minutes",
+                                          "125 minutes"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Water is filled in a container in such a manner that its volume doubles every 5 minutes. If it takes 30 minutes for the container to be full, in how much time will it be one-fourth full?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "7.5 minutes",
+                                          "15 minutes",
+                                          "20 minutes",
+                                          "17.5 minutes"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "A race has three parts. The speed and time required to complete the individual parts for a runner are: Part I — 9 kmph for 50 minutes, Part II — 8 kmph for 80 minutes, Part III — 7.5 kmph for 100 minutes. What is the average speed of this runner?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "8.17 kmph",
+                                          "8.00 kmph",
+                                          "7.80 kmph",
+                                          "7.77 kmph"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "In a race of 1000 m, A beats B by 150 m, while in another race of 3000 m, C beats D by 400 m. Speed of B is equal to that of D. (Assume A, B, C, D run at uniform speeds in all events.) If A and C participate in a race of 6000 m, then which one of the following is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A beats C by 250 m",
+                                          "C beats A by 250 m",
+                                          "A beats C by 115.38 m",
+                                          "C beats A by 115.38 m"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "A thief steals a car parked in a house and goes away with a speed of 40 kmph. The theft was discovered after half an hour and immediately the owner sets off in another car with a speed of 60 kmph. When will the owner meet the thief?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "55 km from the owner\u0027s house, 1 hour after the theft",
+                                          "60 km from the owner\u0027s house, 1.5 hours after the theft",
+                                          "60 km from the owner\u0027s house, 1.5 hours after the discovery of the theft",
+                                          "55 km from the owner\u0027s house, 1.5 hours after the theft"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "A cyclist moves non-stop from A to B, a distance of 14 km, at a certain average speed. If his average speed reduces by 1 km per hour, he takes 20 minutes more to cover the same distance. The original average speed of the cyclist is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5 km/hour",
+                                          "6 km/hour",
+                                          "7 km/hour",
+                                          "None of the above"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Let a two-digit number be k times the sum of its digits. If the number formed by interchanging the digits is m times the sum of the digits, then the value of m is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "9 − k",
+                                          "10 − k",
+                                          "11 − k",
+                                          "k − 1"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Average",
+                          "topic":  "Average"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "(sin35°/cos55°)² − (cos55°/sin35°)² + 2sin30° is equal to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "−1",
+                                          "0",
+                                          "1",
+                                          "2"
+                                      ],
+                          "pyq":  "CDS 2016-I",
+                          "subject":  "Average",
+                          "topic":  "Average"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Let x and y be positive integers such that x is prime and y is composite. Which of the following statements are correct?",
+                          "subs":  [
+                                       "1. (y − x) can be an even integer.",
+                                       "2. xy can be an even integer.",
+                                       "3. 0.5(x + y) can be an even integer.   [2015-I]"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Average",
+                          "topic":  "Average"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The salary of a person is increased by 10% of his original salary. But he received the same amount even after increment. What is the percentage of his salary he did not receive?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "11%",
+                                          "10%",
+                                          "(100/11)%",
+                                          "(90/11)%"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "ABCD is a square. If the sides AB and CD are increased by 30%, and sides BC and AD are increased by 20%, then the area of the resulting rectangle exceeds the area of the square by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "50%",
+                                          "52%",
+                                          "54%",
+                                          "56%"
+                                      ],
+                          "pyq":  "CDS 2015-II",
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "A\u0027s salary was increased by 40% and then decreased by 20%. On the whole A\u0027s salary is increased by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "60%",
+                                          "40%",
+                                          "20%",
+                                          "12%"
+                                      ],
+                          "pyq":  "CDS 2015-II",
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "A person could save 10% of his income. But 2 years later, when his income increased by 20%, he could save the same amount only as before. By what percentage has his expenditure increased?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "22²/₉ %",
+                                          "23¹/₃ %",
+                                          "24²/₉ %",
+                                          "25²/₉ %"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "A person\u0027s salary has increased from Rs. 7200 to Rs. 8100. What is the percentage increase in his salary?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "25%",
+                                          "18%",
+                                          "16²/₃ %",
+                                          "12¹/₂ %"
+                                      ],
+                          "pyq":  "CDS 2013-II",
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "X bought 4 bottles of lemon juice and Y bought one bottle of orange juice. Orange juice per bottle costs twice the cost of lemon juice per bottle. Z bought nothing but contributed Rs. 50 for his share of the drink, which they mixed together and shared the cost equally. If Z\u0027s Rs. 50 exactly covers his share, what is the cost of one bottle of orange juice?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 75",
+                                          "Rs. 50",
+                                          "Rs. 46",
+                                          "Rs. 30"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The ratio of the sum and difference of the ages of the father and the son is 11 : 3. Consider the following statements:",
+                          "subs":  [
+                                       "1. The ratio of their ages is 8 : 5.",
+                                       "2. The ratio of their ages after the son attains twice the present age will be 11 : 8.",
+                                       "Which of the statements given above is/are correct?   [2018-II]"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "Two trains are moving in the same direction at 1.5 km/minute and 60 km/hour respectively. A man in the faster train observes that it takes 27 seconds to cross the slower train. The length of the slower train is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "225 m",
+                                          "230 m",
+                                          "240 m",
+                                          "250 m"
+                                      ],
+                          "pyq":  "CDS 2015-II",
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "A number when divided by 7 leaves a remainder 3, and the resulting quotient when divided by 11 leaves a remainder 6. If the same number when divided by 11 leaves a remainder m, and the resulting quotient when divided by 7 leaves a remainder n, what are the values of m and n respectively?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 4",
+                                          "4 and 1",
+                                          "3 and 6",
+                                          "6 and 3"
+                                      ],
+                          "pyq":  "CDS 2015-II",
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "The sides of a triangle are in the ratio 1/2 : 1/3 : 1/4. If its perimeter is 52 cm, then what is the length of the smallest side?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "9 cm",
+                                          "10 cm",
+                                          "11 cm",
+                                          "12 cm"
+                                      ],
+                          "pyq":  "CDS 2014-II",
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "In a race of 100 m, A beats B by 4 m and A beats C by 2 m. By how many metres (approximately) would C beat B in another 100 m race, assuming C and B run with their respective speeds as in the earlier race?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2",
+                                          "2.04",
+                                          "2.08",
+                                          "3.2"
+                                      ],
+                          "pyq":  "CDS 2015-II",
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "In an election, 10% of the voters on the voter list did not cast their vote and 60 voters cast their ballot papers blank. There were only two candidates. The winner was supported by 47% of total voters on the voter list and he got 308 votes more than his rival. The number of voters on the voter list is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3600",
+                                          "6200",
+                                          "6028",
+                                          "6400"
+                                      ],
+                          "pyq":  "CDS 2015-II",
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "A person selling an article for Rs. 96 finds that his loss percent is one-fourth of the amount of rupees that he paid for the article. What can be the cost price?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Only Rs. 160",
+                                          "Only Rs. 240",
+                                          "Either Rs. 160 or Rs. 240",
+                                          "Neither Rs. 160 nor Rs. 240"
+                                      ],
+                          "pyq":  "CDS 2014-II",
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "A shopkeeper sells his articles at their cost price, but uses a faulty balance which reads 1000 g for 800 g. What is his actual profit percentage?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "25%",
+                                          "20%",
+                                          "40%",
+                                          "30%"
+                                      ],
+                          "pyq":  "CDS 2014-II",
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "What is the principal amount which earns Rs. 210 as compound interest for the second year at 5% per annum?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 2000",
+                                          "Rs. 3200",
+                                          "Rs. 4000",
+                                          "Rs. 4800"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "If a sum of money at a certain rate of simple interest per year doubles in 5 years, and at a different rate of simple interest per year becomes three times in 12 years, then the difference in the two rates of simple interest per year is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2%",
+                                          "3%",
+                                          "3¹/₃ %",
+                                          "14¹/₃ %"
+                                      ],
+                          "pyq":  "CDS 2016-I",
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "An automobile financer claims to be lending money at simple interest, but he includes the interest every six months for calculating the principal. If he is charging an interest at the rate of 10%, the effective rate of interest becomes:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10.25%",
+                                          "10.5%",
+                                          "10.75%",
+                                          "11%"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "The difference between compound interest and simple interest at the same rate of interest R per cent per annum on Rs. 15,000 for 2 years is Rs. 96. What is the value of R?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "8",
+                                          "10",
+                                          "12",
+                                          "Cannot be determined due to insufficient data"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "A sum of money becomes 3 times in 5 years at simple interest. In how many years will the same sum become 6 times at the same rate of simple interest?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10 yr",
+                                          "12 yr",
+                                          "12.5 yr",
+                                          "10.5 yr"
+                                      ],
+                          "pyq":  "CDS 2014-II",
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "If the roots of the quadratic equation x² − 4x − log₁₀N = 0 are all real, then the minimum value of N is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1/100",
+                                          "1/1000",
+                                          "1/10000",
+                                          "10000"
+                                      ],
+                          "pyq":  "CDS 2015-II",
+                          "subject":  "Logarithm",
+                          "topic":  "Logarithm"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "If log₁₀ a = p and log₁₀ b = q, then what is the value of log₁₀(a^p · b^q)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "p² + q²",
+                                          "p² − q²",
+                                          "p²q²",
+                                          "p²/q²"
+                                      ],
+                          "pyq":  "CDS 2012-II",
+                          "subject":  "Logarithm",
+                          "topic":  "Logarithm"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "If a : b = c : d = 1 : 6, then what is the value of (a² + c²)/(b² + d²)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1/6",
+                                          "1",
+                                          "1/36",
+                                          "6"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "If x⁶ + 1/x⁶ = k(x² + 1/x²), then k is equal to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "x² − 1 + 1/x²",
+                                          "(x²−1)(x⁴−1)",
+                                          "x⁴ − 1 + 1/x⁴",
+                                          "x⁴ + 1 − 1/x⁴"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "If the sum of the squares of three consecutive natural numbers is 110, then the sum of their cubes is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "625",
+                                          "654",
+                                          "684",
+                                          "725"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "When the roots of the quadratic ax² + bx + c = 0 are negative of reciprocal of each other, then which one of the following is correct?   [undefined]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "b = 0",
+                                          "c = 0",
+                                          "a = c",
+                                          "a = −c"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "What is the root of the equation log₁₀(x² − 6x + 45) = 2?   [undefined]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "9, −5",
+                                          "−9, 5",
+                                          "11, −5",
+                                          "−11, 5"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "Let x and y be positive integers such that x \u003e y. The expressions 3x + 2y and 2x + 3y, when divided by 5, leave remainders 2 and 3 respectively. What is the remainder when (x − y) is divided by 5?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4",
+                                          "2",
+                                          "1",
+                                          "0"
+                                      ],
+                          "pyq":  "CDS 2015-II",
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "What is the lowest common multiple of ab(x² + 1) + x(a² + b²) and ab(x² − 1) + x(a² − b²)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "(a²x²−b²)(a+bx)",
+                                          "(a²x²−b²)(a+bx)²",
+                                          "(a²x²−b²)(a−bx)",
+                                          "(a²x²−b²)(a−bx)²"
+                                      ],
+                          "pyq":  "CDS 2014-II",
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "What is the remainder when (x⁵ − 5x² + 125) is divided by (x + 5)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "125",
+                                          "−3125",
+                                          "3125"
+                                      ],
+                          "pyq":  "CDS 2014-II",
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "If (x + k) is the common factor of (x² + ax + b) and (x² + cx + d), then what is k equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "(d−b)/(c−a)",
+                                          "(d−b)/(a−c)",
+                                          "(d+b)/(c+a)",
+                                          "(d−b)/(c+a)"
+                                      ],
+                          "pyq":  "CDS 2014-II",
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "The number of all pairs (m, n), where m and n are positive integers, such that 1/m + 1/n − 1/(mn) = 2/5, is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6",
+                                          "5",
+                                          "4",
+                                          "2"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. The equation 1990x − 173y = 11 has no solution in integers for x and y.",
+                                       "2. The equation 3x − 12y = 7 has no solution in integers for x and y.",
+                                       "Which of the above statements is/are correct?   [2015-I]"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "If m and n (m \u003e n) are the roots of the equation 7(x + 2a)² + 3a² = 5a(7x + 23a), where a \u003e 0, then what is 3m − n equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "12a",
+                                          "14a",
+                                          "15a",
+                                          "18a"
+                                      ],
+                          "pyq":  "CDS 2014-II",
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "The sum of two positive numbers x and y is 2.5 times their difference. If the product of the numbers is 84, what is the sum of those two numbers?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "16",
+                                          "18",
+                                          "19",
+                                          "20"
+                                      ],
+                          "pyq":  "CDS 2014-I",
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "[Common data, same as before] In a certain town of population 1,00,000, three types of newspapers (I, II, III) are read as follows — I: 10%, II: 30%, III: 5%, Both I and II: 8%, Both II and III: 4%, Both I and III: 2%, All three: 1%.",
+                          "subs":  [
+                                       "What is the number of people who read at least two newspapers?   [2019-I]"
+                                   ],
+                          "options":  [
+                                          "10,000",
+                                          "12,000",
+                                          "14,000",
+                                          "15,000"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Set Theory",
+                          "topic":  "Set Theory"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "In a class of 60 boys, there are 45 boys who play chess and 30 boys who play carrom. If every boy of the class plays at least one of the two games, then how many boys play carrom only?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "30",
+                                          "20",
+                                          "15",
+                                          "10"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Set Theory",
+                          "topic":  "Set Theory"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "[Common data] In an examination of Class XII, 55% students passed in Biology, 62% passed in Physics, 60% passed in Chemistry, 25% passed in Physics and Biology, 30% passed in Physics and Chemistry, 28% passed in Biology and Chemistry. Only 2% failed in all subjects.",
+                          "subs":  [
+                                       "What percentage of students passed in all three subjects?   [2018-II]"
+                                   ],
+                          "options":  [
+                                          "6",
+                                          "5",
+                                          "4",
+                                          "3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Set Theory",
+                          "topic":  "Set Theory"
+                      },
+                      {
+                          "n":  61,
+                          "stem":  "Consider a regular hexagon ABCDEF. Two towers are situated at B and C. The angle of elevation from A to the top of the tower at B is 30°, and the angle of elevation to the top of the tower at C is 45°. What is the ratio of the height of towers at B and C?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1:√3",
+                                          "1:3",
+                                          "1:2",
+                                          "1:2√3"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  62,
+                          "stem":  "Two poles are placed at P and Q on either side of a road such that the line joining P and Q is perpendicular to the length of the road. A person moves x metre away from P parallel to the road and places another pole at R. Then the person moves a further x metre in the same direction and turns, moving a distance y metre away from the road perpendicularly, where he finds himself, Q and R on the same line. What is the width of the road (distance PQ)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "x",
+                                          "x/2",
+                                          "y",
+                                          "2y"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  63,
+                          "stem":  "Suppose ABC is a triangle with AB of unit length. D and E are points lying on AB and AC respectively such that BC and DE are parallel. If the area of triangle ABC is twice the area of triangle ADE, then the length of AD is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1/2 unit",
+                                          "1/3 unit",
+                                          "1/√2 unit",
+                                          "1/√3 unit"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  64,
+                          "stem":  "The angles of elevation of the top of a tower from two points P and Q at distances m² and n² respectively from the base, and in the same straight line with it, are complementary. The height of the tower is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "(mn)^(1/2)",
+                                          "m/n²",
+                                          "1/(m²n)",
+                                          "mn"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  65,
+                          "stem":  "If p = √[(1−sinx)/(1+sinx)], q = (1−sinx)/cosx, r = cosx/(1+sinx), then which of the following is/are correct?",
+                          "subs":  [
+                                       "1. p = q = r",
+                                       "2. p² = qr   [undefined]"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  66,
+                          "stem":  "If tan A + cot A = 4, then tan⁴A + cot⁴A is equal to:   [undefined]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "110",
+                                          "191",
+                                          "80",
+                                          "194"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  67,
+                          "stem":  "If (3 − tan²A)/(1 − 3tan²A) = k, then cosecA(3sinA − 4sin³A) is equal to:   [undefined]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2k/(k−1)",
+                                          "2k/(k−1), where 1/3 ≤ k ≤ 3",
+                                          "2k/(k−1), where k \u003c 1/3 or k \u003e 3",
+                                          "2k/(k+1)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  68,
+                          "stem":  "If tan(A + B) = √3 and tan A = 1, then tan(A − B) is equal to:   [undefined]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "1",
+                                          "1/√3",
+                                          "√2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  69,
+                          "stem":  "If sin x + cos x = p and sin³x + cos³x = q, then what is p³ − 3p equal to?   [undefined]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "−2q",
+                                          "2q",
+                                          "4q"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  70,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. There exists at least one value of x between 0 and π/2 which satisfies the equation sin⁴x − 2sin²x − 1 = 0.",
+                                       "2. sin(1.5) is greater than cos(1.5).",
+                                       "Which of the above statements is/are correct?   [undefined]"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  71,
+                          "stem":  "The value of cosec²67° + sec²57° − cot²33° − tan²23° is:   [undefined]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2√2",
+                                          "2",
+                                          "√2",
+                                          "0"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  72,
+                          "stem":  "Consider the following for real numbers α, β, γ and δ:",
+                          "subs":  [
+                                       "1) secα = 1/4",
+                                       "2) tanβ = 20",
+                                       "3) cosecγ = 1/2",
+                                       "4) cosδ = 2",
+                                       "How many of the above statements are not possible?   [2019-I]"
+                                   ],
+                          "options":  [
+                                          "one",
+                                          "two",
+                                          "three",
+                                          "four"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  73,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. If cosθ/(1−sinθ) + cosθ/(1+sinθ) = 4 where 0 \u003c θ \u003c 90°, then θ = 60°",
+                                       "2. If 3tanθ + cotθ = 5cosecθ, where 0 \u003c θ \u003c 90°, then θ = 60°",
+                                       "Which of the statements given above is/are correct?   [2018-II]"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  74,
+                          "stem":  "Let OA, OB, OC and OD be rays in the anticlockwise direction such that ∠AOB = ∠COD = 100°, ∠BOC = 82° and ∠AOD = 78°. Consider the following statements:",
+                          "subs":  [
+                                       "1. AOC and BOD are (straight) lines.",
+                                       "2. ∠BOC and ∠AOD are supplementary.",
+                                       "Which of the above statements is/are correct?   [2015-I]"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  75,
+                          "stem":  "An aeroplane flying at a height of 3000 m passes vertically above another aeroplane at an instant when the angles of elevation of the two planes from some point on the ground are 60° and 45° respectively. Then the vertical distance between the two planes is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1000(√3−1) m",
+                                          "1000√3 m",
+                                          "1000(3−√3) m",
+                                          "3000√3 m"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  76,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. The locus of points which are equidistant from two parallel lines is a line parallel to both of them, drawn mid-way between them.",
+                                       "2. The perpendicular distances of any point on this locus line from the two original parallel lines are equal, and no point outside this locus line has this property.",
+                                       "Which of the above statements is/are correct?   [undefined]"
+                                   ],
+                          "options":  [
+                                          "Only 1",
+                                          "Only 2",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  77,
+                          "stem":  "The sides of a triangle are 5 cm, 6 cm and 7 cm. The area of the triangle is approximately:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "14.9 cm²",
+                                          "14.7 cm²",
+                                          "14.5 cm²",
+                                          "14.3 cm²"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  78,
+                          "stem":  "If ABC is a right-angled triangle with AC as its hypotenuse, then which one of the following is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "AC³ \u003c AB³ + BC³",
+                                          "AC³ \u003e AB³ + BC³",
+                                          "AC³ ≤ AB³ + BC³",
+                                          "AC³ ≥ AB³ + BC³"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  79,
+                          "stem":  "The base of an isosceles triangle is 300 units and each of its equal sides is 170 units. The area of the triangle is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "9600 square units",
+                                          "10000 square units",
+                                          "12000 square units",
+                                          "None of the above"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  80,
+                          "stem":  "A square and an equilateral triangle have equal perimeter. If the diagonal of the square is 12√2 cm, then the area of the triangle is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "24√2 cm²",
+                                          "24√3 cm²",
+                                          "48√3 cm²",
+                                          "64√3 cm²"
+                                      ],
+                          "pyq":  "CDS 2015-II",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  81,
+                          "stem":  "The corners of a square of side \u0027a\u0027 are cut away so as to form a regular octagon. What is the side of the octagon?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a(√2−1)",
+                                          "a(√3−1)",
+                                          "a/(√2+1)",
+                                          "a/3"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  82,
+                          "stem":  "The number of sides of two regular polygons are in the ratio 5 : 4. The difference between their interior angles is 9°. Consider the following statements:",
+                          "subs":  [
+                                       "1. One of them is a pentagon and the other is a rectangle.",
+                                       "2. One of them is a decagon and the other is an octagon.",
+                                       "3. The sum of their exterior angles is 720°.",
+                                       "Which of the above statements is/are correct?   [2018-II]"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "1 and 3",
+                                          "2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  83,
+                          "stem":  "In a circle of radius 8 cm, AB and AC are two chords such that AB = AC = 12 cm. What is the length of chord BC?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2√6",
+                                          "3√6",
+                                          "3√7",
+                                          "6√7"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  84,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. The number of circles that can be drawn through three non-collinear points is infinity.",
+                                       "2. The angle formed in the minor segment of a circle is acute.",
+                                       "Which of the above statements is/are correct?   [2019-I]"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  85,
+                          "stem":  "Consider a circle with centre at C. Let OP and OQ denote the tangents to the circle drawn from a point O outside the circle. Let R be a point on OP and S be a point on OQ such that OR×SQ = OS×RP. Which of the following is/are correct?",
+                          "subs":  [
+                                       "1. If X is the circle with centre O and radius OR, and Y is the circle with centre O and radius OS, then X = Y.",
+                                       "2. ∠POC + ∠QCO = 90°   [2016-II]"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  86,
+                          "stem":  "AB is a line segment of length 2a, with M as midpoint. Semicircles are drawn on one side with AM, MB and AB as diameters. A circle with centre O and radius r is drawn such that this circle touches all three semicircles. The value of r is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2a/3",
+                                          "a/2",
+                                          "a/3",
+                                          "a/4"
+                                      ],
+                          "pyq":  "CDS 2015-II",
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  87,
+                          "stem":  "Walls (excluding roofs and floors) of 5 identical rooms having length, breadth and height 6 m, 4 m and 2.5 m respectively are to be painted. Out of five rooms, two rooms have one square window each having a side of 2.5 m. Paints are available only in cans of 1 litre; 1 litre of paint can cover 20 square metres. How many cans are required for painting?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10",
+                                          "12",
+                                          "13",
+                                          "14"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  88,
+                          "stem":  "Let S be the parallelogram obtained by joining the mid-points of the parallelogram T. Consider the following statements:",
+                          "subs":  [
+                                       "1. The ratio of area of T to that of S is 2 : 1.",
+                                       "2. The perimeter of S is half of the sum of diagonals of T.",
+                                       "Which of the above statements is/are correct?   [2018-II]"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  89,
+                          "stem":  "A semi-circular plate is rolled up to form a conical surface. The angle between the generator and the axis of the cone is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "60°",
+                                          "45°",
+                                          "30°",
+                                          "15°"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  90,
+                          "stem":  "An equilateral triangle, a square and a circle have equal perimeter. If T, S and C denote the area of the triangle, the area of the square and the area of the circle respectively, then which one of the following is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "T \u003c S \u003c C",
+                                          "S \u003c T \u003c C",
+                                          "C \u003c S \u003c T",
+                                          "T \u003c C \u003c S"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  91,
+                          "stem":  "[Common data] The sum of the length, breadth and height of a cuboid is 22 cm, and the length of its diagonal is 14 cm.",
+                          "subs":  [
+                                       "If S is the sum of the cubes of the dimensions of the cuboid and V is its volume, what is (S − 3V) equal to?   [2019-I]"
+                                   ],
+                          "options":  [
+                                          "572 cm³",
+                                          "728 cm³",
+                                          "1144 cm³",
+                                          "None of the above"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  92,
+                          "stem":  "A solid right cylinder is of height π cm. If its lateral surface area is half its total surface area, then the radius of its base is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "π/2 cm",
+                                          "π cm",
+                                          "1/π cm",
+                                          "2/π cm"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  93,
+                          "stem":  "Two cones have their heights in the ratio 1 : 3. If the radii of their bases are in the ratio 3 : 1, then the ratio of their volumes will be:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1:1",
+                                          "2:1",
+                                          "3:1",
+                                          "9:1"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  94,
+                          "stem":  "If the total surface area of a cube is 6 sq units, then what is the volume of the cube?   [undefined]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 cu unit",
+                                          "2 cu units",
+                                          "4 cu units",
+                                          "6 cu units"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  95,
+                          "stem":  "The following table gives a \u0027less than\u0027 type frequency distribution of income per day:",
+                          "subs":  [
+                                       "Income less than 250: 12 persons; less than 500: 32; less than 750: 55; less than 1000: 70; less than 1250: 80; less than 1500: 100.",
+                                       "What is the modal class?   [2014-I]"
+                                   ],
+                          "options":  [
+                                          "250-500",
+                                          "500-750",
+                                          "750-1000",
+                                          "None of these"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  96,
+                          "stem":  "Which of the following items of information is a good example of statistical data?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A table of logarithms of numbers",
+                                          "A list of names of 120 students of a class",
+                                          "A list of annual incomes of the members of a club",
+                                          "Holiday list of the offices of Government of India in the year 2013"
+                                      ],
+                          "pyq":  "CDS 2014-I",
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  97,
+                          "stem":  "Consider the following data on birth rate and death rate over successive decades:",
+                          "subs":  [
+                                       "1911-21: birth 48.1, death 38.5; 1921-31: birth 46.4, death 36.3; 1931-41: birth 45.2, death 31.2; 1941-51: birth 39.9, death 27.4; 1951-61: birth 41.7, death 22.8; 1961-71: birth 41.1, death 35.9; 1971-81: birth 37.1, death 14.8.",
+                                       "For which period is the natural growth rate (birth rate − death rate) minimum?   [undefined]"
+                                   ],
+                          "options":  [
+                                          "1911-21",
+                                          "1921-31",
+                                          "1951-61",
+                                          "1961-71"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  98,
+                          "stem":  "Consider the following statements pertaining to a frequency polygon of a frequency distribution of a continuous variable having seven class intervals of equal width:",
+                          "subs":  [
+                                       "I. The original frequency distribution can be reconstructed from the frequency polygon.",
+                                       "II. The frequency polygon touches the X-axis at its extreme right and extreme left.",
+                                       "Which of the above statements is/are correct?   [2014-I]"
+                                   ],
+                          "options":  [
+                                          "Only I",
+                                          "Only II",
+                                          "Both I and II",
+                                          "Neither I nor II"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  99,
+                          "stem":  "If A, G and H are the arithmetic, geometric and harmonic means between a and b respectively, then which one of the following relations is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "G is the geometric mean between A and H",
+                                          "A is the arithmetic mean between G and H",
+                                          "H is the harmonic mean between A and G",
+                                          "None of the above"
+                                      ],
+                          "pyq":  "CDS 2015-I",
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  100,
+                          "stem":  "Ten observations 6, 14, 15, 17, x+1, 2x−13, 30, 32, 34 and 43 are written in ascending order. The median of the data is 24. What is the value of x?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "15",
+                                          "18",
+                                          "20",
+                                          "24"
+                                      ],
+                          "pyq":  "CDS 2014-II",
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      }
+                  ]
+}

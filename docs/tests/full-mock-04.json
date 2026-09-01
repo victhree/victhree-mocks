@@ -1,0 +1,9 @@
+{
+  "title": "Full-Length Mock 4",
+  "multiPaper": true,
+  "papers": [
+    { "id": "full-mock-04-eng",   "title": "English",           "skippable": false },
+    { "id": "full-mock-04-gk",    "title": "General Knowledge", "skippable": false },
+    { "id": "full-mock-04-maths", "title": "Mathematics",       "skippable": true  }
+  ]
+}
