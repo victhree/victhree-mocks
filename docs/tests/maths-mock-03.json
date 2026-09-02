@@ -1,0 +1,1612 @@
+{
+    "title":  "Maths Test 3",
+    "durationMin":  120,
+    "scoring":  {
+                    "totalMarks":  100,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The seven-digit number 876p37q is divisible by 225. What can be the values of p and q respectively?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "9, 0",
+                                          "0, 0",
+                                          "0, 5",
+                                          "9, 5"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "A student was asked to multiply a number by 25. He instead multiplied it by 52 and got an answer 324 more than the correct answer. What was the number to be multiplied?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "12",
+                                          "15",
+                                          "25",
+                                          "32"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The difference between the squares of two consecutive odd integers is always divisible by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3",
+                                          "7",
+                                          "8",
+                                          "16"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "What is the remainder when 1421 × 1423 × 1425 is divided by 12?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1",
+                                          "2",
+                                          "3",
+                                          "4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The multiplication of a three-digit number XY5 with digit Z yields X215 (i.e., the product is a number ending in 215 with leading digit X). What is X+Y+Z equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "13",
+                                          "15",
+                                          "17",
+                                          "18"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "What is the HCF of the polynomials x³+3x²y+2xy² and x⁴+6x³y+8x²y²?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "x(x+2y)",
+                                          "x(x+3y)",
+                                          "x+2y",
+                                          "None of these"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "If (x+k) is the HCF of (x²+ax+b) and (x²+cx+d), what is the value of k?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "(b+d)/(a+c)",
+                                          "(b+d)/(c+d)",
+                                          "(a-b)/(c-b)",
+                                          "(b-d)/(a-c)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "What is the HCF of (x²+bx-x-b) and (x²+x(a-1)-a)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "x+b",
+                                          "x+a",
+                                          "x+1",
+                                          "x-1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "If the HCF of (x²+x-12) and (2x²-kx-9) is (x-k), what is the value of k?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "-3",
+                                          "3",
+                                          "-4",
+                                          "4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "What is (√5+√3)/(√5-√3) + (√5-√3)/(√5+√3) equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "16",
+                                          "8",
+                                          "4",
+                                          "√15"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Power, Roots and Decimals",
+                          "topic":  "Power, Roots and Decimals"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "What is the smallest number that must be added to 1780 to make it a perfect square?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "39",
+                                          "49",
+                                          "59",
+                                          "69"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Power, Roots and Decimals",
+                          "topic":  "Power, Roots and Decimals"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "What is one of the square roots of 9-2√14?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "√7-√3",
+                                          "√6-√3",
+                                          "√7-√5",
+                                          "√7-√2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Power, Roots and Decimals",
+                          "topic":  "Power, Roots and Decimals"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "A, B and C can do a piece of work individually in 8, 12 and 15 days respectively. A and B start working together, but A quits after 2 days. C then joins B, and they work till completion. In how many days will the work be completed (from the start)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3 8/9 days",
+                                          "5 8/9 days",
+                                          "6 days",
+                                          "7 days"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "A, B and C can do a piece of work individually in 8, 10 and 15 days respectively. A and B start working, but A quits after 2 days. C then joins B till completion. In how many days will the work be completed?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "53/9 days",
+                                          "34/7 days",
+                                          "85/13 days",
+                                          "53/10 days"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "A can complete a job in 15 days and B can complete it in 10 days. They work together for 3 days, after which A leaves. In how many more days will B finish the remaining work alone?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4 days",
+                                          "5 days",
+                                          "6 days",
+                                          "7 days"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "A works twice as fast as B. If together they can finish a job in 12 days, in how many days can A alone finish it?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "16 days",
+                                          "18 days",
+                                          "20 days",
+                                          "24 days"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "A train takes 10 seconds to cross a pole and 20 seconds to cross a platform of length 200 m. What is the length of the train?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "50 m",
+                                          "100 m",
+                                          "150 m",
+                                          "200 m"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "A train takes 9 seconds to cross a pole. If the speed of the train is 48 km/h, what is the length of the train?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "150 m",
+                                          "120 m",
+                                          "90 m",
+                                          "80 m"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "A train running at 72 km/h passes a pole in 15 seconds. What is the length of the train?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "150 m",
+                                          "200 m",
+                                          "300 m",
+                                          "350 m"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Two cars A and B start simultaneously from the same place at 30 km/hr and 45 km/hr respectively. Car B reaches the destination 2 hours earlier than A. What is the distance between the start and destination?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "90 km",
+                                          "180 km",
+                                          "270 km",
+                                          "360 km"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "A person invested part of Rs. 45000 at 4% and the rest at 6% simple interest. If his annual income from both parts is equal, what is the average rate of interest?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4.6%",
+                                          "4.8%",
+                                          "5.0%",
+                                          "5.2%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Average",
+                          "topic":  "Average"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Nine numbers are written in ascending order. The middle (5th) number equals the average of all nine. The average of the five largest numbers (5th-9th) is 68, and the average of the five smallest (1st-5th) is 44. What is the sum of all nine numbers?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "450",
+                                          "501",
+                                          "504",
+                                          "540"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Average",
+                          "topic":  "Average"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The mean weight of 150 students in a class is 60 kg. The mean weight of the boys is 70 kg and of the girls is 55 kg. What is the number of girls in the class?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "105",
+                                          "100",
+                                          "95",
+                                          "60"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Average",
+                          "topic":  "Average"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "If 50% of (x-y) = 40% of (x+y), what percent of x is y?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10 1/9 %",
+                                          "11 1/9 %",
+                                          "13 1/9 %",
+                                          "21 1/9 %"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The number of workers in an employment scheme increased by 15, resulting in a 20% increase. What was the initial number of workers?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "60",
+                                          "75",
+                                          "80",
+                                          "90"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "10% of the inhabitants of a city left. Later, 10% of the remaining inhabitants also left. What percentage of the original population remains?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "80%",
+                                          "80.4%",
+                                          "80.6%",
+                                          "81%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "If the radius of the base and the height of a right circular cone are each increased by 20%, what is the approximate percentage increase in its volume?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "60%",
+                                          "68%",
+                                          "73%",
+                                          "75%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "A person spends 30% of monthly salary on rent, 25% on food, 20% on children\u0027s education, and 12% on electricity. The remaining Rs. 1040 covers other items. What is the monthly salary?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 8000",
+                                          "Rs. 9000",
+                                          "Rs. 10000",
+                                          "Rs. 12000"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "What number must be added to each term of the ratio 49:68 so that it becomes 3:4?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3",
+                                          "5",
+                                          "8",
+                                          "9"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "What number must be added to each of 4, 10, 12 and 24 so that the resulting numbers are in proportion?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6",
+                                          "8",
+                                          "10",
+                                          "4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "10 years ago, Ram was 5 times as old as Shyam. 20 years from now, Ram will be only twice as old as Shyam. How old is Shyam now?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "20 years",
+                                          "30 years",
+                                          "40 years",
+                                          "50 years"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "The sum of the ages of a father and son is 75 years. The product of their ages 5 years ago was 750. What is the present age of the father?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "60 years",
+                                          "55 years",
+                                          "52 years",
+                                          "50 years"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "A bag contains Rs.114 in Re.1, 50 paisa and 10 paisa coins in the ratio 3:4:10. What is the number of 50 paisa coins?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "76",
+                                          "72",
+                                          "56",
+                                          "48"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "A person A sells a table costing Rs. 2000 to person B, earning a 6% profit. B then sells it to C at a 5% loss. At what price did B sell the table?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 2054",
+                                          "Rs. 2050",
+                                          "Rs. 2024",
+                                          "Rs. 2014"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "A trader sells two cycles at Rs. 1188 each, gaining 10% on the first and losing 10% on the second. What is the overall profit or loss percentage?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1% loss",
+                                          "1% gain",
+                                          "No loss no gain",
+                                          "2% loss"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "One saree was purchased for Rs.564 after a 6% discount, and another for Rs.396 after a 1% discount. Treating both as a single transaction, what is the overall percentage discount?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3.5%",
+                                          "4%",
+                                          "7%",
+                                          "7.5%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "On selling an article for Rs.240, a trader loses 4%. To gain 10% instead, for how much must he sell it?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs.275",
+                                          "Rs.280",
+                                          "Rs.285",
+                                          "Rs.300"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "A person invested some amount at 12% simple interest and the rest at 10%, receiving Rs. 130 yearly interest. Had the amounts been interchanged, he would have received Rs. 134. How much did he invest at each rate?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 500 at 10%, Rs. 800 at 12%",
+                                          "Rs. 700 at 10%, Rs. 600 at 12%",
+                                          "Rs. 800 at 10%, Rs. 400 at 12%",
+                                          "Rs. 700 at 10%, Rs. 500 at 12%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "What is the least number of years in which a sum of money at 20% compound interest will be more than doubled?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "7",
+                                          "6",
+                                          "5",
+                                          "4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "If the rate of interest is 10% per annum, compounded half-yearly, what will Rs. 400 amount to in 3/2 years?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 463.05",
+                                          "Rs. 460",
+                                          "Rs. 465",
+                                          "Rs. 470"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "What is the principal amount which earns Rs. 210 as compound interest for the second year at 5% per annum?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 2000",
+                                          "Rs. 3200",
+                                          "Rs. 4000",
+                                          "Rs. 4800"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "The difference between the compound interest and simple interest for 2 years at 10% per annum on a certain sum is Rs. 10. What is the sum?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 100",
+                                          "Rs. 1000",
+                                          "Rs. 500",
+                                          "Rs. 2000"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "What is the value of log₁₃(10) / log₁₆₉(10)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1/2",
+                                          "2",
+                                          "1",
+                                          "log₆₉(13)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Logarithm",
+                          "topic":  "Logarithm"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "What is the logarithm of 0.0001 with respect to base 10?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4",
+                                          "3",
+                                          "-4",
+                                          "-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Logarithm",
+                          "topic":  "Logarithm"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "If α and β are the roots of x²-x-1=0, what is the value of α⁴+β⁴?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "7",
+                                          "0",
+                                          "2",
+                                          "None of these"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "If one root of 2x²+3x+c=0 is 0.5, what is the value of c?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "-1",
+                                          "-2",
+                                          "-3",
+                                          "-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "The equation whose roots are twice the roots of x²-2x+4=0 is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "x²-2x+4=0",
+                                          "x²-2x+16=0",
+                                          "x²-4x+8=0",
+                                          "x²-4x+16=0"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "Which one is the quadratic equation whose roots are 3 and -1?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "x²-4x+3=0",
+                                          "x²-2x-3=0",
+                                          "x²+2x-3=0",
+                                          "x²+4x+3=0"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "If f(x) is a polynomial with integer coefficients and constant term 10, having a factor (x-k) where k is an integer, what is a possible value of k?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4",
+                                          "20",
+                                          "8",
+                                          "5"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "If pq+qr+rp=0, what is the value of p²/(p²-qr) + q²/(q²-rp) + r²/(r²-pq)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "1",
+                                          "-1",
+                                          "3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "If x+y+z=0, what is the value of 1/(x²+y²-z²) + 1/(y²+z²-x²) + 1/(z²+x²-y²)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1/(x²+y²+z²)",
+                                          "1",
+                                          "-1",
+                                          "0"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "What is [(x-y)³+(y-z)³+(z-x)³] / [4(x-y)(y-z)(z-x)] equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "-3/4",
+                                          "1/4",
+                                          "3/4",
+                                          "0"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "If a=(1+x)/(2-x), what is 1/(a+1) + (2a+1)/(a²-1) equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "(1+x)(2+x)/(2x-1)",
+                                          "(1-x)(2-x)/(x-2)",
+                                          "(1+x)(2-x)/(2x-1)",
+                                          "(1-x)(2-x)/(2x+1)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "If a two-digit number is added to the number obtained by reversing its digits, the sum is always divisible by which number?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "7",
+                                          "9",
+                                          "10",
+                                          "11"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "A train started with a certain number of passengers. At the first stop, one-third got down and 120 got in. At the second stop, half of the passengers got down and 100 got in, leaving the train with 240 passengers for its destination. How many passengers were on the train initially?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "540",
+                                          "480",
+                                          "360",
+                                          "240"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "If one-third of a two-digit number exceeds its one-fourth by 8, what is the sum of the digits of the number?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6",
+                                          "13",
+                                          "15",
+                                          "17"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "What is the sum of two numbers whose difference is 45, and the quotient of the greater by the lesser is 4?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "100",
+                                          "90",
+                                          "80",
+                                          "75"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "The set of integers is closed with respect to which of the following operations?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Addition only",
+                                          "Multiplication only",
+                                          "Both addition and multiplication",
+                                          "Division"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Set Theory",
+                          "topic":  "Set Theory"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "Which one of the following is not correct in respect of sets A and B?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "If A⊆B, then B∪A=B",
+                                          "If A⊆B, then A∩(A-B)=∅",
+                                          "If A⊆B, then B∩A=A",
+                                          "If A∩B=∅, then either A=∅ or B=∅"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Set Theory",
+                          "topic":  "Set Theory"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "If n(M)=2x+20, n(S)=2x+30, n(M∩S)=x, and n(M∪S)=110, what is x?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "15",
+                                          "20",
+                                          "25",
+                                          "30"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Set Theory",
+                          "topic":  "Set Theory"
+                      },
+                      {
+                          "n":  61,
+                          "stem":  "From a lighthouse, the angles of depression of two ships on opposite sides are observed to be 30° and 45°. If the height of the lighthouse is h, what is the distance between the ships?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "(√3+1)h",
+                                          "(√3-1)h",
+                                          "√3h",
+                                          "(1+1/√3)h"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  62,
+                          "stem":  "The angle of elevation of the top of a tower from a point on the ground is 45°. Moving 21 m directly towards the tower, the angle becomes 60°. What is the height of the tower, to the nearest metre?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "48 m",
+                                          "49 m",
+                                          "50 m",
+                                          "51 m"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  63,
+                          "stem":  "A ladder of length 17 ft reaches a window 15 ft above the ground on one side of a street. Keeping its foot fixed, the ladder is turned to reach a window 8 ft high on the other side. What is the width of the street?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "23 ft",
+                                          "15 ft",
+                                          "25 ft",
+                                          "30 ft"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  64,
+                          "stem":  "A man watches from the top of a tower a boat speeding away, making an angle of depression of 45° at a distance of 60 m from the tower\u0027s base. After 5 seconds, the angle of depression becomes 30°. What is the approximate speed of the boat?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "31.5 km/h",
+                                          "36.5 km/h",
+                                          "38.5 km/h",
+                                          "40.5 km/h"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  65,
+                          "stem":  "What is tan5°·tan10°·tan15°·tan20°·...·tan85° equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "1",
+                                          "2",
+                                          "∞"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  66,
+                          "stem":  "What is sin²35° + sin²55° equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "1",
+                                          "2",
+                                          "4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  67,
+                          "stem":  "What is sin⁴θ + cos⁴θ + 2sin²θcos²θ - 1 equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "1",
+                                          "2",
+                                          "-1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  68,
+                          "stem":  "If sinθ=3/5, where 0\u003cθ\u003cπ/2, what is 2tanθ/(1-tan²θ) equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3/4",
+                                          "24/7",
+                                          "7/24",
+                                          "4/3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  69,
+                          "stem":  "If 0°\u003cθ\u003c90°, 0°\u003cφ\u003c90°, and sinθ\u003esinφ, which of the following is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "θ\u003cφ",
+                                          "θ\u003eφ",
+                                          "θ+φ=90°",
+                                          "No conclusion can be drawn"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  70,
+                          "stem":  "If cosθ=8/17, where 0°\u003cθ\u003c90°, what is tanθ equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "15/8",
+                                          "8/15",
+                                          "17/15",
+                                          "15/17"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  71,
+                          "stem":  "If tan(A-B)=1/√3 and tanA=1, what is tanB equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2-√3",
+                                          "2+√3",
+                                          "√3-1",
+                                          "1-√3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  72,
+                          "stem":  "If tanθ=√3, where 0\u003cθ\u003c90°, what is 2sinθcosθ equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1/2",
+                                          "√3/2",
+                                          "1",
+                                          "√3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  73,
+                          "stem":  "If cotθ=5/12, where 0°\u003cθ\u003c90°, what is (sinθ-cosθ)/(sinθ+cosθ) equal to?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5/17",
+                                          "7/17",
+                                          "12/17",
+                                          "1/17"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  74,
+                          "stem":  "Two chords of a circle intersect at P inside the circle. Consider the following statements:",
+                          "subs":  [
+                                       "1. The tangent of a circle is a line meeting the circle in exactly one point.",
+                                       "2. The tangent at the endpoint of a diameter is perpendicular to the diameter.",
+                                       "Which of the above is/are correct?"
+                                   ],
+                          "options":  [
+                                          "Only 1",
+                                          "Only 2",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  75,
+                          "stem":  "What is the length of the perpendicular drawn from the centre of a circle of radius r to a chord of length √3·r?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "r",
+                                          "2r",
+                                          "r/2",
+                                          "r/4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  76,
+                          "stem":  "The locus of the mid-points of all equal chords in a circle is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A circle concentric with the given circle, radius equal to chord length",
+                                          "A circle concentric with the given circle, radius equal to the chords\u0027 distance from centre",
+                                          "A circle concentric with the given circle, radius half the given circle\u0027s radius",
+                                          "A circle concentric with the given circle, radius half the chords\u0027 distance from centre"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  77,
+                          "stem":  "A point P moves such that the tangents drawn from P to a fixed circle C include an angle of 60°. What is the locus of P?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A straight line",
+                                          "A circle concentric with C",
+                                          "A circle touching C",
+                                          "A circle intersecting C at two points"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  78,
+                          "stem":  "What is the sum of the interior angles of a hexagon?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "540°",
+                                          "720°",
+                                          "900°",
+                                          "1080°"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  79,
+                          "stem":  "A regular polygon has an interior angle of 150°. How many sides does it have?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10",
+                                          "12",
+                                          "15",
+                                          "18"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  80,
+                          "stem":  "A regular polygon has an exterior angle of 40°. How many sides does it have?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "7",
+                                          "8",
+                                          "9",
+                                          "10"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  81,
+                          "stem":  "The angles of a triangle are in the ratio 2:3:4. What is the measure of each angle?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "30°,60°,90°",
+                                          "40°,60°,80°",
+                                          "20°,60°,100°",
+                                          "36°,54°,90°"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  82,
+                          "stem":  "A rhombus has diagonals of length 12 cm and 16 cm. What is the length of each side?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "8 cm",
+                                          "9 cm",
+                                          "10 cm",
+                                          "14 cm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  83,
+                          "stem":  "Two circles of radii 5 cm and 3 cm have their centres 8 cm apart. What is the relationship between the two circles?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "They touch externally",
+                                          "They touch internally",
+                                          "They don\u0027t touch",
+                                          "They intersect at two points"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  84,
+                          "stem":  "A circle has radius 13 cm. A chord is drawn at a distance of 5 cm from the centre. What is the length of the chord?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "12 cm",
+                                          "24 cm",
+                                          "10 cm",
+                                          "20 cm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  85,
+                          "stem":  "What is the area of a triangle with sides 9 cm, 12 cm and 15 cm?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "54 cm²",
+                                          "60 cm²",
+                                          "64 cm²",
+                                          "72 cm²"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  86,
+                          "stem":  "The exterior angle of a triangle is 120°, and one of the interior opposite angles is 50°. What is the other interior opposite angle?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "60°",
+                                          "70°",
+                                          "80°",
+                                          "50°"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  87,
+                          "stem":  "What is the volume of a sphere of radius 3 cm?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "27π cm³",
+                                          "36π cm³",
+                                          "30π cm³",
+                                          "33π cm³"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  88,
+                          "stem":  "If the area of a circle is 154 cm², what is its radius?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6 cm",
+                                          "7 cm",
+                                          "8 cm",
+                                          "9 cm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  89,
+                          "stem":  "What is the volume of a cube of side 5 cm?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "100 cm³",
+                                          "125 cm³",
+                                          "150 cm³",
+                                          "175 cm³"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  90,
+                          "stem":  "What is the area of a trapezium with parallel sides 10 cm and 14 cm, and height 6 cm?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "60 cm²",
+                                          "66 cm²",
+                                          "72 cm²",
+                                          "84 cm²"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  91,
+                          "stem":  "A cylinder has a curved surface area of 440 cm² and radius 7 cm. What is its height?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "8 cm",
+                                          "9 cm",
+                                          "10 cm",
+                                          "12 cm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  92,
+                          "stem":  "A right circular cone has volume 100π cm³ and base radius 5 cm. What is its height?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10 cm",
+                                          "12 cm",
+                                          "15 cm",
+                                          "20 cm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  93,
+                          "stem":  "What is the area of a parallelogram with base 15 cm and height 8 cm?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "100 cm²",
+                                          "110 cm²",
+                                          "120 cm²",
+                                          "130 cm²"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  94,
+                          "stem":  "A cuboid has dimensions 6 cm × 8 cm × 10 cm. What is its total surface area?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "376 cm²",
+                                          "400 cm²",
+                                          "416 cm²",
+                                          "440 cm²"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  95,
+                          "stem":  "Data collected directly from respondents for a specific research purpose (e.g., through interviews) is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Secondary data",
+                                          "Primary data",
+                                          "Discrete data",
+                                          "Continuous data"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  96,
+                          "stem":  "A diagram that represents data as proportional angles (sectors) within a circle is called a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bar diagram",
+                                          "Pie chart",
+                                          "Histogram",
+                                          "Frequency polygon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  97,
+                          "stem":  "The most frequently occurring value in a data set is called the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mean",
+                                          "Median",
+                                          "Mode",
+                                          "Range"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  98,
+                          "stem":  "A cumulative frequency curve is also known as a(n):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Histogram",
+                                          "Frequency polygon",
+                                          "Ogive",
+                                          "Pictograph"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  99,
+                          "stem":  "In a \u0027more than\u0027 type ogive, cumulative frequencies are plotted against which of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Upper limits of class intervals",
+                                          "Lower limits of class intervals",
+                                          "Mid-points of class intervals",
+                                          "Either upper or mid-points"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  100,
+                          "stem":  "If every observation in a data set is increased by 5, what happens to the mean?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It increases by 5",
+                                          "It stays the same",
+                                          "It increases by 5 times the number of observations",
+                                          "It doubles"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      }
+                  ]
+}

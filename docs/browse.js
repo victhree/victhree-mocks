@@ -1,8 +1,8 @@
 /* Browse page: lists the tests for one category (?cat=sectional|full|english). */
 function escapeHtml(s){ return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;"); }
-function catParam(){ var c = new URLSearchParams(location.search).get("cat"); return (c === "full" || c === "english") ? c : "sectional"; }
-function catOf(id){ if (/^full-mock-\d/.test(id)) return "full"; if (/^eng-mock-\d/.test(id)) return "english"; return "sectional"; }
-function catTitle(cat){ return cat === "full" ? "Full-Length Tests" : (cat === "english" ? "English Tests" : "GK Sectional Tests"); }
+function catParam(){ var c = new URLSearchParams(location.search).get("cat"); return (c === "full" || c === "english" || c === "maths") ? c : "sectional"; }
+function catOf(id){ if (/^full-mock-\d/.test(id)) return "full"; if (/^eng-mock-\d/.test(id)) return "english"; if (/^maths-mock-\d/.test(id)) return "maths"; return "sectional"; }
+function catTitle(cat){ return cat === "full" ? "Full-Length Tests" : (cat === "english" ? "English Tests" : (cat === "maths" ? "Maths Tests" : "GK Sectional Tests")); }
 async function loadTests(){
   var cat = catParam();
   document.getElementById("browseHeading").textContent = catTitle(cat);
