@@ -980,6 +980,8 @@ function paperMetaLine(pj) {
 function showOverview() {
   hideAllScreens();
   setPaperTag(null);
+  const ovT = $("ovTitle");
+  if (ovT) ovT.textContent = state.multi.title || "Mock Test";
   const ps = state.multi.papers;
   const idx = currentPaperIdx();
   $("ovNameField").style.display = state.name ? "none" : "";
