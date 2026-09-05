@@ -1,0 +1,1610 @@
+{
+    "title":  "Mathematics",
+    "durationMin":  120,
+    "scoring":  {
+                    "totalMarks":  100,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "What is the remainder when 7^(53) is divided by 5?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1",
+                                          "2",
+                                          "3",
+                                          "4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The sum of three consecutive even integers is 84. What is the largest of them?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "26",
+                                          "28",
+                                          "30",
+                                          "32"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "What is the unit digit of 2^(100)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2",
+                                          "4",
+                                          "6",
+                                          "8"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "How many numbers between 1 and 200 are divisible by both 4 and 6?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "12",
+                                          "14",
+                                          "16",
+                                          "18"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "What is the largest 3-digit number that leaves a remainder of 2 when divided by 7?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "996",
+                                          "997",
+                                          "998",
+                                          "999"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Number System",
+                          "topic":  "Number System"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The HCF of two numbers is 12 and their LCM is 336. If one number is 48, what is the other?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "72",
+                                          "84",
+                                          "96",
+                                          "108"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "What is the LCM of 15, 20 and 35?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "210",
+                                          "420",
+                                          "280",
+                                          "320"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Three bells toll at intervals of 9, 12 and 15 minutes respectively. If they toll together at 9:00 a.m., at what time will they next toll together?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "11:00 a.m.",
+                                          "12:00 noon",
+                                          "1:00 p.m.",
+                                          "2:00 p.m."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The HCF of 1.75, 5.6 and 7 is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0.07",
+                                          "0.7",
+                                          "3.5",
+                                          "0.35"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "HCF and LCM",
+                          "topic":  "HCF and LCM"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "What is the value of (81)^(3/4)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "9",
+                                          "18",
+                                          "27",
+                                          "54"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Power, Roots and Decimals",
+                          "topic":  "Power, Roots and Decimals"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "If √(x) + √(x) = 8, what is x?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4",
+                                          "8",
+                                          "16",
+                                          "64"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Power, Roots and Decimals",
+                          "topic":  "Power, Roots and Decimals"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "What is the value of 0.5 × 0.05 × 0.005?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0.000125",
+                                          "0.00125",
+                                          "0.0125",
+                                          "0.125"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Power, Roots and Decimals",
+                          "topic":  "Power, Roots and Decimals"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "A can do a work in 20 days and B in 30 days. Working together, in how many days will they complete it?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10",
+                                          "12",
+                                          "15",
+                                          "18"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "12 workers can build a wall in 10 days. How many days will 8 workers take to build the same wall?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "12",
+                                          "15",
+                                          "16",
+                                          "18"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "A pipe fills a tank in 6 hours and another empties it in 9 hours. If both are opened together, in how many hours will the tank be full?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "12",
+                                          "15",
+                                          "18",
+                                          "20"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "A is twice as efficient as B. If B alone takes 24 days to finish a job, how long will A and B together take?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6 days",
+                                          "8 days",
+                                          "10 days",
+                                          "12 days"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Work and Time",
+                          "topic":  "Work and Time"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "A train 150 m long crosses a pole in 15 seconds. What is its speed in km/h?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "30",
+                                          "36",
+                                          "40",
+                                          "45"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "A car covers 240 km in 4 hours. What is its average speed?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "50 km/h",
+                                          "55 km/h",
+                                          "60 km/h",
+                                          "65 km/h"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Two trains 120 m and 180 m long run towards each other at 40 km/h and 50 km/h. How long (in seconds) will they take to cross each other after meeting?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10",
+                                          "12",
+                                          "14",
+                                          "16"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "A man walks at 5 km/h and covers a certain distance in 6 hours. If he cycles at 15 km/h, how long will the same distance take?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 hour",
+                                          "2 hours",
+                                          "3 hours",
+                                          "4 hours"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Time and Distance",
+                          "topic":  "Time and Distance"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The average of 5 numbers is 20. If one number is removed, the average of the remaining 4 becomes 18. What was the removed number?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "24",
+                                          "26",
+                                          "28",
+                                          "30"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Average",
+                          "topic":  "Average"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The average age of 30 students is 12 years. If the teacher\u0027s age is included, the average becomes 13 years. What is the teacher\u0027s age?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "40 years",
+                                          "41 years",
+                                          "43 years",
+                                          "45 years"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Average",
+                          "topic":  "Average"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The average of the first 10 odd natural numbers is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "9",
+                                          "10",
+                                          "11",
+                                          "12"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Average",
+                          "topic":  "Average"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "If 30% of a number is 45, what is the number?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "120",
+                                          "135",
+                                          "150",
+                                          "165"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "A number is increased by 25% and then decreased by 20%. What is the net percentage change?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0%",
+                                          "5% increase",
+                                          "5% decrease",
+                                          "10% increase"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "In an election between two candidates, the winner got 60% of the votes and won by 900 votes. What was the total number of votes?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3600",
+                                          "4000",
+                                          "4500",
+                                          "5000"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The price of an article is reduced by 20%. By what percentage must it be increased to restore the original price?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "20%",
+                                          "22%",
+                                          "25%",
+                                          "30%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "If a student scores 240 marks out of 400, what is the percentage?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "55%",
+                                          "58%",
+                                          "60%",
+                                          "62%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Percentage",
+                          "topic":  "Percentage"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Divide Rs. 720 between A and B in the ratio 5:4. What is A\u0027s share?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 320",
+                                          "Rs. 360",
+                                          "Rs. 400",
+                                          "Rs. 420"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "If a:b = 3:4 and b:c = 6:7, what is a:c?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "9:14",
+                                          "3:7",
+                                          "18:28",
+                                          "6:7"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "The ratio of two numbers is 4:5 and their sum is 108. What is the smaller number?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "44",
+                                          "46",
+                                          "48",
+                                          "52"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "If 15 men can build a wall in 42 days, how many men are needed to build it in 30 days?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "18",
+                                          "20",
+                                          "21",
+                                          "24"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "Two numbers are in the ratio 5:8. If 9 is added to each, the ratio becomes 8:11. What is the smaller number?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "15",
+                                          "18",
+                                          "20",
+                                          "24"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ratio and Proportion",
+                          "topic":  "Ratio and Proportion"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "An article bought for Rs. 500 is sold for Rs. 600. What is the profit percentage?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "15%",
+                                          "18%",
+                                          "20%",
+                                          "25%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "A shopkeeper marks an article 40% above cost and gives a 25% discount. What is his profit percentage?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5%",
+                                          "10%",
+                                          "12%",
+                                          "15%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "By selling an article for Rs. 450, a man loses 10%. What was the cost price?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 480",
+                                          "Rs. 490",
+                                          "Rs. 500",
+                                          "Rs. 510"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "A trader gives two successive discounts of 10% and 20% on a marked price of Rs. 1000. What is the selling price?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 700",
+                                          "Rs. 720",
+                                          "Rs. 750",
+                                          "Rs. 780"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Profit, Loss and Discount",
+                          "topic":  "Profit, Loss and Discount"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "What is the simple interest on Rs. 5000 at 8% per annum for 3 years?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 1000",
+                                          "Rs. 1200",
+                                          "Rs. 1400",
+                                          "Rs. 1600"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "A sum doubles itself in 8 years at simple interest. What is the rate of interest per annum?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10%",
+                                          "11.5%",
+                                          "12.5%",
+                                          "15%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "What is the compound interest on Rs. 8000 at 10% per annum for 2 years?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 1600",
+                                          "Rs. 1680",
+                                          "Rs. 1720",
+                                          "Rs. 1760"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "The difference between CI and SI on a sum for 2 years at 5% per annum is Rs. 25. What is the sum?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs. 8000",
+                                          "Rs. 9000",
+                                          "Rs. 10000",
+                                          "Rs. 12000"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "At what rate of simple interest per annum will Rs. 1200 amount to Rs. 1440 in 4 years?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4%",
+                                          "5%",
+                                          "6%",
+                                          "8%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Simple and Compound Interest",
+                          "topic":  "Simple and Compound Interest"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "What is the value of log₂ 32?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4",
+                                          "5",
+                                          "6",
+                                          "8"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Logarithm",
+                          "topic":  "Logarithm"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "If log₁₀ 2 = 0.3010, what is log₁₀ 8?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0.6020",
+                                          "0.7526",
+                                          "0.9030",
+                                          "0.9542"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Logarithm",
+                          "topic":  "Logarithm"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "What are the roots of x² - 5x + 6 = 0?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 6",
+                                          "2 and 3",
+                                          "-2 and -3",
+                                          "1 and 5"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "If the sum of the roots of x² + kx + 12 = 0 is 7, what is the value of k?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "-7",
+                                          "7",
+                                          "12",
+                                          "-12"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "For what value of x is x² - 9 \u003c 0?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "x \u003e 3",
+                                          "x \u003c -3",
+                                          "-3 \u003c x \u003c 3",
+                                          "x \u003e 3 or x \u003c -3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "What is the product of the roots of 2x² - 8x + 6 = 0?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2",
+                                          "3",
+                                          "4",
+                                          "6"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "If one root of x² - 7x + k = 0 is 3, what is the value of k?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10",
+                                          "12",
+                                          "14",
+                                          "15"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Quadratic Equations and In-equations",
+                          "topic":  "Quadratic Equations and In-equations"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "Factorise: x² - 16.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "(x-4)(x-4)",
+                                          "(x+4)(x+4)",
+                                          "(x-4)(x+4)",
+                                          "(x-8)(x+2)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "What is the value of (a+b)² - (a-b)²?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2ab",
+                                          "4ab",
+                                          "2a²",
+                                          "4a²"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "If x + 1/x = 4, what is x² + 1/x²?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "12",
+                                          "14",
+                                          "16",
+                                          "18"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "What is the remainder when x³ + 2x² - x + 5 is divided by (x-1)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5",
+                                          "6",
+                                          "7",
+                                          "8"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Basic Operations and Factorisation",
+                          "topic":  "Basic Operations and Factorisation"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "Solve: 3x + 5 = 20.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3",
+                                          "4",
+                                          "5",
+                                          "6"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "The sum of two numbers is 30 and their difference is 8. What is the larger number?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "17",
+                                          "18",
+                                          "19",
+                                          "20"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "If 2x + 3y = 12 and x = 3, what is y?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1",
+                                          "2",
+                                          "3",
+                                          "4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "A number is such that when it is multiplied by 3 and 8 is added, the result is 29. What is the number?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5",
+                                          "6",
+                                          "7",
+                                          "8"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Linear Equations in One and Two Variables",
+                          "topic":  "Linear Equations in One and Two Variables"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "If set A has 3 elements, how many subsets does it have?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6",
+                                          "8",
+                                          "9",
+                                          "12"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Set Theory",
+                          "topic":  "Set Theory"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "In a group of 50 people, 30 like tea and 25 like coffee. If everyone likes at least one, how many like both?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5",
+                                          "10",
+                                          "15",
+                                          "20"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Set Theory",
+                          "topic":  "Set Theory"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "If n(A)=20, n(B)=15 and n(A∩B)=5, what is n(A∪B)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "25",
+                                          "30",
+                                          "35",
+                                          "40"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Set Theory",
+                          "topic":  "Set Theory"
+                      },
+                      {
+                          "n":  61,
+                          "stem":  "The angle of elevation of the top of a tower from a point 30 m away is 45°. What is the height of the tower?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "15 m",
+                                          "20 m",
+                                          "30 m",
+                                          "45 m"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  62,
+                          "stem":  "A ladder 13 m long leans against a wall, reaching a height of 12 m. How far is its foot from the wall?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4 m",
+                                          "5 m",
+                                          "6 m",
+                                          "7 m"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  63,
+                          "stem":  "The shadow of a pole is √3 times its height. What is the angle of elevation of the Sun?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "30°",
+                                          "45°",
+                                          "60°",
+                                          "75°"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  64,
+                          "stem":  "From the top of a 60 m tower, the angle of depression of a point is 30°. How far is the point from the base of the tower?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "60 m",
+                                          "60√2 m",
+                                          "60√3 m",
+                                          "30√3 m"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Heights and Distances",
+                          "topic":  "Heights and Distances"
+                      },
+                      {
+                          "n":  65,
+                          "stem":  "What is the value of sin 30° + cos 60°?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "1/2",
+                                          "1",
+                                          "√3/2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  66,
+                          "stem":  "What is the value of tan 45° × cot 45°?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "1/2",
+                                          "1",
+                                          "2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  67,
+                          "stem":  "If sinθ = 3/5, what is cosθ (for acute θ)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3/4",
+                                          "4/5",
+                                          "5/4",
+                                          "5/3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  68,
+                          "stem":  "What is the value of sec²60° - tan²60°?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "-2",
+                                          "-1",
+                                          "1",
+                                          "2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  69,
+                          "stem":  "What is the value of cos 0° + sin 90°?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "1",
+                                          "2",
+                                          "√2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  70,
+                          "stem":  "If tanθ = 1, what is θ (for acute θ)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0°",
+                                          "30°",
+                                          "45°",
+                                          "60°"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  71,
+                          "stem":  "What is the value of 2 sin 45° cos 45°?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1/2",
+                                          "1/√2",
+                                          "1",
+                                          "√2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  72,
+                          "stem":  "What is the value of sin²30° + cos²30°?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "1/2",
+                                          "1",
+                                          "√3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  73,
+                          "stem":  "If cosecθ = 2, what is θ (for acute θ)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "30°",
+                                          "45°",
+                                          "60°",
+                                          "90°"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Trigonometric Ratios and Identities",
+                          "topic":  "Trigonometric Ratios and Identities"
+                      },
+                      {
+                          "n":  74,
+                          "stem":  "The angles of a triangle are in the ratio 1:2:3. What is the largest angle?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "60°",
+                                          "75°",
+                                          "90°",
+                                          "120°"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  75,
+                          "stem":  "What is the sum of interior angles of a pentagon?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "360°",
+                                          "480°",
+                                          "540°",
+                                          "720°"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  76,
+                          "stem":  "Each interior angle of a regular hexagon is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "108°",
+                                          "120°",
+                                          "135°",
+                                          "144°"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  77,
+                          "stem":  "In a right triangle, the two legs are 6 cm and 8 cm. What is the hypotenuse?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "9 cm",
+                                          "10 cm",
+                                          "12 cm",
+                                          "14 cm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  78,
+                          "stem":  "An exterior angle of a triangle is 110° and one interior opposite angle is 45°. What is the other interior opposite angle?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "55°",
+                                          "60°",
+                                          "65°",
+                                          "70°"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  79,
+                          "stem":  "A chord of length 16 cm is at a distance of 6 cm from the centre of a circle. What is the radius?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "8 cm",
+                                          "10 cm",
+                                          "12 cm",
+                                          "14 cm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  80,
+                          "stem":  "Two parallel lines are cut by a transversal. If one of the co-interior (allied) angles is 70°, what is the other?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "70°",
+                                          "90°",
+                                          "110°",
+                                          "130°"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  81,
+                          "stem":  "The area of an equilateral triangle of side 6 cm is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6√3 cm²",
+                                          "9√3 cm²",
+                                          "12√3 cm²",
+                                          "18√3 cm²"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  82,
+                          "stem":  "If two angles of a triangle are 50° and 60°, what is the third angle?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "60°",
+                                          "65°",
+                                          "70°",
+                                          "75°"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  83,
+                          "stem":  "The angle subtended by a diameter at any point on the circle is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "45°",
+                                          "60°",
+                                          "90°",
+                                          "180°"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  84,
+                          "stem":  "A square and an equilateral triangle have the same perimeter of 24 cm. What is the side of the triangle?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6 cm",
+                                          "7 cm",
+                                          "8 cm",
+                                          "9 cm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  85,
+                          "stem":  "The diagonals of a rhombus are 6 cm and 8 cm. What is its area?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "24 cm²",
+                                          "36 cm²",
+                                          "48 cm²",
+                                          "20 cm²"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  86,
+                          "stem":  "Each exterior angle of a regular polygon is 45°. How many sides does it have?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6",
+                                          "7",
+                                          "8",
+                                          "9"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geometry",
+                          "topic":  "Geometry"
+                      },
+                      {
+                          "n":  87,
+                          "stem":  "What is the area of a circle of radius 7 cm? (Use π = 22/7)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "154 cm²",
+                                          "144 cm²",
+                                          "132 cm²",
+                                          "121 cm²"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  88,
+                          "stem":  "What is the volume of a cube of side 4 cm?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "48 cm³",
+                                          "56 cm³",
+                                          "64 cm³",
+                                          "72 cm³"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  89,
+                          "stem":  "What is the perimeter of a rectangle of length 12 cm and breadth 8 cm?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "36 cm",
+                                          "40 cm",
+                                          "44 cm",
+                                          "48 cm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  90,
+                          "stem":  "What is the total surface area of a cube of side 5 cm?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "125 cm²",
+                                          "150 cm²",
+                                          "175 cm²",
+                                          "200 cm²"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  91,
+                          "stem":  "What is the volume of a cylinder of radius 7 cm and height 5 cm? (Use π = 22/7)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "660 cm³",
+                                          "770 cm³",
+                                          "880 cm³",
+                                          "990 cm³"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  92,
+                          "stem":  "What is the area of a triangle with base 10 cm and height 6 cm?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "24 cm²",
+                                          "30 cm²",
+                                          "36 cm²",
+                                          "60 cm²"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  93,
+                          "stem":  "What is the curved surface area of a cone with radius 3 cm and slant height 5 cm? (Use π = 22/7)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "330/7 cm²",
+                                          "300/7 cm²",
+                                          "220/7 cm²",
+                                          "110/7 cm²"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  94,
+                          "stem":  "What is the volume of a sphere of radius 3 cm? (Leave answer in terms of π)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "27π cm³",
+                                          "36π cm³",
+                                          "18π cm³",
+                                          "12π cm³"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Mensuration",
+                          "topic":  "Mensuration"
+                      },
+                      {
+                          "n":  95,
+                          "stem":  "What is the mean of 4, 8, 12, 16 and 20?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10",
+                                          "11",
+                                          "12",
+                                          "14"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  96,
+                          "stem":  "What is the median of 3, 7, 9, 5, 11?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5",
+                                          "7",
+                                          "9",
+                                          "11"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  97,
+                          "stem":  "What is the mode of 2, 3, 3, 4, 5, 3, 6, 4?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2",
+                                          "3",
+                                          "4",
+                                          "5"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  98,
+                          "stem":  "What is the range of 15, 22, 8, 30, 12?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "18",
+                                          "20",
+                                          "22",
+                                          "30"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  99,
+                          "stem":  "The mean of 5 observations is 15. If four of them are 10, 12, 18 and 20, what is the fifth?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "13",
+                                          "15",
+                                          "17",
+                                          "19"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      },
+                      {
+                          "n":  100,
+                          "stem":  "If each value in a data set of mean 25 is multiplied by 4, what is the new mean?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "50",
+                                          "75",
+                                          "100",
+                                          "125"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Statistics",
+                          "topic":  "Statistics"
+                      }
+                  ]
+}
