@@ -1,0 +1,2170 @@
+{
+    "title":  "English",
+    "durationMin":  120,
+    "scoring":  {
+                    "totalMarks":  100,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Which of the following best captures the central claim of the passage?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vivid memories are always more accurate than hazy ones because they are felt so strongly.",
+                                          "Human memory decays steadily with age until little of the original event remains.",
+                                          "Memory evolved as a perfect archive but has been corrupted by modern life.",
+                                          "Remembering is an act of reconstruction that alters the memory even as it recalls it."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "We speak of memory as if it were a recording, faithfully stored and replayed on demand. The evidence points the other way. Each act of recollection is less a retrieval than a reconstruction, assembled afresh from fragments and, in the assembling, quietly altered. What we take to be a vivid memory of an event is often a memory of the last time we recalled it, with each retelling laying down a fresh version that overwrites the old. The confidence we feel bears no reliable relation to accuracy; the most vivid and certain memories are as prone to distortion as the hazy ones, and sometimes more so, for their very vividness discourages doubt. This is not a defect to be lamented so much as the price of a system built for use rather than for the archive. A memory that updated itself with every fresh experience served our ancestors better than a perfect but rigid record would have. The uncomfortable corollary, which the courts have been slow to absorb, is that sincerity is no guarantee of truth: a witness may be wholly honest and wholly mistaken at once, and no amount of certainty on the stand can close the gap between the two."
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The passage suggests that the confidence a person feels about a memory is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "irrelevant, since all memories are equally false",
+                                          "a fairly good but imperfect indicator of how accurate that memory is",
+                                          "no dependable guide to its accuracy, and sometimes actively misleading",
+                                          "reliable for vivid memories but not for hazy ones"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "We speak of memory as if it were a recording, faithfully stored and replayed on demand. The evidence points the other way. Each act of recollection is less a retrieval than a reconstruction, assembled afresh from fragments and, in the assembling, quietly altered. What we take to be a vivid memory of an event is often a memory of the last time we recalled it, with each retelling laying down a fresh version that overwrites the old. The confidence we feel bears no reliable relation to accuracy; the most vivid and certain memories are as prone to distortion as the hazy ones, and sometimes more so, for their very vividness discourages doubt. This is not a defect to be lamented so much as the price of a system built for use rather than for the archive. A memory that updated itself with every fresh experience served our ancestors better than a perfect but rigid record would have. The uncomfortable corollary, which the courts have been slow to absorb, is that sincerity is no guarantee of truth: a witness may be wholly honest and wholly mistaken at once, and no amount of certainty on the stand can close the gap between the two."
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Why does the author regard the reconstructive nature of memory as \u0027the price of a system built for use rather than for the archive\u0027?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Because a self-updating memory aided our ancestors\u0027 survival more than a fixed record would have",
+                                          "Because most people quietly prefer flattering memories to accurate but unwelcome ones",
+                                          "Because the modern courts positively require witnesses to revise their memories over time",
+                                          "Because the brain simply lacks the capacity to store a permanent lifelong record of events"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "We speak of memory as if it were a recording, faithfully stored and replayed on demand. The evidence points the other way. Each act of recollection is less a retrieval than a reconstruction, assembled afresh from fragments and, in the assembling, quietly altered. What we take to be a vivid memory of an event is often a memory of the last time we recalled it, with each retelling laying down a fresh version that overwrites the old. The confidence we feel bears no reliable relation to accuracy; the most vivid and certain memories are as prone to distortion as the hazy ones, and sometimes more so, for their very vividness discourages doubt. This is not a defect to be lamented so much as the price of a system built for use rather than for the archive. A memory that updated itself with every fresh experience served our ancestors better than a perfect but rigid record would have. The uncomfortable corollary, which the courts have been slow to absorb, is that sincerity is no guarantee of truth: a witness may be wholly honest and wholly mistaken at once, and no amount of certainty on the stand can close the gap between the two."
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "It can be inferred that the author mentions the courts chiefly in order to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "praise the legal system for its careful handling of witnesses",
+                                          "show that judges understand memory better than scientists do",
+                                          "argue that eyewitness testimony should be banned altogether",
+                                          "illustrate a practical setting in which honest testimony can still be false"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "We speak of memory as if it were a recording, faithfully stored and replayed on demand. The evidence points the other way. Each act of recollection is less a retrieval than a reconstruction, assembled afresh from fragments and, in the assembling, quietly altered. What we take to be a vivid memory of an event is often a memory of the last time we recalled it, with each retelling laying down a fresh version that overwrites the old. The confidence we feel bears no reliable relation to accuracy; the most vivid and certain memories are as prone to distortion as the hazy ones, and sometimes more so, for their very vividness discourages doubt. This is not a defect to be lamented so much as the price of a system built for use rather than for the archive. A memory that updated itself with every fresh experience served our ancestors better than a perfect but rigid record would have. The uncomfortable corollary, which the courts have been slow to absorb, is that sincerity is no guarantee of truth: a witness may be wholly honest and wholly mistaken at once, and no amount of certainty on the stand can close the gap between the two."
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which of the following, if true, would most WEAKEN the author\u0027s argument?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rigorous experiments find that repeated recall leaves the content of a memory essentially unchanged.",
+                                          "Some memories fade more quickly than others over a period of years.",
+                                          "Studies show that people express high confidence in many of their memories.",
+                                          "Witnesses in court often disagree with one another about what they saw."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "We speak of memory as if it were a recording, faithfully stored and replayed on demand. The evidence points the other way. Each act of recollection is less a retrieval than a reconstruction, assembled afresh from fragments and, in the assembling, quietly altered. What we take to be a vivid memory of an event is often a memory of the last time we recalled it, with each retelling laying down a fresh version that overwrites the old. The confidence we feel bears no reliable relation to accuracy; the most vivid and certain memories are as prone to distortion as the hazy ones, and sometimes more so, for their very vividness discourages doubt. This is not a defect to be lamented so much as the price of a system built for use rather than for the archive. A memory that updated itself with every fresh experience served our ancestors better than a perfect but rigid record would have. The uncomfortable corollary, which the courts have been slow to absorb, is that sincerity is no guarantee of truth: a witness may be wholly honest and wholly mistaken at once, and no amount of certainty on the stand can close the gap between the two."
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The word \u0027corollary\u0027 in the final sentence most nearly means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a formal legal ruling",
+                                          "an unrelated afterthought",
+                                          "a proposition that follows from what precedes it",
+                                          "a direct contradiction"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "We speak of memory as if it were a recording, faithfully stored and replayed on demand. The evidence points the other way. Each act of recollection is less a retrieval than a reconstruction, assembled afresh from fragments and, in the assembling, quietly altered. What we take to be a vivid memory of an event is often a memory of the last time we recalled it, with each retelling laying down a fresh version that overwrites the old. The confidence we feel bears no reliable relation to accuracy; the most vivid and certain memories are as prone to distortion as the hazy ones, and sometimes more so, for their very vividness discourages doubt. This is not a defect to be lamented so much as the price of a system built for use rather than for the archive. A memory that updated itself with every fresh experience served our ancestors better than a perfect but rigid record would have. The uncomfortable corollary, which the courts have been slow to absorb, is that sincerity is no guarantee of truth: a witness may be wholly honest and wholly mistaken at once, and no amount of certainty on the stand can close the gap between the two."
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The two drivers are described primarily in order to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "expose a clash between how we claim to judge and how we really do",
+                                          "show that careless drivers are usually punished far too leniently by the courts",
+                                          "argue that luck plays no real part at all in questions of moral blame",
+                                          "prove that using a phone while driving should carry a much heavier penalty"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Consider two drivers, equally careless, who each glance down at a phone for the same reckless instant. On the first driver\u0027s road a child happens to step out, and is killed; on the second\u0027s, the road happens to be empty, and nothing occurs. The law will treat these two very differently, and so, if we are honest, will we: the first we are inclined to call a killer, the second merely a fool who got away with it. Yet the only difference between them lies in something wholly outside their control — the presence or absence of a child neither could have foreseen. This is the puzzle philosophers have called moral luck. We like to believe that a person can be judged only for what lies within his will, and that the workings of chance should make no difference to praise or blame. Our actual practice flatly contradicts this comforting principle at every turn. We heap censure on the reckless driver who is unlucky and quietly forgive the one who is not, though their choices were identical. To resolve the tension we must give up one of two convictions we are each loath to surrender: either that we are answerable only for what we control, or that outcomes rightly bear on how harshly we are judged. The discomfort of the problem lies precisely in our reluctance to abandon either."
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "According to the passage, the ONLY difference between the two drivers is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the intention behind each driver\u0027s decision to look away",
+                                          "the severity of the punishment each was willing to accept",
+                                          "a matter of chance that lay entirely beyond either driver\u0027s control",
+                                          "the degree of care each of them took at the wheel"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Consider two drivers, equally careless, who each glance down at a phone for the same reckless instant. On the first driver\u0027s road a child happens to step out, and is killed; on the second\u0027s, the road happens to be empty, and nothing occurs. The law will treat these two very differently, and so, if we are honest, will we: the first we are inclined to call a killer, the second merely a fool who got away with it. Yet the only difference between them lies in something wholly outside their control — the presence or absence of a child neither could have foreseen. This is the puzzle philosophers have called moral luck. We like to believe that a person can be judged only for what lies within his will, and that the workings of chance should make no difference to praise or blame. Our actual practice flatly contradicts this comforting principle at every turn. We heap censure on the reckless driver who is unlucky and quietly forgive the one who is not, though their choices were identical. To resolve the tension we must give up one of two convictions we are each loath to surrender: either that we are answerable only for what we control, or that outcomes rightly bear on how harshly we are judged. The discomfort of the problem lies precisely in our reluctance to abandon either."
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The passage rests on which of the following assumptions?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "that chance events can, in principle, be predicted with enough care",
+                                          "that most people drive carelessly at least some of the time",
+                                          "that the reckless driver genuinely could not have foreseen the child",
+                                          "that the law is always a reliable guide to what is moral"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Consider two drivers, equally careless, who each glance down at a phone for the same reckless instant. On the first driver\u0027s road a child happens to step out, and is killed; on the second\u0027s, the road happens to be empty, and nothing occurs. The law will treat these two very differently, and so, if we are honest, will we: the first we are inclined to call a killer, the second merely a fool who got away with it. Yet the only difference between them lies in something wholly outside their control — the presence or absence of a child neither could have foreseen. This is the puzzle philosophers have called moral luck. We like to believe that a person can be judged only for what lies within his will, and that the workings of chance should make no difference to praise or blame. Our actual practice flatly contradicts this comforting principle at every turn. We heap censure on the reckless driver who is unlucky and quietly forgive the one who is not, though their choices were identical. To resolve the tension we must give up one of two convictions we are each loath to surrender: either that we are answerable only for what we control, or that outcomes rightly bear on how harshly we are judged. The discomfort of the problem lies precisely in our reluctance to abandon either."
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "With which of the following would the author be LEAST likely to agree?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Our everyday moral judgements are nothing like as consistent as we suppose.",
+                                          "The problem of moral luck resists any solution that is wholly comfortable.",
+                                          "How an action turns out has no bearing on how we actually judge it.",
+                                          "Two people who make exactly the same choice may fairly deserve the same blame."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Consider two drivers, equally careless, who each glance down at a phone for the same reckless instant. On the first driver\u0027s road a child happens to step out, and is killed; on the second\u0027s, the road happens to be empty, and nothing occurs. The law will treat these two very differently, and so, if we are honest, will we: the first we are inclined to call a killer, the second merely a fool who got away with it. Yet the only difference between them lies in something wholly outside their control — the presence or absence of a child neither could have foreseen. This is the puzzle philosophers have called moral luck. We like to believe that a person can be judged only for what lies within his will, and that the workings of chance should make no difference to praise or blame. Our actual practice flatly contradicts this comforting principle at every turn. We heap censure on the reckless driver who is unlucky and quietly forgive the one who is not, though their choices were identical. To resolve the tension we must give up one of two convictions we are each loath to surrender: either that we are answerable only for what we control, or that outcomes rightly bear on how harshly we are judged. The discomfort of the problem lies precisely in our reluctance to abandon either."
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The passage implies that the \u0027comforting principle\u0027 is comforting because it:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "lets us excuse careless behaviour whenever it happens to cause no harm",
+                                          "guarantees that the law and morality will always agree",
+                                          "removes all uncertainty from moral decisions",
+                                          "promises that we are judged only for what we can actually control"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Consider two drivers, equally careless, who each glance down at a phone for the same reckless instant. On the first driver\u0027s road a child happens to step out, and is killed; on the second\u0027s, the road happens to be empty, and nothing occurs. The law will treat these two very differently, and so, if we are honest, will we: the first we are inclined to call a killer, the second merely a fool who got away with it. Yet the only difference between them lies in something wholly outside their control — the presence or absence of a child neither could have foreseen. This is the puzzle philosophers have called moral luck. We like to believe that a person can be judged only for what lies within his will, and that the workings of chance should make no difference to praise or blame. Our actual practice flatly contradicts this comforting principle at every turn. We heap censure on the reckless driver who is unlucky and quietly forgive the one who is not, though their choices were identical. To resolve the tension we must give up one of two convictions we are each loath to surrender: either that we are answerable only for what we control, or that outcomes rightly bear on how harshly we are judged. The discomfort of the problem lies precisely in our reluctance to abandon either."
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The word \u0027censure\u0027 in the passage most nearly means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "careful examination",
+                                          "reluctant forgiveness",
+                                          "strong disapproval or blame",
+                                          "official permission"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Consider two drivers, equally careless, who each glance down at a phone for the same reckless instant. On the first driver\u0027s road a child happens to step out, and is killed; on the second\u0027s, the road happens to be empty, and nothing occurs. The law will treat these two very differently, and so, if we are honest, will we: the first we are inclined to call a killer, the second merely a fool who got away with it. Yet the only difference between them lies in something wholly outside their control — the presence or absence of a child neither could have foreseen. This is the puzzle philosophers have called moral luck. We like to believe that a person can be judged only for what lies within his will, and that the workings of chance should make no difference to praise or blame. Our actual practice flatly contradicts this comforting principle at every turn. We heap censure on the reckless driver who is unlucky and quietly forgive the one who is not, though their choices were identical. To resolve the tension we must give up one of two convictions we are each loath to surrender: either that we are answerable only for what we control, or that outcomes rightly bear on how harshly we are judged. The discomfort of the problem lies precisely in our reluctance to abandon either."
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: is seldom the absence of fear",
+                                       "Q: what distinguishes the courageous",
+                                       "R: but the refusal to let it",
+                                       "S: dictate the terms of their action"
+                                   ],
+                          "options":  [
+                                          "PQRS",
+                                          "QPRS",
+                                          "QRPS",
+                                          "QPSR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The sentence is split into four parts, P, Q, R and S. Select the option that arranges them into a meaningful sentence."
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: that no theory, however elegant,",
+                                       "Q: the first casualty of a hard fact",
+                                       "R: is the comfortable assumption",
+                                       "S: is entitled to ignore it"
+                                   ],
+                          "options":  [
+                                          "QPRS",
+                                          "RQPS",
+                                          "QRPS",
+                                          "QRSP"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The sentence is split into four parts, P, Q, R and S. Select the option that arranges them into a meaningful sentence."
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: are precisely those",
+                                       "Q: the prophets a society honours",
+                                       "R: whose warnings went unheeded,",
+                                       "S: remembered only once the disaster has arrived"
+                                   ],
+                          "options":  [
+                                          "QRPS",
+                                          "PQRS",
+                                          "QPSR",
+                                          "QPRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The sentence is split into four parts, P, Q, R and S. Select the option that arranges them into a meaningful sentence."
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: not because the questions had grown simpler",
+                                       "Q: the committee reached agreement at last",
+                                       "R: but because its members had grown too weary",
+                                       "S: to press the objections they still privately held"
+                                   ],
+                          "options":  [
+                                          "PQRS",
+                                          "QPSR",
+                                          "QRPS",
+                                          "QPRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The sentence is split into four parts, P, Q, R and S. Select the option that arranges them into a meaningful sentence."
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: is measured less by the speed of its triumphs",
+                                       "Q: the resilience of an institution",
+                                       "R: than by the grace with which",
+                                       "S: it absorbs its inevitable defeats"
+                                   ],
+                          "options":  [
+                                          "PQRS",
+                                          "QRPS",
+                                          "QPSR",
+                                          "QPRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The sentence is split into four parts, P, Q, R and S. Select the option that arranges them into a meaningful sentence."
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: had he known how much of his success",
+                                       "Q: the self-made man might have been less proud",
+                                       "R: he owed to accidents of birth and timing",
+                                       "S: over which he had exercised no control whatever"
+                                   ],
+                          "options":  [
+                                          "QPRS",
+                                          "QRPS",
+                                          "PQRS",
+                                          "QPSR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The sentence is split into four parts, P, Q, R and S. Select the option that arranges them into a meaningful sentence."
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: the more suspicious we ought to be",
+                                       "Q: the more a conclusion flatters",
+                                       "R: the beliefs we already hold",
+                                       "S: of the ease with which we accepted it"
+                                   ],
+                          "options":  [
+                                          "QRPS",
+                                          "QPRS",
+                                          "QRSP",
+                                          "PQRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The sentence is split into four parts, P, Q, R and S. Select the option that arranges them into a meaningful sentence."
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Arrange P, Q, R, S into a meaningful sentence:",
+                          "subs":  [
+                                       "P: is not that it offers no answers",
+                                       "Q: the peculiar difficulty of the question",
+                                       "R: but that it offers too many,",
+                                       "S: each excluding the others"
+                                   ],
+                          "options":  [
+                                          "QRPS",
+                                          "QPSR",
+                                          "PQRS",
+                                          "QPRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Words in a Sentence",
+                          "topic":  "Ordering of Words in a Sentence",
+                          "direction":  "The sentence is split into four parts, P, Q, R and S. Select the option that arranges them into a meaningful sentence."
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "S1. A statistic, once it hardens into a target, begins to corrupt the very thing it was meant to track.",
+                          "subs":  [
+                                       "P: Officials, judged by the figure, learn to improve the figure rather than the reality beneath it.",
+                                       "Q: A hospital rated on waiting times finds ways to stop the clock without treating anyone sooner.",
+                                       "R: The measure and the reality, once close companions, quietly part ways.",
+                                       "S: What remains is a number that rises impressively while the world it describes stands still.",
+                                       "S6. The lesson is old and rarely learned: measure what you value, and you will soon value only what you measure."
+                                   ],
+                          "options":  [
+                                          "PRQS",
+                                          "QPRS",
+                                          "PQRS",
+                                          "PQSR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. Arrange the middle four sentences P, Q, R, S in the correct order."
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "S1. It is often said that travel cures prejudice, and sometimes it does.",
+                          "subs":  [
+                                       "P: Just as often, though, it merely furnishes the traveller with fresh material for old contempt.",
+                                       "Q: The bigot abroad notices only what confirms the disdain he packed at home.",
+                                       "R: What changes a mind is not movement but the willingness to be unsettled by it.",
+                                       "S: And that willingness, unlike a ticket, cannot be bought at any price.",
+                                       "S6. The journey that matters, in the end, is the one taken inwardly."
+                                   ],
+                          "options":  [
+                                          "PQSR",
+                                          "QPRS",
+                                          "PRQS",
+                                          "PQRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. Arrange the middle four sentences P, Q, R, S in the correct order."
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "S1. The founder attributed the company\u0027s rise entirely to his own foresight.",
+                          "subs":  [
+                                       "P: He forgot the tailwind of a market that had lifted every boat around him.",
+                                       "Q: When the wind dropped, he mistook the stillness for a failure of effort.",
+                                       "R: So he drove his people harder, wondering why the old results would not return.",
+                                       "S: The fault lay not in their labour but in his reading of what had caused the success.",
+                                       "S6. Nothing is harder to see clearly than the luck folded inside one\u0027s own achievements."
+                                   ],
+                          "options":  [
+                                          "PQRS",
+                                          "PQSR",
+                                          "PRQS",
+                                          "QPRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. Arrange the middle four sentences P, Q, R, S in the correct order."
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "S1. We imagine that facts, once established, drive out error of their own accord.",
+                          "subs":  [
+                                       "P: The history of ideas offers little to support so hopeful a view.",
+                                       "Q: A correct account, poorly told, may languish for a century in obscurity.",
+                                       "R: A flattering falsehood, well told, can conquer a continent in a decade.",
+                                       "S: What travels is rarely the true but reliably the memorable.",
+                                       "S6. Truth, if it is to prevail, must learn to tell a better story than its rivals."
+                                   ],
+                          "options":  [
+                                          "QPRS",
+                                          "PQSR",
+                                          "PRQS",
+                                          "PQRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. Arrange the middle four sentences P, Q, R, S in the correct order."
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "S1. The reform was introduced with the noblest of intentions.",
+                          "subs":  [
+                                       "P: Its designers had reasoned carefully from principles no one could fault.",
+                                       "Q: What they had not reasoned about was how real people would respond to it.",
+                                       "R: Within a year, every loophole they had left had been found and widened.",
+                                       "S: The scheme collapsed not from bad aims but from an innocent faith in paper.",
+                                       "S6. Good intentions, it turns out, are no substitute for a low opinion of human ingenuity."
+                                   ],
+                          "options":  [
+                                          "QPRS",
+                                          "PRQS",
+                                          "PQRS",
+                                          "PQSR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. Arrange the middle four sentences P, Q, R, S in the correct order."
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "S1. Expertise is a genuine thing, but it does not travel as far as its owners suppose.",
+                          "subs":  [
+                                       "P: A lifetime mastering one domain breeds confidence that spills into others.",
+                                       "Q: The eminent physicist pronounces on economics with a certainty he never earned.",
+                                       "R: His listeners, dazzled by the first reputation, rarely notice the second is borrowed.",
+                                       "S: Authority, once granted, is seldom asked to show its passport at the border.",
+                                       "S6. The wise, knowing the edges of their competence, are careful never to trespass beyond them."
+                                   ],
+                          "options":  [
+                                          "PQSR",
+                                          "QPRS",
+                                          "PQRS",
+                                          "PRQS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. Arrange the middle four sentences P, Q, R, S in the correct order."
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "S1. Silence, in a negotiation, is a tool few learn to wield.",
+                          "subs":  [
+                                       "P: The inexperienced rush to fill every pause, and give away their position in the rush.",
+                                       "Q: The seasoned bargainer lets the quiet stretch until it grows uncomfortable.",
+                                       "R: Discomfort, he knows, works on the other party far harder than any argument.",
+                                       "S: More concessions are won by waiting, in the end, than by talking.",
+                                       "S6. The loudest voice in the room is rarely the one that leaves it satisfied."
+                                   ],
+                          "options":  [
+                                          "PQSR",
+                                          "PQRS",
+                                          "PRQS",
+                                          "QPRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. Arrange the middle four sentences P, Q, R, S in the correct order."
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "S1. Every generation believes it has finally seen through the illusions of the last.",
+                          "subs":  [
+                                       "P: It mistakes the discarding of old errors for the end of error itself.",
+                                       "Q: Yet it holds its own assumptions as unthinkingly as its grandparents held theirs.",
+                                       "R: Future readers will smile at our certainties exactly as we smile at theirs.",
+                                       "S: The one thing no age can see is the water in which it swims.",
+                                       "S6. Humility about the present is the rarest, and the most useful, kind of wisdom."
+                                   ],
+                          "options":  [
+                                          "PQSR",
+                                          "PQRS",
+                                          "PRQS",
+                                          "QPRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ordering of Sentences / Para-jumbles",
+                          "topic":  "Ordering of Sentences / Para-jumbles",
+                          "direction":  "S1 and S6 are fixed. Arrange the middle four sentences P, Q, R, S in the correct order."
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The minister\u0027s reply was a masterpiece of ________: it filled ten minutes and committed the government to precisely nothing.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "circumlocution",
+                                          "conviction",
+                                          "candour",
+                                          "concision"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Reviewers found the novel technically flawless yet oddly ________, admiring every sentence while feeling nothing at all.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "inert",
+                                          "incendiary",
+                                          "poignant",
+                                          "stirring"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "Far from resolving the dispute, the arbitrator\u0027s vague ruling only served to ________ the ambiguities each side could exploit.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "dispel",
+                                          "multiply",
+                                          "reconcile",
+                                          "clarify"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "He wore his erudition so ________ that acquaintances often underestimated the depth of his learning entirely.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "pompously",
+                                          "ostentatiously",
+                                          "lightly",
+                                          "aggressively"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "The committee\u0027s report was studiously ________, blaming everyone in general so as to hold no one in particular to account.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "partisan",
+                                          "meticulous",
+                                          "anodyne",
+                                          "scathing"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "What the public took for boldness was, to those who knew him, simple ________: he had never once imagined that he might fail.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "temerity",
+                                          "prudence",
+                                          "humility",
+                                          "foresight"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "Her arguments were ________ rather than sound: they overwhelmed opponents by sheer volume without ever proving their point.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "meticulous",
+                                          "tentative",
+                                          "cogent",
+                                          "specious"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "The apology was so hedged with conditions that it managed to ________ responsibility while appearing to accept it.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "assume",
+                                          "proclaim",
+                                          "evade",
+                                          "concede"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Fill in the Blanks",
+                          "topic":  "Fill in the Blanks",
+                          "direction":  "Select the most appropriate word/phrase to fill the blank."
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Not one of the many proposals submitted to the panel",
+                                          "were considered worthy",
+                                          "of the grand prize.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The scientist was reluctant to publish,",
+                                          "for the data, though striking, was open",
+                                          "to more than one interpretation.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hardly had the applause subsided",
+                                          "when the speaker, visibly moved,",
+                                          "began to thank each of his mentors by name.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Neither the general\u0027s long experience",
+                                          "nor his officers\u0027 warnings was enough",
+                                          "to avert the disaster that followed.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Everyone in the two rival delegations",
+                                          "were asked to set aside their differences",
+                                          "for the duration of the talks.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The more one studies the period,",
+                                          "the more one realises how little",
+                                          "even its own historians understood it.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Between the two candidates there was little to choose,",
+                                          "both being equally qualified",
+                                          "and, unfortunately, equally evasive.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Each of the reforms, taken by themselves,",
+                                          "seemed harmless; together they",
+                                          "amounted to a quiet revolution.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "No sooner the treaty had been signed",
+                                          "than both signatories began, in private,",
+                                          "to plan how they might evade it.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "Spot the part that contains an error (choose (d) No error if there is none):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The reasons offered for the delay",
+                                          "was so implausible",
+                                          "that even his most loyal supporters fell silent.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors",
+                          "direction":  "Each sentence is divided into three parts (a), (b), (c); (d) = No error. Identify the part with an error, if any."
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "The committee\u0027s failure to act will surely tell against it at the next election. [word: \u0027tell\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adverb",
+                                          "Verb",
+                                          "Adjective",
+                                          "Noun"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "For all his wealth, he lived like an ascetic to the very end. [word: \u0027For\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Preposition",
+                                          "Adverb",
+                                          "Coordinating conjunction",
+                                          "Subordinating conjunction"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "It was her steady nerve, quite as much as her skill, that carried the day. [word: \u0027that\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Demonstrative adjective",
+                                          "Adverb",
+                                          "Relative pronoun",
+                                          "Subordinating conjunction"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "The report, damning though it was, changed nothing at all. [word: \u0027though\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adverb",
+                                          "Coordinating conjunction",
+                                          "Subordinating conjunction",
+                                          "Preposition"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "He has a disconcerting way of saying the one thing you had hoped to keep hidden. [word: \u0027disconcerting\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adverb",
+                                          "Finite verb",
+                                          "Noun",
+                                          "Participial adjective"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "Given the circumstances, no one thought the worse of him for withdrawing. [word: \u0027Given\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Participial preposition",
+                                          "Adverb",
+                                          "Past-tense verb",
+                                          "Noun"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "The very rich, she observed drily, are different from you and me. [word: \u0027rich\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adverb",
+                                          "Adjective",
+                                          "Noun",
+                                          "Verb"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "He would brook no interruption once the lecture had begun. [word: \u0027brook\u0027]",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Preposition",
+                                          "Verb",
+                                          "Noun",
+                                          "Adjective"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Parts of Speech / Word Classes",
+                          "topic":  "Parts of Speech / Word Classes",
+                          "direction":  "Identify the part of speech of the underlined/indicated word."
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "Little ________ that the modest clerk they ignored would one day sign their dismissal letters.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "they had suspected",
+                                          "they suspected",
+                                          "had they suspected",
+                                          "did they suspect"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "So thoroughly had the evidence been destroyed ________.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "as no prosecution was ever possible",
+                                          "that no prosecution was ever possible",
+                                          "that no prosecution had ever been possible",
+                                          "so no prosecution was possible"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "Were the truth to become known, the reputations of half the cabinet ________ overnight.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "would collapse",
+                                          "would have collapsed",
+                                          "collapse",
+                                          "will collapse"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "He is the sort of man ________ one entrusts a secret only after long and careful thought.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "whom",
+                                          "that",
+                                          "who",
+                                          "to whom"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "Much as the board admired her vision, they ________ her methods.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "could not help distrusting",
+                                          "could but distrust",
+                                          "could not but distrust",
+                                          "are unable to but distrust"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "Not until the accounts were independently audited ________ the true scale of the loss.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "had the directors grasped",
+                                          "did the directors grasp",
+                                          "the directors had grasped",
+                                          "the directors grasped"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  61,
+                          "stem":  "The scheme, ________ ingenious, depended on a level of honesty no committee has ever possessed.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "despite",
+                                          "however",
+                                          "notwithstanding",
+                                          "although"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  62,
+                          "stem":  "It is high time the regulator ________ the powers it was given a decade ago.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "used",
+                                          "will use",
+                                          "uses",
+                                          "has used"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Improvement / Completion",
+                          "topic":  "Sentence Improvement / Completion",
+                          "direction":  "Choose the option that best completes/improves the sentence."
+                      },
+                      {
+                          "n":  63,
+                          "stem":  "(63) ________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "product",
+                                          "absence",
+                                          "enemy",
+                                          "reward"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "The gravest errors of judgement are rarely the work of stupidity; more often they are the (63)________ of intelligence pressed into the service of a conclusion already reached. A clever mind, having decided what it wishes to believe, is formidably resourceful in (64)________ reasons to believe it. It does not weigh the evidence so much as (65)________ it, admitting what flatters the favoured view and quietly discounting what does not. The layman imagines that expertise is a shield against this temptation; in truth it often (66)________ the danger, for the expert commands precisely the arguments needed to defend whatever he has already concluded. What protects a thinker is therefore not cleverness, which can be (67)________ to any cause, but a positively uncomfortable willingness to seek out the evidence that would prove him (68)________. Such a habit runs against every instinct we possess; we are built to defend our beliefs, not to (69)________ them. The rare individuals who master it are seldom the quickest in a room, but they are the ones whose conclusions, arrived at slowly and against their own inclination, tend in the long run to (70)________. They have learned the hardest of intellectual disciplines: to treat their own cherished opinion as the (71)________ most in need of cross-examination, and to feel a certain suspicion toward any idea that has cost them nothing to (72)________.",
+                          "direction":  "Select the most appropriate word for each blank in the passage."
+                      },
+                      {
+                          "n":  64,
+                          "stem":  "(64) ________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "forgetting",
+                                          "concealing",
+                                          "doubting",
+                                          "manufacturing"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "The gravest errors of judgement are rarely the work of stupidity; more often they are the (63)________ of intelligence pressed into the service of a conclusion already reached. A clever mind, having decided what it wishes to believe, is formidably resourceful in (64)________ reasons to believe it. It does not weigh the evidence so much as (65)________ it, admitting what flatters the favoured view and quietly discounting what does not. The layman imagines that expertise is a shield against this temptation; in truth it often (66)________ the danger, for the expert commands precisely the arguments needed to defend whatever he has already concluded. What protects a thinker is therefore not cleverness, which can be (67)________ to any cause, but a positively uncomfortable willingness to seek out the evidence that would prove him (68)________. Such a habit runs against every instinct we possess; we are built to defend our beliefs, not to (69)________ them. The rare individuals who master it are seldom the quickest in a room, but they are the ones whose conclusions, arrived at slowly and against their own inclination, tend in the long run to (70)________. They have learned the hardest of intellectual disciplines: to treat their own cherished opinion as the (71)________ most in need of cross-examination, and to feel a certain suspicion toward any idea that has cost them nothing to (72)________.",
+                          "direction":  "Select the most appropriate word for each blank in the passage."
+                      },
+                      {
+                          "n":  65,
+                          "stem":  "(65) ________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "destroy",
+                                          "curate",
+                                          "multiply",
+                                          "ignore"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "The gravest errors of judgement are rarely the work of stupidity; more often they are the (63)________ of intelligence pressed into the service of a conclusion already reached. A clever mind, having decided what it wishes to believe, is formidably resourceful in (64)________ reasons to believe it. It does not weigh the evidence so much as (65)________ it, admitting what flatters the favoured view and quietly discounting what does not. The layman imagines that expertise is a shield against this temptation; in truth it often (66)________ the danger, for the expert commands precisely the arguments needed to defend whatever he has already concluded. What protects a thinker is therefore not cleverness, which can be (67)________ to any cause, but a positively uncomfortable willingness to seek out the evidence that would prove him (68)________. Such a habit runs against every instinct we possess; we are built to defend our beliefs, not to (69)________ them. The rare individuals who master it are seldom the quickest in a room, but they are the ones whose conclusions, arrived at slowly and against their own inclination, tend in the long run to (70)________. They have learned the hardest of intellectual disciplines: to treat their own cherished opinion as the (71)________ most in need of cross-examination, and to feel a certain suspicion toward any idea that has cost them nothing to (72)________.",
+                          "direction":  "Select the most appropriate word for each blank in the passage."
+                      },
+                      {
+                          "n":  66,
+                          "stem":  "(66) ________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "compounds",
+                                          "removes",
+                                          "measures",
+                                          "reveals"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "The gravest errors of judgement are rarely the work of stupidity; more often they are the (63)________ of intelligence pressed into the service of a conclusion already reached. A clever mind, having decided what it wishes to believe, is formidably resourceful in (64)________ reasons to believe it. It does not weigh the evidence so much as (65)________ it, admitting what flatters the favoured view and quietly discounting what does not. The layman imagines that expertise is a shield against this temptation; in truth it often (66)________ the danger, for the expert commands precisely the arguments needed to defend whatever he has already concluded. What protects a thinker is therefore not cleverness, which can be (67)________ to any cause, but a positively uncomfortable willingness to seek out the evidence that would prove him (68)________. Such a habit runs against every instinct we possess; we are built to defend our beliefs, not to (69)________ them. The rare individuals who master it are seldom the quickest in a room, but they are the ones whose conclusions, arrived at slowly and against their own inclination, tend in the long run to (70)________. They have learned the hardest of intellectual disciplines: to treat their own cherished opinion as the (71)________ most in need of cross-examination, and to feel a certain suspicion toward any idea that has cost them nothing to (72)________.",
+                          "direction":  "Select the most appropriate word for each blank in the passage."
+                      },
+                      {
+                          "n":  67,
+                          "stem":  "(67) ________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "reduced",
+                                          "confined",
+                                          "opposed",
+                                          "harnessed"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "The gravest errors of judgement are rarely the work of stupidity; more often they are the (63)________ of intelligence pressed into the service of a conclusion already reached. A clever mind, having decided what it wishes to believe, is formidably resourceful in (64)________ reasons to believe it. It does not weigh the evidence so much as (65)________ it, admitting what flatters the favoured view and quietly discounting what does not. The layman imagines that expertise is a shield against this temptation; in truth it often (66)________ the danger, for the expert commands precisely the arguments needed to defend whatever he has already concluded. What protects a thinker is therefore not cleverness, which can be (67)________ to any cause, but a positively uncomfortable willingness to seek out the evidence that would prove him (68)________. Such a habit runs against every instinct we possess; we are built to defend our beliefs, not to (69)________ them. The rare individuals who master it are seldom the quickest in a room, but they are the ones whose conclusions, arrived at slowly and against their own inclination, tend in the long run to (70)________. They have learned the hardest of intellectual disciplines: to treat their own cherished opinion as the (71)________ most in need of cross-examination, and to feel a certain suspicion toward any idea that has cost them nothing to (72)________.",
+                          "direction":  "Select the most appropriate word for each blank in the passage."
+                      },
+                      {
+                          "n":  68,
+                          "stem":  "(68) ________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "right",
+                                          "famous",
+                                          "wrong",
+                                          "wealthy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "The gravest errors of judgement are rarely the work of stupidity; more often they are the (63)________ of intelligence pressed into the service of a conclusion already reached. A clever mind, having decided what it wishes to believe, is formidably resourceful in (64)________ reasons to believe it. It does not weigh the evidence so much as (65)________ it, admitting what flatters the favoured view and quietly discounting what does not. The layman imagines that expertise is a shield against this temptation; in truth it often (66)________ the danger, for the expert commands precisely the arguments needed to defend whatever he has already concluded. What protects a thinker is therefore not cleverness, which can be (67)________ to any cause, but a positively uncomfortable willingness to seek out the evidence that would prove him (68)________. Such a habit runs against every instinct we possess; we are built to defend our beliefs, not to (69)________ them. The rare individuals who master it are seldom the quickest in a room, but they are the ones whose conclusions, arrived at slowly and against their own inclination, tend in the long run to (70)________. They have learned the hardest of intellectual disciplines: to treat their own cherished opinion as the (71)________ most in need of cross-examination, and to feel a certain suspicion toward any idea that has cost them nothing to (72)________.",
+                          "direction":  "Select the most appropriate word for each blank in the passage."
+                      },
+                      {
+                          "n":  69,
+                          "stem":  "(69) ________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "announce",
+                                          "repeat",
+                                          "interrogate",
+                                          "defend"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "The gravest errors of judgement are rarely the work of stupidity; more often they are the (63)________ of intelligence pressed into the service of a conclusion already reached. A clever mind, having decided what it wishes to believe, is formidably resourceful in (64)________ reasons to believe it. It does not weigh the evidence so much as (65)________ it, admitting what flatters the favoured view and quietly discounting what does not. The layman imagines that expertise is a shield against this temptation; in truth it often (66)________ the danger, for the expert commands precisely the arguments needed to defend whatever he has already concluded. What protects a thinker is therefore not cleverness, which can be (67)________ to any cause, but a positively uncomfortable willingness to seek out the evidence that would prove him (68)________. Such a habit runs against every instinct we possess; we are built to defend our beliefs, not to (69)________ them. The rare individuals who master it are seldom the quickest in a room, but they are the ones whose conclusions, arrived at slowly and against their own inclination, tend in the long run to (70)________. They have learned the hardest of intellectual disciplines: to treat their own cherished opinion as the (71)________ most in need of cross-examination, and to feel a certain suspicion toward any idea that has cost them nothing to (72)________.",
+                          "direction":  "Select the most appropriate word for each blank in the passage."
+                      },
+                      {
+                          "n":  70,
+                          "stem":  "(70) ________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "collapse",
+                                          "mislead",
+                                          "hold",
+                                          "vanish"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "The gravest errors of judgement are rarely the work of stupidity; more often they are the (63)________ of intelligence pressed into the service of a conclusion already reached. A clever mind, having decided what it wishes to believe, is formidably resourceful in (64)________ reasons to believe it. It does not weigh the evidence so much as (65)________ it, admitting what flatters the favoured view and quietly discounting what does not. The layman imagines that expertise is a shield against this temptation; in truth it often (66)________ the danger, for the expert commands precisely the arguments needed to defend whatever he has already concluded. What protects a thinker is therefore not cleverness, which can be (67)________ to any cause, but a positively uncomfortable willingness to seek out the evidence that would prove him (68)________. Such a habit runs against every instinct we possess; we are built to defend our beliefs, not to (69)________ them. The rare individuals who master it are seldom the quickest in a room, but they are the ones whose conclusions, arrived at slowly and against their own inclination, tend in the long run to (70)________. They have learned the hardest of intellectual disciplines: to treat their own cherished opinion as the (71)________ most in need of cross-examination, and to feel a certain suspicion toward any idea that has cost them nothing to (72)________.",
+                          "direction":  "Select the most appropriate word for each blank in the passage."
+                      },
+                      {
+                          "n":  71,
+                          "stem":  "(71) ________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "one",
+                                          "fact",
+                                          "rule",
+                                          "person"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "The gravest errors of judgement are rarely the work of stupidity; more often they are the (63)________ of intelligence pressed into the service of a conclusion already reached. A clever mind, having decided what it wishes to believe, is formidably resourceful in (64)________ reasons to believe it. It does not weigh the evidence so much as (65)________ it, admitting what flatters the favoured view and quietly discounting what does not. The layman imagines that expertise is a shield against this temptation; in truth it often (66)________ the danger, for the expert commands precisely the arguments needed to defend whatever he has already concluded. What protects a thinker is therefore not cleverness, which can be (67)________ to any cause, but a positively uncomfortable willingness to seek out the evidence that would prove him (68)________. Such a habit runs against every instinct we possess; we are built to defend our beliefs, not to (69)________ them. The rare individuals who master it are seldom the quickest in a room, but they are the ones whose conclusions, arrived at slowly and against their own inclination, tend in the long run to (70)________. They have learned the hardest of intellectual disciplines: to treat their own cherished opinion as the (71)________ most in need of cross-examination, and to feel a certain suspicion toward any idea that has cost them nothing to (72)________.",
+                          "direction":  "Select the most appropriate word for each blank in the passage."
+                      },
+                      {
+                          "n":  72,
+                          "stem":  "(72) ________",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "believe",
+                                          "abandon",
+                                          "question",
+                                          "prove"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze Passage",
+                          "topic":  "Cloze Passage",
+                          "passage":  "The gravest errors of judgement are rarely the work of stupidity; more often they are the (63)________ of intelligence pressed into the service of a conclusion already reached. A clever mind, having decided what it wishes to believe, is formidably resourceful in (64)________ reasons to believe it. It does not weigh the evidence so much as (65)________ it, admitting what flatters the favoured view and quietly discounting what does not. The layman imagines that expertise is a shield against this temptation; in truth it often (66)________ the danger, for the expert commands precisely the arguments needed to defend whatever he has already concluded. What protects a thinker is therefore not cleverness, which can be (67)________ to any cause, but a positively uncomfortable willingness to seek out the evidence that would prove him (68)________. Such a habit runs against every instinct we possess; we are built to defend our beliefs, not to (69)________ them. The rare individuals who master it are seldom the quickest in a room, but they are the ones whose conclusions, arrived at slowly and against their own inclination, tend in the long run to (70)________. They have learned the hardest of intellectual disciplines: to treat their own cherished opinion as the (71)________ most in need of cross-examination, and to feel a certain suspicion toward any idea that has cost them nothing to (72)________.",
+                          "direction":  "Select the most appropriate word for each blank in the passage."
+                      },
+                      {
+                          "n":  73,
+                          "stem":  "S1: The scheme was defended on the ground that it would help the poorest.",
+                          "subs":  [
+                                       "S2: In every year of its operation, the largest gains went to those who were already wealthy.",
+                                       "The second sentence:"
+                                   ],
+                          "options":  [
+                                          "is unrelated to the first",
+                                          "explains why the first claim is true",
+                                          "offers evidence that undercuts the justification given in the first",
+                                          "restates the claim made in the first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Co-relationship",
+                          "topic":  "Sentence Co-relationship",
+                          "direction":  "A pair of sentences (S1, S2) is given. Select the most appropriate relationship of the second sentence to the first."
+                      },
+                      {
+                          "n":  74,
+                          "stem":  "S1: Genius, we are told, is chiefly a matter of inspiration.",
+                          "subs":  [
+                                       "S2: Those who have studied it closely find far more perspiration than inspiration in the record.",
+                                       "The second sentence:"
+                                   ],
+                          "options":  [
+                                          "challenges the popular view stated in the first",
+                                          "draws a conclusion from the first",
+                                          "confirms the popular view stated in the first",
+                                          "merely rephrases the first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Co-relationship",
+                          "topic":  "Sentence Co-relationship",
+                          "direction":  "A pair of sentences (S1, S2) is given. Select the most appropriate relationship of the second sentence to the first."
+                      },
+                      {
+                          "n":  75,
+                          "stem":  "S1: Rules are made to restrain the powerful.",
+                          "subs":  [
+                                       "S2: It is the powerful, however, who most often write the rules and carve out their own exemptions.",
+                                       "The second sentence:"
+                                   ],
+                          "options":  [
+                                          "supports the first with an example",
+                                          "repeats the first in stronger terms",
+                                          "points to a limitation that undercuts the first",
+                                          "is irrelevant to the first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Co-relationship",
+                          "topic":  "Sentence Co-relationship",
+                          "direction":  "A pair of sentences (S1, S2) is given. Select the most appropriate relationship of the second sentence to the first."
+                      },
+                      {
+                          "n":  76,
+                          "stem":  "S1: A wider vocabulary makes for clearer thought.",
+                          "subs":  [
+                                       "S2: Yet the clearest thinkers are often those who say the most with the plainest words.",
+                                       "The second sentence:"
+                                   ],
+                          "options":  [
+                                          "restates the first",
+                                          "qualifies the first by complicating its assumption",
+                                          "confirms the first without reservation",
+                                          "flatly denies that words matter"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Co-relationship",
+                          "topic":  "Sentence Co-relationship",
+                          "direction":  "A pair of sentences (S1, S2) is given. Select the most appropriate relationship of the second sentence to the first."
+                      },
+                      {
+                          "n":  77,
+                          "stem":  "S1: The invention promised to give people more free time.",
+                          "subs":  [
+                                       "S2: Its owners found only that the same work now expanded to fill the hours it had saved.",
+                                       "The second sentence:"
+                                   ],
+                          "options":  [
+                                          "reports an ironic outcome contrary to the promise",
+                                          "confirms that the promise was kept",
+                                          "is unrelated to the first",
+                                          "explains how the invention worked"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Co-relationship",
+                          "topic":  "Sentence Co-relationship",
+                          "direction":  "A pair of sentences (S1, S2) is given. Select the most appropriate relationship of the second sentence to the first."
+                      },
+                      {
+                          "n":  78,
+                          "stem":  "S1: History, it is said, teaches us not to repeat our mistakes.",
+                          "subs":  [
+                                       "S2: Its most consistent lesson is how little the study of it has ever restrained us.",
+                                       "The second sentence:"
+                                   ],
+                          "options":  [
+                                          "turns the first against itself with a wry qualification",
+                                          "endorses the claim in the first",
+                                          "has no bearing on the first",
+                                          "gives a supporting instance of the first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Co-relationship",
+                          "topic":  "Sentence Co-relationship",
+                          "direction":  "A pair of sentences (S1, S2) is given. Select the most appropriate relationship of the second sentence to the first."
+                      },
+                      {
+                          "n":  79,
+                          "stem":  "RECONDITE",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "openly hostile",
+                                          "widely familiar",
+                                          "little known and hard to understand",
+                                          "physically fragile"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  80,
+                          "stem":  "OBSEQUIOUS",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "openly rebellious",
+                                          "harshly critical",
+                                          "excessively eager to please or obey",
+                                          "calmly indifferent"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  81,
+                          "stem":  "INCHOATE",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "just begun and not yet fully formed",
+                                          "fully matured",
+                                          "brilliantly clear",
+                                          "tightly organised"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  82,
+                          "stem":  "INVETERATE",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "recently acquired",
+                                          "easily reformed",
+                                          "openly admired",
+                                          "firmly established by long habit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  83,
+                          "stem":  "PERFUNCTORY",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "highly original",
+                                          "carried out with the minimum of effort or interest",
+                                          "done with real care",
+                                          "deeply heartfelt"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  84,
+                          "stem":  "TRUCULENT",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "eager to quarrel or fight",
+                                          "quietly modest",
+                                          "warmly generous",
+                                          "gentle and yielding"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Synonyms",
+                          "topic":  "Vocabulary: Synonyms",
+                          "direction":  "Select the word/phrase nearest in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  85,
+                          "stem":  "TACITURN",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "stubborn",
+                                          "voluble / talkative",
+                                          "gloomy",
+                                          "silent by habit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  86,
+                          "stem":  "EPHEMERAL",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "enduring / long-lasting",
+                                          "fleeting",
+                                          "invisible",
+                                          "delicate"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  87,
+                          "stem":  "MAGNANIMOUS",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "wealthy",
+                                          "generous in forgiving",
+                                          "petty / vindictive",
+                                          "courageous"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  88,
+                          "stem":  "LUCID",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "truthful",
+                                          "clear and easy to follow",
+                                          "bright",
+                                          "abstruse / obscure"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  89,
+                          "stem":  "AUGMENT",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "enlarge",
+                                          "sustain",
+                                          "announce",
+                                          "diminish / curtail"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  90,
+                          "stem":  "PARSIMONIOUS",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "frugal to a fault",
+                                          "lavish / open-handed",
+                                          "cautious",
+                                          "dishonest"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Antonyms",
+                          "topic":  "Vocabulary: Antonyms",
+                          "direction":  "Select the word opposite in meaning to the word given in capitals."
+                      },
+                      {
+                          "n":  91,
+                          "stem":  "To \u0027damn with faint praise\u0027 is to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "refuse to comment on someone\u0027s work",
+                                          "offer sincere and generous praise",
+                                          "praise so weakly that the praise itself conveys disapproval",
+                                          "condemn someone openly and loudly"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
+                      },
+                      {
+                          "n":  92,
+                          "stem":  "A decision described as a \u0027Hobson\u0027s choice\u0027 is one in which:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a group votes to reach a compromise",
+                                          "there is in fact no real alternative, only a take-it-or-leave-it option",
+                                          "a choice must be made under great time pressure",
+                                          "two equally attractive options are offered"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
+                      },
+                      {
+                          "n":  93,
+                          "stem":  "To \u0027sail close to the wind\u0027 is to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "act in a way that is barely within the bounds of what is safe or acceptable",
+                                          "make rapid and easy progress",
+                                          "abandon a plan at the first difficulty",
+                                          "waste an opportunity through delay"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
+                      },
+                      {
+                          "n":  94,
+                          "stem":  "Something achieved \u0027at a stroke\u0027 is achieved:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "only after repeated failures",
+                                          "in a single, immediate action",
+                                          "gradually and with great effort",
+                                          "by accident rather than design"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
+                      },
+                      {
+                          "n":  95,
+                          "stem":  "To \u0027have the courage of one\u0027s convictions\u0027 is to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "argue fiercely without any real belief",
+                                          "act boldly on what one believes, even at a cost",
+                                          "hold opinions but keep them carefully hidden",
+                                          "change one\u0027s beliefs to suit the company"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
+                      },
+                      {
+                          "n":  96,
+                          "stem":  "A \u0027Pyrrhic victory\u0027 is a victory that:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "is achieved through cunning rather than force",
+                                          "is celebrated for generations afterwards",
+                                          "is won cheaply and decisively",
+                                          "costs the victor so much that it is scarcely worth winning"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Idioms \u0026 Phrases",
+                          "topic":  "Vocabulary: Idioms \u0026 Phrases",
+                          "direction":  "Select the option that best explains the given idiom/phrase."
+                      },
+                      {
+                          "n":  97,
+                          "stem":  "Choose the option that correctly distinguishes \u0027fortuitous\u0027 and \u0027fortunate\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Fortuitous means planned; fortunate means accidental",
+                                          "Fortuitous means lucky; fortunate means happening by chance",
+                                          "Both words mean \u0027wealthy\u0027",
+                                          "Fortuitous means happening by chance; fortunate means lucky or favourable"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
+                      },
+                      {
+                          "n":  98,
+                          "stem":  "Choose the option that correctly distinguishes \u0027enormity\u0027 and \u0027enormousness\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Enormity refers to great size; enormousness refers to great wickedness",
+                                          "Enormity refers to extreme wickedness or a monstrous act; enormousness refers to great size",
+                                          "Enormity and enormousness are interchangeable in careful usage",
+                                          "Both words refer only to physical size"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
+                      },
+                      {
+                          "n":  99,
+                          "stem":  "Choose the option that correctly distinguishes \u0027disinterested\u0027 and \u0027uninterested\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Disinterested means bored; uninterested means impartial",
+                                          "Disinterested means free from bias or personal stake; uninterested means not interested or bored",
+                                          "Disinterested means curious; uninterested means fair",
+                                          "Both words mean \u0027lacking curiosity\u0027"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
+                      },
+                      {
+                          "n":  100,
+                          "stem":  "Choose the option that correctly distinguishes \u0027ingenuous\u0027 and \u0027ingenious\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ingenuous means innocent, frank and unworldly; ingenious means clever and inventive",
+                                          "Ingenuous means cleverly inventive; ingenious means naive",
+                                          "Both words mean \u0027dishonest\u0027",
+                                          "Ingenuous means skilled; ingenious means gullible"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
+                      },
+                      {
+                          "n":  101,
+                          "stem":  "Choose the option that correctly distinguishes \u0027flaunt\u0027 and \u0027flout\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Flaunt means to display ostentatiously; flout means to defy or openly disregard",
+                                          "Flaunt means to disregard a rule; flout means to show off",
+                                          "Flaunt means to conceal; flout means to reveal",
+                                          "Both words mean \u0027to obey\u0027"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
+                      },
+                      {
+                          "n":  102,
+                          "stem":  "Choose the option that correctly distinguishes \u0027proscribe\u0027 and \u0027prescribe\u0027:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Proscribe means to recommend; prescribe means to forbid",
+                                          "Proscribe means to forbid or condemn; prescribe means to lay down as a rule or recommend",
+                                          "Both words mean \u0027to write\u0027",
+                                          "Proscribe means to allow; prescribe means to ignore"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "topic":  "Vocabulary: Word Meaning / Confusable Pairs",
+                          "direction":  "Select the option that correctly explains the difference, or the sentence that uses the word(s) correctly."
+                      },
+                      {
+                          "n":  103,
+                          "stem":  "He greeted both the promotion and the demotion with the same level gaze and even voice. Which word best describes him?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "mercurial",
+                                          "equable",
+                                          "effusive",
+                                          "irascible"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary in Context",
+                          "topic":  "Vocabulary in Context",
+                          "direction":  "Read each situation/statement and choose the most appropriate word or meaning."
+                      },
+                      {
+                          "n":  104,
+                          "stem":  "Her praise was so measured and so hedged that it left the impression of a criticism withheld. Which word best describes it?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "unstinting",
+                                          "fulsome",
+                                          "effuse",
+                                          "grudging"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary in Context",
+                          "topic":  "Vocabulary in Context",
+                          "direction":  "Read each situation/statement and choose the most appropriate word or meaning."
+                      },
+                      {
+                          "n":  105,
+                          "stem":  "The pamphlet stirred up hatred against a helpless minority for the author\u0027s own gain. Such writing is best called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "innocuous",
+                                          "incendiary",
+                                          "insipid",
+                                          "impartial"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary in Context",
+                          "topic":  "Vocabulary in Context",
+                          "direction":  "Read each situation/statement and choose the most appropriate word or meaning."
+                      },
+                      {
+                          "n":  106,
+                          "stem":  "He offered a long apology that somehow blamed everyone but himself. The apology is best described as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "disingenuous",
+                                          "contrite",
+                                          "magnanimous",
+                                          "forthright"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary in Context",
+                          "topic":  "Vocabulary in Context",
+                          "direction":  "Read each situation/statement and choose the most appropriate word or meaning."
+                      },
+                      {
+                          "n":  107,
+                          "stem":  "The essay drifted from point to point with no discernible thread holding it together. Its structure was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cogent",
+                                          "desultory",
+                                          "rigorous",
+                                          "coherent"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary in Context",
+                          "topic":  "Vocabulary in Context",
+                          "direction":  "Read each situation/statement and choose the most appropriate word or meaning."
+                      },
+                      {
+                          "n":  108,
+                          "stem":  "Which word most nearly means \u0027to make a wrong or an injury less severe, without wholly removing it\u0027?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "aggravate",
+                                          "palliate",
+                                          "exacerbate",
+                                          "vindicate"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary in Context",
+                          "topic":  "Vocabulary in Context",
+                          "direction":  "Read each situation/statement and choose the most appropriate word or meaning."
+                      },
+                      {
+                          "n":  109,
+                          "stem":  "Consider the following statements about grammatical terms:",
+                          "subs":  [
+                                       "I. A gerund is a verb form ending in -ing that functions as a noun.",
+                                       "II. A participle is a verb form that can function as an adjective.",
+                                       "III. An infinitive is a finite form of the verb that always shows tense.",
+                                       "How many of the above statements are correct?"
+                                   ],
+                          "options":  [
+                                          "All three",
+                                          "None",
+                                          "Only one",
+                                          "Only two"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Definitions \u0026 Terminology",
+                          "topic":  "Definitions \u0026 Terminology",
+                          "direction":  "Read the statements and answer as directed."
+                      },
+                      {
+                          "n":  110,
+                          "stem":  "Consider the following statements about sentence types:",
+                          "subs":  [
+                                       "I. A complex sentence contains at least one main clause and one subordinate clause.",
+                                       "II. A compound sentence joins two or more main clauses of equal rank.",
+                                       "III. A simple sentence must contain two finite verbs.",
+                                       "How many of the above statements are correct?"
+                                   ],
+                          "options":  [
+                                          "Only one",
+                                          "None",
+                                          "Only two",
+                                          "All three"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Definitions \u0026 Terminology",
+                          "topic":  "Definitions \u0026 Terminology",
+                          "direction":  "Read the statements and answer as directed."
+                      },
+                      {
+                          "n":  111,
+                          "stem":  "Consider the following statements about usage:",
+                          "subs":  [
+                                       "I. In \u0027neither...nor\u0027, the verb agrees with the subject nearer to it.",
+                                       "II. The words \u0027less\u0027 and \u0027fewer\u0027 are interchangeable in careful writing.",
+                                       "III. A collective noun may take a singular or plural verb according to the sense intended.",
+                                       "How many of the above statements are correct?"
+                                   ],
+                          "options":  [
+                                          "All three",
+                                          "Only two",
+                                          "Only one",
+                                          "None"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Definitions \u0026 Terminology",
+                          "topic":  "Definitions \u0026 Terminology",
+                          "direction":  "Read the statements and answer as directed."
+                      },
+                      {
+                          "n":  112,
+                          "stem":  "Consider the following pairs of words and their meanings:",
+                          "subs":  [
+                                       "Word",
+                                       "Meaning",
+                                       "I.",
+                                       "Laconic",
+                                       "Using very few words; terse",
+                                       "II.",
+                                       "Verbose",
+                                       "Expressed in few, well-chosen words",
+                                       "III.",
+                                       "Voluble",
+                                       "Speaking fluently and at great length",
+                                       "Which of the pairs given above is/are correctly matched?"
+                                   ],
+                          "options":  [
+                                          "All three",
+                                          "I and III",
+                                          "II and III",
+                                          "I and II"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Correctly Matched Pairs",
+                          "topic":  "Correctly Matched Pairs",
+                          "direction":  "Consider the pairs and select those that are correctly matched."
+                      },
+                      {
+                          "n":  113,
+                          "stem":  "Consider the following pairs of words and their meanings:",
+                          "subs":  [
+                                       "Word",
+                                       "Meaning",
+                                       "I.",
+                                       "Sceptic",
+                                       "One who doubts accepted opinions",
+                                       "II.",
+                                       "Zealot",
+                                       "One indifferent to every cause",
+                                       "III.",
+                                       "Pragmatist",
+                                       "One guided by practical results rather than theory",
+                                       "Which of the pairs given above is/are correctly matched?"
+                                   ],
+                          "options":  [
+                                          "II and III",
+                                          "I and II",
+                                          "All three",
+                                          "I and III"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Correctly Matched Pairs",
+                          "topic":  "Correctly Matched Pairs",
+                          "direction":  "Consider the pairs and select those that are correctly matched."
+                      },
+                      {
+                          "n":  114,
+                          "stem":  "Consider the following sentences and their intended meanings:",
+                          "subs":  [
+                                       "Sentence",
+                                       "Meaning",
+                                       "I.",
+                                       "He is far from honest.",
+                                       "He is decidedly dishonest.",
+                                       "II.",
+                                       "She could scarcely conceal her delight.",
+                                       "She hid her delight with complete success.",
+                                       "III.",
+                                       "They no more expected it than they expected snow in June.",
+                                       "They did not expect it at all.",
+                                       "Which of the pairs given above is/are correctly matched?"
+                                   ],
+                          "options":  [
+                                          "II and III",
+                                          "I and II",
+                                          "All three",
+                                          "I and III"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Correctly Matched Pairs",
+                          "topic":  "Correctly Matched Pairs",
+                          "direction":  "Consider the pairs and select those that are correctly matched."
+                      },
+                      {
+                          "n":  115,
+                          "stem":  "Match List I with List II and select the correct code:",
+                          "subs":  [
+                                       "List-I (Parts of Speech): A. Noun  B. Verb  C. Adverb  D. Adjective",
+                                       "List-II (Word): 1. Persuasive  2. Persuasion  3. Persuasively  4. Persuade"
+                                   ],
+                          "options":  [
+                                          "A-1, B-4, C-3, D-2",
+                                          "A-2, B-4, C-3, D-1",
+                                          "A-2, B-3, C-4, D-1",
+                                          "A-2, B-4, C-1, D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match Lists: Parts of Speech",
+                          "topic":  "Match Lists: Parts of Speech",
+                          "direction":  "Match List I with List II and select the correct code."
+                      },
+                      {
+                          "n":  116,
+                          "stem":  "Match List I with List II and select the correct code:",
+                          "subs":  [
+                                       "List-I (Parts of Speech): A. Noun  B. Verb  C. Adverb  D. Adjective",
+                                       "List-II (Word): 1. Gravely  2. Gravity  3. Grave  4. Aggrieve"
+                                   ],
+                          "options":  [
+                                          "A-2, B-4, C-3, D-1",
+                                          "A-2, B-1, C-4, D-3",
+                                          "A-2, B-4, C-1, D-3",
+                                          "A-4, B-2, C-1, D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match Lists: Parts of Speech",
+                          "topic":  "Match Lists: Parts of Speech",
+                          "direction":  "Match List I with List II and select the correct code."
+                      },
+                      {
+                          "n":  117,
+                          "stem":  "Match List I with List II and select the correct code:",
+                          "subs":  [
+                                       "List-I (Word): A. Ephemeral  B. Ubiquitous  C. Redundant  D. Innocuous",
+                                       "List-II (Meaning): 1. Present everywhere at once  2. Harmless  3. Lasting only a very short time  4. Superfluous; no longer needed"
+                                   ],
+                          "options":  [
+                                          "A-3, B-4, C-1, D-2",
+                                          "A-3, B-1, C-2, D-4",
+                                          "A-3, B-1, C-4, D-2",
+                                          "A-1, B-3, C-4, D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match Lists: Word \u0026 Meaning",
+                          "topic":  "Match Lists: Word \u0026 Meaning",
+                          "direction":  "Match each word with its meaning and select the correct code."
+                      },
+                      {
+                          "n":  118,
+                          "stem":  "Match List I with List II and select the correct code:",
+                          "subs":  [
+                                       "List-I (Word): A. Vindicate  B. Placate  C. Repudiate  D. Assuage",
+                                       "List-II (Meaning): 1. To soothe or pacify  2. To reject or disown  3. To clear of blame or justify  4. To ease (a pain or grief)"
+                                   ],
+                          "options":  [
+                                          "A-3, B-1, C-4, D-2",
+                                          "A-3, B-2, C-1, D-4",
+                                          "A-1, B-3, C-2, D-4",
+                                          "A-3, B-1, C-2, D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match Lists: Word \u0026 Meaning",
+                          "topic":  "Match Lists: Word \u0026 Meaning",
+                          "direction":  "Match each word with its meaning and select the correct code."
+                      },
+                      {
+                          "n":  119,
+                          "stem":  "Match List I with List II and select the correct code:",
+                          "subs":  [
+                                       "List-I (Field of study): A. Etymology  B. Cartography  C. Seismology  D. Ornithology",
+                                       "List-II (Subject): 1. Maps  2. Earthquakes  3. Origins of words  4. Birds"
+                                   ],
+                          "options":  [
+                                          "A-3, B-1, C-4, D-2",
+                                          "A-1, B-3, C-2, D-4",
+                                          "A-3, B-4, C-1, D-2",
+                                          "A-3, B-1, C-2, D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match Lists: Associations",
+                          "topic":  "Match Lists: Associations",
+                          "direction":  "Match List I with List II and select the correct code."
+                      },
+                      {
+                          "n":  120,
+                          "stem":  "Match List I with List II and select the correct code:",
+                          "subs":  [
+                                       "List-I (Group of animals): A. Lions  B. Geese (in flight)  C. Crows  D. Fish",
+                                       "List-II (Collective noun): 1. A skein  2. A murder  3. A pride  4. A shoal"
+                                   ],
+                          "options":  [
+                                          "A-3, B-1, C-4, D-2",
+                                          "A-3, B-1, C-2, D-4",
+                                          "A-1, B-3, C-2, D-4",
+                                          "A-3, B-4, C-1, D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match Lists: Associations",
+                          "topic":  "Match Lists: Associations",
+                          "direction":  "Match List I with List II and select the correct code."
+                      }
+                  ]
+}
