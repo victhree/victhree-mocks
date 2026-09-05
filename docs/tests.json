@@ -172,6 +172,16 @@
       "marks": 100,
       "negative": true,
       "description": "Complete CDS exam simulation - three sequential papers: English (120 Q), General Knowledge (120 Q) and Mathematics (100 Q). Each 100 marks, 2 hours, 1/3 negative. Take them in order; Maths is optional."
+    },
+    {
+      "id": "full-mock-05",
+      "title": "Full-Length Mock 5",
+      "subject": "Full CDS",
+      "countNote": "Exact CDS simulation",
+      "metaNote": "3 papers",
+      "marks": 100,
+      "negative": true,
+      "description": "Complete CDS exam simulation - three sequential papers: English (120 Q), General Knowledge (120 Q) and Mathematics (100 Q). Each 100 marks, 2 hours, 1/3 negative. Take them in order; Maths is optional."
     }
   ]
 }
