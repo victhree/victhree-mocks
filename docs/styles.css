@@ -96,6 +96,11 @@ html, body {
 .choice-sub { font-size: 13.5px; color: rgba(255,255,255,.82); }
 .choice-cta { margin-top: 10px; font-weight: 700; color: var(--gold); }
 .test-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
+.history-cols { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; align-items: start; }
+.history-col { display: flex; flex-direction: column; gap: 14px; }
+.history-col-head { margin: 0 0 4px; font-size: 15px; font-weight: 800; letter-spacing: .6px; text-transform: uppercase; color: var(--navy); text-align: center; padding-bottom: 8px; border-bottom: 2px solid var(--gold); }
+.history-col-empty { text-align: center; font-size: 13px; padding: 10px 0; }
+@media (max-width: 760px){ .history-cols { grid-template-columns: 1fr; } }
 .test-card {
   display: flex; flex-direction: column; gap: 10px;
   justify-content: center; align-items: center; text-align: center; min-height: 160px;

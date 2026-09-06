@@ -20,6 +20,15 @@ function sectionGroup(t){
 }
 function slug(g){ return g.toLowerCase().replace(/\s+/g, "-"); }
 
+/* Within the History folder, which era-column a test belongs to.
+   Ancient+Medieval sits in the Medieval column; Full History sits in the Modern column. */
+function historyEra(t){
+  var id = t.id;
+  if (/^anchist-/.test(id) || id === "ancient-history-01") return "Ancient";
+  if (/^medhist-/.test(id) || id === "ancient-medieval-01") return "Medieval";
+  return "Modern"; // modern-india-01, full-history-01, any other
+}
+
 function setBack(href, text){
   var b = document.getElementById("backLink");
   if (b) { b.href = href; b.innerHTML = text; }
@@ -81,6 +90,21 @@ async function loadTests(){
       document.title = gname + " Tests - VicThree Defence";
       setBack("browse.html?cat=sectional", "&#8249; GK Sectional Tests");
       if (!tests.length) { msg.textContent = "No tests in this subject yet."; return; }
+      // History is laid out in three era columns: Ancient | Medieval | Modern.
+      if (sub === "history") {
+        var eras = [
+          { key: "Ancient", label: "Ancient History" },
+          { key: "Medieval", label: "Medieval History" },
+          { key: "Modern", label: "Modern History" }
+        ];
+        list.className = "history-cols";
+        list.innerHTML = eras.map(function(e){
+          var col = tests.filter(function(t){ return historyEra(t) === e.key; });
+          var cards = col.length ? col.map(cardHtml).join("") : '<p class="history-col-empty muted">Coming soon</p>';
+          return '<div class="history-col"><h3 class="history-col-head">' + escapeHtml(e.label) + '</h3>' + cards + '</div>';
+        }).join("");
+        return;
+      }
       list.className = "test-list";
       list.innerHTML = tests.map(cardHtml).join("");
       return;
