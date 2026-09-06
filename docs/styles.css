@@ -90,6 +90,7 @@ html, body {
 @media (max-width: 600px){ .home-choices { grid-template-columns: 1fr; } }
 .choice-tile { display: flex; flex-direction: column; gap: 6px; background: var(--navy); color: #fff; border-radius: 14px; padding: 28px 24px; text-decoration: none; min-height: 130px; justify-content: center; box-shadow: 0 2px 12px rgba(11,31,58,.18); }
 .choice-tile:hover { filter: brightness(1.1); }
+.choice-tile-plain { align-items: center; text-align: center; }
 .choice-title { font-size: 22px; font-weight: 800; letter-spacing: .3px; }
 .choice-sub { font-size: 13.5px; color: rgba(255,255,255,.82); }
 .choice-cta { margin-top: 10px; font-weight: 700; color: var(--gold); }
