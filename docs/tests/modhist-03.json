@@ -1,0 +1,499 @@
+{
+    "title":  "Modern History Test 3",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Movement) with List-II (Leader) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Indigo Movement B. Bardoli Satyagraha C. All India Kisan Sabha D. Eka Movement",
+                                       "List-II: 1. Digambar \u0026 Bishnu Biswas 2. Vallabhbhai Patel 3. Swami Sahajanand Saraswati 4. Madari Pasi"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The Indigo Movement (1859–60), against forced indigo cultivation by European planters, took place chiefly in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bihar",
+                                          "Awadh",
+                                          "Bengal",
+                                          "Malabar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Consider the following statements about the Pabna Revolt:",
+                          "subs":  [
+                                       "1. It occurred in Eastern Bengal in the 1870s–80s.",
+                                       "2. Its main form of struggle was legal resistance, with little violence.",
+                                       "3. It led to the passage of the Bengal Tenancy Act of 1885."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 2 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The Deccan Riots of 1875 began as a social boycott and then attacks by ryots directed against:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Zamindars",
+                                          "Indigo planters",
+                                          "British officials",
+                                          "Moneylenders"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The All India Kisan Sabha, founded at Lucknow in 1936, had which of the following as its first president?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "N. G. Ranga",
+                                          "Indulal Yagnik",
+                                          "Swami Sahajanand Saraswati",
+                                          "Baba Ramchandra"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The Bardoli Satyagraha (against an unjustified land-revenue hike) was led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vallabhbhai Patel",
+                                          "Mahatma Gandhi",
+                                          "Jawaharlal Nehru",
+                                          "Rajendra Prasad"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Match List-I (Movement) with List-II (Region) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Mapilla Revolt B. Tebhaga C. Telangana D. Eka",
+                                       "List-II: 1. Malabar 2. Bengal 3. Hyderabad 4. United Provinces"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The Tebhaga Movement (1946, Bengal) demanded that sharecroppers (bargadars) be allowed to keep what share of the produce?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "One-half",
+                                          "One-third",
+                                          "The whole",
+                                          "Two-thirds"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Telangana Movement (1946), the biggest peasant guerrilla war of modern Indian history, was directed against the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nizam of Hyderabad",
+                                          "Zamindars of Bengal",
+                                          "British Raj directly",
+                                          "Nawab of Awadh"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following statements about the Kisan Sabha movement in the United Provinces:",
+                          "subs":  [
+                                       "1. The United Provinces Kisan Sabha (1918) was set up by Gauri Shankar Mishra.",
+                                       "2. Its leaders included Jawaharlal Nehru.",
+                                       "3. The agitation led to the Awadh Rent (Amendment) Act."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Arrange the following uprisings in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Deccan Riots 2. Sanyasi Revolt 3. Telangana Movement 4. Kol Uprising"
+                                   ],
+                          "options":  [
+                                          "2, 4, 3, 1",
+                                          "2, 4, 1, 3",
+                                          "2, 1, 4, 3",
+                                          "4, 2, 1, 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The Sanyasi Revolt of the late 18th century was suppressed by prolonged military action under:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lord Cornwallis",
+                                          "Lord Wellesley",
+                                          "Lord Dalhousie",
+                                          "Warren Hastings"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The Kol Uprising of 1831 broke out in which region?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chhotanagpur",
+                                          "Singhbhum",
+                                          "Malabar",
+                                          "Khandesh"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Consider the following statements about civil uprisings in Western India:",
+                          "subs":  [
+                                       "1. The Bhil uprising occurred in the Khandesh region.",
+                                       "2. The Ramosis rose in revolt under Chittur Singh.",
+                                       "3. The Surat agitation of 1844 was against a rise in salt duty."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The Poligars’ Revolt against the oppressive land-revenue system took place mainly in which region?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bengal",
+                                          "Madras",
+                                          "Bombay",
+                                          "Punjab"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Diwan Velu Thampi’s Revolt (1805) in Travancore was provoked by the harsh conditions imposed under the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Permanent Settlement",
+                                          "Doctrine of Lapse",
+                                          "Ring Fence policy",
+                                          "Subsidiary Alliance"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Match List-I (South Indian revolt) with List-II (Area) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Rampa Revolt B. Poligars’ Revolt C. Velu Thampi’s Revolt D. Revolt of the Raja of Vizianagaram",
+                                       "List-II: 1. Coastal Andhra 2. Madras 3. Travancore 4. Northern Sarkar"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The Wahabi Movement, a 19th-century Islamic revivalist movement, was founded by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bhagat Jawahar Mal",
+                                          "Titu Mir",
+                                          "Syed Ahmed",
+                                          "Dudu Miyan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Which one of the following uprising–region pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sanyasi Revolt — Bengal",
+                                          "Bhil Uprising — Malabar",
+                                          "Kol Uprising — Chhotanagpur",
+                                          "Mapilla Revolt — Malabar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The Mapilla Revolt of Malabar, which acquired communal overtones, was essentially a rising of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hindu zamindars against the British",
+                                          "tribal chiefs against forest laws",
+                                          "sharecroppers against jotedars",
+                                          "Muslim peasants against Hindu landlords and the British"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The Damin-i-Koh was created by the British Government to settle which one of the following communities?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Santals",
+                                          "Mundas",
+                                          "Oraons",
+                                          "Saoras"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which one of the following peasant struggles was an outcome of British opium policy?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Birsaite Ulgulan (1899–1900)",
+                                          "Pabna Revolt (1873)",
+                                          "Phulaguri Dhawa (1861)",
+                                          "Maratha Peasant Uprising (1875)"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Who took over the Eka Movement started by the Congress in Awadh during 1921–1922?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bhagwan Ahir",
+                                          "Madari Pasi",
+                                          "Baba Ramchandra",
+                                          "Shah Naeem Ata"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which of the following statements about the Sanyasi and Faqir disturbances are correct? 1. Governor-General Warren Hastings faced them in Bengal and Bihar. 2. There were Shaivite Naga Sanyasis who formed armed bands. 3. Majnu Shah, who led bands into Bengal from 1771, was a prominent leader.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "In which one of the following revolts did the Koya and Konda tribal chiefs rise against a local overlord from a Mansabdar family?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Gudem Uprising, 1886",
+                                          "The Rampa Rebellion, 1922–1924",
+                                          "The Rampa Rebellion, 1879–1880",
+                                          "The Telangana Armed Struggle, 1946–1951"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The Bengal Tenancy Act of 1885 was passed largely in the wake of which peasant movement?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pabna Revolt",
+                                          "Deccan Riots",
+                                          "Indigo Movement",
+                                          "Eka Movement"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The Munda Ulgulan (‘Great Tumult’, 1899–1900) was led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sidhu Murmu",
+                                          "Birsa Munda",
+                                          "Tilka Manjhi",
+                                          "Sewaram"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The Santal Rebellion (Hul) of 1855–56 was led by the brothers:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Birsa Munda and Gaya Munda",
+                                          "Chittur Singh and Durjan Singh",
+                                          "Sewaram and Kajar Singh",
+                                          "Sidhu and Kanhu"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which peasant leader was given the title ‘Sardar’ by the women of Bardoli?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mahatma Gandhi",
+                                          "Rajendra Prasad",
+                                          "Vallabhbhai Patel",
+                                          "Jawaharlal Nehru"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following was NOT a peasant/agrarian movement?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Wahabi Movement",
+                                          "Tebhaga Movement",
+                                          "Eka Movement",
+                                          "Bardoli Satyagraha"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Rebellions Against the British"
+                      }
+                  ]
+}

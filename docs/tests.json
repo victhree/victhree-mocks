@@ -265,6 +265,94 @@
       "description": "60 MCQs — Ancient (Stone Age → Guptas, South India) + Medieval (Delhi Sultanate, Vijayanagara, Mughals); 25 tagged CDS PYQs."
     },
     {
+      "id": "modhist-01",
+      "title": "Modern History Test 1",
+      "subject": "Modern History",
+      "topic": "Advent of Europeans \u0026 Rise of the EIC",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Modern History sectional test - 30 MCQs on Advent of Europeans \u0026 Rise of the EIC (20 notes + 5 PYQ + 5 extended). 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "modhist-02",
+      "title": "Modern History Test 2",
+      "subject": "Modern History",
+      "topic": "EIC Administration",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Modern History sectional test - 30 MCQs on EIC Administration (20 notes + 5 PYQ + 5 extended). 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "modhist-03",
+      "title": "Modern History Test 3",
+      "subject": "Modern History",
+      "topic": "Rebellions Against the British",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Modern History sectional test - 30 MCQs on Rebellions Against the British (20 notes + 5 PYQ + 5 extended). 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "modhist-04",
+      "title": "Modern History Test 4",
+      "subject": "Modern History",
+      "topic": "Revolt of 1857 \u0026 Socio-Religious Reforms",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Modern History sectional test - 30 MCQs on Revolt of 1857 \u0026 Socio-Religious Reforms (20 notes + 5 PYQ + 5 extended). 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "modhist-05",
+      "title": "Modern History Test 5",
+      "subject": "Modern History",
+      "topic": "Political Organizations \u0026 the INC",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Modern History sectional test - 30 MCQs on Political Organizations \u0026 the INC (20 notes + 5 PYQ + 5 extended). 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "modhist-06",
+      "title": "Modern History Test 6",
+      "subject": "Modern History",
+      "topic": "Mahatma Gandhi",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Modern History sectional test - 30 MCQs on Mahatma Gandhi (20 notes + 5 PYQ + 5 extended). 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "modhist-07",
+      "title": "Modern History Test 7",
+      "subject": "Modern History",
+      "topic": "Civil Disobedience \u0026 the GoI Act 1935",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Modern History sectional test - 30 MCQs on Civil Disobedience \u0026 the GoI Act 1935 (20 notes + 5 PYQ + 5 extended). 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "modhist-08",
+      "title": "Modern History Test 8",
+      "subject": "Modern History",
+      "topic": "Quit India \u0026 Independence",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Modern History sectional test - 30 MCQs on Quit India \u0026 Independence (20 notes + 5 PYQ + 5 extended). 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
       "id": "modern-india-01",
       "title": "Modern India-Test 1",
       "subject": "History",

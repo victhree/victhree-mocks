@@ -1,0 +1,499 @@
+{
+    "title":  "Modern History Test 5",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Early political organization) with List-II (Founder) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. East India Association B. Indian Association of Calcutta C. Poona Sarvajanik Sabha D. Madras Mahajan Sabha",
+                                       "List-II: 1. Dadabhai Naoroji 2. Surendranath Banerjea 3. M. G. Ranade 4. M. Viraraghavachari"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The Indian National Congress was founded in December 1885 by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dadabhai Naoroji",
+                                          "Surendranath Banerjea",
+                                          "A. O. Hume",
+                                          "W. C. Bonnerjee"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The ‘Safety Valve’ theory suggests that the Congress was created to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "win independence quickly",
+                                          "act as a safety valve to diffuse popular discontent",
+                                          "unite Hindus and Muslims",
+                                          "promote Western education"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following statements about the Moderates (1885–1905):",
+                          "subs":  [
+                                       "1. They used constitutional agitation — prayers, petitions and resolutions.",
+                                       "2. They believed in the benevolence of British rule.",
+                                       "3. They exposed the drain of wealth from India."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The Economic Drain Theory, arguing that India’s wealth was drained to Britain, was propounded by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "R. C. Dutt",
+                                          "Gopal Krishna Gokhale",
+                                          "Dadabhai Naoroji",
+                                          "M. G. Ranade"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Arrange the following events in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Surat Split 2. Partition of Bengal 3. Home Rule Leagues 4. Foundation of the Muslim League"
+                                   ],
+                          "options":  [
+                                          "2, 4, 1, 3",
+                                          "2, 1, 4, 3",
+                                          "2, 4, 3, 1",
+                                          "4, 2, 1, 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The Indian Councils Act of 1909 (Morley-Minto Reforms) is chiefly remembered for introducing:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Provincial autonomy",
+                                          "Separate electorates for Muslims",
+                                          "Universal adult franchise",
+                                          "Dyarchy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Consider the following statements about the Extremists (1905–1917):",
+                          "subs":  [
+                                       "1. Lal, Bal and Pal were among their leaders.",
+                                       "2. Their goal was Swaraj (self-rule).",
+                                       "3. Their methods included Swadeshi, boycott and national education."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Partition of Bengal (1905), which triggered the Swadeshi Movement, was carried out by Viceroy:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lord Curzon",
+                                          "Lord Minto",
+                                          "Lord Hardinge",
+                                          "Lord Ripon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The All-India Muslim League (1906) was founded under the leadership of the Aga Khan and the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nawab of Awadh",
+                                          "Nizam of Hyderabad",
+                                          "Nawab of Dhaka",
+                                          "Nawab of Rampur"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The Swadeshi Movement (1905–08) was launched primarily in response to the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rowlatt Act",
+                                          "Partition of Bengal (1905)",
+                                          "Jallianwala Bagh massacre",
+                                          "Simon Commission"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Match List-I (Swadeshi-era leader) with List-II (Region of activity) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. B. G. Tilak B. Lala Lajpat Rai C. Chidambaram Pillai D. Syed Haidar Raza",
+                                       "List-II: 1. Poona/Bombay 2. Punjab 3. Madras 4. Delhi"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-1 B-2 C-3 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The Calcutta Session of the Congress (1906), which declared Swaraj as the goal, was presided over by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dadabhai Naoroji",
+                                          "Bal Gangadhar Tilak",
+                                          "Surendranath Banerjea",
+                                          "Gopal Krishna Gokhale"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The Surat Split of 1907 was a division of the Congress between the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hindus and Muslims",
+                                          "Congress and the Muslim League",
+                                          "Moderates and Extremists",
+                                          "Swarajists and No-changers"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Match List-I (Revolutionary organization) with List-II (Key leader) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Anushilan Samiti B. Abhinav Bharat C. Ghadar Party D. HSRA",
+                                       "List-II: 1. Aurobindo Ghosh 2. V. D. Savarkar 3. Lala Har Dayal 4. Bhagat Singh"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The Kakori Train Action (1925) was carried out by the HRA under the leadership of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bhagat Singh",
+                                          "Surya Sen",
+                                          "Chandrashekhar Azad",
+                                          "Ram Prasad Bismil"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The Chittagong Armoury Raid (1930) was led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Surya Sen",
+                                          "Bhagat Singh",
+                                          "Rash Behari Bose",
+                                          "Bagha Jatin"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Consider the following statements about the Home Rule Leagues:",
+                          "subs":  [
+                                       "1. Tilak launched his Home Rule League in April 1916.",
+                                       "2. Annie Besant launched her Home Rule League in September 1916.",
+                                       "3. Tilak coined the slogan ‘Home Rule is my birthright’."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The wartime political churning around the Home Rule agitation contributed to which 1916 agreement between the Congress and the Muslim League?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Poona Pact",
+                                          "Lucknow Pact",
+                                          "Gandhi-Irwin Pact",
+                                          "Delhi Pact"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following revolutionary action–year pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Alipore Bomb Case — 1908",
+                                          "Kakori Train Action — 1925",
+                                          "Chittagong Armoury Raid — 1930",
+                                          "Ghadar Mutiny — 1857"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "In which one of the following years was the Poona Sarvajanik Sabha established?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1870",
+                                          "1876",
+                                          "1869",
+                                          "1884"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Arrange the formation of the following political associations chronologically, beginning with the earliest: 1. Poona Sarvajanik Sabha 2. Indian Association 3. Madras Mahajan Sabha 4. Bombay Presidency Association",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4, 3, 2, 1",
+                                          "1, 2, 4, 3",
+                                          "1, 2, 3, 4",
+                                          "3, 4, 1, 2"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following was NOT a Congress demand made by the Moderates?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Repeal of the Arms Act",
+                                          "Universal adult franchise",
+                                          "Extension of the Permanent Settlement",
+                                          "Higher jobs for Indians in the army"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The headquarters of the Ghadar Movement/Party were at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Stanford University",
+                                          "Portland",
+                                          "Florida",
+                                          "San Francisco"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which one of the following was NOT a political method of the Moderates in the national movement?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Constitutional agitation",
+                                          "Slow, orderly political progress",
+                                          "Overthrow of alien rule",
+                                          "Mobilisation of public opinion"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The famous declaration ‘Home Rule is my birthright, and I shall have it’ was made by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bal Gangadhar Tilak",
+                                          "Annie Besant",
+                                          "Lala Lajpat Rai",
+                                          "Bipin Chandra Pal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The Hindustan Socialist Republican Association (HSRA, 1928) counted which of the following among its founding revolutionaries?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Aurobindo Ghosh",
+                                          "Bhagat Singh",
+                                          "Surya Sen",
+                                          "Rash Behari Bose"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The first Indian appointed to the Viceroy’s Executive Council (under the Morley-Minto Reforms, 1909) was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dadabhai Naoroji",
+                                          "W. C. Bonnerjee",
+                                          "Surendranath Banerjea",
+                                          "S. P. Sinha"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The Ghadar Party (1913, USA) was founded by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Aurobindo Ghosh",
+                                          "Bagha Jatin",
+                                          "Lala Har Dayal and Sohan Singh Bhakna",
+                                          "Ram Prasad Bismil"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The Indian Association of Calcutta (1876) was founded by Surendranath Banerjea together with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ananda Mohan Bose",
+                                          "Dadabhai Naoroji",
+                                          "M. G. Ranade",
+                                          "Badruddin Tyabji"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Political Organizations \u0026 the INC"
+                      }
+                  ]
+}

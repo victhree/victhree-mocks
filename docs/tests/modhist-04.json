@@ -1,0 +1,501 @@
+{
+    "title":  "Modern History Test 4",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Centre of the 1857 Revolt) with List-II (Indian leader) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Delhi B. Kanpur C. Jhansi D. Lucknow",
+                                       "List-II: 1. Bahadur Shah Zafar 2. Nana Saheb 3. Rani Lakshmibai 4. Begum Hazrat Mahal"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The immediate cause of the Revolt of 1857 was the greased cartridge introduced with the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Brown Bess musket",
+                                          "Snider rifle",
+                                          "Enfield rifle",
+                                          "Lee-Metford rifle"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "After Mangal Pandey’s outburst at Barrackpore, the mutiny proper broke out on 10 May 1857 at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Delhi",
+                                          "Meerut",
+                                          "Barrackpore",
+                                          "Kanpur"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following causes of the Revolt of 1857:",
+                          "subs":  [
+                                       "1. The Doctrine of Lapse and Subsidiary Alliance were political grievances.",
+                                       "2. The annexation of Awadh (1856) angered soldiers and nobles.",
+                                       "3. The General Service Enlistment Act was a military grievance."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "At Kanpur, the Revolt of 1857 was led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kunwar Singh",
+                                          "Bakht Khan",
+                                          "Nana Saheb",
+                                          "Khan Bahadur Khan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The 82-year-old Bahadur Shah Zafar was proclaimed Shahenshah-e-Hindustan (Emperor of India) at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Delhi",
+                                          "Lucknow",
+                                          "Kanpur",
+                                          "Meerut"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Consider the following statements about the failure of the Revolt of 1857:",
+                          "subs":  [
+                                       "1. It lacked all-India participation.",
+                                       "2. Educated Indians, moneylenders and most princes did not join.",
+                                       "3. Punjab and Gurkha soldiers largely remained loyal to the British."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 2 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Match List-I (Centre of the Revolt) with List-II (British commander) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Delhi B. Jhansi C. Arrah D. Kanpur",
+                                       "List-II: 1. John Nicholson 2. Sir Hugh Rose 3. Eyre 4. Wheeler"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-1 B-2 C-3 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Government of India Act of 1858 transferred the governance of India from the East India Company to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The British Crown",
+                                          "The Board of Control",
+                                          "The Indian princes",
+                                          "The Governor-General"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following statements about the Government of India Act 1858:",
+                          "subs":  [
+                                       "1. It created the office of Secretary of State for India.",
+                                       "2. It abolished the Doctrine of Lapse.",
+                                       "3. The Governor-General was given the additional title of Viceroy."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Raja Ram Mohan Roy, the ‘Father of the Indian Renaissance’, founded which reform organisation in 1828?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Arya Samaj",
+                                          "Brahmo Samaj",
+                                          "Prarthana Samaj",
+                                          "Ramakrishna Mission"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Raja Ram Mohan Roy’s campaigning persuaded Lord William Bentinck (1829) to legally abolish which practice?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Child marriage",
+                                          "Female infanticide",
+                                          "Purdah",
+                                          "Sati"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Arrange the following reform organisations in correct chronological order of founding (earliest first):",
+                          "subs":  [
+                                       "1. Arya Samaj 2. Atmiya Sabha 3. Prarthana Samaj 4. Brahmo Samaj"
+                                   ],
+                          "options":  [
+                                          "2, 4, 3, 1",
+                                          "2, 3, 4, 1",
+                                          "2, 4, 1, 3",
+                                          "4, 2, 3, 1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The Arya Samaj (1875), with its slogan ‘Back to the Vedas’, was founded by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Raja Ram Mohan Roy",
+                                          "Keshab Chandra Sen",
+                                          "Swami Dayanand Saraswati",
+                                          "Swami Vivekananda"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The best-known literary work of Swami Dayanand Saraswati is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gulamgiri",
+                                          "Satyarth Prakash",
+                                          "Precepts of Jesus",
+                                          "Anandamath"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The Theosophical Society, founded (1875) by Blavatsky and Olcott, later shifted its headquarters to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bombay",
+                                          "Varanasi",
+                                          "Kolkata",
+                                          "Adyar (Chennai)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Swami Vivekananda introduced Hindu philosophy to the West through his 1893 address to the World Parliament of Religions at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chicago",
+                                          "London",
+                                          "New York",
+                                          "Geneva"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Match List-I (Reformer) with List-II (Institution/Movement) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Jyotiba Phule B. Gopal Krishna Gokhale C. Sri Narayana Guru D. E. V. Ramaswamy Naicker",
+                                       "List-II: 1. Satyashodhak Samaj 2. Servants of India Society 3. SNDP Movement 4. Self-Respect Movement"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Consider the following statements about Muslim reform movements:",
+                          "subs":  [
+                                       "1. The Faraizi Movement was founded by Haji Shariatullah.",
+                                       "2. The Aligarh Movement was led by Sir Syed Ahmed Khan.",
+                                       "3. The Deoband Movement was orthodox, focusing on the Quran and Hadis."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 2 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following reformer–movement pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dayanand Saraswati — Arya Samaj",
+                                          "Swami Vivekananda — Ramakrishna Mission",
+                                          "Henry Derozio — Young Bengal Movement",
+                                          "Raja Ram Mohan Roy — Self-Respect Movement"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Who among the following was known during the Revolt of 1857 as ‘Danka Shah’?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Maulavi Ahmadullah Shah",
+                                          "Shah Mal",
+                                          "Nana Sahib",
+                                          "Tantia Tope"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which of the following were founded by Raja Ram Mohan Roy? 1. Atmiya Sabha 2. Brahmo Samaj 3. Prarthana Samaj 4. Arya Samaj",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "2 only",
+                                          "1 and 2 only",
+                                          "1, 3 and 4"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Swami Dayanand Saraswati took his inspiration from the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Puranas",
+                                          "Vedas",
+                                          "Medieval saints",
+                                          "Sufism"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Who among the following was popularly known as ‘Lokahitwadi’?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mahadev Govind Ranade",
+                                          "Gopal Krishna Gokhale",
+                                          "Jyotiba Phule",
+                                          "Gopal Hari Deshmukh"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "In which place was the Ahmadiyya Movement started by Mirza Ghulam Ahmad?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Patna",
+                                          "Aligarh",
+                                          "Gurdaspur",
+                                          "Bhopal"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The Aligarh Movement and the Anglo-Oriental College (later AMU) were founded by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sir Syed Ahmed Khan",
+                                          "Syed Ahmed of Rae Bareli",
+                                          "Mirza Ghulam Ahmad",
+                                          "Haji Shariatullah"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The 1893 address to the World Parliament of Religions in Chicago was delivered by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ramakrishna Paramahamsa",
+                                          "Swami Vivekananda",
+                                          "Dayanand Saraswati",
+                                          "Keshab Chandra Sen"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The Servants of India Society (1905) was founded by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "M. G. Ranade",
+                                          "Bal Gangadhar Tilak",
+                                          "Dadabhai Naoroji",
+                                          "Gopal Krishna Gokhale"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Rani Lakshmibai met her death (17 June 1858) during the battle for:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jhansi",
+                                          "Kanpur",
+                                          "Gwalior",
+                                          "Kalpi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The spiritual guru of Swami Vivekananda, a priest at the Dakshineswar Kali Temple, was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ramakrishna Paramahamsa",
+                                          "Swami Dayanand Saraswati",
+                                          "Keshab Chandra Sen",
+                                          "Debendranath Tagore"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Revolt of 1857 \u0026 Socio-Religious Reforms"
+                      }
+                  ]
+}

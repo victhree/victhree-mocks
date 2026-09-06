@@ -1,0 +1,498 @@
+{
+    "title":  "Modern History Test 8",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (British offer/mission/plan) with List-II (Associated figure or feature) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. August Offer B. Cripps Mission C. Cabinet Mission D. Mountbatten Plan",
+                                       "List-II: 1. Lord Linlithgow 2. Sir Stafford Cripps 3. Three British ministers (1946) 4. Partition of India"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "When Britain declared India at war (1939) without consulting Indian leaders, the Congress responded by directing its provincial ministries to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "support the war fully",
+                                          "launch Quit India immediately",
+                                          "resign in protest",
+                                          "join the Viceroy’s council"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The Pakistan Resolution (1940), demanding separate states for Muslims, was passed by the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Indian National Congress",
+                                          "Muslim League",
+                                          "Hindu Mahasabha",
+                                          "Unionist Party"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following statements about the August Offer (1940):",
+                          "subs":  [
+                                       "1. It promised dominion status for India.",
+                                       "2. It promised a Constituent Assembly (mainly of Indians) after the war.",
+                                       "3. It was rejected by both the Congress and the Muslim League."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The first Individual Satyagraha (1940) was led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jawaharlal Nehru",
+                                          "Brahma Datt",
+                                          "Vinoba Bhave",
+                                          "Sardar Patel"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The Cripps Mission (March 1942) was headed by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sir Stafford Cripps",
+                                          "Lord Wavell",
+                                          "Lord Pethick-Lawrence",
+                                          "A. V. Alexander"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Arrange the following British offers/missions/plans in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Cripps Mission 2. August Offer 3. Mountbatten Plan 4. Cabinet Mission"
+                                   ],
+                          "options":  [
+                                          "2, 1, 3, 4",
+                                          "2, 1, 4, 3",
+                                          "1, 2, 4, 3",
+                                          "2, 4, 1, 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "At the Gowalia Tank session (8 August 1942), what famous call did Gandhi give to launch the Quit India Movement?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "‘Chalo Dilli’",
+                                          "‘Purna Swaraj’",
+                                          "‘Simon Go Back’",
+                                          "‘Do or Die’"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Match List-I (Parallel government during Quit India) with List-II (Key figure) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Ballia (UP) B. Tamluk (Bengal) C. Satara (Maharashtra) D. Talcher (Orissa)",
+                                       "List-II: 1. Chittu Pandey 2. Satish Chandra Samanta 3. Nana Patil 4. Lakshman Naik"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "During the Quit India Movement, an underground Congress radio station in Bombay was run by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Aruna Asaf Ali",
+                                          "Sucheta Kripalani",
+                                          "Usha Mehta",
+                                          "Matangini Hazra"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Consider the following statements about the Quit India Movement:",
+                          "subs":  [
+                                       "1. Top Congress leaders were arrested on 9 August 1942.",
+                                       "2. The movement became largely leaderless and spontaneous.",
+                                       "3. The Muslim League, Hindu Mahasabha and CPI did not officially participate."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The First Indian National Army (INA, 1942), formed from Indian POWs after the fall of Singapore, was raised by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rash Behari Bose",
+                                          "Captain Mohan Singh",
+                                          "Subhas Chandra Bose",
+                                          "Shah Nawaz Khan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Subhas Chandra Bose proclaimed the Azad Hind Government (Provisional Government of Free India, 1943) at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Singapore",
+                                          "Tokyo",
+                                          "Berlin",
+                                          "Rangoon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The all-women Rani of Jhansi Regiment of the INA was commanded by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Aruna Asaf Ali",
+                                          "Sarojini Naidu",
+                                          "Captain Lakshmi Sahgal",
+                                          "Usha Mehta"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The INA’s war cry during the Imphal-Kohima campaign was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "‘Do or Die’",
+                                          "‘Chalo Dilli’",
+                                          "‘Jai Hind’ only",
+                                          "‘Inquilab Zindabad’"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The INA (Red Fort) Trials of 1945–46 tried three officers — Prem Sahgal, Gurbaksh Singh Dhillon and:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mohan Singh",
+                                          "Rash Behari Bose",
+                                          "Lakshmi Sahgal",
+                                          "Shah Nawaz Khan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Consider the following statements about the Cabinet Mission (1946):",
+                          "subs":  [
+                                       "1. It comprised three British Cabinet ministers.",
+                                       "2. It rejected the demand for a full-fledged, sovereign Pakistan.",
+                                       "3. It proposed a weak centre, responsible only for defence, foreign affairs and communications."
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "‘Direct Action Day’ (16 August 1946), which unleashed widespread communal violence, was called by the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Congress",
+                                          "Hindu Mahasabha",
+                                          "Muslim League",
+                                          "Communist Party"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The Mountbatten Plan (1947) accepted the partition of India and the creation of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a united India",
+                                          "a separate state of Pakistan",
+                                          "a dominion of Bengal",
+                                          "a princely federation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cyril Radcliffe — boundary commission",
+                                          "Mohan Singh — First INA",
+                                          "Cripps Mission — 1942",
+                                          "Cabinet Mission — 1942"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Subhas Chandra Bose started the Azad Hind Radio in which of the following countries?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Germany",
+                                          "Japan",
+                                          "Austria",
+                                          "Malaysia"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which political party formally accepted the Cabinet Mission Plan on 6 June 1946 (a plan that had rejected the demand for a sovereign Pakistan)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Hindu Mahasabha",
+                                          "The Congress",
+                                          "The Muslim League",
+                                          "The Unionist Party"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Who is the author of the book ‘The Indian Struggle 1920–1942’?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vinayak Damodar Savarkar",
+                                          "Subhas Chandra Bose",
+                                          "Vallabhbhai Patel",
+                                          "Sarat Chandra Bose"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Matangini Hazra and Lakshman Naik sacrificed their lives during which movement?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bardoli Satyagraha",
+                                          "Non-Cooperation Movement",
+                                          "Civil Disobedience Movement",
+                                          "Quit India Movement"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Who was responsible for demarcating the border between India and Pakistan during the partition of 1947?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mortimer Durand",
+                                          "Henry McMahon",
+                                          "Cyril Radcliffe",
+                                          "Arthur Belfour"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The Provisional Government of Free India (Azad Hind) proclaimed by Bose was recognised by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Axis powers",
+                                          "the Allied powers",
+                                          "the League of Nations",
+                                          "the United Nations"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The Indian Independence Act 1947 gave legal effect to which plan?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Cabinet Mission Plan",
+                                          "The Mountbatten Plan",
+                                          "The Cripps proposals",
+                                          "The August Offer"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Under the Independence Act 1947, until new constitutions were framed, the two dominions were to be governed as an interim constitution by the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Indian Councils Act 1861",
+                                          "Regulating Act 1773",
+                                          "Charter Act 1833",
+                                          "Government of India Act 1935"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The British Prime Minister who announced the transfer of power to India (1947) was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Winston Churchill",
+                                          "Ramsay MacDonald",
+                                          "Clement Attlee",
+                                          "Neville Chamberlain"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Under the Independence Act, India and Pakistan came into being as independent dominions on:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "15 August 1947",
+                                          "26 January 1950",
+                                          "26 January 1930",
+                                          "14 August 1947"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Quit India \u0026 Independence"
+                      }
+                  ]
+}

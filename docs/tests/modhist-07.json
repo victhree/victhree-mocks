@@ -1,0 +1,500 @@
+{
+    "title":  "Modern History Test 7",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Group/Body) with List-II (Description) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Swarajists B. No-Changers C. Simon Commission D. Nehru Report",
+                                       "List-II: 1. Council entry (C. R. Das \u0026 Motilal Nehru) 2. Constructive work (Rajagopalachari \u0026 Patel) 3. Chaired by Sir John Simon 4. Committee headed by Motilal Nehru"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The Simon Commission (1927) was condemned by Indians chiefly because:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "it favoured dominion status",
+                                          "it recommended partition",
+                                          "it had no Indian members",
+                                          "it abolished separate electorates"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Consider the following recommendations of the Simon Commission:",
+                          "subs":  [
+                                       "1. Abolish dyarchy in the provinces.",
+                                       "2. Grant provincial autonomy.",
+                                       "3. Separate Sindh from the Bombay Presidency."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 2 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Lala Lajpat Rai received fatal injuries in a lathi charge during protests against the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rowlatt Act",
+                                          "Jallianwala Bagh massacre",
+                                          "Quit India Movement",
+                                          "Simon Commission"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The Nehru Report (1928), the first Indian-drafted constitutional framework, was prepared by a committee headed by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jawaharlal Nehru",
+                                          "M. A. Jinnah",
+                                          "Motilal Nehru",
+                                          "Tej Bahadur Sapru"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "After his amendments to the Nehru Report were rejected, who formulated the ‘Fourteen Points’?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "M. A. Jinnah",
+                                          "Motilal Nehru",
+                                          "The Aga Khan",
+                                          "Maulana Azad"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Purna Swaraj (complete independence) was declared as the Congress goal at which session (December 1929)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Karachi",
+                                          "Lahore",
+                                          "Calcutta",
+                                          "Nagpur"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The Lahore Congress declared which date to be celebrated as the first Independence Day?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "15 August 1930",
+                                          "1 January 1930",
+                                          "2 October 1930",
+                                          "26 January 1930"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Consider the following, all of which were among Gandhi’s 11 Demands to Viceroy Irwin:",
+                          "subs":  [
+                                       "1. Abolish the salt tax.",
+                                       "2. Introduce total prohibition.",
+                                       "3. Reduce land revenue on peasants by 50%."
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The Civil Disobedience Movement was launched with which act of defiance?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Chauri Chaura incident",
+                                          "The Rowlatt Satyagraha",
+                                          "The Dandi March",
+                                          "The Quit India Movement"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Arrange the following in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Nehru Report 2. Simon Commission 3. Dandi March 4. Purna Swaraj declaration"
+                                   ],
+                          "options":  [
+                                          "2, 1, 3, 4",
+                                          "2, 1, 4, 3",
+                                          "1, 2, 4, 3",
+                                          "2, 4, 1, 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The parallel salt march from Trichy to Vedaranyam (in Tamil Nadu) during the CDM was led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sardar Patel",
+                                          "Jawaharlal Nehru",
+                                          "Rajendra Prasad",
+                                          "C. Rajagopalachari"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The Khudai Khidmatgars (‘Red Shirts’), who joined the CDM in the North-West Frontier (Peshawar), were led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Khan Abdul Ghaffar Khan",
+                                          "Maulana Azad",
+                                          "Muhammad Ali",
+                                          "Hasrat Mohani"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Consider the following statements about the Gandhi-Irwin Pact (1931):",
+                          "subs":  [
+                                       "1. The Congress agreed to suspend the Civil Disobedience Movement.",
+                                       "2. The Congress agreed to attend the Second Round Table Conference.",
+                                       "3. The government agreed to release political prisoners not charged with violence."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The Communal Award (1932), granting separate electorates including to the Depressed Classes, was announced by British Prime Minister:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lord Irwin",
+                                          "Ramsay MacDonald",
+                                          "Lord Willingdon",
+                                          "Winston Churchill"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The Poona Pact (1932) between Gandhi and Ambedkar replaced separate electorates for Dalits with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "separate electorates for all communities",
+                                          "universal adult suffrage",
+                                          "joint electorates with no reservation",
+                                          "reserved seats for Dalits within general electorates"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Consider the following statements about the Government of India Act 1935:",
+                          "subs":  [
+                                       "1. It granted provincial autonomy.",
+                                       "2. It abolished dyarchy in the provinces (introducing it instead at the centre).",
+                                       "3. It envisaged an all-India federation of provinces and princely states."
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The Reserve Bank of India was established, under the framework of these reforms, in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1919",
+                                          "1926",
+                                          "1935",
+                                          "1937"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Match List-I (Event) with List-II (Fact/outcome) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. First Round Table Conference B. Second Round Table Conference C. Communal Award D. Poona Pact",
+                                       "List-II: 1. Congress boycotted it 2. Gandhi attended as sole Congress representative 3. Announced by Ramsay MacDonald 4. Gandhi–Ambedkar agreement"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following event–year pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Simon Commission — 1927",
+                                          "Nehru Report — 1928",
+                                          "Purna Swaraj (Lahore) — 1929",
+                                          "Dandi March — 1935"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following statements about the Gandhi-Irwin Pact of 1931 is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Congress agreed to take part in the Second Round Table Conference",
+                                          "The Government would not release prisoners who had been non-violent",
+                                          "The Government would not release those who had done peaceful picketing",
+                                          "The Congress did not agree to suspend the Civil Disobedience Movement"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "On 31 December 1929, at which Congress session was the proclamation of Purna Swaraj made?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ahmedabad",
+                                          "Calcutta",
+                                          "Lahore",
+                                          "Lucknow"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "At which session of the Indian National Congress was the resolution on Fundamental Rights and Economic Policy passed?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tripuri Session",
+                                          "Karachi Session",
+                                          "Lucknow Session",
+                                          "Lahore Session"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The creation of a Federal Court in India was advocated by which of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Government of India Act, 1919",
+                                          "Lee Commission, 1923",
+                                          "Indian Councils Act, 1909",
+                                          "Government of India Act, 1935"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which socialist activist persuaded Gandhi not to restrict the Salt March protest to men alone?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sarojini Naidu",
+                                          "Matangini Hazra",
+                                          "Kamaladevi Chattopadhyay",
+                                          "Mithuben Petit"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The Dandi March (1930) started from which place?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sabarmati Ashram",
+                                          "Sevagram",
+                                          "Porbandar",
+                                          "Yerawada"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Gandhi’s fast unto death in Yerawada Jail against the Communal Award led to which agreement?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lucknow Pact",
+                                          "Poona Pact",
+                                          "Gandhi-Irwin Pact",
+                                          "The Communal Award"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The Government of India Act 1935 divided legislative subjects into Federal, Provincial and which third list?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "State list",
+                                          "Union list",
+                                          "Residuary list",
+                                          "Concurrent list"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "At the Second Round Table Conference (1931), Mahatma Gandhi attended:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "with the whole Congress delegation",
+                                          "as an observer only",
+                                          "as the sole representative of the Congress",
+                                          "after boycotting it"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The provincial-autonomy provisions of the Government of India Act 1935 led to the Congress forming ministries in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1937",
+                                          "1935",
+                                          "1939",
+                                          "1942"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Civil Disobedience \u0026 the GoI Act 1935"
+                      }
+                  ]
+}

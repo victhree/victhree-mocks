@@ -1,0 +1,499 @@
+{
+    "title":  "Modern History Test 1",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (European power) with List-II (First/pioneering figure in India) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Portuguese B. Dutch C. English D. French",
+                                       "List-II: 1. Vasco da Gama 2. Cornelius Houtman 3. William Hawkins 4. Francis Caron"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Arrange the following European powers in the correct chronological order of their arrival in India (earliest first):",
+                          "subs":  [
+                                       "1. French 2. Portuguese 3. English 4. Dutch"
+                                   ],
+                          "options":  [
+                                          "2, 4, 1, 3",
+                                          "2, 3, 4, 1",
+                                          "2, 4, 3, 1",
+                                          "2, 1, 4, 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Vasco da Gama, the first European to reach India by sea (1498), landed at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Goa",
+                                          "Calicut",
+                                          "Cochin",
+                                          "Surat"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The real founder of Portuguese power in India, who conquered Goa in 1510, was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vasco da Gama",
+                                          "Francisco de Almeida",
+                                          "Francis Martin",
+                                          "Alfonso de Albuquerque"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Consider the following statements about the Portuguese in India:",
+                          "subs":  [
+                                       "1. Francisco de Almeida introduced the Blue Water Policy.",
+                                       "2. Albuquerque conquered Goa in 1510.",
+                                       "3. Goa, Diu and Daman remained with Portugal until 1961."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The French capital in India, founded by Francis (Francois) Martin, was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pondicherry",
+                                          "Chandernagore",
+                                          "Mahe",
+                                          "Karaikal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Tranquebar and Serampore were the chief trading ports of which European power?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dutch",
+                                          "Danish",
+                                          "French",
+                                          "Portuguese"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The Battle of Plassey (1757) was fought between the British under Robert Clive and which Nawab of Bengal?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mir Jafar",
+                                          "Mir Qasim",
+                                          "Shuja-ud-Daula",
+                                          "Siraj-ud-Daula"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "After the Battle of Plassey, Robert Clive installed which puppet as the new Nawab of Bengal?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mir Jafar",
+                                          "Mir Qasim",
+                                          "Nizam-ul-Mulk",
+                                          "Shah Alam II"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following statements about the Battle of Buxar:",
+                          "subs":  [
+                                       "1. It was fought in 1764.",
+                                       "2. The ‘Triple Alliance’ comprised Mir Qasim, Shuja-ud-Daula and Shah Alam II.",
+                                       "3. The British were led by Major Hector Munro."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The Treaty of Allahabad (1765) granted the Diwani (revenue rights) of Bengal, Bihar and Orissa to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Nawab of Awadh",
+                                          "the East India Company",
+                                          "the Nizam of Hyderabad",
+                                          "the Marathas"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The French were finally and decisively defeated in the Carnatic Wars at the Battle of (1760):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Plassey",
+                                          "Buxar",
+                                          "Adyar",
+                                          "Wandiwash"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Match List-I (Maratha house) with List-II (Region) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Gaekwad B. Bhonsle C. Holkar D. Sindhia",
+                                       "List-II: 1. Baroda 2. Nagpur 3. Indore 4. Gwalior"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Tipu Sultan, who ruled Mysore, described which weapon in his military manual Fathul Mujahidin?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Matchlocks",
+                                          "Cannons",
+                                          "Rockets",
+                                          "Muskets"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Tipu Sultan was killed defending his capital in the Fourth Anglo-Mysore War (1799) at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Battle of Wandiwash",
+                                          "Srirangapatnam",
+                                          "Battle of Buxar",
+                                          "Battle of Talikota"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Match List-I (Treaty) with List-II (Significance) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Salbai B. Seringapatam C. Bassein D. Sugauli",
+                                       "List-II: 1. Ended the First Anglo-Maratha War 2. Ended the Third Anglo-Mysore War 3. Subsidiary alliance with the Peshwa 4. Nepal ceded Garhwal and Kumaon"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-1 B-2 C-3 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The Treaty of Bassein (1802) brought which power under the Subsidiary Alliance system?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Marathas (Peshwa Baji Rao II)",
+                                          "Mysore",
+                                          "Hyderabad",
+                                          "Awadh"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Consider the following statements about British annexations:",
+                          "subs":  [
+                                       "1. Sindh was annexed in 1843 by Charles Napier.",
+                                       "2. The Treaty of Yandabo ended the First Anglo-Burmese War.",
+                                       "3. The Treaty of Sugauli was signed with Nepal."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Which one of the following treaty–year pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bassein — 1802",
+                                          "Salbai — 1792",
+                                          "Sugauli — 1816",
+                                          "Yandabo — 1826"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The EIC’s abuse of which trade permits — used to evade internal customs duties — was a major grievance of the Bengal Nawabs?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Firmans",
+                                          "Parwanas",
+                                          "Nishans",
+                                          "Dastaks"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following was NOT included in the terms of the Subsidiary Alliance system of Lord Wellesley?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The ally was free to enter into agreements with other rulers or engage in warfare",
+                                          "The British would protect their ally",
+                                          "A British armed contingent would be stationed in the ally’s territory",
+                                          "The ally would provide resources for the maintenance of the contingent"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The work Siyar-ul-Mutakherin, which describes the Battle of Plassey (1757), was written by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Salabat Jung",
+                                          "Qasim Khan",
+                                          "Ghulam Husain",
+                                          "Ram Mohan Roy"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which kingdom was described by Governor-General Lord Dalhousie as ‘A cherry that will drop into our mouth one day’?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Delhi",
+                                          "Awadh",
+                                          "Jhansi",
+                                          "Gwalior"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The British policy towards Afghanistan in the first half of the 19th century aimed at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Strengthening Afghanistan as a buffer against Russia",
+                                          "Promoting Russian influence in Afghanistan to control tribal leaders",
+                                          "Annexing Afghanistan as directly-controlled British territory",
+                                          "Weakening Russian influence in Afghanistan but not promoting a strong Afghanistan either"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Who believed that Russian designs were an imminent peril to the security and tranquillity of the Indian Empire in 1836?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lord Palmerston",
+                                          "Lord Canning",
+                                          "Lord Auckland",
+                                          "Alexander Burnes"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The Subsidiary Alliance system, used to bring Indian states under British control, was devised by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lord Wellesley",
+                                          "Lord Dalhousie",
+                                          "Robert Clive",
+                                          "Warren Hastings"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Ranjit Singh was recognised as the sovereign ruler of Punjab by which treaty (1809)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Treaty of Lahore",
+                                          "Treaty of Amritsar",
+                                          "Treaty of Sugauli",
+                                          "Treaty of Bassein"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The first English captain to reach Jahangir’s court (1608), carrying a letter from King James I, was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sir Thomas Roe",
+                                          "Ralph Fitch",
+                                          "Francis Day",
+                                          "Captain William Hawkins"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The Portuguese possessions of Goa, Diu and Daman were finally liberated and merged with India in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1947",
+                                          "1954",
+                                          "1961",
+                                          "1975"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The French settlement of Pondicherry was finally merged with the Indian Union in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1954",
+                                          "1947",
+                                          "1961",
+                                          "1950"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Advent of Europeans \u0026 Rise of the EIC"
+                      }
+                  ]
+}

@@ -1,0 +1,499 @@
+{
+    "title":  "Modern History Test 2",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Act) with List-II (Key provision) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Regulating Act 1773 B. Pitt’s India Act 1784 C. Charter Act 1813 D. Charter Act 1833",
+                                       "List-II: 1. First Governor-General of Bengal 2. Board of Control 3. Ended trade monopoly (except tea/China) 4. Governor-General of India"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The Regulating Act of 1773 appointed which official as the first Governor-General of Bengal?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lord Cornwallis",
+                                          "Robert Clive",
+                                          "Warren Hastings",
+                                          "Lord Wellesley"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Arrange the following Acts in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Charter Act 1833 2. Regulating Act 1773 3. Charter Act 1853 4. Pitt’s India Act 1784"
+                                   ],
+                          "options":  [
+                                          "2, 4, 3, 1",
+                                          "2, 4, 1, 3",
+                                          "2, 1, 4, 3",
+                                          "4, 2, 1, 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Pitt’s India Act of 1784 established which new body to oversee the Company’s civil, military and revenue administration?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Court of Directors",
+                                          "Supreme Court",
+                                          "Law Commission",
+                                          "Board of Control"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The Charter Act of 1813 ended the East India Company’s trade monopoly, except for the trade in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Salt",
+                                          "Opium",
+                                          "Tea and trade with China",
+                                          "Indigo"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The Charter Act of 1833 made the Governor-General of Bengal the Governor-General of India. Who was the first to hold this new office?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lord William Bentinck",
+                                          "Warren Hastings",
+                                          "Lord Cornwallis",
+                                          "Lord Dalhousie"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Consider the following statements about the Charter Act of 1853:",
+                          "subs":  [
+                                       "1. It separated the legislative and executive functions of the Governor-General’s Council.",
+                                       "2. It added six legislative councillors, functioning like a mini-parliament.",
+                                       "3. It provided for open competition for recruitment to the civil services."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 2 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Match List-I (Policy/System) with List-II (Associated figure) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Permanent Settlement B. Ryotwari C. Mahalwari D. Ring Fence policy",
+                                       "List-II: 1. Lord Cornwallis 2. Sir Thomas Munro 3. Holt Mackenzie 4. Warren Hastings"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-1 B-2 C-3 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Permanent Settlement of 1793, recognising zamindars as landowners, was introduced by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lord Cornwallis",
+                                          "Thomas Munro",
+                                          "Warren Hastings",
+                                          "Holt Mackenzie"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following statements about the Permanent Settlement:",
+                          "subs":  [
+                                       "1. It was introduced in 1793.",
+                                       "2. Zamindars were recognised as landowners and peasants as tenants.",
+                                       "3. It applied to Bengal, Bihar and Orissa."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The Ryotwari system, a direct settlement with the peasant (ryot) without intermediaries, was introduced by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lord Cornwallis",
+                                          "Sir Thomas Munro",
+                                          "Holt Mackenzie",
+                                          "Lord Wellesley"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "In the Mahalwari system, revenue was assessed on the produce of the whole village unit called a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ryot",
+                                          "Taluka",
+                                          "Pargana",
+                                          "Mahal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Which one of the following revenue system–region pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Permanent Settlement — Punjab",
+                                          "Ryotwari — Madras",
+                                          "Mahalwari — North-West Provinces",
+                                          "Permanent Settlement — Bengal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The Policy of Ring Fence, protecting Company frontiers through buffer states, was introduced by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lord Wellesley",
+                                          "Lord Dalhousie",
+                                          "Warren Hastings",
+                                          "Lord Cornwallis"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The Subsidiary Alliance system, turning Indian rulers into dependent protectorates, was introduced by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Warren Hastings",
+                                          "Lord Wellesley",
+                                          "Lord Dalhousie",
+                                          "Lord Cornwallis"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Consider the following features of the Subsidiary Alliance:",
+                          "subs":  [
+                                       "1. The ruler had to dissolve his own army and accept a British contingent.",
+                                       "2. A British Resident was stationed at the ruler’s court.",
+                                       "3. The ruler could not make war or peace without British consent."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The Doctrine of Lapse, annexing states whose rulers died without a natural male heir, was introduced by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lord Dalhousie",
+                                          "Lord Wellesley",
+                                          "Lord Canning",
+                                          "Warren Hastings"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Match List-I (State) with List-II (Year of annexation under the Doctrine of Lapse) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Satara B. Jhansi C. Nagpur D. Sambalpur",
+                                       "List-II: 1. 1848 2. 1853 3. 1854 4. 1849"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The first Law Member added to the Governor-General’s Council (by the Charter Act of 1833) was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lord Bentinck",
+                                          "T. B. Macaulay",
+                                          "Warren Hastings",
+                                          "Lord Cornwallis"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following states was NOT annexed under the Doctrine of Lapse?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Satara",
+                                          "Jhansi",
+                                          "Nagpur",
+                                          "Hyderabad"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following British officials was elevated to the position of Governor-General after the Regulating Act of 1773?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Warren Hastings",
+                                          "Lord North",
+                                          "Mountstuart Elphinstone",
+                                          "Philip Francis"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "When was the monopoly of the China trade lost by the East India Company?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1813",
+                                          "1793",
+                                          "1833",
+                                          "1853"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The Ryotwari experiment in land revenue was started by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Henry Dundas",
+                                          "Alexander Reed",
+                                          "David Ricardo",
+                                          "Mountstuart Elphinstone"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which one of the following statements about the ryotwari settlement is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "In southern and western India, the ryotwari settlement was adopted",
+                                          "In principle it was a direct contract between the ryot and the state",
+                                          "It meant a tax contract usually valid for 30 years",
+                                          "In principle it strengthened the former elite, the zamindars, and weakened the peasantry"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The Bengal Famine of 1769–70 was worsened by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Locust attacks",
+                                          "Rat infestation",
+                                          "High levels of taxation",
+                                          "Smallpox epidemic"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The Charter Act of 1833 ended all commercial activity of the East India Company, converting it into:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A purely administrative body",
+                                          "A trading monopoly",
+                                          "A military garrison",
+                                          "A joint-stock trading firm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The Deccan Agriculturalists Relief Act of 1879 was chiefly enacted to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Restore lands to already-dispossessed peasants",
+                                          "Restrict the sale of indebted peasants’ land to outside moneylenders",
+                                          "Provide interest-free loans to all farmers",
+                                          "Abolish moneylending in the Deccan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The Dual Government of Bengal — where the Company held the Diwani (revenue) while the Nawab held the Nizamat (administration) — was established by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Warren Hastings",
+                                          "Lord Cornwallis",
+                                          "Lord Wellesley",
+                                          "Robert Clive"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Rani Lakshmibai’s state of Jhansi was annexed under the Doctrine of Lapse in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1848",
+                                          "1851",
+                                          "1853",
+                                          "1857"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The first Governor-General of India, under the Charter Act of 1833, was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lord William Bentinck",
+                                          "Warren Hastings",
+                                          "Lord Cornwallis",
+                                          "Lord Canning"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "EIC Administration"
+                      }
+                  ]
+}

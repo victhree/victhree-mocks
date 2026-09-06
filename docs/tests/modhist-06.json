@@ -1,0 +1,500 @@
+{
+    "title":  "Modern History Test 6",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Gandhi’s early movement) with List-II (Year/issue) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Champaran Satyagraha B. Ahmedabad Mill Strike C. Kheda Satyagraha D. Rowlatt Satyagraha",
+                                       "List-II: 1. 1917 (indigo/Tinkathia) 2. 1918 (mill bonus) 3. 1918 (revenue remission) 4. 1919 (Black Law)"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The Champaran Satyagraha (1917), Gandhi’s first civil disobedience in India, was directed against the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Permanent Settlement",
+                                          "Ryotwari system",
+                                          "Tinkathia system",
+                                          "Mahalwari system"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Gandhi undertook his first hunger strike in India during which struggle?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Champaran Satyagraha",
+                                          "Ahmedabad Mill Strike",
+                                          "Kheda Satyagraha",
+                                          "Rowlatt Satyagraha"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The Kheda Satyagraha (1918), Gandhi’s first non-cooperation effort, was organised on the ground by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rajendra Prasad",
+                                          "Jawaharlal Nehru",
+                                          "C. R. Das",
+                                          "Sardar Vallabhbhai Patel"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Consider the following statements about Gandhi in South Africa:",
+                          "subs":  [
+                                       "1. He founded the Natal Indian Congress.",
+                                       "2. He started the newspaper Indian Opinion.",
+                                       "3. He established Tolstoy Farm."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Gandhi returned to India on 9 January 1915, a date now commemorated as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pravasi Bharatiya Diwas",
+                                          "Kisan Diwas",
+                                          "Martyrs’ Day",
+                                          "Independence Day"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Match List-I (Gandhi’s publication) with List-II (Description) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Indian Opinion B. Young India C. Navajivan D. Harijan",
+                                       "List-II: 1. Started in South Africa 2. English-language weekly in India 3. Gujarati-language journal 4. Journal for the anti-untouchability cause"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The Rowlatt Act, which Gandhi’s Rowlatt Satyagraha opposed, is also known as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vernacular Press Act",
+                                          "Ilbert Bill",
+                                          "Arms Act",
+                                          "Anarchical and Revolutionary Crimes Act (‘Black Law’)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Jallianwala Bagh massacre (13 April 1919) was carried out on the orders of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "General Dyer",
+                                          "General Nicholson",
+                                          "Lord Chelmsford",
+                                          "Michael O’Dwyer"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following statements about the Jallianwala Bagh massacre:",
+                          "subs":  [
+                                       "1. Crowds had gathered on Baisakhi day.",
+                                       "2. They were protesting the arrest of Saifuddin Kitchlew and Satyapal.",
+                                       "3. The Hunter Commission was appointed to investigate it."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Gandhi, on withdrawing the Rowlatt Satyagraha after the violence it provoked, described it as a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "‘Do or Die’",
+                                          "‘Himalayan Blunder’",
+                                          "‘Quit India’",
+                                          "‘Purna Swaraj’"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The Government of India Act of 1919 (Montagu-Chelmsford Reforms) introduced which system in the provinces?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Provincial autonomy",
+                                          "Separate electorates for Muslims",
+                                          "Federation",
+                                          "Dyarchy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Consider the following statements about the Government of India Act 1919:",
+                          "subs":  [
+                                       "1. It introduced dyarchy in the provinces.",
+                                       "2. It set up a bicameral legislature at the centre.",
+                                       "3. It extended communal (separate) electorates to more communities."
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The Khilafat Committee (1919) was formed under the leadership of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sir Syed Ahmed Khan",
+                                          "The Aga Khan",
+                                          "The Ali brothers (Shaukat and Muhammad Ali)",
+                                          "M. A. Jinnah"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The Non-Cooperation programme was formally adopted and ratified at which Congress session of December 1920?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lahore Session",
+                                          "Nagpur Session",
+                                          "Calcutta Session",
+                                          "Lucknow Session"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Arrange the following Gandhian struggles in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Champaran Satyagraha 2. Rowlatt Satyagraha 3. Non-Cooperation Movement 4. Ahmedabad Mill Strike"
+                                   ],
+                          "options":  [
+                                          "1, 4, 3, 2",
+                                          "1, 2, 4, 3",
+                                          "4, 1, 2, 3",
+                                          "1, 4, 2, 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Gandhi withdrew the Non-Cooperation Movement (February 1922) following which incident?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Chauri Chaura incident",
+                                          "The Jallianwala Bagh massacre",
+                                          "The Kakori conspiracy",
+                                          "The Chittagong Armoury Raid"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Consider the following statements about the aftermath of the Non-Cooperation Movement:",
+                          "subs":  [
+                                       "1. Gandhi was arrested for sedition in 1922.",
+                                       "2. The Swaraj Party was formed by C. R. Das and Motilal Nehru in 1923.",
+                                       "3. The Turkish Caliphate was abolished by Mustafa Kemal Ataturk in 1924."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The Chauri Chaura incident (1922), in which a mob burnt a police station, took place in which province?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bihar",
+                                          "Uttar Pradesh",
+                                          "Bengal",
+                                          "Punjab"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following Gandhian movement–year pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Champaran Satyagraha — 1917",
+                                          "Ahmedabad Mill Strike — 1918",
+                                          "Kheda Satyagraha — 1918",
+                                          "Rowlatt Satyagraha — 1922"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "In India, the first major public appearance of Mahatma Gandhi was at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the inauguration of Banaras Hindu University, 1916",
+                                          "the Champaran movement, 1917",
+                                          "the Kheda Satyagraha, 1918",
+                                          "the Rowlatt Satyagraha, 1919"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "In 1921, during a tour of which region did Gandhi shave his head and begin wearing only a loincloth to identify with the poor?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ahmadabad",
+                                          "Champaran",
+                                          "South India",
+                                          "Chauri Chaura"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "What were the formative influences on Mahatma Gandhi’s philosophy? 1. The 18th-century Pranami sect (unity of faiths) 2. The Theosophists 3. Romantic writers like Wordsworth",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 only"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The distribution of charkhas (spinning wheels) on a wide scale among the people was decided by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Congress Working Committee in 1919",
+                                          "Mahatma Gandhi at the start of the Dandi March",
+                                          "the All India Congress Committee in 1947",
+                                          "the All India Congress Committee in 1921"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Who among the following was the founder of the Phoenix Settlement?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "B. R. Ambedkar",
+                                          "Rabindranath Tagore",
+                                          "Mahatma Gandhi",
+                                          "Swami Vivekananda"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Whom did Gandhi regard as his political mentor (political guru)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gopal Krishna Gokhale",
+                                          "Bal Gangadhar Tilak",
+                                          "Dadabhai Naoroji",
+                                          "Motilal Nehru"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The Treaty of Sèvres, which triggered the Khilafat issue in India, dismantled the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mughal Empire",
+                                          "Ottoman Caliphate",
+                                          "Persian Empire",
+                                          "Russian Empire"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The Turkish Caliphate, whose abolition (1924) ended the Khilafat cause, was abolished by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Muhammad Ali",
+                                          "Shaukat Ali",
+                                          "The Aga Khan",
+                                          "Mustafa Kemal Ataturk"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Gandhi established the Sabarmati Ashram (1915) at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Porbandar",
+                                          "Wardha",
+                                          "Ahmedabad",
+                                          "Champaran"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "In protest against the Jallianwala Bagh massacre, Gandhi returned which honour to the British?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kaiser-i-Hind medal",
+                                          "A knighthood",
+                                          "The Bharat Ratna",
+                                          "The Rai Bahadur title"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Modern History",
+                          "topic":  "Mahatma Gandhi"
+                      }
+                  ]
+}
