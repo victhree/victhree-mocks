@@ -1,0 +1,499 @@
+{
+    "title":  "Medieval History Test 2",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Chola ruler) with List-II (Achievement) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Vijayalaya B. Rajaraja I C. Rajendra I D. Parantaka I",
+                                       "List-II: 1. Founder; captured Thanjavur 2. Built the Brihadesvara Temple 3. Founded Gangaikondacholapuram 4. Uttaramerur inscription of his reign"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Rajaraja I built the magnificent Brihadesvara Temple, dedicated to Shiva, at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Madurai",
+                                          "Kanchipuram",
+                                          "Thanjavur",
+                                          "Gangaikondacholapuram"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "To commemorate his victorious northern campaign to the Ganga, Rajendra Chola I founded which city?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Thanjavur",
+                                          "Gangaikondacholapuram",
+                                          "Mahabalipuram",
+                                          "Uraiyur"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following statements about the Cholas:",
+                          "subs":  [
+                                       "1. Their capital was Thanjavur.",
+                                       "2. They possessed a powerful navy.",
+                                       "3. Rajendra Chola I’s forces campaigned against Srivijaya in South-East Asia."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The Chola village assemblies of Brahmin (agrahara) settlements, whose members were chosen by lot in the Kudavolai system, were called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ur",
+                                          "Nagaram",
+                                          "Sabha",
+                                          "Mahasabha"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The Uttaramerur inscription is a key source for which aspect of Chola history?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chola village administration and councils",
+                                          "Gupta land grants",
+                                          "Pallava temple building",
+                                          "Pandya overseas trade"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Which one of the following Chola land-term pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Brahmadeya — land gifted to Brahmanas",
+                                          "Devadana — land gifted to temples/gods",
+                                          "Agrahara — Brahmin settlement",
+                                          "Kudi Neekki — tax-free crown land"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Match List-I (Dynasty) with List-II (Capital) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Kakatiya B. Yadava C. Hoysala D. Chola",
+                                       "List-II: 1. Warangal 2. Devagiri 3. Halebidu/Belur 4. Thanjavur"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Rudrama Devi, a ruling queen who took male royal titles and led armies in person, belonged to which dynasty?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kakatiya",
+                                          "Yadava",
+                                          "Hoysala",
+                                          "Chola"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The Hoysala king Vishnuvardhana, converted to Vaishnavism by Ramanujacharya, commissioned which famous temple at Belur?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Brihadesvara Temple",
+                                          "Kailasanatha Temple",
+                                          "Chennakeshava Temple",
+                                          "Hoysaleswara Temple"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Consider the following statements about the medieval Deccan dynasties:",
+                          "subs":  [
+                                       "1. The Kakatiya capital was Warangal.",
+                                       "2. The Yadavas ruled from Devagiri.",
+                                       "3. These dynasties were subjugated by the Delhi Sultanate through campaigns led by Malik Kafur."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The Vijayanagara Empire was founded in 1336 by Harihara I and:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Krishnadevaraya",
+                                          "Bukka Raya I",
+                                          "Deva Raya II",
+                                          "Saluva Narasimha"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The capital of the Vijayanagara Empire, on the banks of the Tungabhadra, is at the modern site of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hampi",
+                                          "Gulbarga",
+                                          "Bidar",
+                                          "Penukonda"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Arrange the four dynasties of the Vijayanagara Empire in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Tuluva 2. Sangama 3. Aravidu 4. Saluva"
+                                   ],
+                          "options":  [
+                                          "2, 1, 4, 3",
+                                          "2, 4, 3, 1",
+                                          "2, 4, 1, 3",
+                                          "2, 1, 3, 4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The group of eight celebrated poets at Krishnadevaraya’s court was known as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Navaratna",
+                                          "Ashtadiggajas",
+                                          "Ashtapradhan",
+                                          "Mantriparishad"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Consider the following statements about Krishnadevaraya:",
+                          "subs":  [
+                                       "1. He was the greatest ruler of the Tuluva dynasty.",
+                                       "2. He conquered the strategically vital Raichur Doab.",
+                                       "3. He authored the Telugu work Amuktamalyada."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The decisive Battle of Talikota (1565) was fought between Vijayanagara and the combined forces of the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Deccan Sultanates",
+                                          "Bahmani kingdom alone",
+                                          "Mughals",
+                                          "Portuguese"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Match List-I (Foreign traveller to Vijayanagara) with List-II (Country) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Ibn Battuta B. Abdul Razzaq C. Domingo Paes D. Niccolò de Conti",
+                                       "List-II: 1. Morocco 2. Persia 3. Portugal 4. Italy"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The Bahmani Kingdom was founded in 1347 (capital Gulbarga) by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Muhammad Shah I",
+                                          "Alauddin Hasan Bahman Shah (Hasan Gangu)",
+                                          "Firoz Shah Bahmani",
+                                          "Mahmud Gawan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Mahmud Gawan, the great vizier of the Bahmani kingdom, held which title?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Wali",
+                                          "Rai Rayan",
+                                          "Amir-ul-Umara",
+                                          "Malik-ul-Tujjar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "What form of Shiva is most prominent in the Brihadeshvara Temple built by the Chola dynasty?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tripurantaka",
+                                          "Bhairava",
+                                          "Harihara",
+                                          "Rudra"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The Amara-Nayaka system was a major political innovation of which Indian imperial power?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cholas",
+                                          "Chalukyas",
+                                          "Vijayanagara",
+                                          "Guptas"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The medieval traveller Domingo Paes has described the city of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Madurai",
+                                          "Vijayanagara",
+                                          "Arikamedu",
+                                          "Gingee"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which one of the following is the language of the famous work ‘Amuktamalyada’?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sanskrit",
+                                          "Tamil",
+                                          "Kannada",
+                                          "Telugu"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The class of Amar-Nayakas in Vijayanagara refers to which of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Village chieftains",
+                                          "Senior civil servants",
+                                          "Military commanders",
+                                          "Tributary chiefs"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The five Deccan Sultanates (Bijapur, Golconda, Ahmednagar, Bidar and Berar) emerged from the fragmentation of which kingdom?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bahmani Kingdom",
+                                          "Vijayanagara Empire",
+                                          "Delhi Sultanate",
+                                          "Mughal Empire"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The Qutub Shahi Sultanate was centred at which city?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bijapur",
+                                          "Golconda",
+                                          "Ahmednagar",
+                                          "Bidar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "In the Vijayanagara Amaram system, the military chiefs granted amaram territory were called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tarafdars",
+                                          "Muqtis",
+                                          "Amils",
+                                          "Nayaks (Palaiyagars)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Ahmad Shah I shifted the Bahmani capital from Gulbarga to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Golconda",
+                                          "Bijapur",
+                                          "Bidar",
+                                          "Daulatabad"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following was NOT one of the four dynasties of the Vijayanagara Empire?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bahmani",
+                                          "Sangama",
+                                          "Saluva",
+                                          "Tuluva"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "Southern Kingdoms"
+                      }
+                  ]
+}

@@ -1,0 +1,498 @@
+{
+    "title":  "Medieval History Test 1",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Dynasty) with List-II (Founder) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Mamluk B. Khalji C. Tughlaq D. Lodi",
+                                       "List-II: 1. Qutb-ud-Din Aibak 2. Jalal-ud-Din Khalji 3. Ghiyas-ud-Din Tughlaq 4. Bahlul Lodi"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The real founder of the Delhi Sultanate, known as ‘Lakh Baksh’ (giver of lakhs), was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Iltutmish",
+                                          "Balban",
+                                          "Qutb-ud-Din Aibak",
+                                          "Muhammad Ghori"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Iltutmish, the first Sultan to introduce regular coinage, issued the silver Tanka and the copper:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dam",
+                                          "Jital",
+                                          "Dinar",
+                                          "Rupiya"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following statements about Iltutmish:",
+                          "subs":  [
+                                       "1. He received the title ‘Sultan’ from the Caliph of Baghdad.",
+                                       "2. He made Delhi the capital of the Sultanate, replacing Lahore.",
+                                       "3. He initiated the Iqta system of land grants."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Who was the only woman ruler of the Delhi Sultanate?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chand Bibi",
+                                          "Nur Jahan",
+                                          "Razia Sultan",
+                                          "Rani Durgavati"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Balban’s Theory of Kingship held that the Sultan was the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Zill-i-Ilahi (shadow of God)",
+                                          "Amir-ul-Momin",
+                                          "Sikandar-e-Sani",
+                                          "Tuti-e-Hind"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Arrange the following dynasties of the Delhi Sultanate in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Khalji 2. Lodi 3. Tughlaq 4. Sayyid"
+                                   ],
+                          "options":  [
+                                          "1, 3, 2, 4",
+                                          "1, 3, 4, 2",
+                                          "3, 1, 4, 2",
+                                          "1, 4, 3, 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "In Alauddin Khalji’s market reforms, each market was supervised by an officer called the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Barid",
+                                          "Munhiyan",
+                                          "Diwan-i-Riyasat",
+                                          "Shahna-i-Mandi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "To prevent fraud in the cavalry, Alauddin Khalji introduced the Dagh (branding of horses) together with the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chehra (descriptive roll of soldiers)",
+                                          "Dagh alone",
+                                          "Masahat (land measurement)",
+                                          "Fawazil (surplus revenue)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Alauddin Khalji fixed the land revenue demand at what share of the produce?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "One-sixth",
+                                          "One-third",
+                                          "One-half",
+                                          "One-fourth"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Consider the following statements about Alauddin Khalji:",
+                          "subs":  [
+                                       "1. He separated religion from politics, keeping the Ulema out of state affairs.",
+                                       "2. He was the first Sultan to pay his soldiers in cash.",
+                                       "3. His general Malik Kafur led the successful southern campaigns."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Amir Khusrau, the ‘Tuti-e-Hind’, is credited with inventing which musical instrument?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sitar",
+                                          "Tabla",
+                                          "Sarod",
+                                          "Veena"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Match List-I (Muhammad bin Tughlaq’s experiment) with List-II (Detail) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Transfer of capital B. Token currency C. Diwan-i-Kohi D. Qarachil expedition",
+                                       "List-II: 1. Daulatabad 2. Bronze jital coins 3. Agriculture department 4. Himalayan campaign"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Muhammad bin Tughlaq shifted his capital from Delhi to which city in the Deccan?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Agra",
+                                          "Lahore",
+                                          "Daulatabad (Deogir)",
+                                          "Jaunpur"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Firoz Shah Tughlaq, the only elected Sultan of Delhi, wrote which autobiography?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tabaqat-i-Nasiri",
+                                          "Futuhat-i-Firozshahi",
+                                          "Tarikh-i-Firozshahi",
+                                          "Tuzuk-i-Baburi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Which department, the Department of Slaves, was established by Firoz Shah Tughlaq?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Diwan-i-Arz",
+                                          "Diwan-i-Khairat",
+                                          "Diwan-i-Kohi",
+                                          "Diwan-i-Bandagan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Consider the following statements about Firoz Shah Tughlaq:",
+                          "subs":  [
+                                       "1. He made the Iqtadari system hereditary.",
+                                       "2. He imposed Jizya on Brahmins as a separate tax for the first time.",
+                                       "3. He introduced the Haqq-i-Sharb (irrigation tax)."
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Timur (Tamerlane) invaded India and sacked Delhi in which year?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1192",
+                                          "1290",
+                                          "1398",
+                                          "1526"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The Iqta system of provincial administration in the Sultanate was introduced by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Balban",
+                                          "Iltutmish",
+                                          "Alauddin Khalji",
+                                          "Qutb-ud-Din Aibak"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following central department–officer pairs of the Sultanate is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Diwan-i-Wizarat — Wazir",
+                                          "Diwan-i-Arz — Ariz-i-Mumalik",
+                                          "Diwan-i-Risalat — Chief Sadr",
+                                          "Diwan-i-Insha — Chief Qazi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Who among the following Sultans finally broke and destroyed the power of the Turkan-i-Chihalgani (the Forty)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Balban",
+                                          "Iltutmish",
+                                          "Alauddin Khalji",
+                                          "Muhammad bin Tughlaq"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Ibn Batuta went to China as the envoy of which Delhi Sultan?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Alauddin Khilji",
+                                          "Iltutmish",
+                                          "Muhammad bin Tughlaq",
+                                          "Firoz Shah Tughlaq"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "At which of the following places was diamond mining carried out during the Delhi Sultanate period?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Awadh",
+                                          "Panna",
+                                          "Khambhat",
+                                          "Lakhnauti"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "In which work did Amir Khusrau praise the climate of India, its languages (notably Sanskrit), arts, music and even its animals?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ijaz-i Khusrawi",
+                                          "Dewal Rani Khizr Khani",
+                                          "Khazain-ul-Futuh",
+                                          "Nuh Sipihr"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Arrange the following monuments in the correct chronological order of construction: 1. Tughlaqabad Fort 2. Bada Gumbad (Lodi Garden) 3. Qutub Minar 4. Fatehpur Sikri",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3, 1, 4, 2",
+                                          "1, 3, 2, 4",
+                                          "3, 1, 2, 4",
+                                          "1, 3, 4, 2"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The Qutb Minar was begun by Qutb-ud-Din Aibak in honour of which Sufi saint?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Qutbuddin Bakhtiyar Kaki",
+                                          "Nizamuddin Auliya",
+                                          "Moinuddin Chishti",
+                                          "Salim Chishti"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The Quwwat-ul-Islam mosque, the first mosque built in India after the conquest, is located in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ajmer",
+                                          "Delhi",
+                                          "Lahore",
+                                          "Agra"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Ibrahim Lodi, the last Delhi Sultan, was defeated and killed by Babur at the First Battle of Panipat in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1398",
+                                          "1451",
+                                          "1489",
+                                          "1526"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which one of the following rulers did NOT belong to the Mamluk (Slave) dynasty?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Iltutmish",
+                                          "Balban",
+                                          "Alauddin Khalji",
+                                          "Razia Sultan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Sikandar Lodi shifted the capital of the Sultanate from Delhi to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Agra",
+                                          "Daulatabad",
+                                          "Lahore",
+                                          "Jaunpur"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Delhi Sultanate"
+                      }
+                  ]
+}

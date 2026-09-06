@@ -1,0 +1,499 @@
+{
+    "title":  "Medieval History Test 3",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Babur’s battle) with List-II (Opponent defeated) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. First Panipat B. Khanwa C. Chanderi D. Ghaghara",
+                                       "List-II: 1. Ibrahim Lodi 2. Rana Sanga 3. Medini Rai 4. Afghan chiefs"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Babur founded the Mughal Empire by defeating Ibrahim Lodi at which battle?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Battle of Khanwa",
+                                          "Battle of Ghaghara",
+                                          "First Battle of Panipat",
+                                          "Battle of Chanderi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Babur wrote his celebrated memoir, the Baburnama (Tuzuk-i-Baburi), in which language?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Persian",
+                                          "Turkish",
+                                          "Arabic",
+                                          "Urdu"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following statements about Babur’s warfare:",
+                          "subs":  [
+                                       "1. He used the tulughma (flanking) tactic to encircle the enemy.",
+                                       "2. He used Ottoman-style gunpowder artillery (the Rumi technique).",
+                                       "3. He popularised the use of artillery on the Indian battlefield."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Sher Shah Suri introduced which standard silver coin, the ancestor of the modern rupee?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tanka",
+                                          "Jital",
+                                          "Rupiya",
+                                          "Dam"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Match List-I (Sher Shah’s contribution) with List-II (Detail) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Grand Trunk Road B. Rupiya C. Dak-Chowki D. Patta \u0026 Kabuliyat",
+                                       "List-II: 1. Standard silver currency 2. Postal relay system 3. Highway with sarais 4. Revenue title-deed and agreement"
+                                   ],
+                          "options":  [
+                                          "A-3 B-1 C-2 D-4",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-3 B-1 C-4 D-2",
+                                          "A-3 B-2 C-1 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Arrange the following battles in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Battle of Kannauj 2. First Battle of Panipat 3. Second Battle of Panipat 4. Battle of Khanwa"
+                                   ],
+                          "options":  [
+                                          "2, 4, 3, 1",
+                                          "2, 4, 1, 3",
+                                          "2, 1, 4, 3",
+                                          "4, 2, 1, 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "In the Second Battle of Panipat (1556), Akbar’s regent Bairam Khan defeated:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ibrahim Lodi",
+                                          "Rana Sanga",
+                                          "Sher Shah",
+                                          "Hemu"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Akbar’s Dahsala (Zabti) land-revenue system is closely associated with which revenue minister?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Raja Todar Mal",
+                                          "Birbal",
+                                          "Abul Fazl",
+                                          "Man Singh"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following statements about Akbar’s Mansabdari system:",
+                          "subs":  [
+                                       "1. The Zat rank indicated a noble’s personal status and salary.",
+                                       "2. The Sawar rank indicated the number of cavalrymen he had to maintain.",
+                                       "3. Mansab appointments were generally non-hereditary."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Akbar’s policy of universal tolerance and equal respect for all religions was called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Din-i-Ilahi",
+                                          "Sulh-i-Kul",
+                                          "Tauhid-i-Ilahi",
+                                          "Sijda"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The syncretic spiritual order introduced by Akbar in 1582, blending elements of several religions, was called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sulh-i-Kul",
+                                          "Bhakti",
+                                          "Mahzar",
+                                          "Din-i-Ilahi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Akbar built the Ibadat Khana (Hall of Prayer) for religious discussion at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Fatehpur Sikri",
+                                          "Agra",
+                                          "Delhi",
+                                          "Lahore"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Match List-I (Mughal emperor) with List-II (Distinctive fact) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Babur B. Akbar C. Shah Jahan D. Aurangzeb",
+                                       "List-II: 1. Wrote the Baburnama 2. Introduced Din-i-Ilahi 3. Built the Taj Mahal 4. Took the title Alamgir"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Whose reign is called the ‘Golden Age of Mughal architecture’, and who built the Taj Mahal?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Akbar",
+                                          "Shah Jahan",
+                                          "Jahangir",
+                                          "Aurangzeb"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Nur Jahan was the only Mughal empress to have her name inscribed on:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Royal seals",
+                                          "Imperial firmans",
+                                          "Monuments",
+                                          "Coins"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Consider the following statements about Aurangzeb:",
+                          "subs":  [
+                                       "1. His reign marked the maximum territorial extent of the Mughal Empire.",
+                                       "2. He re-imposed the Jizya on non-Muslims in 1679.",
+                                       "3. He annexed the Deccan sultanates of Bijapur and Golconda."
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Which one of the following central Mughal official–role pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Wazir — head of imperial administration",
+                                          "Mir Bakhshi — military administration",
+                                          "Qazi — revenue collection",
+                                          "Sadr-us-Sudr — religious affairs and endowments"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "After his victory at the Battle of Karnal (1739), Nadir Shah carried off the Peacock Throne and which famous diamond?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hope Diamond",
+                                          "Kohinoor",
+                                          "Regent Diamond",
+                                          "Orlov Diamond"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The last Mughal emperor, exiled to Rangoon after the Revolt of 1857, was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Shah Alam II",
+                                          "Akbar Shah II",
+                                          "Muhammad Shah",
+                                          "Bahadur Shah II (Zafar)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which of the following statements about the Mughal Mansab system are correct? 1. Zat rank indicated a mansabdar’s position and salary. 2. Sawar rank indicated the number of horsemen he had to maintain. 3. In the 17th century, mansabdars holding 1000+ Sawar rank were designated nobles (Umara).",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Akbar issued a Farman in 1598 permitting, in the city of Cambay (Khambhat), Gujarat, the construction of a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Temple",
+                                          "Synagogue",
+                                          "Church",
+                                          "Jain Upashraya"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following European travellers never returned to Europe and settled down in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Duarte Barbosa",
+                                          "Manucci",
+                                          "Tavernier",
+                                          "Bernier"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "François Bernier was physician to which of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Prince Murad",
+                                          "Princess Jahanara",
+                                          "Emperor Shah Jahan",
+                                          "Prince Dara Shikoh"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The aristocrat Muqarrab Khan was a great favourite of which Mughal emperor?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Akbar",
+                                          "Farrukhsiyar",
+                                          "Jahangir",
+                                          "Shah Alam"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Nadir Shah’s invasion (Battle of Karnal, 1739) took place during the reign of which Mughal emperor?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Muhammad Shah",
+                                          "Aurangzeb",
+                                          "Shah Alam II",
+                                          "Bahadur Shah I"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The legendary Peacock Throne, later looted by Nadir Shah, was commissioned by which Mughal emperor?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Akbar",
+                                          "Shah Jahan",
+                                          "Jahangir",
+                                          "Aurangzeb"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Ahmad Shah Abdali decisively defeated the Marathas at the Third Battle of Panipat in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1739",
+                                          "1757",
+                                          "1764",
+                                          "1761"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Guru Tegh Bahadur, the ninth Sikh Guru, was executed (1675) by which Mughal emperor?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jahangir",
+                                          "Shah Jahan",
+                                          "Aurangzeb",
+                                          "Bahadur Shah I"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following was NOT one of the semi-independent states that broke away during the Later Mughal period?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vijayanagara",
+                                          "Hyderabad",
+                                          "Awadh",
+                                          "Bengal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Medieval History",
+                          "topic":  "The Mughal Empire"
+                      }
+                  ]
+}
