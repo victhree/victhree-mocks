@@ -101,7 +101,7 @@ async function loadTests(){
         list.innerHTML = eras.map(function(e){
           var col = tests.filter(function(t){ return historyEra(t) === e.key; });
           var cards = col.length ? col.map(cardHtml).join("") : '<p class="history-col-empty muted">Coming soon</p>';
-          return '<div class="history-col"><h3 class="history-col-head">' + escapeHtml(e.label) + '</h3>' + cards + '</div>';
+          return '<div class="history-col">' + cards + '</div>';
         }).join("");
         return;
       }
