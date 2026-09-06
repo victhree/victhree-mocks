@@ -1,0 +1,500 @@
+{
+    "title":  "Ancient History Test 5",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Dynasty) with List-II (Capital) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Maitrakas B. Pushyabhutis C. Chalukyas of Badami D. Rashtrakutas",
+                                       "List-II: 1. Valabhi 2. Thanesar / Kanauj 3. Badami (Vatapi) 4. Manyakheta"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Besides the Harshacharita, Harsha’s court poet Banabhatta also authored which prose romance?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mudrarakshasa",
+                                          "Mrichchhakatika",
+                                          "Kadambari",
+                                          "Ratnavali"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Harsha’s northward-checking defeat at the hands of Pulakeshin II (618 CE) came at the Battle of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tarain",
+                                          "Narmada",
+                                          "Kallalur",
+                                          "Vatapi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following statements about Harshavardhana:",
+                          "subs":  [
+                                       "1. He was crowned at both Thanesar and Kanauj.",
+                                       "2. He shifted his capital to Kanauj.",
+                                       "3. He held a grand religious assembly at Prayag every five years."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which Chinese pilgrim visited Harsha’s empire and recorded his observations in the Si-yu-ki?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Fa-Hien",
+                                          "I-Tsing",
+                                          "Hiuen Tsang",
+                                          "Megasthenes"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Match List-I (Inscription/Chronicle) with List-II (Ruler/Dynasty) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Rajatarangini B. Mandasor inscription C. Aihole inscription D. Allahabad Pillar",
+                                       "List-II: 1. Karkotas of Kashmir 2. Yasodharman 3. Pulakeshin II 4. Samudragupta"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The famous Aihole inscription, praising the Chalukya king Pulakeshin II, was composed by his court poet:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Banabhatta",
+                                          "Ravikirti",
+                                          "Harishena",
+                                          "Kalhana"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The Pallava king Narasimhavarman I (Mamalla) established which famous port city?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kanchipuram",
+                                          "Vatapi",
+                                          "Tanjavur",
+                                          "Mahamallapuram (Mamallapuram)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Consider the following statements about the Pallavas:",
+                          "subs":  [
+                                       "1. Their capital was Kanchipuram.",
+                                       "2. Mahendravarman I initiated the tradition of rock-cut architecture in the region.",
+                                       "3. Narasimhavarman II built the structural Shore Temple at Mahabalipuram."
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The magnificent rock-cut Kailasanatha Temple, built by the Rashtrakuta king Krishna I, is located at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ajanta",
+                                          "Elephanta",
+                                          "Ellora",
+                                          "Badami"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The prolonged Tripartite Struggle for Kanauj was fought among the Gurjara-Pratiharas, the Palas and the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cholas",
+                                          "Rashtrakutas",
+                                          "Chalukyas of Kalyani",
+                                          "Senas"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Match List-I (Dynasty) with List-II (Region/Capital) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Gurjara-Pratihara B. Pala C. Rashtrakuta D. Chalukyas of Badami",
+                                       "List-II: 1. Kanauj (west) 2. Bengal 3. Manyakheta (Deccan) 4. Badami"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-1 B-2 C-3 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Amoghavarsha I, the Rashtrakuta scholar-king called the ‘Ashoka of the South’, authored which Kannada literary classic?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Harshacharita",
+                                          "Rajatarangini",
+                                          "Kavirajamarga",
+                                          "Prithviraj Raso"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The Pala dynasty was founded by Gopala, who came to the throne by being:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Elected by the nobles of Bengal",
+                                          "A Gupta feudatory",
+                                          "A Chalukya governor",
+                                          "A Rashtrakuta general"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The Pala ruler Dharmapala founded which great centre of Buddhist learning?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nalanda",
+                                          "Vikramashila",
+                                          "Taxila",
+                                          "Odantapuri"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Match List-I (Rajput dynasty) with List-II (Region/Centre) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Paramara B. Chandella C. Chauhan D. Tomar",
+                                       "List-II: 1. Malwa (Dhar) 2. Bundelkhand (Khajuraho) 3. Ajmer 4. Delhi"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-1 B-2 C-3 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The Chandella dynasty of Bundelkhand is most renowned for commissioning which group of monuments?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Khajuraho temples",
+                                          "The Dilwara temples",
+                                          "The Modhera Sun Temple",
+                                          "The Shore Temple"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Arrange the following battles in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Second Battle of Tarain 2. Battle of Waihind 3. Battle of Chandawar 4. First Battle of Tarain"
+                                   ],
+                          "options":  [
+                                          "2, 4, 3, 1",
+                                          "4, 2, 1, 3",
+                                          "2, 4, 1, 3",
+                                          "2, 1, 4, 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Consider the following statements about Mahmud of Ghazni:",
+                          "subs":  [
+                                       "1. His base was Ghazni, in modern Afghanistan.",
+                                       "2. He carried out about seventeen raids into the Indian subcontinent.",
+                                       "3. He plundered the Somnath Temple in 1025–26 CE."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 2 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following author–work pairs is NOT correctly matched as a court historian of Mahmud of Ghazni?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Firdausi — Shahnama",
+                                          "Utbi — Kitab-ul-Yamini",
+                                          "Al-Biruni — Kitab-ul-Hind",
+                                          "Chand Bardai — Prithviraj Raso"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The Harshacharita refers to presents sent by a ruler named Bhaskara to Harshavardhana. Bhaskara belonged to the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Varman Dynasty of Assam",
+                                          "Haryanka Dynasty of Magadha",
+                                          "Nanda Dynasty of North India",
+                                          "None of the above"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Who among the following usurped power in Kanyakubja (Kanauj) after the death of Harshavardhana?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adityasena",
+                                          "Shashanka",
+                                          "Arunashva",
+                                          "Lalitaditya"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which of the following South Indian dynasties issued their documents first in Prakrit and later in Sanskrit?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Cholas of Tamil Nadu",
+                                          "The Pallavas of Tondaimandalam",
+                                          "The Pandyas of the post-Sangam age",
+                                          "The Gangas of Kalinganagara"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "What were Manigramam and Nanadesi in early medieval India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Clusters of non-revenue-paying villages",
+                                          "Village-level community groups",
+                                          "Literary societies in the capital towns",
+                                          "Guilds of Indian merchants"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Who was the author of the Gwalior Prashasti of the Pratihara ruler Mihira Bhoja?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nagabhata",
+                                          "Vatsaraja",
+                                          "Kakkuka",
+                                          "Baladitya"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Muhammad Ghori’s slave general who founded the Delhi Sultanate after Ghori’s death was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Qutbuddin Aibak",
+                                          "Iltutmish",
+                                          "Balban",
+                                          "Bakhtiyar Khalji"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Al-Biruni, who accompanied Mahmud of Ghazni, wrote which encyclopaedic study of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Shahnama",
+                                          "Kitab-ul-Hind",
+                                          "Kitab-ul-Yamini",
+                                          "Tarikh-i-Yamini"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Mahmud of Ghazni’s famous 1025–26 CE raid on the Somnath Temple took place during the reign of which Chaulukya (Solanki) king?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mularaja",
+                                          "Jayasimha Siddharaja",
+                                          "Kumarapala",
+                                          "Bhima I"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The famous Dilwara Jain temples at Mount Abu were built under the patronage of the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Paramaras",
+                                          "Chandellas",
+                                          "Chaulukyas (Solankis) of Gujarat",
+                                          "Chauhans"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Jayachandra of the Gahadavalas was defeated by Muhammad Ghori (1194 CE) at the Battle of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chandawar",
+                                          "Second Battle of Tarain",
+                                          "Waihind",
+                                          "Kanauj"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Guptas \u0026 Early Medieval Dynasties"
+                      }
+                  ]
+}

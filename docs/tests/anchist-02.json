@@ -1,0 +1,502 @@
+{
+    "title":  "Ancient History Test 2",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Veda) with List-II (Presiding priest) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Rigveda B. Samaveda C. Yajurveda D. Atharvaveda",
+                                       "List-II: 1. Hotri 2. Udgatri 3. Adhvaryu 4. Brahman"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Which one of the following is the only text of the Early Vedic (Rigvedic) Period?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Samaveda",
+                                          "Rigveda",
+                                          "Yajurveda",
+                                          "Atharvaveda"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Consider the following statements about the later Vedas:",
+                          "subs":  [
+                                       "1. The Samaveda consists of Rigvedic hymns set to musical notation.",
+                                       "2. The Yajurveda contains prose formulas for sacrificial rituals.",
+                                       "3. The Atharvaveda contains magical spells and charms for everyday life."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The early Aryans first settled in the ‘Land of Seven Rivers’, known as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Aryavarta",
+                                          "Madhyadesa",
+                                          "Sapta Sindhu",
+                                          "Dakshinapatha"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Match List-I (Vedic river name) with List-II (Modern river) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Vitasta B. Parushni C. Shutudri D. Asikni",
+                                       "List-II: 1. Jhelum 2. Ravi 3. Satluj 4. Chenab"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-4 B-2 C-3 D-1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Which one of the following Vedic assembly–description pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sabha — elite council of elders and nobles",
+                                          "Samiti — folk assembly that could elect the king",
+                                          "Vidatha — the oldest tribal assembly",
+                                          "Gana — assembly ruled by a single hereditary king"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The Battle of Ten Kings (Dasarajna) was won by King Sudas, who belonged to which clan?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Yadu",
+                                          "Bharata",
+                                          "Turvasha",
+                                          "Anu"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "In the Early Vedic Period, the power of the Rajan was checked by which two tribal councils?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sabha and Samiti",
+                                          "Vidatha and Gana",
+                                          "Sabha and Vidatha",
+                                          "Samiti and Gana"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Match List-I (Vedic official) with List-II (Role) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Purohita B. Senani C. Suta D. Bhagadugha",
+                                       "List-II: 1. Chief priest 2. Military general 3. Charioteer 4. Revenue collector"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following changes of the Later Vedic Period:",
+                          "subs":  [
+                                       "1. Kingship became hereditary and supreme.",
+                                       "2. The importance of tribal assemblies declined.",
+                                       "3. The Vidatha assembly lost its relevance entirely."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Arrange the parts of a Veda in the correct order, from the core hymns to the most philosophical:",
+                          "subs":  [
+                                       "1. Aranyaka 2. Samhita 3. Upanishad 4. Brahmana"
+                                   ],
+                          "options":  [
+                                          "2, 1, 4, 3",
+                                          "2, 4, 1, 3",
+                                          "1, 2, 4, 3",
+                                          "2, 4, 3, 1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The Purushasukta hymn, which describes the origin of the four Varnas, occurs in which Mandala of the Rigveda?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1st Mandala",
+                                          "3rd Mandala",
+                                          "10th Mandala",
+                                          "7th Mandala"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Consider the following statements about Early Vedic society:",
+                          "subs":  [
+                                       "1. Women had access to Vedic education and could take part in sacrifices.",
+                                       "2. The caste system was fluid, and profession was not determined by birth.",
+                                       "3. Iron was in widespread use."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which one of the following practices is mentioned for the first time in the texts of the Later Vedic Period?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Niyoga",
+                                          "Widow remarriage",
+                                          "Inter-caste (Anuloma) marriage",
+                                          "Sati"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The Upanayana (sacred-thread) ceremony marked the initiation of the ‘twice-born’ (Dvija). This referred to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Only the Brahmanas",
+                                          "Brahmanas and Kshatriyas only",
+                                          "The three upper Varnas",
+                                          "All four Varnas"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The primary occupation of the Early Vedic Aryans was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Settled agriculture",
+                                          "Pastoralism (cattle-rearing)",
+                                          "Long-distance trade",
+                                          "Metallurgy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Match List-I (Early Vedic deity) with List-II (Domain) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Indra B. Agni C. Varuna D. Soma",
+                                       "List-II: 1. Thunder and war 2. Fire 3. Cosmic order (Rta) 4. Ritual drink"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The discovery and use of iron (Krishna Ayas) in the Later Vedic Period was the key driving force behind the shift to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pastoralism",
+                                          "Cattle raiding",
+                                          "Barter trade",
+                                          "Settled agriculture"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Consider the following statements about Early Vedic religion:",
+                          "subs":  [
+                                       "1. Worship centred on personified natural forces, with no temples or idols.",
+                                       "2. Early Vedic religion was henotheistic (each god exalted as supreme in turn).",
+                                       "3. Prajapati was the supreme deity of the Early Vedic Period."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 and 3 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The characteristic pottery and key archaeological marker of the Later Vedic Period is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ochre Coloured Pottery",
+                                          "Painted Grey Ware",
+                                          "Northern Black Polished Ware",
+                                          "Black-and-Red Ware"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "On the banks of which river was the Battle of Ten Kings fought in the Early Vedic Period?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Parushni",
+                                          "Sarasvati",
+                                          "Drishadvati",
+                                          "Shutudri"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "In the Rig Veda Samhita, the terms ishukrit and isukara referred to the maker of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Swords",
+                                          "Vajra (thunderbolt)",
+                                          "Arrows",
+                                          "Maces"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following statements about Rig Vedic goddesses is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ushas represents freedom from sickness",
+                                          "Sinivali bestows children",
+                                          "Aditi is the goddess of dawn",
+                                          "Raka is the goddess of speech"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "In the 10th Mandala of the Rigveda, which one of the following hymns reflects upon the marriage ceremony?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Purusha Sukta",
+                                          "Dana Stutis",
+                                          "Urna Sutra",
+                                          "Surya Sukta"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The Rakshasa type of marriage is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "marriage by purchase",
+                                          "marriage by capture",
+                                          "marriage by giving dowry",
+                                          "marriage by seduction"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The national motto ‘Satyameva Jayate’ (Truth alone triumphs) is taken from which text?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mundaka Upanishad",
+                                          "Chandogya Upanishad",
+                                          "Katha Upanishad",
+                                          "Isha Upanishad"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The learned women scholars Gargi and Maitreyi, who took part in philosophical debates, are mentioned in the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rigveda Samhita",
+                                          "Brahmanas",
+                                          "Upanishads",
+                                          "Vedangas"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The famous Gayatri Mantra of the Rigveda is a prayer addressed to which deity?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Indra",
+                                          "Agni",
+                                          "Varuna",
+                                          "Savitr"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which Early Vedic deity’s prominence DECLINED sharply in the Later Vedic Period?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Prajapati",
+                                          "Rudra",
+                                          "Indra",
+                                          "Vishnu"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The phrase ‘Vasudhaiva Kutumbakam’ (The world is one family) is drawn from the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Maha Upanishad",
+                                          "Mundaka Upanishad",
+                                          "Katha Upanishad",
+                                          "Brihadaranyaka Upanishad"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "The Vedic Period"
+                      }
+                  ]
+}

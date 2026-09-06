@@ -1,0 +1,498 @@
+{
+    "title":  "Ancient History Test 4",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Post-Mauryan dynasty) with List-II (Founder) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Sunga B. Kanva C. Satavahana D. Chedi (Kalinga)",
+                                       "List-II: 1. Pushyamitra 2. Vasudeva 3. Simuka 4. Mahameghavahana"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Pushyamitra Sunga founded the Sunga dynasty by assassinating which last Mauryan king?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Devabhuti",
+                                          "Dhana Nanda",
+                                          "Brihadratha",
+                                          "Susharman"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Kalidasa’s play Malavikagnimitram centres on which Sunga ruler?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pushyamitra",
+                                          "Agnimitra",
+                                          "Devabhuti",
+                                          "Vasudeva"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Arrange the following Central Asian invaders of India in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Kushanas 2. Indo-Greeks 3. Parthians 4. Shakas"
+                                   ],
+                          "options":  [
+                                          "2, 4, 1, 3",
+                                          "2, 3, 4, 1",
+                                          "4, 2, 3, 1",
+                                          "2, 4, 3, 1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The achievements of Gautamiputra Satakarni are recorded in the Nasik inscription issued by his mother:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Prabhavati",
+                                          "Kumaradevi",
+                                          "Gautami Balashri",
+                                          "Naganika"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The Hathigumpha inscription in the Udayagiri hills provides information about which king?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kharavela",
+                                          "Simuka",
+                                          "Rudradaman",
+                                          "Menander"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Match List-I (Central Asian group) with List-II (Key ruler) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Indo-Greeks B. Shakas C. Parthians D. Kushanas",
+                                       "List-II: 1. Menander 2. Rudradaman I 3. Gondophernes 4. Kanishka"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Who among the following were the first to issue gold coins in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kushanas",
+                                          "Shakas",
+                                          "Guptas",
+                                          "Indo-Greeks"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Indo-Greek king Menander (Milinda) was converted to Buddhism by which monk, as recorded in the Milindapanho?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nagasena",
+                                          "Vasumitra",
+                                          "Ashvaghosha",
+                                          "Nagarjuna"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Rudradaman I’s Junagarh Rock Inscription (the first long inscription in Sanskrit) records the repair of which structure?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Grand Anicut",
+                                          "Bhojpur Lake",
+                                          "Sudarshan Lake",
+                                          "Hauz Khas"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Consider the following statements about Kanishka:",
+                          "subs":  [
+                                       "1. He started the Shaka era in 78 CE.",
+                                       "2. He convened the Fourth Buddhist Council.",
+                                       "3. His capitals included Purushapura (Peshawar)."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The Fourth Buddhist Council, held under Kanishka, is associated with the split of Buddhism into:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Theravada and Vajrayana",
+                                          "Hinayana and Mahayana",
+                                          "Sthaviravada and Mahasanghika",
+                                          "Digambara and Svetambara"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Match List-I (Scholar patronised by Kanishka) with List-II (Field/Work) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Ashvaghosha B. Charaka C. Nagarjuna D. Vasumitra",
+                                       "List-II: 1. Buddhist poetry (Buddhacharita) 2. Medicine (Ayurveda) 3. Philosophy 4. Presided the Fourth Council"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The Gupta Empire is popularly described as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dark Age of India",
+                                          "Classical Vedic Age",
+                                          "Golden Age of India",
+                                          "Age of Guilds"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The real founder of the Gupta Empire, who married the Lichchhavi princess Kumaradevi, was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sri Gupta",
+                                          "Chandragupta I",
+                                          "Samudragupta",
+                                          "Chandragupta II"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Samudragupta’s military campaigns are recorded in the Allahabad Pillar Inscription (Prayag Prashasti), composed by his court poet:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kalidasa",
+                                          "Vasumitra",
+                                          "Banabhatta",
+                                          "Harishena"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Match List-I (Gupta ruler) with List-II (Title/Achievement) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Samudragupta B. Chandragupta II C. Kumaragupta I D. Skandagupta",
+                                       "List-II: 1. ‘Napoleon of India’ 2. Vikramaditya 3. Founded Nalanda University 4. Repelled the Hunas"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Which Chinese pilgrim visited India during the reign of Chandragupta II (Vikramaditya)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hiuen Tsang",
+                                          "I-Tsing",
+                                          "Fa-Hien",
+                                          "Megasthenes"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Consider the following statements about Gupta administration:",
+                          "subs":  [
+                                       "1. It was more decentralised than the Mauryan bureaucracy.",
+                                       "2. Power was devolved through the Samanta (feudatory) system.",
+                                       "3. Its gold coins were called Dinaras."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following pairs among the Navaratna (Nine Gems) of Chandragupta II is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kalidasa — poet and playwright",
+                                          "Amarasimha — lexicographer",
+                                          "Dhanvantari — physician",
+                                          "Varahamihira — grammarian"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following ancient Indian kings was praised in glowing terms in the Prayaga Prashasti?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Samudragupta",
+                                          "Ashoka",
+                                          "Harshavardhana",
+                                          "Bindusara"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The notion of kinship projected by the Kushana rulers is best evidenced through which of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Their identification with deities",
+                                          "Grants to religious institutions",
+                                          "Coins and sculpture",
+                                          "Inscriptional panegyrics"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following statements about Gupta coins is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gupta kings issued a large number of gold coins known as Dinar",
+                                          "The largest number of Gupta coins were of copper",
+                                          "Chandragupta II, Kumaragupta I and others issued silver coins",
+                                          "Obverses carried images of kings and reverses carried deities"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Where is the famous Gupta-period Deogarh Temple situated?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Madhya Pradesh",
+                                          "Chhattisgarh",
+                                          "Rajasthan",
+                                          "Uttar Pradesh"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "In the Gandhara School of Art, when did stucco completely replace stone as the main material used by sculptors?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1st century CE",
+                                          "2nd century CE",
+                                          "3rd century CE",
+                                          "5th century CE"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The epithet ‘Napoleon of India’ for Samudragupta was coined by which historian?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "V. A. Smith",
+                                          "R. C. Majumdar",
+                                          "D. D. Kosambi",
+                                          "Romila Thapar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Nalanda University, which became Asia’s premier centre of learning, was founded by which Gupta ruler?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chandragupta II",
+                                          "Kumaragupta I",
+                                          "Skandagupta",
+                                          "Samudragupta"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The Mehrauli Iron Pillar inscription (Delhi) is associated with which ruler?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Samudragupta",
+                                          "Kumaragupta I",
+                                          "Skandagupta",
+                                          "Chandragupta II"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The Bhitari Pillar Inscription records the repulse of the Huna invasions by which Gupta ruler?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Samudragupta",
+                                          "Kumaragupta I",
+                                          "Skandagupta",
+                                          "Chandragupta I"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The Gandhara school of art is best known for blending Indian (Buddhist) subjects with which artistic style?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Greek (Hellenistic)",
+                                          "Roman civic architecture only",
+                                          "Persian court style",
+                                          "Chinese landscape style"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Post-Mauryas \u0026 the Gupta Empire"
+                      }
+                  ]
+}

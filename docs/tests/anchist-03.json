@@ -1,0 +1,499 @@
+{
+    "title":  "Ancient History Test 3",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Mahajanapada) with List-II (Capital) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Anga B. Avanti C. Gandhara D. Vajji",
+                                       "List-II: 1. Champa 2. Ujjaini 3. Taxila 4. Vaishali"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The Kasi Mahajanapada was located at which city?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mathura",
+                                          "Kausambi",
+                                          "Varanasi",
+                                          "Champa"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Which one of the following Mahajanapadas was a gana-sangha (republic), whose clans included the Lichchhavis?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Anga",
+                                          "Vajji",
+                                          "Kosala",
+                                          "Avanti"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following statements about the Mahajanapadas:",
+                          "subs":  [
+                                       "1. Magadha’s early capital was Girivraja/Rajagriha.",
+                                       "2. Magadha became a major centre of Buddhism and Jainism.",
+                                       "3. The capital of Avanti was Taxila."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1 and 2 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Match List-I (Magadhan ruler) with List-II (Achievement) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Bimbisara B. Ajatashatru C. Udayin D. Bindusara",
+                                       "List-II: 1. Convened the First Buddhist Council 2. Founded the fort at Pataliputra 3. Began matrimonial alliances 4. Extended the empire to the south"
+                                   ],
+                          "options":  [
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-3 B-2 C-1 D-4",
+                                          "A-3 B-1 C-2 D-4",
+                                          "A-3 B-1 C-4 D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Bimbisara, a contemporary of the Buddha, is noted as the first king to maintain:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A standing army",
+                                          "Punch-marked coins",
+                                          "Iron weapons",
+                                          "A river navy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Ajatashatru convened the First Buddhist Council after the Buddha’s death at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vaishali",
+                                          "Rajagriha",
+                                          "Pataliputra",
+                                          "Kundalvana"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Who built the fort at Pataliputra, at the confluence of the Ganga and the Son?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bimbisara",
+                                          "Ajatashatru",
+                                          "Sisunaga",
+                                          "Udayin"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Which was the first non-Kshatriya dynasty to rule Magadha?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nanda",
+                                          "Haryanka",
+                                          "Sisunaga",
+                                          "Maurya"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Mahapadma Nanda is known by which of the following titles?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sandrocottus",
+                                          "Amitraghata",
+                                          "Sarva Kshatriyantaka",
+                                          "Devanampiya"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Consider the following as reasons for the rise of Magadha:",
+                          "subs":  [
+                                       "1. It lay on the fertile Gangetic plain with good rainfall.",
+                                       "2. It was rich in iron and copper deposits.",
+                                       "3. Its rulers were among the first to use war elephants."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Chandragupta Maurya overthrew the last Nanda ruler, Dhana Nanda, in 321 BCE with the help of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bimbisara",
+                                          "Chanakya (Kautilya)",
+                                          "Megasthenes",
+                                          "Bhadrabahu"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Megasthenes, the ambassador sent by Seleucus Nicator to Chandragupta’s court, wrote which account of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Indica",
+                                          "Arthashastra",
+                                          "Mudrarakshasa",
+                                          "Rajatarangini"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Chandragupta Maurya, converted to Jainism by Bhadrabahu, is traditionally said to have died at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rajagriha",
+                                          "Pataliputra",
+                                          "Sravanabelagola",
+                                          "Ujjain"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Arrange the following ruling dynasties of Magadha in correct chronological order (earliest first):",
+                          "subs":  [
+                                       "1. Nanda 2. Haryanka 3. Maurya 4. Sisunaga"
+                                   ],
+                          "options":  [
+                                          "2, 1, 4, 3",
+                                          "2, 4, 1, 3",
+                                          "4, 2, 1, 3",
+                                          "2, 4, 3, 1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Bindusara appointed his son Ashoka as governor of which provinces?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kalinga",
+                                          "Pataliputra",
+                                          "Suvarnagiri",
+                                          "Ujjain and Taxila"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The Kalinga War (c. 260 BCE) led to Ashoka’s conversion to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Buddhism",
+                                          "Jainism",
+                                          "the Ajivika sect",
+                                          "Vaishnavism"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Match List-I (Element of the Saptanga theory) with List-II (Meaning) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Swami B. Amatya C. Durga D. Kosha",
+                                       "List-II: 1. King 2. Ministers 3. Fortified capital 4. Treasury"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-3 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Consider the following statements about Mauryan administration:",
+                          "subs":  [
+                                       "1. The administration was highly centralised, with the king holding supreme power.",
+                                       "2. The Nagarika was the head of city administration.",
+                                       "3. The Sitadhyaksha was in charge of the mint and currency."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following Mauryan official–department pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Panyadhyaksha — trade and commerce",
+                                          "Pautavadhyaksha — weights and measures",
+                                          "Navadhyaksha — boats and water transport",
+                                          "Sitadhyaksha — tolls and transport revenue"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "From among the following Mahajanapadas, identify the gana/sangha (oligarchy):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vajji",
+                                          "Magadha",
+                                          "Avanti",
+                                          "Kosala"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "On the banks of which river was the ancient city of Mahishmati located?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sarayu",
+                                          "Son",
+                                          "Narmada",
+                                          "Godavari"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which Buddhist text contains an account of the Mauryan Emperor Ashoka?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vinaya Pitaka",
+                                          "Mahavamsa",
+                                          "Sutta Pitaka",
+                                          "Abhidhamma Pitaka"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which one of the following was NOT a part of Kautilya’s Saptanga theory of the state?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Amatya",
+                                          "Janapada",
+                                          "Durga",
+                                          "Dhamma"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which one of the following present-day territories was OUTSIDE the limits of Ashoka’s empire?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Brahmaputra valley, Assam",
+                                          "Baluchistan",
+                                          "North Bengal",
+                                          "Kashmir valley"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The Arthashastra, the great treatise on statecraft and economy, was written by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Megasthenes",
+                                          "Kautilya (Chanakya)",
+                                          "Patanjali",
+                                          "Kalidasa"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Ashoka’s edicts (in Brahmi and Kharoshthi) were first deciphered in 1837 by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Alexander Cunningham",
+                                          "John Marshall",
+                                          "James Prinsep",
+                                          "Max Muller"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The Kalinga War (c. 260 BCE) was fought in the region of which present-day state?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bihar",
+                                          "Andhra Pradesh",
+                                          "West Bengal",
+                                          "Odisha"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The last Mauryan ruler, Brihadratha, was assassinated (c. 184 BCE) by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dhana Nanda",
+                                          "Kunala",
+                                          "Pushyamitra Sunga",
+                                          "Seleucus Nicator"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The Lion Capital of Ashoka, adopted as India’s State Emblem, originally crowned a pillar at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sarnath",
+                                          "Sanchi",
+                                          "Pataliputra",
+                                          "Vaishali"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Mahajanapadas \u0026 the Mauryan Empire"
+                      }
+                  ]
+}

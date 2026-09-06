@@ -1,0 +1,502 @@
+{
+    "title":  "Ancient History Test 1",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Stone Age period) with List-II (Characteristic tool) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Lower Palaeolithic B. Upper Palaeolithic C. Mesolithic D. Neolithic",
+                                       "List-II: 1. Microliths 2. Hand axes and cleavers 3. Polished axes and sickles 4. Burins and parallel-sided blades"
+                                   ],
+                          "options":  [
+                                          "A-2 B-4 C-1 D-3",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-3 B-4 C-1 D-2",
+                                          "A-2 B-4 C-3 D-1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The characteristic tools of the Mesolithic Age, small stone tools usually about a centimetre long, were called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hand axes",
+                                          "Cleavers",
+                                          "Microliths",
+                                          "Burins"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Consider the following statements about the Palaeolithic tool phases in India:",
+                          "subs":  [
+                                       "1. Hand axes and cleavers dominate the Lower Palaeolithic.",
+                                       "2. The use of hand axes increased during the Middle Palaeolithic.",
+                                       "3. Burins and blades appear in the Upper Palaeolithic."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1 and 3 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Which one of the following is NOT a Neolithic site?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Burzahom",
+                                          "Mehrgarh",
+                                          "Chirand",
+                                          "Bhimbetka"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which pair of Kashmir Neolithic sites is specially known for pit dwellings?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chirand and Koldihwa",
+                                          "Mehrgarh and Amri",
+                                          "Gufkral and Burzahom",
+                                          "Piklihal and Brahmagiri"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The rock shelters of Bhimbetka in Madhya Pradesh are chiefly famous for:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Prehistoric rock paintings",
+                                          "Harappan seals",
+                                          "Ashokan rock edicts",
+                                          "Megalithic burials"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Copper, the first metal used by humans, gives its name to which age?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Neolithic Age",
+                                          "Chalcolithic Age",
+                                          "Palaeolithic Age",
+                                          "Mesolithic Age"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Match List-I (Chalcolithic culture) with List-II (Region/Site) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Ahar-Banas B. Kayatha C. Jorwe D. Malwa",
+                                       "List-II: 1. Chambal region, MP 2. South-east Rajasthan 3. Navdatoli 4. Inamgaon (Bhima valley)"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-3 B-1 C-4 D-2",
+                                          "A-2 B-1 C-4 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Consider the following statements about the Chalcolithic people of India:",
+                          "subs":  [
+                                       "1. They used both copper and stone tools.",
+                                       "2. They were mainly a rural, village community.",
+                                       "3. They fully exploited their domestic animals for milk and dairy."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Ganeshwar, a pre-Harappan Chalcolithic site in Rajasthan, mainly supplied which of the following to Harappa?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cotton textiles",
+                                          "Lapis lazuli",
+                                          "Copper objects",
+                                          "Carnelian beads"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The Harappan Civilisation was first discovered (1921), giving it its name, at which site, excavated by Daya Ram Sahni?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mohenjo-Daro",
+                                          "Harappa",
+                                          "Lothal",
+                                          "Kalibangan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Match List-I (Direction) with List-II (Extreme site of the Harappan Civilisation) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. North B. South C. East D. West",
+                                       "List-II: 1. Alamgirpur (UP) 2. Manda (J\u0026K) 3. Sutkagen-dor (Baluchistan) 4. Daimabad (Maharashtra)"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-1 B-4 C-2 D-3",
+                                          "A-2 B-3 C-1 D-4",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The Great Bath, regarded as the earliest known public water tank, is located at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Harappa",
+                                          "Lothal",
+                                          "Mohenjo-Daro",
+                                          "Dholavira"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Match List-I (Harappan site) with List-II (River) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Harappa B. Mohenjo-Daro C. Kalibangan D. Lothal",
+                                       "List-II: 1. Indus 2. Ravi 3. Bhogava 4. Ghaggar"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The famous dockyard, evidence of Harappan maritime trade, was found at which site?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dholavira",
+                                          "Lothal",
+                                          "Chanhudaro",
+                                          "Banawali"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Consider the following statements about Harappan town planning:",
+                          "subs":  [
+                                       "1. Streets generally crossed one another at right angles, forming a grid.",
+                                       "2. Bricks were made in a standardised ratio of 1:2:4.",
+                                       "3. House drains connected to covered drains running along the streets."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which one of the following site–feature pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mohenjo-Daro — bones of a horse",
+                                          "Lothal — dockyard",
+                                          "Chanhudaro — city without a citadel",
+                                          "Dholavira — giant water reservoirs"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Direct evidence of a ploughed agricultural field, from the Early Harappan phase, comes from which site?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lothal",
+                                          "Ropar",
+                                          "Kalibangan",
+                                          "Banawali"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The famous Harappan seal showing a horned figure seated in a yogic posture, surrounded by animals, is usually identified as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Mother Goddess",
+                                          "Proto-Shiva / Pashupati",
+                                          "The Priest-King",
+                                          "A fire altar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Consider the following statements about the Harappan script:",
+                          "subs":  [
+                                       "1. It was a pictographic script.",
+                                       "2. It was generally written from right to left in the first line (boustrophedon).",
+                                       "3. It has been successfully deciphered."
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1 and 2 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Where is the Vikramkhol Cave located?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Odisha",
+                                          "Bihar",
+                                          "Telangana",
+                                          "West Bengal"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Consider the following statements about Harappan cities: 1. Roads were not always absolutely straight and did not always cross at right angles. 2. There was a striking uniformity in the average size of the bricks used for houses and city walls. Which is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The Harappan site at Kot Diji is close to which one of the following major sites of that civilisation?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Harappa",
+                                          "Mohenjo-Daro",
+                                          "Lothal",
+                                          "Kalibangan"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which one of the following motifs does NOT appear on Harappan seals?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Humped bull",
+                                          "Elephant",
+                                          "Crocodile",
+                                          "Lion"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "In the citadel and lower-town areas of which one of the following Harappan cities have several large cisterns and reservoirs been found?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Banawali",
+                                          "Mohenjo-Daro",
+                                          "Dholavira",
+                                          "Rakhigarhi"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The bronze ‘Dancing Girl’, cast using the lost-wax technique, was found at which site?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mohenjo-Daro",
+                                          "Harappa",
+                                          "Lothal",
+                                          "Chanhudaro"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "In Mesopotamian records, the Indus (Harappan) region was referred to as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dilmun",
+                                          "Meluhha",
+                                          "Magan",
+                                          "Elam"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Which of the following animals does NOT commonly appear on Harappan seals?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Unicorn",
+                                          "Elephant",
+                                          "Bull",
+                                          "Horse"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which Harappan site was declared a UNESCO World Heritage Site in 2021?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rakhigarhi",
+                                          "Lothal",
+                                          "Dholavira",
+                                          "Kalibangan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "According to the evidence, which was the most preferred and sacred animal of the Harappans?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Horse",
+                                          "Humped (zebu) bull",
+                                          "Lion",
+                                          "Camel"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ancient History",
+                          "topic":  "Prehistory \u0026 the Indus Valley Civilisation"
+                      }
+                  ]
+}
