@@ -8,12 +8,12 @@ function catOf(id){ if (/^full-mock-\d/.test(id)) return "full"; if (/^eng-mock-
 function catTitle(cat){ return cat === "full" ? "Full-Length Tests" : (cat === "english" ? "English Tests" : (cat === "maths" ? "Maths Tests" : "GK Sectional Tests")); }
 
 /* Which subject folder a sectional test belongs to (driven by its manifest subject). */
-var GROUP_ORDER = ["Geography", "History", "Polity", "Economy", "Combined GS"];
+var GROUP_ORDER = ["Geography", "History", "Polity", "Economy", "Mixed Subjects"];
 function sectionGroup(t){
   var s = (t.subject || "").toLowerCase();
   if (s.indexOf("geograph") >= 0) return "Geography";
   if (s.indexOf("histor") >= 0) return "History";
-  if (s === "gs") return "Combined GS";
+  if (s === "gs") return "Mixed Subjects";
   if (s.indexOf("polit") >= 0) return "Polity";
   if (s.indexOf("econom") >= 0) return "Economy";
   return "Other";
@@ -41,11 +41,9 @@ function cardHtml(t){
     '<span class="test-card-cta">Start &#8250;</span></a>';
 }
 
-function folderHtml(group, count){
-  return '<a class="choice-tile" href="browse.html?cat=sectional&sub=' + slug(group) + '">' +
-    '<span class="choice-title">' + escapeHtml(group) + '</span>' +
-    '<span class="choice-sub">' + count + (count === 1 ? " test" : " tests") + '</span>' +
-    '<span class="choice-cta">Browse &#8250;</span></a>';
+function folderHtml(group){
+  return '<a class="choice-tile choice-tile-plain" href="browse.html?cat=sectional&sub=' + slug(group) + '">' +
+    '<span class="choice-title">' + escapeHtml(group) + '</span></a>';
 }
 
 async function loadTests(){
@@ -71,7 +69,7 @@ async function loadTests(){
       Object.keys(counts).forEach(function(g){ if (GROUP_ORDER.indexOf(g) < 0) groups.push(g); });
       if (!groups.length) { msg.textContent = "No tests yet."; return; }
       list.className = "home-choices";
-      list.innerHTML = groups.map(function(g){ return folderHtml(g, counts[g]); }).join("");
+      list.innerHTML = groups.map(function(g){ return folderHtml(g); }).join("");
       return;
     }
 
