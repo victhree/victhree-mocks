@@ -1,0 +1,507 @@
+{
+    "title":  "Geography Test 2",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The Continental Drift Theory (1912) was proposed by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Alfred Wegener",
+                                          "Harry Hess",
+                                          "W. J. Morgan",
+                                          "Arthur Holmes"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The Sea Floor Spreading theory was put forward by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Harry Hess",
+                                          "Alfred Wegener",
+                                          "W. J. Morgan",
+                                          "Arthur Holmes"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. Pangaea was the last supercontinent.",
+                                       "2. Panthalassa was the mega-ocean surrounding Pangaea.",
+                                       "3. The Tethys Sea lay between Gondwanaland and Laurasia."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Which one of the following is NOT an evidence used to support the Continental Drift Theory?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jig-saw fit of coastlines",
+                                          "Tillite deposits",
+                                          "Placer deposits of gold",
+                                          "Depletion of the ozone layer"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Consider the following statements about lava:",
+                          "subs":  [
+                                       "1. Basic lava is rich in silica.",
+                                       "2. Basic lava is highly fluid and forms gently sloping (flattened) volcanoes.",
+                                       "3. Acidic lava is viscous and forms steep-sided domes."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Match List-I (Volcano) with List-II (Location) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Fujiyama B. Cotopaxi C. Mount St. Helens D. Vesuvius",
+                                       "List-II: 1. USA 2. Japan 3. Italy 4. Andes"
+                                   ],
+                          "options":  [
+                                          "A-1 B-4 C-2 D-3",
+                                          "A-2 B-4 C-1 D-3",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-3 D-1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The largest of all volcanoes, built almost entirely of very fluid basaltic lava, is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Composite cone",
+                                          "Caldera",
+                                          "Shield volcano",
+                                          "Cinder cone"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The Deccan Traps of India are an example of which volcanic landform?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Shield volcano",
+                                          "Crater lake",
+                                          "Flood basalt province",
+                                          "Laccolith"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Which one of the following is NOT an intrusive volcanic landform?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Batholith",
+                                          "Sill",
+                                          "Cinder cone",
+                                          "Dyke"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Match List-I (Intrusive landform) with List-II (Shape) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Laccolith B. Lopolith C. Dyke D. Sill",
+                                       "List-II: 1. Mushroom/dome shaped 2. Saucer-shaped basin 3. Wall-like, vertical 4. Horizontal, along bedding planes"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Consider the following statements about plate boundaries:",
+                          "subs":  [
+                                       "1. Transform boundaries create new lithosphere.",
+                                       "2. Divergent boundaries are constructive and form mid-ocean ridges.",
+                                       "3. Convergent boundaries are destructive and form ocean trenches."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Which one of the following is NOT a major tectonic plate?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pacific Plate",
+                                          "African Plate",
+                                          "Antarctic Plate",
+                                          "Arabian Plate"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The Himalayas were formed by the collision of which two plates?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Indian and the Eurasian plates",
+                                          "The Indian and the African plates",
+                                          "The Pacific and the North American plates",
+                                          "The Nazca and the South American plates"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Consider the following statements about earthquakes:",
+                          "subs":  [
+                                       "1. The magnitude of an earthquake is measured on the Mercalli scale.",
+                                       "2. Shallow-focus earthquakes are the most damaging.",
+                                       "3. Deep-focus earthquakes (300–700 km) are rarely destructive."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The point on the Earth\u0027s surface directly above the focus of an earthquake is called the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Focus",
+                                          "Hypocentre",
+                                          "Epicentre",
+                                          "Isocentre"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The magnitude (energy released) of an earthquake is measured on the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Richter scale",
+                                          "Mercalli scale",
+                                          "Beaufort scale",
+                                          "Saffir-Simpson scale"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which seismic belt accounts for about 65% of the world\u0027s earthquakes?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mid-Atlantic Ridge belt",
+                                          "Mid-Continental belt",
+                                          "Himalayan belt",
+                                          "Circum-Pacific belt"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "In the Seismic Zone Map of India, which zone carries the very high (highest) damage risk?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Zone II",
+                                          "Zone III",
+                                          "Zone IV",
+                                          "Zone V"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Consider the following statements about tsunamis:",
+                          "subs":  [
+                                       "1. ‘Tsunami’ means ‘harbour wave’ in Japanese.",
+                                       "2. In deep water a tsunami can travel at up to about 800 km/h with a low wave height.",
+                                       "3. Tsunamis are usually generated at divergent plate boundaries."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "How many of the following statements are correct?",
+                          "subs":  [
+                                       "1. Shield volcanoes are made mainly of basalt.",
+                                       "2. Acidic lava forms steep-sided domes.",
+                                       "3. The Ring of Fire has the largest number of active volcanoes.",
+                                       "4. Fumaroles emit only molten lava."
+                                   ],
+                          "options":  [
+                                          "Only one statement is correct",
+                                          "Only two statements are correct",
+                                          "Only three statements are correct",
+                                          "All four statements are correct"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "PYQ · CDS 2022-I Individual lava flows are normally only a few feet thick, but over a long period repeated flows may build up a volcano. Such volcanoes are termed as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Shield volcano",
+                                          "Composite volcano",
+                                          "Strato-volcano",
+                                          "Cinder-cone volcano"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "PYQ · CDS 2023-I Which of the following statements about volcanoes are correct? 1. The strength of a volcano is measured by the Volcanic Explosivity Index. 2. Iceland and the Philippines were created by volcanic activity. 3. Volcanic soils are rich, deep and fertile and allow intensive agriculture.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "PYQ · CDS 2024-II Which of the following statements regarding Arc volcanoes is/are correct? 1. Arc volcanoes are found near divergent plate boundaries. 2. Cone-shaped stratovolcanoes such as Mount Fuji (Japan) and Mayon (Philippines) are Arc volcanoes. 3. Some of the highest volcanoes on Earth, such as Ojos del Salado in the Andes, are of the Arc type.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "PYQ · CDS 2016-II With reference to earthquakes, which of the following statements are correct? 1. Earthquakes largely occur along converging plate boundaries. 2. The point of origin within the lithosphere is called the focus (hypocentre). 3. Intensity of an earthquake decreases with distance from the epicentre. 4. The epicentre of an earthquake always remains over continents only.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 4"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "PYQ · CDS 2020-II Which one of the following is NOT a major tectonic plate?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Saudi Arabian plate",
+                                          "Antarctica and the surrounding oceanic plate",
+                                          "India-Australia-New Zealand plate",
+                                          "Pacific plate"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Extended Consider the following statements:",
+                          "subs":  [
+                                       "1. The Ring of Fire is located around the Pacific Ocean.",
+                                       "2. Mount Kilimanjaro is a volcanic mountain in Africa.",
+                                       "3. Olympus Mons, the largest volcano in the solar system, is on Mars."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Extended The world\u0027s largest active volcano is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mauna Loa (Hawaii)",
+                                          "Mount Etna",
+                                          "Mount Vesuvius",
+                                          "Mount Fuji"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Extended Krakatoa, famous for its catastrophic 1883 eruption, is located in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Japan",
+                                          "Philippines",
+                                          "Indonesia",
+                                          "Italy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Extended The instrument used to detect and record earthquake waves is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Barograph",
+                                          "Seismograph",
+                                          "Altimeter",
+                                          "Hygrograph"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Extended Which one of the following does NOT lie on the Pacific ‘Ring of Fire’?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Japan",
+                                          "Chile",
+                                          "Iceland",
+                                          "Philippines"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Continental Drift, Volcanism \u0026 Earthquakes"
+                      }
+                  ]
+}

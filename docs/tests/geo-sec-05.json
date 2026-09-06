@@ -1,0 +1,507 @@
+{
+    "title":  "Geography Test 5",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Trade winds blow from the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "subtropical high-pressure belts towards the equatorial low",
+                                          "equator towards the poles",
+                                          "poles towards the equator",
+                                          "subpolar lows towards the polar highs"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Winds that blow constantly in the same direction throughout the year are called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "permanent (planetary/primary) winds",
+                                          "seasonal winds",
+                                          "local winds",
+                                          "tertiary winds"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Consider the following statements about trade winds:",
+                          "subs":  [
+                                       "1. Trade winds blow from the equatorial low towards the subtropical high.",
+                                       "2. In the Northern Hemisphere they blow as the north-east trades.",
+                                       "3. Trade winds of the two hemispheres meet at the ITCZ."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "In the Northern Hemisphere, the Coriolis force deflects moving winds to the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "right",
+                                          "left",
+                                          "upward",
+                                          "downward"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Consider the following statements about the Coriolis force:",
+                          "subs":  [
+                                       "1. It deflects winds to the left in the Northern Hemisphere.",
+                                       "2. It is maximum at the poles.",
+                                       "3. It is zero at the equator."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "During the daytime, the breeze near a coast blows from:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "sea to land (sea breeze)",
+                                          "land to sea (land breeze)",
+                                          "mountain to valley",
+                                          "valley to mountain"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Which one of the following is NOT a hot local wind?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Loo",
+                                          "Chinook",
+                                          "Sirocco",
+                                          "Mistral"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Match List-I (Hot local wind) with List-II (Region) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Loo B. Chinook C. Sirocco D. Harmattan",
+                                       "List-II: 1. Rockies 2. Northern India 3. North-west Africa 4. Sahara"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Chinook, a warm dry ‘snow-eater’ wind, blows on the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "leeward side of the Alps",
+                                          "western slopes of the Andes",
+                                          "eastern slopes of the Rockies",
+                                          "southern slopes of the Himalayas"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following statements about local winds:",
+                          "subs":  [
+                                       "1. The Harmattan is a cold wind of Europe.",
+                                       "2. The Loo is a hot, dry wind of Northern India.",
+                                       "3. The Mistral is a cold wind of France."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The three cells of the atmospheric tricellular circulation (in each hemisphere) are the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hadley, Ferrel and Polar cells",
+                                          "Hadley, Walker and Polar cells",
+                                          "Ferrel, Walker and Polar cells",
+                                          "Hadley, Ferrel and Walker cells"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Match List-I (Cell) with List-II (Latitude range / location) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Hadley cell B. Ferrel cell C. Polar cell D. Walker cell",
+                                       "List-II: 1. 30°–60° 2. 60°–90° 3. Equatorial Pacific 4. 0°–30°"
+                                   ],
+                          "options":  [
+                                          "A-4 B-1 C-2 D-3",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-4 B-2 C-1 D-3",
+                                          "A-4 B-1 C-2 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "In the Hadley cell, warm air rises at the equator and descends at about:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10° latitude",
+                                          "20° latitude",
+                                          "30° latitude",
+                                          "60° latitude"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Consider the following statements about jet streams:",
+                          "subs":  [
+                                       "1. Jet streams flow generally from west to east.",
+                                       "2. They occur in the upper troposphere / lower stratosphere.",
+                                       "3. Meandering jet streams are called Rossby waves."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The Tropical Easterly Jet, important for the Indian summer monsoon, is linked to the intense heating of the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tibetan Plateau",
+                                          "Himalayas",
+                                          "Sahara Desert",
+                                          "Rocky Mountains"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Which one of the following is NOT a recognised type of jet stream?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Polar Front Jet",
+                                          "Subtropical Westerly Jet",
+                                          "Tropical Easterly Jet",
+                                          "Trade Jet"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Monsoon winds are an example of which category of winds?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Primary (planetary) winds",
+                                          "Local winds",
+                                          "Tertiary winds",
+                                          "Secondary (seasonal) winds"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. The valley breeze blows downhill at night.",
+                                       "2. Monsoons show a seasonal reversal of wind direction.",
+                                       "3. Land and sea breezes are diurnal (daily) winds."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The Westerlies blow from the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "equator towards the poles",
+                                          "poles towards the equator",
+                                          "subpolar lows towards the polar highs",
+                                          "subtropical high-pressure belts towards the subpolar low"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "How many of the following local-wind classifications are correct?",
+                          "subs":  [
+                                       "1. Loo — hot wind",
+                                       "2. Chinook — hot wind",
+                                       "3. Mistral — cold wind",
+                                       "4. Bora — hot wind"
+                                   ],
+                          "options":  [
+                                          "Only one",
+                                          "Only two",
+                                          "Only three",
+                                          "All four"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "PYQ · CDS 2021-I Which one of the following statements about the Coriolis force is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is maximum at the Poles.",
+                                          "It is absent at the Equator.",
+                                          "It deflects the wind to the right in the Southern Hemisphere.",
+                                          "It deflects the wind to the right in the Northern Hemisphere."
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "PYQ · CDS 2020-I In the Hadley cell thermal circulation, air rises up and finally descends at the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "intertropical convergence zone",
+                                          "doldrums",
+                                          "subtropical high-pressure cells",
+                                          "equatorial troughs"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "PYQ · CDS 2024-II Consider: 1. Hadley cells are key to understanding the wind patterns of the Earth. 2. Hadley cells form because the Equator is heated more strongly than other places, creating thermal circulations. Which is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Both statements are correct and statement 2 is the correct explanation of statement 1",
+                                          "Both are correct, but statement 2 is not the correct explanation of statement 1",
+                                          "Statement 1 is correct, but statement 2 is false",
+                                          "Statement 1 is false, but statement 2 is correct"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "PYQ · CDS 2020-I In the region of the eastern shore of the Adriatic Sea, a cold and dry wind blowing down from the mountains is known as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mistral",
+                                          "Bora",
+                                          "Bise",
+                                          "Blizzard"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "PYQ · CDS 2025-II The pattern of planetary winds largely depends upon which of the following factors? 1. Latitudinal variation of atmospheric heating 2. The distribution of continents and oceans 3. The rotation of the Earth",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Extended Consider the following statements:",
+                          "subs":  [
+                                       "1. The ‘Roaring Forties’ are strong westerly winds of the Southern Hemisphere.",
+                                       "2. The ‘doldrums’ is a belt of calms near the equator.",
+                                       "3. Trade winds blow towards the poles."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Extended The belt of calm air near the equator, where the trade winds converge, is called the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "horse latitudes",
+                                          "westerlies",
+                                          "doldrums",
+                                          "polar front"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Extended The ‘Horse Latitudes’ correspond to the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "subtropical high-pressure belts",
+                                          "equatorial low-pressure belt",
+                                          "subpolar low-pressure belts",
+                                          "polar high-pressure areas"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Extended Which one of the following is a cold local wind?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sirocco",
+                                          "Foehn",
+                                          "Bora",
+                                          "Chinook"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Extended Jet streams typically flow at a height of about:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0–5 km",
+                                          "7.5–14 km (upper troposphere)",
+                                          "20–30 km",
+                                          "about 50 km"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Wind Circulation \u0026 Jet Streams"
+                      }
+                  ]
+}

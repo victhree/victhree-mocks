@@ -1,0 +1,508 @@
+{
+    "title":  "Geography Test 3",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Igneous rocks are formed by the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "solidification of hot, molten magma",
+                                          "deposition of sediments in layers",
+                                          "action of heat and pressure on existing rocks",
+                                          "precipitation of dissolved salts"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Fossils are most commonly found in which type of rock?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sedimentary rocks",
+                                          "Igneous rocks",
+                                          "Metamorphic rocks",
+                                          "All three equally"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Match List-I (Original rock) with List-II (Metamorphic product) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Limestone B. Sandstone C. Shale D. Coal",
+                                       "List-II: 1. Slate 2. Quartzite 3. Graphite 4. Marble"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-4 B-1 C-2 D-3",
+                                          "A-2 B-4 C-1 D-3",
+                                          "A-4 B-2 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following statements about igneous rocks:",
+                          "subs":  [
+                                       "1. They are generally granular and crystalline.",
+                                       "2. They usually contain fossils.",
+                                       "3. Most metallic minerals occur in them."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which one of the following is NOT a sedimentary rock?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Limestone",
+                                          "Sandstone",
+                                          "Coal",
+                                          "Granite"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Acidic igneous rocks (such as granite) have a silica content of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "less than 65%",
+                                          "more than 65%",
+                                          "exactly 50%",
+                                          "no silica at all"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Match List-I (Mineral) with List-II (Fact) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Feldspar B. Quartz C. Mica D. Graphite",
+                                       "List-II: 1. Used in radio and radar 2. Makes up about half the Earth\u0027s crust 3. Used to make pencils 4. Used in electrical instruments"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Consider the following statements about metamorphic rocks:",
+                          "subs":  [
+                                       "1. Gneiss is a sedimentary rock.",
+                                       "2. Marble is metamorphosed limestone.",
+                                       "3. Slate is metamorphosed shale."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "How many of the following original-to-metamorphic pairs are correctly matched?",
+                          "subs":  [
+                                       "1. Limestone → Marble",
+                                       "2. Shale → Slate",
+                                       "3. Coal → Graphite",
+                                       "4. Basalt → Granite"
+                                   ],
+                          "options":  [
+                                          "Only one pair",
+                                          "Only two pairs",
+                                          "Only three pairs",
+                                          "All four pairs"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Which mineral makes up about half of the Earth\u0027s crust?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Feldspar",
+                                          "Quartz",
+                                          "Mica",
+                                          "Olivine"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Graphite, used in making pencils, is formed by the metamorphism of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Limestone",
+                                          "Shale",
+                                          "Coal",
+                                          "Sandstone"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Which one of the following is NOT a type of physical (mechanical) weathering?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Frost action",
+                                          "Exfoliation (unloading)",
+                                          "Oxidation",
+                                          "Salt weathering"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Consider the following statements about weathering:",
+                          "subs":  [
+                                       "1. The breaking of rock by tree roots is a form of chemical weathering.",
+                                       "2. Hydration and carbonation are forms of chemical weathering.",
+                                       "3. Frost action is a form of physical weathering."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Match List-I (Force) with List-II (Description) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Endogenetic B. Exogenetic C. Epeirogenic D. Orogenic",
+                                       "List-II: 1. Mountain-forming 2. Caused by events outside the Earth 3. Caused by events inside the Earth 4. Continent-forming"
+                                   ],
+                          "options":  [
+                                          "A-3 B-2 C-1 D-4",
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-3 B-1 C-4 D-2",
+                                          "A-3 B-2 C-4 D-1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Orogenic forces are best described as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "mountain-forming movements",
+                                          "continent-forming (radial) movements",
+                                          "forces of weathering",
+                                          "tidal forces"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Consider the following statements about mass movements:",
+                          "subs":  [
+                                       "1. An avalanche is slower than a mudflow.",
+                                       "2. Creep is a slow mass movement.",
+                                       "3. Mudflow is a rapid mass movement."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which one of the following is NOT a rapid mass movement?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Earthflow",
+                                          "Mudflow",
+                                          "Avalanche",
+                                          "Creep"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The rock cycle is powered mainly by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "wind energy only",
+                                          "gravity alone",
+                                          "solar energy and the Earth\u0027s internal heat",
+                                          "tidal forces"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Oxygen and silicon together account for about what percentage of the Earth\u0027s crust by weight?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "50%",
+                                          "60%",
+                                          "70%",
+                                          "75%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Consider the following statements about basalt:",
+                          "subs":  [
+                                       "1. Basalt is an extrusive (volcanic) igneous rock.",
+                                       "2. Basalt is fine-grained.",
+                                       "3. Black (regur) soil is formed from the weathering of basalt."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "PYQ · CDS 2021-I Which one of the following is a type of igneous rock?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Marble",
+                                          "Halite",
+                                          "Granite",
+                                          "Shale"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "PYQ · CDS 2025-I Which of the following statements about salt weathering is/are correct? 1. Salt crystallisation is the most effective of all the salt weathering processes. 2. Salt crystal growth is more effective over sedimentary rocks than over igneous rocks.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "PYQ · CDS 2024-II Which one of the following is NOT an example of chemical weathering?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Acid action",
+                                          "Hydrolysis",
+                                          "Salt crystal growth",
+                                          "Oxidation"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "PYQ · CDS 2017-II ‘Xeriscaping’ is a concept related to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "landscaping to save water",
+                                          "landscaping to prevent soil erosion",
+                                          "weathering of rock surfaces",
+                                          "all of the above"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "PYQ · CDS 2023-II Which one of the following landforms is/are formed by wind erosion?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cirque",
+                                          "Stack",
+                                          "Zeugen",
+                                          "Stack and Zeugen both"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Extended Which is the hardest naturally occurring mineral (10 on the Mohs scale)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Diamond",
+                                          "Quartz",
+                                          "Corundum",
+                                          "Topaz"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Extended Consider the following statements:",
+                          "subs":  [
+                                       "1. Diamond and graphite are both forms of carbon.",
+                                       "2. Marble is a metamorphic rock.",
+                                       "3. Bauxite is the chief ore of iron."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Extended The chief ore of aluminium is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Haematite",
+                                          "Bauxite",
+                                          "Chalcopyrite",
+                                          "Galena"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Extended The Mohs scale is used to measure the ___ of minerals.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "hardness",
+                                          "density",
+                                          "colour",
+                                          "lustre"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Extended Which one of the following is NOT a metamorphic rock?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Marble",
+                                          "Slate",
+                                          "Quartzite",
+                                          "Limestone"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Rocks, Minerals \u0026 Weathering"
+                      }
+                  ]
+}

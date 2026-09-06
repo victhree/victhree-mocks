@@ -1,0 +1,506 @@
+{
+    "title":  "Geography Test 10",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Drainage pattern) with List-II (Description) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Dendritic B. Trellis C. Radial D. Centripetal",
+                                       "List-II: 1. Tributaries join at right angles 2. Tree-branch pattern 3. Streams converge into a central basin 4. Streams flow outward from a dome"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The most common drainage pattern, resembling the branches of a tree, is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dendritic",
+                                          "Trellis",
+                                          "Radial",
+                                          "Centripetal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Consider the following statements comparing Himalayan and Peninsular rivers:",
+                          "subs":  [
+                                       "1. Himalayan rivers have smaller basins than Peninsular rivers.",
+                                       "2. Himalayan rivers are perennial.",
+                                       "3. Peninsular rivers are mostly seasonal."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The Ganga is formed at Devprayag by the confluence of the Alaknanda and the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bhagirathi",
+                                          "Mandakini",
+                                          "Pindar",
+                                          "Dhauliganga"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The longest tributary of the Ganga is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Yamuna",
+                                          "Ghaghara",
+                                          "Gandak",
+                                          "Kosi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Which one of the following is NOT a tributary of the Ganga?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Yamuna",
+                                          "Son",
+                                          "Ghaghara",
+                                          "Godavari"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The Damodar river is popularly known as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sorrow of Bihar",
+                                          "Sorrow of Assam",
+                                          "Sorrow of Bengal",
+                                          "Sorrow of Odisha"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Match List-I (Indus tributary) with List-II (Detail) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Chenab B. Jhelum C. Satluj D. Beas",
+                                       "List-II: 1. Flows through Wular Lake 2. Bhakra Nangal dam 3. Meets Satluj at Harike 4. Largest tributary of the Indus"
+                                   ],
+                          "options":  [
+                                          "A-4 B-1 C-3 D-2",
+                                          "A-1 B-4 C-2 D-3",
+                                          "A-4 B-2 C-1 D-3",
+                                          "A-4 B-1 C-2 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The largest tributary of the Indus is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chenab",
+                                          "Jhelum",
+                                          "Ravi",
+                                          "Beas"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following statements about the Indus system:",
+                          "subs":  [
+                                       "1. The Ravi is the largest tributary of the Indus.",
+                                       "2. The Satluj rises from the Rakas Lake in Tibet.",
+                                       "3. The Beas and the Satluj meet at Harike."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The Brahmaputra takes a great U-turn (bend) before entering India near:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nanga Parbat",
+                                          "Mount Everest",
+                                          "Namcha Barwa",
+                                          "Kanchenjunga"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "In Tibet, the Brahmaputra is known as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tsangpo",
+                                          "Jamuna",
+                                          "Siang",
+                                          "Padma"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The largest Peninsular river, often called the ‘Dakshin Ganga’, is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Krishna",
+                                          "Godavari",
+                                          "Kaveri",
+                                          "Mahanadi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Consider the following statements about the Narmada:",
+                          "subs":  [
+                                       "1. The Sardar Sarovar dam is built on the Kaveri.",
+                                       "2. The Narmada flows westward through a rift valley.",
+                                       "3. It empties into the Arabian Sea."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Which one of the following is NOT a west-flowing river?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Narmada",
+                                          "Tapi",
+                                          "Mahanadi",
+                                          "Sabarmati"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The river Mahi is notable for:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "being the longest peninsular river",
+                                          "flowing east into the Bay of Bengal",
+                                          "joining the Ganga",
+                                          "crossing the Tropic of Cancer twice"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Match List-I (Dam/Project) with List-II (River) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Bhakra Nangal B. Hirakud C. Sardar Sarovar D. Nagarjuna Sagar",
+                                       "List-II: 1. Mahanadi 2. Satluj 3. Narmada 4. Krishna"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "National Waterway 1 (NW-1), the longest in India (Haldia–Prayagraj), lies on which river?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ganga",
+                                          "Brahmaputra",
+                                          "Godavari",
+                                          "West Coast Canal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Consider the following statements about Indian soils:",
+                          "subs":  [
+                                       "1. Laterite soil is rich in humus and nitrogen.",
+                                       "2. Alluvial soil covers about 40% of India.",
+                                       "3. Black (regur) soil is ideal for cotton."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "How many of the following soil–region statements are correct?",
+                          "subs":  [
+                                       "1. Black soil — Deccan Trap region",
+                                       "2. Alluvial soil — Northern Plains",
+                                       "3. Laterite soil — areas of high rainfall and leaching",
+                                       "4. Regur soil — the Himalayan region"
+                                   ],
+                          "options":  [
+                                          "Only one",
+                                          "Only two",
+                                          "Only three",
+                                          "All four"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "PYQ · CDS 2016-II Which one of the following is NOT a tributary of the river Ganga?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Son",
+                                          "Mahananda",
+                                          "Teesta",
+                                          "Sharada"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "PYQ · CDS 2018-II Which one of the following is a west-flowing river?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mahanadi",
+                                          "Godavari",
+                                          "Krishna",
+                                          "Narmada"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "PYQ · CDS 2024-II Which peninsular river has a tributary named Kabini?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Godavari",
+                                          "Krishna",
+                                          "Mahanadi",
+                                          "Kaveri"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "PYQ · CDS 2025-I Which of the following statements about the Indus Waters Treaty is/are correct? 1. The ‘Eastern Rivers’ are the Sutlej, the Beas and the Ravi. 2. The ‘Western Rivers’ are the Indus, the Jhelum and the Chenab.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "PYQ · CDS 2024-I Identify the drainage pattern: 1. It is the most common pattern of streams and their tributaries. 2. It occurs in areas of uniform rock type and regular slope. 3. On a map it looks like the veins on a leaf, with smaller streams joining the main stream at an acute angle.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dendritic",
+                                          "Radial",
+                                          "Trellis",
+                                          "Centripetal"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Extended Consider the following statements about Indian soils:",
+                          "subs":  [
+                                       "1. Black soil is also called regur soil.",
+                                       "2. Red soil gets its colour from iron.",
+                                       "3. Alluvial soil is found mainly in the Deccan Plateau."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Extended Which soil is best suited for the cultivation of cotton?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Red soil",
+                                          "Black (regur) soil",
+                                          "Laterite soil",
+                                          "Alluvial soil"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Extended Which river is known as the ‘Sorrow of Bihar’?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kosi",
+                                          "Damodar",
+                                          "Son",
+                                          "Gandak"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Extended Which one of the following is NOT a type of soil erosion?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sheet erosion",
+                                          "Rill erosion",
+                                          "Gully erosion",
+                                          "Thermal erosion"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Extended Laterite soil is best suited for which of the following plantation crops?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Wheat",
+                                          "Rice",
+                                          "Cashew",
+                                          "Cotton"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Drainage \u0026 Soils"
+                      }
+                  ]
+}

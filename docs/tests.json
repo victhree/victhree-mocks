@@ -3,7 +3,7 @@
   "tests": [
     {
       "id": "geo-01",
-      "title": "Geography-Test 1",
+      "title": "Full Syllabus Test 1",
       "subject": "Geography",
       "durationMin": 60,
       "count": 60,
@@ -11,11 +11,154 @@
     },
     {
       "id": "geo-02",
-      "title": "Geography-Test 2",
+      "title": "Full Syllabus Test 2",
       "subject": "Geography",
       "durationMin": 60,
       "count": 60,
       "description": "60 fresh Geography MCQs — geomorphology, climatology, oceanography, Indian physiography, rivers, soils & minerals."
+    },
+    {
+      "id": "geo-sec-01",
+      "title": "Geography Test 1",
+      "subject": "Geography",
+      "topic": "Universe \u0026 Interior of the Earth",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Geography sectional test - 30 MCQs on Universe \u0026 Interior of the Earth. 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "geo-sec-02",
+      "title": "Geography Test 2",
+      "subject": "Geography",
+      "topic": "Continental Drift, Volcanism \u0026 Earthquakes",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Geography sectional test - 30 MCQs on Continental Drift, Volcanism \u0026 Earthquakes. 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "geo-sec-03",
+      "title": "Geography Test 3",
+      "subject": "Geography",
+      "topic": "Rocks, Minerals \u0026 Weathering",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Geography sectional test - 30 MCQs on Rocks, Minerals \u0026 Weathering. 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "geo-sec-04",
+      "title": "Geography Test 4",
+      "subject": "Geography",
+      "topic": "Atmosphere, Temperature \u0026 Rainfall",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Geography sectional test - 30 MCQs on Atmosphere, Temperature \u0026 Rainfall. 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "geo-sec-05",
+      "title": "Geography Test 5",
+      "subject": "Geography",
+      "topic": "Wind Circulation \u0026 Jet Streams",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Geography sectional test - 30 MCQs on Wind Circulation \u0026 Jet Streams. 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "geo-sec-06",
+      "title": "Geography Test 6",
+      "subject": "Geography",
+      "topic": "Cyclones, Monsoon, ENSO \u0026 IOD",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Geography sectional test - 30 MCQs on Cyclones, Monsoon, ENSO \u0026 IOD. 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "geo-sec-07",
+      "title": "Geography Test 7",
+      "subject": "Geography",
+      "topic": "World Climatic Types",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Geography sectional test - 30 MCQs on World Climatic Types. 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "geo-sec-08",
+      "title": "Geography Test 8",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Geography sectional test - 30 MCQs on Oceanography. 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "geo-sec-09",
+      "title": "Geography Test 9",
+      "subject": "Geography",
+      "topic": "India — Physiography",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Geography sectional test - 30 MCQs on India — Physiography. 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "geo-sec-10",
+      "title": "Geography Test 10",
+      "subject": "Geography",
+      "topic": "India — Drainage \u0026 Soils",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Geography sectional test - 30 MCQs on India — Drainage \u0026 Soils. 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "geo-sec-11",
+      "title": "Geography Test 11",
+      "subject": "Geography",
+      "topic": "India — Minerals, Energy \u0026 Agriculture",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Geography sectional test - 30 MCQs on India — Minerals, Energy \u0026 Agriculture. 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "geo-sec-12",
+      "title": "Geography Test 12",
+      "subject": "Geography",
+      "topic": "Landforms",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Geography sectional test - 30 MCQs on Landforms. 25 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "geo-sec-13",
+      "title": "Geography Test 13",
+      "subject": "Geography",
+      "topic": "Transport in India",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 25,
+      "negative": true,
+      "description": "Geography sectional test - 30 MCQs on Transport in India. 25 marks, 30 minutes, 1/3 negative marking."
     },
     {
       "id": "ancient-history-01",

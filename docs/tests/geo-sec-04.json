@@ -1,0 +1,506 @@
+{
+    "title":  "Geography Test 4",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Which two gases together make up about 99% of the atmosphere?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nitrogen and Oxygen",
+                                          "Oxygen and Carbon dioxide",
+                                          "Nitrogen and Argon",
+                                          "Oxygen and Argon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The ozone layer, which absorbs harmful ultraviolet radiation, lies in the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Stratosphere",
+                                          "Troposphere",
+                                          "Mesosphere",
+                                          "Ionosphere"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Match List-I (Atmospheric layer) with List-II (Feature) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Troposphere B. Stratosphere C. Mesosphere D. Ionosphere",
+                                       "List-II: 1. Contains the ozone layer 2. Weather occurs here 3. Reflects radio waves 4. Meteors burn up here"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following statements about the troposphere:",
+                          "subs":  [
+                                       "1. In the troposphere, temperature increases with height.",
+                                       "2. It is the lowest layer of the atmosphere.",
+                                       "3. It contains about 75% of the atmosphere\u0027s mass."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Arrange the atmospheric layers in the correct order from the surface upward:",
+                          "subs":  [
+                                       "1. Troposphere 2. Stratosphere 3. Mesosphere 4. Thermosphere"
+                                   ],
+                          "options":  [
+                                          "1, 2, 3, 4",
+                                          "1, 3, 2, 4",
+                                          "4, 3, 2, 1",
+                                          "2, 1, 3, 4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The Karman Line, taken as the edge of space, lies at an altitude of about:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "50 km",
+                                          "85 km",
+                                          "100 km",
+                                          "400 km"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "According to the heat budget, approximately what percentage of insolation is reflected back to space?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "35%",
+                                          "14%",
+                                          "51%",
+                                          "65%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "‘Climate’ is the average of weather conditions over a minimum period of about:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10 years",
+                                          "20 years",
+                                          "30 years",
+                                          "35 years"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Match List-I (Weather element) with List-II (Measuring instrument) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Temperature B. Atmospheric pressure C. Wind speed D. Humidity",
+                                       "List-II: 1. Barometer 2. Thermometer 3. Anemometer 4. Hygrometer"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-3 C-1 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Match List-I (Isoline) with List-II (What it joins) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Isobar B. Isohyet C. Isohel D. Isoneph",
+                                       "List-II: 1. Equal rainfall 2. Equal sunshine 3. Equal cloudiness 4. Equal pressure"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-4 B-2 C-1 D-3",
+                                          "A-4 B-1 C-3 D-2",
+                                          "A-4 B-1 C-2 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Isohyets are lines on a map joining places of equal:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "rainfall",
+                                          "pressure",
+                                          "temperature",
+                                          "sunshine"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Consider the following statements about weather instruments:",
+                          "subs":  [
+                                       "1. A hygrometer measures rainfall.",
+                                       "2. Wind direction is measured by a wind vane.",
+                                       "3. A barometer measures atmospheric pressure."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Which one of the following is NOT a factor affecting the distribution of temperature?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Latitude",
+                                          "Altitude",
+                                          "Ocean currents",
+                                          "Thickness of the ozone layer"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "In the troposphere, temperature normally decreases with height at a lapse rate of about:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1°C per 1000 m",
+                                          "3.5°C per 1000 m",
+                                          "6.5°C per 1000 m",
+                                          "10°C per 1000 m"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. All weather phenomena occur in the stratosphere.",
+                                       "2. About 35% of insolation is reflected back to space.",
+                                       "3. The Earth\u0027s surface absorbs about 51% of the incoming solar energy."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "‘Temperature inversion’ refers to a condition in which:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "temperature decreases with height",
+                                          "temperature stays constant with height",
+                                          "temperature increases with height in a layer",
+                                          "pressure increases with height"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Consider the following statements about types of rainfall:",
+                          "subs":  [
+                                       "1. Convectional rainfall is common in the tropics as afternoon downpours.",
+                                       "2. Orographic rainfall produces a rain shadow on the leeward side.",
+                                       "3. Cyclonic (frontal) rainfall results from the convergence of warm and cold air masses."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Which one of the following is NOT a type of rainfall classified by its formation?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Convectional",
+                                          "Orographic",
+                                          "Cyclonic (frontal)",
+                                          "Tidal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The dry leeward side of a mountain, which receives little rainfall, is called the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "windward side",
+                                          "orographic zone",
+                                          "rain shadow",
+                                          "frontal zone"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "How many of the following isoline–parameter pairs are correctly matched?",
+                          "subs":  [
+                                       "1. Isobar — pressure",
+                                       "2. Isohyet — rainfall",
+                                       "3. Isohel — sunshine",
+                                       "4. Isotherm — cloudiness"
+                                   ],
+                          "options":  [
+                                          "Only one pair",
+                                          "Only two pairs",
+                                          "Only three pairs",
+                                          "All four pairs"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "PYQ · CDS 2017-II Most ozone gas (about 90%) is located in the atmospheric layer of the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ionosphere",
+                                          "troposphere",
+                                          "stratosphere",
+                                          "mesosphere"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "PYQ · CDS 2016-II Which of the following statements about the Earth\u0027s atmosphere are correct? 1. In the stratosphere, temperature increases with altitude. 2. In the mesosphere, temperature decreases with altitude. 3. The lowest temperature is recorded in the upper mesosphere. 4. The tropopause is an isothermal zone.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1, 2 and 3 only",
+                                          "3 and 4 only",
+                                          "1, 2, 3 and 4"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "PYQ · CDS 2024-II The ‘ozone hole’ is a region over the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Antarctic, caused mainly by CFC gases",
+                                          "Antarctic, caused mainly by carbon dioxide gas",
+                                          "Arctic, caused mainly by CFC gases",
+                                          "Arctic, caused mainly by carbon dioxide gas"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "PYQ · CDS 2022-I Isohalines are lines joining places of equal:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "temperature",
+                                          "pressure",
+                                          "rainfall",
+                                          "salinity"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "PYQ · CDS 2023-I Consider the characteristics of a cloud type: 1. It is born through convection. 2. It is the only cloud type that can produce hail, thunder and lightning. 3. It forms large cauliflower-shaped towers, often with anvil tops. Identify the cloud:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Stratocumulus",
+                                          "Cumulonimbus",
+                                          "Cirrocumulus",
+                                          "Nimbostratus"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Extended Consider the following statements:",
+                          "subs":  [
+                                       "1. Nitrogen is the most abundant gas in the atmosphere.",
+                                       "2. The ozone layer absorbs ultraviolet radiation.",
+                                       "3. Carbon dioxide is the most abundant gas in the atmosphere."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Extended Which layer of the atmosphere reflects radio waves, enabling long-distance communication?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Troposphere",
+                                          "Ionosphere",
+                                          "Stratosphere",
+                                          "Exosphere"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Extended Which instrument is used to measure wind speed?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Wind vane",
+                                          "Anemometer",
+                                          "Barometer",
+                                          "Hygrometer"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Extended Which greenhouse gas contributes the most to human-caused global warming?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Carbon dioxide",
+                                          "Oxygen",
+                                          "Nitrogen",
+                                          "Argon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Extended Which one of the following is NOT a greenhouse gas?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Carbon dioxide",
+                                          "Methane",
+                                          "Nitrous oxide",
+                                          "Oxygen"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Atmosphere, Temperature \u0026 Rainfall"
+                      }
+                  ]
+}

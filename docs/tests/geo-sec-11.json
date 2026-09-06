@@ -1,0 +1,503 @@
+{
+    "title":  "Geography Test 11",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Iron ore) with List-II (Iron content) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Magnetite B. Haematite C. Limonite D. Siderite",
+                                       "List-II: 1. 60–70% 2. Above 70% 3. 20–40% 4. 40–60%"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The best quality iron ore, dark-coloured and with magnetic properties, is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Magnetite",
+                                          "Haematite",
+                                          "Limonite",
+                                          "Siderite"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The most commonly found iron ore in India, reddish in colour (‘red-ochre’), is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Magnetite",
+                                          "Haematite",
+                                          "Limonite",
+                                          "Siderite"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following statements about mineral classification:",
+                          "subs":  [
+                                       "1. Chromite is a ferrous mineral.",
+                                       "2. Bauxite is a non-ferrous mineral.",
+                                       "3. Mica is a metallic mineral."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which one of the following is NOT a non-ferrous mineral?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Copper",
+                                          "Bauxite",
+                                          "Manganese",
+                                          "Zinc"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The Chota Nagpur region, called the ‘mineral heartland of India’, lies in the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Central Belt",
+                                          "North-Eastern Plateau",
+                                          "South-Western Plateau",
+                                          "North-Western Region"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Match List-I (Mineral) with List-II (Location) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Copper B. Zinc C. Gold D. Mica",
+                                       "List-II: 1. Zawar 2. Kolar 3. Singhbhum 4. Hazaribagh"
+                                   ],
+                          "options":  [
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-3 B-1 C-4 D-2",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-3 B-1 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "More than 99% of India\u0027s zinc comes from the Zawar area near:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kolar",
+                                          "Balaghat",
+                                          "Singhbhum",
+                                          "Udaipur (Rajasthan)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Kolar and Hutti gold fields are located in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Andhra Pradesh",
+                                          "Karnataka",
+                                          "Jharkhand",
+                                          "Rajasthan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following statements about atomic minerals:",
+                          "subs":  [
+                                       "1. Thorium is derived from monazite.",
+                                       "2. Monazite sands are found along the Kerala coast.",
+                                       "3. Uranium is classified as a non-metallic mineral."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Match List-I (Coal type) with List-II (Carbon content) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Peat B. Lignite C. Bituminous D. Anthracite",
+                                       "List-II: 1. 40–60% 2. Below 40% 3. 80–90% 4. 60–80%"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The highest grade of coal, hardest and scarcest in India, is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Peat",
+                                          "Lignite",
+                                          "Bituminous",
+                                          "Anthracite"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Soft ‘brown coal’, mined at Neyveli in Tamil Nadu, is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Peat",
+                                          "Anthracite",
+                                          "Bituminous",
+                                          "Lignite"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The Gondwana coalfields of Raniganj, Jharia and Bokaro lie mainly in the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Damodar Valley",
+                                          "Godavari basin",
+                                          "Son valley",
+                                          "Mahanadi basin"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "How many of the following pairs are correctly matched?",
+                          "subs":  [
+                                       "1. Subsistence agriculture — farming for self-consumption",
+                                       "2. Plantation agriculture — single crop on large estates",
+                                       "3. Shifting agriculture — slash-and-burn method",
+                                       "4. Dryland farming — practised in high-rainfall areas"
+                                   ],
+                          "options":  [
+                                          "Only one",
+                                          "Only two",
+                                          "Only three",
+                                          "All four"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The slash-and-burn method of cultivation is known as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Intensive agriculture",
+                                          "Shifting agriculture",
+                                          "Mixed farming",
+                                          "Plantation agriculture"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Match List-I (Crop) with List-II (Leading region) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Tea B. Jute C. Rubber D. Wheat",
+                                       "List-II: 1. West Bengal 2. Assam 3. Uttar Pradesh 4. Kerala"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-3 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Consider the following statements about Indian crops:",
+                          "subs":  [
+                                       "1. Jute is grown mainly in Punjab.",
+                                       "2. Rice is a Kharif crop.",
+                                       "3. Wheat is a Rabi crop."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "West Bengal alone produces about three-fourths of India\u0027s:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jute",
+                                          "Cotton",
+                                          "Tea",
+                                          "Rice"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following is NOT a Rabi crop?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Wheat",
+                                          "Gram",
+                                          "Barley",
+                                          "Cotton"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "PYQ · CDS 2019-I The monazite sands, which are the chief source of thorium in India, are found mainly along the coast of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rajasthan",
+                                          "Jharkhand",
+                                          "Kerala",
+                                          "Bihar"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "PYQ · CDS 2020-I Which one of the following is a Kharif crop?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Wheat",
+                                          "Gram",
+                                          "Rice",
+                                          "Mustard"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "PYQ · CDS 2018-I The Neyveli lignite deposits are located in which State?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rajasthan",
+                                          "Assam",
+                                          "Gujarat",
+                                          "Tamil Nadu"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "PYQ · CDS 2022-II Which crop needs a high temperature (24–35°C) and heavy rainfall (120–150 cm) and is grown mainly on the alluvial soils of the West Bengal delta?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jute",
+                                          "Cotton",
+                                          "Tea",
+                                          "Coffee"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "PYQ · CDS 2017-II Bauxite is the chief ore of which metal?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Copper",
+                                          "Iron",
+                                          "Aluminium",
+                                          "Zinc"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Extended The Hazira–Bijapur–Jagdishpur (HBJ) pipeline is used to transport:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Crude oil",
+                                          "Natural gas",
+                                          "LPG",
+                                          "Water"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Extended The Green Revolution in India was primarily associated with which crops?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Wheat and rice",
+                                          "Pulses",
+                                          "Oilseeds",
+                                          "Cotton"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Extended Natural gas containing hydrogen sulphide is referred to as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Carbon dioxide gas",
+                                          "Methane-only gas",
+                                          "Nitrogen-rich gas",
+                                          "Sour gas"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Extended The White Revolution in India is associated with the production of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Fish",
+                                          "Milk",
+                                          "Eggs",
+                                          "Foodgrains"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Extended The Kolar and Hutti mines are famous for which mineral?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Silver",
+                                          "Copper",
+                                          "Gold",
+                                          "Diamond"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Minerals, Energy \u0026 Agriculture"
+                      }
+                  ]
+}

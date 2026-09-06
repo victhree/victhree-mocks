@@ -1,0 +1,507 @@
+{
+    "title":  "Geography Test 6",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "In the Northern Hemisphere, the winds of a cyclone rotate:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "clockwise",
+                                          "in a straight line",
+                                          "anticlockwise (counter-clockwise)",
+                                          "with no rotation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The South-West monsoon brings rainfall to India during which season?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Winter",
+                                          "Autumn",
+                                          "Spring",
+                                          "Summer"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Consider the following statements about the monsoon:",
+                          "subs":  [
+                                       "1. Monsoons reverse their direction with the change of season.",
+                                       "2. The SW monsoon blows from sea to land in summer.",
+                                       "3. The NE monsoon blows from sea to land in winter."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Which one of the following is NOT a factor responsible for the South-West monsoon?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Intense heating of the Tibetan Plateau",
+                                          "The shift of the ITCZ",
+                                          "The Tropical Easterly Jet",
+                                          "The depletion of the ozone hole"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "El Niño refers to an abnormal ___ of the surface waters of the equatorial Pacific Ocean.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cooling",
+                                          "freezing",
+                                          "warming",
+                                          "no change in"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Consider the following statements about ENSO:",
+                          "subs":  [
+                                       "1. El Niño is the cool phase of ENSO.",
+                                       "2. El Niño generally suppresses Indian monsoon rainfall.",
+                                       "3. La Niña generally aids rainfall over India."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The permanent high-pressure cell that influences the Indian SW monsoon lies to the east of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sri Lanka",
+                                          "Australia",
+                                          "Madagascar (around 20°S)",
+                                          "Somalia"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Match List-I (Factor) with List-II (Role in the monsoon) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Tibetan Plateau B. Tropical Easterly Jet C. Subtropical Jet D. ITCZ",
+                                       "List-II: 1. Burst of the monsoon 2. Breaks in the monsoon 3. Onset/advance of the monsoon 4. Low-pressure formation over the plateau"
+                                   ],
+                          "options":  [
+                                          "A-4 B-1 C-3 D-2",
+                                          "A-1 B-4 C-2 D-3",
+                                          "A-4 B-2 C-1 D-3",
+                                          "A-4 B-1 C-2 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Tropical Easterly Jet, which helps the burst of the monsoon, sets in along about which latitude?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5°N",
+                                          "10°N",
+                                          "30°N",
+                                          "15°N"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The retreating (North-East) monsoon brings significant rainfall mainly to which region?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Punjab",
+                                          "Kerala",
+                                          "Tamil Nadu (south-eastern coast)",
+                                          "Assam"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Consider the following statements about cyclones:",
+                          "subs":  [
+                                       "1. Cyclones rotate anticlockwise in the Northern Hemisphere.",
+                                       "2. The Bay of Bengal experiences more cyclones than the Arabian Sea.",
+                                       "3. Cyclones are high-pressure systems."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "In the IMD colour-coded cyclone warnings, a ‘Red’ alert means:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "no immediate danger",
+                                          "be cautious over the next few days",
+                                          "a cyclone is expected within 24 hours",
+                                          "a cyclone is imminent within hours — take immediate action"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Match List-I (IMD colour code) with List-II (Meaning) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Green B. Yellow C. Orange/Amber D. Red",
+                                       "List-II: 1. Be cautious (next few days) 2. No immediate danger 3. Imminent within hours 4. Expected within 24 hours"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "A positive Indian Ocean Dipole (IOD) generally:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "boosts India\u0027s monsoon rainfall",
+                                          "weakens India\u0027s monsoon rainfall",
+                                          "has no effect on the monsoon",
+                                          "causes drought in India"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Consider the following statements about the Indian Ocean Dipole (IOD):",
+                          "subs":  [
+                                       "1. A negative IOD strengthens India\u0027s monsoon.",
+                                       "2. In a positive IOD, the western Indian Ocean is warmer than the eastern.",
+                                       "3. A positive IOD can boost India\u0027s monsoon."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "During an El Niño event, Australia and South-East Asia typically experience:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "drought and heat",
+                                          "heavy floods",
+                                          "heavy snowfall",
+                                          "no change in weather"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "How many of the following are genuine factors of the South-West monsoon?",
+                          "subs":  [
+                                       "1. Intense heating of the Tibetan Plateau",
+                                       "2. The Inter-Tropical Convergence Zone (ITCZ)",
+                                       "3. The Tropical Easterly Jet",
+                                       "4. Sea-floor spreading"
+                                   ],
+                          "options":  [
+                                          "Only one",
+                                          "Only two",
+                                          "Only three",
+                                          "All four"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The retreating (North-East) monsoon over India occurs mainly during the months of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "June to September",
+                                          "December to February",
+                                          "September to December",
+                                          "March to May"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Consider the following statements about La Niña:",
+                          "subs":  [
+                                       "1. La Niña involves stronger-than-normal trade winds.",
+                                       "2. La Niña brings wetter conditions to Australia and Indonesia.",
+                                       "3. La Niña generally suppresses the Indian monsoon."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "In the Southern Hemisphere, the winds of a cyclone rotate:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "anticlockwise",
+                                          "clockwise",
+                                          "in a straight line",
+                                          "with no rotation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "PYQ · CDS 2020-II Which country chose the name ‘Nisarga’ for the cyclone that struck the Maharashtra–Gujarat coast in June 2020?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Maldives",
+                                          "Bangladesh",
+                                          "Thailand",
+                                          "Japan"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "PYQ · CDS 2021-II Which one of the following States receives rainfall from both the Arabian Sea branch and the Bay of Bengal branch of the monsoon?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Punjab",
+                                          "Maharashtra",
+                                          "Meghalaya",
+                                          "Tamil Nadu"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "PYQ · CDS 2022-I Which one of the following is NOT a result of the El Niño effect?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Distortion of the equatorial atmospheric circulation",
+                                          "Flow of the South-East Trade Winds towards the Indian Ocean",
+                                          "Irregularities in the evaporation of sea water",
+                                          "Reduction in plankton, which reduces the number of fish"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "PYQ · CDS 2019-I Which one of the following may be a true characteristic of cyclones?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Temperate cyclones move west to east with the westerlies, whereas tropical cyclones follow the trade winds",
+                                          "The front side of a cyclone is known as the eye of the cyclone",
+                                          "Cyclones have a centre of high pressure surrounded by closed isobars",
+                                          "Hurricanes are tropical cyclones that develop over mid-latitudes"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "PYQ · CDS 2021-I Match List-I (Storm name) with List-II (Region) and select the correct answer: A. Cyclones B. Hurricanes C. Typhoons D. Willy-willies 1. Western Australia 2. South China Sea 3. Indian Ocean 4. Atlantic Ocean",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A-3 B-2 C-4 D-1",
+                                          "A-3 B-4 C-2 D-1",
+                                          "A-1 B-4 C-2 D-3",
+                                          "A-3 B-1 C-2 D-4"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Extended Consider the following statements:",
+                          "subs":  [
+                                       "1. Willy-willies are tropical cyclones of the North Atlantic.",
+                                       "2. Hurricanes are the tropical cyclones of the Atlantic.",
+                                       "3. Typhoons occur in the western Pacific."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Extended The ‘eye’ of a tropical cyclone is a region of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "calm, clear weather at the centre",
+                                          "the heaviest rainfall",
+                                          "the strongest winds",
+                                          "high pressure throughout"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Extended The scale used to classify the intensity of hurricanes is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Richter scale",
+                                          "Beaufort scale",
+                                          "Saffir-Simpson scale",
+                                          "Fujita scale"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Extended Tropical cyclones of the western Pacific Ocean are known as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "hurricanes",
+                                          "willy-willies",
+                                          "tornadoes",
+                                          "typhoons"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Extended The term ‘El Niño’ is Spanish for:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the storm",
+                                          "the little boy (the Christ Child)",
+                                          "the wind",
+                                          "the flood"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Cyclones, Monsoon, ENSO \u0026 IOD"
+                      }
+                  ]
+}

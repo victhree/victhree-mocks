@@ -1,0 +1,501 @@
+{
+    "title":  "Geography Test 12",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Fluvial depositional landform) with List-II (Description) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Ox-bow lake B. Alluvial fan C. Delta D. Levee",
+                                       "List-II: 1. Where a stream emerges from mountains onto a plain 2. From a cut-off meander 3. Natural embankment along a channel 4. At a river\u0027s mouth"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "A crescent-shaped lake formed from a cut-off river meander is a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ox-bow lake",
+                                          "Alluvial fan",
+                                          "Delta",
+                                          "Levee"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Consider the following statements about fluvial landforms:",
+                          "subs":  [
+                                       "1. A V-shaped valley is an erosional landform.",
+                                       "2. A delta is a depositional landform.",
+                                       "3. A meander is formed purely by erosion."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Which one of the following is NOT a glacial erosional landform?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cirque",
+                                          "Arete",
+                                          "Hanging valley",
+                                          "Drumlin"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "A deep, armchair-shaped hollow eroded at the head of a mountain glacier is a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Arete",
+                                          "Cirque",
+                                          "Tarn",
+                                          "Drumlin"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "A sharp, narrow ridge separating two adjacent cirques is called a(n):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Arete",
+                                          "Cirque",
+                                          "Moraine",
+                                          "Drumlin"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Match List-I (Glacial landform) with List-II (Description) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Moraine B. Drumlin C. Outwash plain D. U-shaped valley",
+                                       "List-II: 1. Whale-backed hill of till 2. Debris deposited directly by ice 3. Glacial trough 4. Sand and gravel from meltwater"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "A smooth, elongated, whale-backed hill of glacial till is a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Moraine",
+                                          "Esker",
+                                          "Arete",
+                                          "Drumlin"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Consider the following statements about desert landforms:",
+                          "subs":  [
+                                       "1. A barchan is an erosional landform.",
+                                       "2. A yardang is an erosional landform.",
+                                       "3. Loess is a depositional landform."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "A mushroom rock, with a narrow base and broad top, is chiefly formed by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Water erosion",
+                                          "Glacial action",
+                                          "Volcanic activity",
+                                          "Wind abrasion"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "A thick, uniform deposit of fine, wind-blown silt is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Loess",
+                                          "Sand dune",
+                                          "Yardang",
+                                          "Mesa"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Match List-I (Karst landform) with List-II (Description) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Stalactite B. Stalagmite C. Sinkhole D. Cavern",
+                                       "List-II: 1. Rises from the cave floor 2. Hangs from the cave roof 3. Large underground chamber 4. Swallow hole"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "An icicle-like deposit of calcite hanging from a cave roof is a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Stalactite",
+                                          "Stalagmite",
+                                          "Polje",
+                                          "Lapies"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "A large, flat-floored, steep-sided depression in a limestone region is called a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sinkhole",
+                                          "Cavern",
+                                          "Lapies",
+                                          "Polje"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Match List-I (Lake) with List-II (Origin) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Tarn B. Ox-bow lake C. Crater lake D. Rift valley lake",
+                                       "List-II: 1. Running water 2. Glaciation 3. Tectonic 4. Volcanic"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "A tarn is a lake formed in a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Volcanic crater",
+                                          "Cirque, by glaciation",
+                                          "Tectonic rift",
+                                          "River meander"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Consider the following statements about coastal landforms:",
+                          "subs":  [
+                                       "1. A sea stack is an erosional landform.",
+                                       "2. A spit is a depositional landform.",
+                                       "3. A tombolo connects two islands."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "A bar of sand or shingle that connects an island to the mainland is a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Spit",
+                                          "Beach",
+                                          "Lagoon",
+                                          "Tombolo"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Match List-I (Reef/Island) with List-II (Description) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Fringing reef B. Barrier reef C. Atoll D. Oceanic island",
+                                       "List-II: 1. Separated from shore by a lagoon 2. Attached directly to the shore 3. Formed by volcanic activity 4. Ring-shaped, enclosing a lagoon"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "A ring-shaped coral reef enclosing a shallow central lagoon is called a(n):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Fringing reef",
+                                          "Atoll",
+                                          "Barrier reef",
+                                          "Tombolo"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "PYQ · CDS 2017-I An ox-bow lake is associated with the erosional and depositional work of which agent?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Glacier",
+                                          "Wind",
+                                          "Sea waves",
+                                          "River"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "PYQ · CDS 2020-II A guyot is a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Coral reef",
+                                          "Ocean trench",
+                                          "Flat-topped submerged seamount",
+                                          "Continental shelf"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "PYQ · CDS 2018-II Loess deposits are formed by the action of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rivers",
+                                          "Glaciers",
+                                          "Sea waves",
+                                          "Wind"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "PYQ · CDS 2019-II A barchan is a type of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sand dune",
+                                          "Moraine",
+                                          "Delta",
+                                          "Cirque"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "PYQ · CDS 2022-I A fjord is formed mainly by the action of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "River erosion",
+                                          "Wind",
+                                          "Glacial erosion",
+                                          "Wave deposition"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Extended The Great Barrier Reef, the world\u0027s largest coral reef system, lies off the coast of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Brazil",
+                                          "Australia",
+                                          "India",
+                                          "Japan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Extended The subsidence theory explaining how atolls form from volcanic islands was proposed by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Alfred Wegener",
+                                          "Charles Darwin",
+                                          "W. M. Davis",
+                                          "Walther Penck"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Extended The deepest oceanic trench in the world is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Java Trench",
+                                          "Mariana Trench",
+                                          "Puerto Rico Trench",
+                                          "Sunda Trench"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Extended The tract of land lying between two converging rivers is called a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Delta",
+                                          "Doab",
+                                          "Levee",
+                                          "Estuary"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Extended A drowned, steep-sided glacial valley along a coast is called a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Fjord",
+                                          "Ria",
+                                          "Lagoon",
+                                          "Estuary"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Landforms"
+                      }
+                  ]
+}

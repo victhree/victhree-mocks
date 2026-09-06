@@ -1,0 +1,512 @@
+{
+    "title":  "Geography Test 1",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The Big Bang theory (Expanding Universe hypothesis) is associated with observations made by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Fred Hoyle",
+                                          "Georges Lemaitre",
+                                          "Edwin Hubble",
+                                          "Stephen Hawking"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The ‘Goldilocks Zone’ around a star refers to the region where an Earth-like planet can:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "support liquid water (neither too hot nor too cold)",
+                                          "be too hot for any water",
+                                          "form only as a gas giant",
+                                          "receive no sunlight at all"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Match List-I (Layer of the Sun) with List-II (Feature) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Core B. Photosphere C. Chromosphere D. Corona",
+                                       "List-II: 1. Nuclear fusion 2. Contains sunspots 3. Appears red during a solar eclipse 4. Outermost layer, over 1 million °C"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following statements about the Sun:",
+                          "subs":  [
+                                       "1. The corona is the innermost layer of the Sun.",
+                                       "2. Nuclear fusion occurs in the core.",
+                                       "3. Sunspots appear on the photosphere."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Arrange the following layers of the Sun in the correct sequence, from innermost to outermost:",
+                          "subs":  [
+                                       "1. Core 2. Radiative zone 3. Convective zone 4. Photosphere"
+                                   ],
+                          "options":  [
+                                          "1, 2, 3, 4",
+                                          "1, 3, 2, 4",
+                                          "4, 3, 2, 1",
+                                          "1, 2, 4, 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Consider the following statements about the planets:",
+                          "subs":  [
+                                       "1. All the terrestrial planets have ring systems.",
+                                       "2. Planets shine by reflecting the light of the Sun.",
+                                       "3. Mercury and Venus have no satellites."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Which one of the following is NOT a Jovian (gas giant) planet?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jupiter",
+                                          "Saturn",
+                                          "Uranus",
+                                          "Mercury"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "How many of the following statements are correct?",
+                          "subs":  [
+                                       "1. Jupiter is the most massive planet in the solar system.",
+                                       "2. Ganymede is the largest moon in the solar system.",
+                                       "3. Io is the most volcanically active body in the solar system.",
+                                       "4. Mercury has the thickest atmosphere of all the planets."
+                                   ],
+                          "options":  [
+                                          "Only one statement is correct",
+                                          "Only two statements are correct",
+                                          "Only three statements are correct",
+                                          "All four statements are correct"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Pluto was reclassified as a dwarf planet because it:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "is too small",
+                                          "has no moon",
+                                          "does not orbit the Sun",
+                                          "has not cleared the neighbourhood around its orbit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. The asteroid belt lies between the orbits of Mars and Jupiter.",
+                                       "2. The tail of a comet always points away from the Sun.",
+                                       "3. A meteor that survives and lands on the Earth is called a meteorite."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The Lonar Lake, a filled-up crater formed after an asteroid collision, is located in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Maharashtra",
+                                          "Madhya Pradesh",
+                                          "Gujarat",
+                                          "Rajasthan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "A solar eclipse occurs on which day, when the Moon comes between the Sun and the Earth?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "New Moon day",
+                                          "Full Moon day",
+                                          "First-quarter day",
+                                          "Last-quarter day"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Which one of the following is NOT a direct source of information about the interior of the Earth?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mining",
+                                          "Drilling (boreholes)",
+                                          "Volcanic eruptions",
+                                          "Seismic waves"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Consider the following statements about the Earth\u0027s interior:",
+                          "subs":  [
+                                       "1. The core is composed mainly of silica and aluminium.",
+                                       "2. On average, temperature rises by about 1°C for every 32 m of depth.",
+                                       "3. Pressure and density both increase with depth."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Consider the following statements about earthquake waves:",
+                          "subs":  [
+                                       "1. P-waves are longitudinal and travel through solids, liquids and gases.",
+                                       "2. S-waves travel through solids only.",
+                                       "3. Surface (L) waves cause the greatest damage."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The deepest hole ever drilled into the Earth\u0027s crust is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mariana Trench",
+                                          "Bingham Canyon mine",
+                                          "Kola Superdeep Borehole (~12 km)",
+                                          "Chuquicamata mine"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Consider the following statements:",
+                          "subs":  [
+                                       "1. The outer core is solid while the inner core is liquid.",
+                                       "2. The crust makes up about 1% of the Earth\u0027s volume.",
+                                       "3. The mantle makes up about 83% of the Earth\u0027s volume."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Match List-I (Discontinuity) with List-II (Boundary it separates) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Conrad B. Moho C. Gutenberg D. Lehmann",
+                                       "List-II: 1. Crust and mantle 2. Inner and outer core 3. Upper and lower crust 4. Mantle and core"
+                                   ],
+                          "options":  [
+                                          "A-1 B-3 C-4 D-2",
+                                          "A-3 B-1 C-2 D-4",
+                                          "A-3 B-1 C-4 D-2",
+                                          "A-3 B-4 C-1 D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "How many of the following discontinuity–location pairs are correctly matched?",
+                          "subs":  [
+                                       "1. Conrad — within the crust",
+                                       "2. Moho — between crust and mantle",
+                                       "3. Gutenberg — between mantle and core",
+                                       "4. Lehmann — between inner and outer core"
+                                   ],
+                          "options":  [
+                                          "Only one pair",
+                                          "Only two pairs",
+                                          "Only three pairs",
+                                          "All four pairs"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Arrange the layers of the Earth in the correct sequence from the surface downward:",
+                          "subs":  [
+                                       "1. Crust 2. Mantle 3. Outer core 4. Inner core"
+                                   ],
+                          "options":  [
+                                          "1, 2, 3, 4",
+                                          "1, 2, 4, 3",
+                                          "2, 1, 3, 4",
+                                          "1, 3, 2, 4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "PYQ · CDS 2021-II What is the approximate percentage of carbon in the Earth\u0027s crust?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0.045",
+                                          "0.025",
+                                          "0.015",
+                                          "0.005"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "PYQ · CDS 2025-II Arrange the following major elements of the Earth\u0027s crust in ascending order of weight percentage: 1. Aluminium 2. Calcium 3. Silicon 4. Oxygen",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3, 4, 1, 2",
+                                          "4, 3, 1, 2",
+                                          "2, 1, 3, 4",
+                                          "1, 2, 3, 4"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "PYQ · CDS 2021-II Which one of the following statements about primary (P) waves of earthquakes is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "They are similar to sound waves.",
+                                          "They can travel only through solid materials.",
+                                          "They travel through gaseous, liquid and solid materials.",
+                                          "They move faster and are the first to arrive at the surface."
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "PYQ · CDS 2022-II Which one of the following is another term used for the ‘Focus’ of an earthquake?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hypocentre",
+                                          "Epicentre",
+                                          "Isocentre",
+                                          "Principal Point"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "PYQ · CDS 2024-II Which one of the following statements regarding S-waves is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "S-waves are slower than P-waves.",
+                                          "During an earthquake, S-waves are less destructive to structures.",
+                                          "S-waves can travel only through solids and cannot pass through the outer core.",
+                                          "The behaviour of S-waves indicates that the Earth\u0027s outer core is liquid."
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Extended Consider the following statements:",
+                          "subs":  [
+                                       "1. Proxima Centauri is the nearest star to the Sun.",
+                                       "2. A light-year is a unit of time.",
+                                       "3. The James Webb Space Telescope is the successor to the Hubble Space Telescope."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Extended Which planet is unusual in that it rotates almost on its side, with an axial tilt of about 98°?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Venus",
+                                          "Mars",
+                                          "Neptune",
+                                          "Uranus"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Extended Halley\u0027s Comet is visible from the Earth roughly once every:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "12 years",
+                                          "165 years",
+                                          "240 years",
+                                          "76 years"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Extended The ‘Great Red Spot’, a giant persistent storm, is a feature of which planet?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jupiter",
+                                          "Saturn",
+                                          "Mars",
+                                          "Neptune"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Extended Which one of the following is NOT a terrestrial planet?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mercury",
+                                          "Venus",
+                                          "Mars",
+                                          "Jupiter"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Universe \u0026 Interior of the Earth"
+                      }
+                  ]
+}

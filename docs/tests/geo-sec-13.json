@@ -1,0 +1,502 @@
+{
+    "title":  "Geography Test 13",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Match List-I (Major port) with List-II (State) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Kandla B. Mormugao C. Cochin D. Paradip",
+                                       "List-II: 1. Goa 2. Gujarat 3. Odisha 4. Kerala"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "India\u0027s largest container port is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mumbai Port",
+                                          "Jawaharlal Nehru Port (JNPA, Nhava Sheva)",
+                                          "Kandla Port",
+                                          "Chennai Port"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Consider the following statements about India\u0027s major ports:",
+                          "subs":  [
+                                       "1. Kandla Port is on the west coast.",
+                                       "2. Vishakhapatnam Port is on the east coast.",
+                                       "3. Chennai Port is on the west coast."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Which one of the following is NOT a west-coast port?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kandla",
+                                          "Mumbai",
+                                          "Cochin",
+                                          "Paradip"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "India\u0027s first corporatized major port, at Ennore, is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kamarajar Port",
+                                          "Chennai Port",
+                                          "Paradip Port",
+                                          "V. O. Chidambaranar Port"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Match List-I (National Waterway) with List-II (River/Route) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. NW-1 B. NW-2 C. NW-3 D. NW-4",
+                                       "List-II: 1. Brahmaputra 2. Ganga 3. Krishna \u0026 Godavari 4. West Coast Canal"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "National Waterway 1 (NW-1) runs along the Ganga between Prayagraj and:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Haldia",
+                                          "Patna",
+                                          "Varanasi",
+                                          "Kolkata"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "National Waterway 2 (NW-2) lies on which river?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ganga",
+                                          "Godavari",
+                                          "Barak",
+                                          "Brahmaputra"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Consider the following statements about National Waterways:",
+                          "subs":  [
+                                       "1. NW-3 lies on the Brahmaputra.",
+                                       "2. India has declared 111 National Waterways.",
+                                       "3. NW-1 is the longest National Waterway."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The longest National Highway in India is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "NH 48",
+                                          "NH 19",
+                                          "NH 16",
+                                          "NH 44"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "NH 44 runs from Srinagar in the north to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kanyakumari",
+                                          "Chennai",
+                                          "Mumbai",
+                                          "Kolkata"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Match List-I (National Highway) with List-II (Route) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. NH 44 B. NH 48 C. NH 19 D. NH 16",
+                                       "List-II: 1. Delhi–Chennai 2. Srinagar–Kanyakumari 3. Kolkata–Chennai 4. Delhi–Kolkata"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The historic Grand Trunk (GT) Road, Delhi to Kolkata, largely corresponds to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "NH 44",
+                                          "NH 48",
+                                          "NH 16",
+                                          "NH 19"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Consider the following statements about National Highway numbering:",
+                          "subs":  [
+                                       "1. Even-numbered NHs generally run north–south.",
+                                       "2. Odd-numbered NHs generally run east–west.",
+                                       "3. NH 44 is the shortest NH in India."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "How many zones does Indian Railways have?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "15",
+                                          "16",
+                                          "17",
+                                          "18"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Match List-I (Railway zone) with List-II (Headquarters) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Central B. Southern C. North Eastern D. Northeast Frontier",
+                                       "List-II: 1. Chennai 2. Mumbai 3. Guwahati 4. Gorakhpur"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The headquarters of the South Central Railway zone is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chennai",
+                                          "Secunderabad",
+                                          "Hyderabad",
+                                          "Vijayawada"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Which one of the following railway zone–headquarters pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Western Railway — Mumbai",
+                                          "Eastern Railway — Kolkata",
+                                          "Northern Railway — Delhi",
+                                          "Southern Railway — Bengaluru"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Consider the following statements about transport projects:",
+                          "subs":  [
+                                       "1. The Dhola-Sadiya bridge is located in Kerala.",
+                                       "2. The Atal Tunnel lies on the Manali–Leh route.",
+                                       "3. The Bogibeel Bridge is India\u0027s longest rail-road bridge."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "India\u0027s longest bridge over water, the Bhupen Hazarika Setu, is also known as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dhola-Sadiya Bridge",
+                                          "Bogibeel Bridge",
+                                          "Bandra–Worli Sea Link",
+                                          "Chenani-Nashri Tunnel"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "PYQ · CDS 2018-I The Golden Quadrilateral highway network connects which four cities?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Delhi, Mumbai, Chennai and Kolkata",
+                                          "Delhi, Jaipur, Agra and Lucknow",
+                                          "Mumbai, Pune, Nagpur and Nashik",
+                                          "Chennai, Bengaluru, Kochi and Hyderabad"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "PYQ · CDS 2019-I Which is the largest container-handling port of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chennai Port",
+                                          "Kandla Port",
+                                          "Jawaharlal Nehru Port (Nhava Sheva)",
+                                          "Cochin Port"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "PYQ · CDS 2020-I Which is the longest National Highway in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "NH 44",
+                                          "NH 48",
+                                          "NH 19",
+                                          "NH 16"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "PYQ · CDS 2017-II The Grand Trunk Road was originally built by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Akbar",
+                                          "Sher Shah Suri",
+                                          "Ashoka",
+                                          "Shah Jahan"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "PYQ · CDS 2021-II Paradip Port is located in which State?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "West Bengal",
+                                          "Andhra Pradesh",
+                                          "Odisha",
+                                          "Tamil Nadu"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Extended The Golden Quadrilateral project is implemented by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Indian Railways",
+                                          "National Highways Authority of India (NHAI)",
+                                          "Inland Waterways Authority of India (IWAI)",
+                                          "Airports Authority of India (AAI)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Extended The Atal Tunnel (Rohtang) is located in which State/UT?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jammu \u0026 Kashmir",
+                                          "Ladakh",
+                                          "Himachal Pradesh",
+                                          "Uttarakhand"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Extended The Konkan Railway connects Roha (Maharashtra) to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Goa",
+                                          "Mumbai",
+                                          "Kochi",
+                                          "Mangalore"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Extended Which of the following is India\u0027s only major riverine port?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mumbai",
+                                          "Chennai",
+                                          "Kolkata",
+                                          "Kandla"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Extended The Bogibeel Bridge, India\u0027s longest rail-road bridge, is built over which river?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ganga",
+                                          "Brahmaputra",
+                                          "Teesta",
+                                          "Barak"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Transport in India"
+                      }
+                  ]
+}

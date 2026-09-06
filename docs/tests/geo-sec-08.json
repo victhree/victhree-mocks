@@ -1,0 +1,505 @@
+{
+    "title":  "Geography Test 8",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Oceans cover approximately what fraction of the Earth\u0027s surface?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "about 50%",
+                                          "about 60%",
+                                          "over 70%",
+                                          "about 90%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The gently sloping, submerged extension of a continent — rich in marine life, oil and gas — is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "continental shelf",
+                                          "continental slope",
+                                          "abyssal plain",
+                                          "oceanic ridge"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Match List-I (Ocean relief feature) with List-II (Description) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Continental shelf B. Continental slope C. Abyssal plain D. Oceanic ridge",
+                                       "List-II: 1. Contains submarine canyons 2. Submerged continental edge 3. Forms at divergent plate boundaries 4. Flattest, smoothest ocean floor"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following statements about ocean temperature:",
+                          "subs":  [
+                                       "1. The thermocline is the warmest layer of the ocean.",
+                                       "2. Ocean temperature is highest near the equator.",
+                                       "3. Ocean temperature decreases with depth."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The average salinity of ocean water is about:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "35 parts per thousand (ppt)",
+                                          "25 ppt",
+                                          "45 ppt",
+                                          "55 ppt"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Which one of the following factors does NOT increase the salinity of seawater?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "High rate of evaporation",
+                                          "High temperature",
+                                          "Clear skies with low rainfall",
+                                          "Large influx of river freshwater"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Consider the following statements about salinity:",
+                          "subs":  [
+                                       "1. Freshwater influx increases the salinity of seawater.",
+                                       "2. Salinity is high in the subtropical high-pressure belts.",
+                                       "3. Salinity is low near the poles."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Which one of the following increases the density of seawater?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lower salinity",
+                                          "Higher temperature",
+                                          "Shallower depth",
+                                          "Higher salinity"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Tides are caused mainly by the gravitational pull of the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Moon",
+                                          "Sun",
+                                          "Earth\u0027s rotation alone",
+                                          "winds"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Spring tides occur when the Sun, the Moon and the Earth are:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "at right angles",
+                                          "in opposite hemispheres",
+                                          "aligned in a straight line (new/full moon)",
+                                          "only during eclipses"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Consider the following statements about tides:",
+                          "subs":  [
+                                       "1. Diurnal tides have two high and two low tides each day.",
+                                       "2. Spring tides are higher than normal.",
+                                       "3. Neap tides occur when the Sun and Moon are at right angles."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Match List-I (Ocean current) with List-II (Location) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Gulf Stream B. Kuroshio C. Benguela D. Humboldt",
+                                       "List-II: 1. North Pacific 2. West coast of Africa 3. West coast of South America 4. North Atlantic"
+                                   ],
+                          "options":  [
+                                          "A-4 B-1 C-3 D-2",
+                                          "A-1 B-4 C-2 D-3",
+                                          "A-4 B-2 C-1 D-3",
+                                          "A-4 B-1 C-2 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Cold currents flowing along the western coasts of continents (e.g. the Benguela, California) contribute to the formation of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "rainforests",
+                                          "glaciers",
+                                          "coastal deserts",
+                                          "swamps"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The North Atlantic Drift keeps which region unusually warm for its latitude?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "North-West Europe",
+                                          "North-East Canada",
+                                          "West Africa",
+                                          "East Asia"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Consider the following statements about ocean currents:",
+                          "subs":  [
+                                       "1. Cold currents cause heavy rainfall on adjacent coasts.",
+                                       "2. Warm currents raise coastal temperatures.",
+                                       "3. The meeting of warm and cold currents creates rich fishing grounds."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The Grand Banks off Newfoundland, one of the world\u0027s richest fishing grounds, is formed by the meeting of the Labrador Current and the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gulf Stream",
+                                          "Kuroshio",
+                                          "Benguela Current",
+                                          "Humboldt Current"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which one of the following is NOT a deep-ocean relief feature?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Continental shelf",
+                                          "Continental slope",
+                                          "Abyssal plain",
+                                          "River delta"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Oceanic ridges, such as the Mid-Atlantic Ridge, are formed at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "divergent plate boundaries",
+                                          "convergent plate boundaries",
+                                          "transform boundaries",
+                                          "hotspots only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Polymetallic nodules on the deep ocean floor are particularly rich in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "gold",
+                                          "manganese",
+                                          "uranium",
+                                          "silica"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "How many of the following are warm ocean currents?",
+                          "subs":  [
+                                       "1. Gulf Stream",
+                                       "2. Kuroshio",
+                                       "3. North Atlantic Drift",
+                                       "4. Labrador Current"
+                                   ],
+                          "options":  [
+                                          "Only one",
+                                          "Only two",
+                                          "Only three",
+                                          "All four"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "PYQ · CDS 2020-I Which of the following are warm ocean currents?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kuroshio and California Current",
+                                          "North Atlantic Drift and Brazil Current",
+                                          "Canaries and Benguela Current",
+                                          "West Wind Drift and Falkland Current"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "PYQ · CDS 2021-I Which one of the following is a cold ocean current?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Brazilian Current",
+                                          "Gulf Stream",
+                                          "North Equatorial Current",
+                                          "California Current"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "PYQ · CDS 2019-I Which one of the following is NOT correct about the Sargasso Sea?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is characterised by an anticyclonic circulation of ocean currents.",
+                                          "It records the highest salinity in the Atlantic Ocean.",
+                                          "It is located west of the Gulf Stream and east of the Canary Current.",
+                                          "It is confined in a gyre of calm and motionless water."
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "PYQ · CDS 2022-II Which one of the following does NOT influence ocean currents?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Heating by solar energy",
+                                          "Wind",
+                                          "Gravitational pull of the Sun and Moon",
+                                          "Coriolis force"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "PYQ · CDS 2016-II Match List-I (Current) with List-II (Country/region): A. Agulhas Current B. Humboldt Current C. Labrador Current D. Falkland Current 1. Peru 2. South Africa 3. Argentina 4. Canada",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A-3 B-4 C-1 D-2",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-3 B-1 C-4 D-2",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Extended Consider the following statements:",
+                          "subs":  [
+                                       "1. The Mariana Trench is the deepest point in the oceans.",
+                                       "2. The Pacific is the largest ocean.",
+                                       "3. The Dead Sea has very low salinity."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Extended The deepest oceanic trench in the world is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Java Trench",
+                                          "Puerto Rico Trench",
+                                          "Mariana Trench",
+                                          "Tonga Trench"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Extended The ‘Sargasso Sea’, known for its calm waters and floating seaweed, lies in the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "North Atlantic Ocean",
+                                          "North Pacific Ocean",
+                                          "Indian Ocean",
+                                          "Southern Ocean"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Extended Which one of the following is NOT one of the five principal oceans?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pacific",
+                                          "Atlantic",
+                                          "Southern",
+                                          "Caspian"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Extended Coral reefs grow best in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "warm, shallow tropical waters",
+                                          "cold, deep polar waters",
+                                          "freshwater lakes",
+                                          "the deep abyssal plains"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Oceanography"
+                      }
+                  ]
+}

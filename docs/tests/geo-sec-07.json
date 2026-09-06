@@ -1,0 +1,508 @@
+{
+    "title":  "Geography Test 7",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The Hot, Wet Equatorial climate is found approximately within which latitudes?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5°–10° north and south of the equator",
+                                          "15°–30° north and south",
+                                          "30°–45° north and south",
+                                          "beyond 60° latitude"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Match List-I (Climate) with List-II (Natural vegetation) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Equatorial B. Savannah C. Mediterranean D. Tundra",
+                                       "List-II: 1. Tall grasses and short trees 2. Dense evergreen forest 3. Mosses and lichens 4. Citrus fruits and vineyards"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Consider the following statements about the equatorial climate:",
+                          "subs":  [
+                                       "1. It has a large daily (diurnal) temperature range.",
+                                       "2. Temperature is fairly uniform through the year at about 27°C.",
+                                       "3. It has heavy rainfall and no winter."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The Savannah (Sudan) climate is a transitional belt between:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "deserts and steppes",
+                                          "tundra and taiga",
+                                          "equatorial forests and hot deserts",
+                                          "Mediterranean and steppe climates"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which one of the following is NOT a hot desert?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sahara",
+                                          "Thar",
+                                          "Kalahari",
+                                          "Prairies"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The Atacama Desert, the driest desert on Earth, formed mainly due to the rain-shadow effect of the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rockies",
+                                          "Alps",
+                                          "Andes",
+                                          "Himalayas"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Consider the following statements about the Mediterranean climate:",
+                          "subs":  [
+                                       "1. It has hot, dry summers and mild, wet winters.",
+                                       "2. Its rainfall is concentrated in winter.",
+                                       "3. It is found on the eastern margins of continents."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The Mediterranean region is famous as the world\u0027s:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "orchard lands",
+                                          "grain lands",
+                                          "rice bowl",
+                                          "dairy belt"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Match List-I (Temperate grassland) with List-II (Region) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Prairies B. Pampas C. Steppes D. Veld",
+                                       "List-II: 1. South America 2. Eurasia 3. South Africa 4. North America"
+                                   ],
+                          "options":  [
+                                          "A-4 B-1 C-2 D-3",
+                                          "A-1 B-4 C-2 D-3",
+                                          "A-4 B-2 C-1 D-3",
+                                          "A-4 B-1 C-3 D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The Temperate Continental (Steppe) climate is characterised by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "dense evergreen forest",
+                                          "mangrove swamps",
+                                          "tall tropical hardwoods",
+                                          "short grasses and an almost treeless landscape"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Consider the following statements about the Cool Temperate Western Margin (British type) climate:",
+                          "subs":  [
+                                       "1. It is found only in the Southern Hemisphere.",
+                                       "2. It is under the permanent influence of the westerlies.",
+                                       "3. It receives rainfall throughout the year."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The Cool Temperate Continental (Siberian) climate is found:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "only in the Northern Hemisphere",
+                                          "only in the Southern Hemisphere",
+                                          "equally in both hemispheres",
+                                          "only in the tropics"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The coniferous (softwood) forest of the Siberian type climate is known as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "taiga",
+                                          "selva",
+                                          "steppe",
+                                          "savannah"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Verkhoyansk, known as the ‘cold pole of the Earth’, records extreme lows in which climate type?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tundra",
+                                          "British type",
+                                          "Siberian (cool temperate continental)",
+                                          "Mediterranean"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Consider the following statements about the polar climate:",
+                          "subs":  [
+                                       "1. The Tundra supports dense forests.",
+                                       "2. The Tundra climate (ET) has permafrost.",
+                                       "3. The Ice-cap climate (EF) is found in interior Greenland and Antarctica."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Match List-I (Koppen code) with List-II (Climate) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Aw B. BW C. Cs D. EF",
+                                       "List-II: 1. Desert 2. Savannah 3. Mediterranean 4. Ice-cap"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which one of the following is NOT a cool-temperate climate?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "British type",
+                                          "Siberian type",
+                                          "Laurentian type",
+                                          "Equatorial type"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Consider the following statements about the Indian climate:",
+                          "subs":  [
+                                       "1. India has a tropical monsoon type of climate.",
+                                       "2. The Himalayas act as a climatic divide.",
+                                       "3. About 80% of India\u0027s rainfall occurs in winter."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Approximately what percentage of India\u0027s annual rainfall is received during the South-West monsoon?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "40%",
+                                          "55%",
+                                          "70%",
+                                          "80%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "How many of the following climate–vegetation pairs are correctly matched?",
+                          "subs":  [
+                                       "1. Equatorial — evergreen rainforest",
+                                       "2. Savannah — grassland",
+                                       "3. Tundra — lichens and mosses",
+                                       "4. Desert — taiga"
+                                   ],
+                          "options":  [
+                                          "Only one",
+                                          "Only two",
+                                          "Only three",
+                                          "All four"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "PYQ · CDS 2020-II Which one of the following (Koppen) codes indicates the Tropical Savannah climate?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Aw",
+                                          "Dfc",
+                                          "Cwg",
+                                          "Am"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "PYQ · CDS 2024-I What does ‘BW’ stand for in the Koppen climate classification?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Steppe climate",
+                                          "Desert climate",
+                                          "Tundra climate",
+                                          "Mesothermal climate"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "PYQ · CDS 2019-II Which one of the following regions is an important supplier of citrus fruits?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Equatorial region",
+                                          "Mediterranean region",
+                                          "Desert region",
+                                          "Sub-humid region"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "PYQ · CDS 2025-I Identify the climate: I. Temperature is high throughout the year. II. Rainfall is variable with a short wet season and a longer dry season. III. The climate of Sudan and Paraguay is an example.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sub-tropical steppe climate",
+                                          "Mid-latitude steppe",
+                                          "Tropical monsoon climate",
+                                          "Tropical wet and dry climate"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "PYQ · CDS 2024-I Which of the following statements regarding ice-cap climate is/are correct? 1. In the Koppen scheme it is signified by the letters EF. 2. It is the Earth\u0027s most severe climate, with the mean monthly temperature never above 0°C. 3. This climate is found in the Pir Panjal and the Great Himalayas.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Extended Consider the following statements about the Koppen classification:",
+                          "subs":  [
+                                       "1. It uses letters to classify climates.",
+                                       "2. ‘A’ climates are tropical.",
+                                       "3. ‘E’ climates are hot deserts."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Extended The largest hot desert in the world is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gobi",
+                                          "Sahara",
+                                          "Kalahari",
+                                          "Thar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Extended The taiga (boreal coniferous forest) is characteristic of which climatic belt?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tropical",
+                                          "Mediterranean",
+                                          "Cool temperate continental (Siberian)",
+                                          "Equatorial"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Extended Which one of the following is NOT a region of Mediterranean climate?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "California",
+                                          "Around Cape Town",
+                                          "Central Chile",
+                                          "The Amazon Basin"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Extended The natural vegetation of the equatorial region is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "temperate grassland",
+                                          "tundra",
+                                          "tropical evergreen rainforest",
+                                          "coniferous forest"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "World Climatic Types"
+                      }
+                  ]
+}

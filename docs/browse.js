@@ -1,39 +1,100 @@
-/* Browse page: lists the tests for one category (?cat=sectional|full|english). */
+/* Browse page: lists tests for one category (?cat=sectional|full|english|maths).
+   The "sectional" category is organised into subject folders — with no ?sub it
+   shows one folder tile per subject; with ?sub=<slug> it lists that subject's tests. */
 function escapeHtml(s){ return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;"); }
-function catParam(){ var c = new URLSearchParams(location.search).get("cat"); return (c === "full" || c === "english" || c === "maths") ? c : "sectional"; }
+function qs(name){ return new URLSearchParams(location.search).get(name); }
+function catParam(){ var c = qs("cat"); return (c === "full" || c === "english" || c === "maths" || c === "sectional") ? c : "sectional"; }
 function catOf(id){ if (/^full-mock-\d/.test(id)) return "full"; if (/^eng-mock-\d/.test(id)) return "english"; if (/^maths-mock-\d/.test(id)) return "maths"; return "sectional"; }
 function catTitle(cat){ return cat === "full" ? "Full-Length Tests" : (cat === "english" ? "English Tests" : (cat === "maths" ? "Maths Tests" : "GK Sectional Tests")); }
+
+/* Which subject folder a sectional test belongs to (driven by its manifest subject). */
+var GROUP_ORDER = ["Geography", "History", "Polity", "Economy", "Combined GS"];
+function sectionGroup(t){
+  var s = (t.subject || "").toLowerCase();
+  if (s.indexOf("geograph") >= 0) return "Geography";
+  if (s.indexOf("histor") >= 0) return "History";
+  if (s === "gs") return "Combined GS";
+  if (s.indexOf("polit") >= 0) return "Polity";
+  if (s.indexOf("econom") >= 0) return "Economy";
+  return "Other";
+}
+function slug(g){ return g.toLowerCase().replace(/\s+/g, "-"); }
+
+function setBack(href, text){
+  var b = document.getElementById("backLink");
+  if (b) { b.href = href; b.innerHTML = text; }
+}
+
+function cardHtml(t){
+  var rawTitle = t.title || t.id;
+  var m = rawTitle.match(/^(.*?)[-\s]*?(Test\s*\d+)$/i);
+  var line1 = m ? m[1].replace(/[-\s]+$/, "").trim() : rawTitle;
+  var line2 = m ? m[2] : "";
+  var topic = t.topic ? '<span class="test-card-topic">' + escapeHtml(t.topic) + '</span>' : "";
+  var col1 = t.countNote ? escapeHtml(t.countNote) : (t.count != null ? t.count + " questions" : "");
+  var col2 = t.durationMin != null ? t.durationMin + " min" : (t.metaNote ? escapeHtml(t.metaNote) : "");
+  return '<a class="test-card" href="test.html?test=' + encodeURIComponent(t.id) + '">' +
+    '<h3 class="test-card-title"><span class="tc-line1">' + escapeHtml(line1) + '</span>' +
+    (line2 ? '<span class="tc-line2">' + escapeHtml(line2) + '</span>' : '') + '</h3>' +
+    topic +
+    '<div class="test-card-meta"><span>' + col1 + '</span><span>' + col2 + '</span></div>' +
+    '<span class="test-card-cta">Start &#8250;</span></a>';
+}
+
+function folderHtml(group, count){
+  return '<a class="choice-tile" href="browse.html?cat=sectional&sub=' + slug(group) + '">' +
+    '<span class="choice-title">' + escapeHtml(group) + '</span>' +
+    '<span class="choice-sub">' + count + (count === 1 ? " test" : " tests") + '</span>' +
+    '<span class="choice-cta">Browse &#8250;</span></a>';
+}
+
 async function loadTests(){
   var cat = catParam();
-  document.getElementById("browseHeading").textContent = catTitle(cat);
-  document.title = catTitle(cat) + " - VicThree Defence";
+  var sub = qs("sub");
+  var heading = document.getElementById("browseHeading");
   var list = document.getElementById("testList");
   var msg = document.getElementById("testListMsg");
   try {
     var res = await fetch("tests.json", { cache: "no-store" });
     if (!res.ok) throw new Error("HTTP " + res.status);
     var data = await res.json();
-    var tests = (data.tests || []).filter(function(t){ return t && t.id; });
-    tests = tests.filter(function(t){ return catOf(t.id) === cat; });
+    var tests = (data.tests || []).filter(function(t){ return t && t.id && catOf(t.id) === cat; });
+
+    // Sectional folder index (no ?sub): show one tile per subject.
+    if (cat === "sectional" && !sub) {
+      heading.textContent = "GK Sectional Tests";
+      document.title = "GK Sectional Tests - VicThree Defence";
+      setBack("index.html", "&#8249; All categories");
+      var counts = {};
+      tests.forEach(function(t){ var g = sectionGroup(t); counts[g] = (counts[g] || 0) + 1; });
+      var groups = GROUP_ORDER.filter(function(g){ return counts[g]; });
+      Object.keys(counts).forEach(function(g){ if (GROUP_ORDER.indexOf(g) < 0) groups.push(g); });
+      if (!groups.length) { msg.textContent = "No tests yet."; return; }
+      list.className = "home-choices";
+      list.innerHTML = groups.map(function(g){ return folderHtml(g, counts[g]); }).join("");
+      return;
+    }
+
+    // Sectional subject view (?sub=slug): list that subject's tests.
+    if (cat === "sectional" && sub) {
+      tests = tests.filter(function(t){ return slug(sectionGroup(t)) === sub; });
+      var gname = tests.length ? sectionGroup(tests[0]) : sub.replace(/-/g, " ");
+      heading.textContent = gname + " Tests";
+      document.title = gname + " Tests - VicThree Defence";
+      setBack("browse.html?cat=sectional", "&#8249; GK Sectional Tests");
+      if (!tests.length) { msg.textContent = "No tests in this subject yet."; return; }
+      list.className = "test-list";
+      list.innerHTML = tests.map(cardHtml).join("");
+      return;
+    }
+
+    // Other categories: flat list of test cards.
+    heading.textContent = catTitle(cat);
+    document.title = catTitle(cat) + " - VicThree Defence";
+    setBack("index.html", "&#8249; All categories");
     if (!tests.length) { msg.textContent = "No tests in this category yet."; return; }
-    list.innerHTML = "";
-    tests.forEach(function(t){
-      var card = document.createElement("a");
-      card.className = "test-card";
-      card.href = "test.html?test=" + encodeURIComponent(t.id);
-      var rawTitle = t.title || t.id;
-      var m = rawTitle.match(/^(.*?)[-\s]*?(Test\s*\d+)$/i);
-      var line1 = m ? m[1].replace(/[-\s]+$/, "").trim() : rawTitle;
-      var line2 = m ? m[2] : "";
-      var col1 = t.countNote ? escapeHtml(t.countNote) : (t.count != null ? t.count + " questions" : "");
-      var col2 = t.durationMin != null ? t.durationMin + " min" : (t.metaNote ? escapeHtml(t.metaNote) : "");
-      card.innerHTML =
-        '<h3 class="test-card-title"><span class="tc-line1">' + escapeHtml(line1) + '</span>' +
-        (line2 ? '<span class="tc-line2">' + escapeHtml(line2) + '</span>' : '') + '</h3>' +
-        '<div class="test-card-meta"><span>' + col1 + '</span><span>' + col2 + '</span></div>' +
-        '<span class="test-card-cta">Start &#8250;</span>';
-      list.appendChild(card);
-    });
+    list.className = "test-list";
+    list.innerHTML = tests.map(cardHtml).join("");
   } catch (err) { console.error(err); msg.textContent = "Could not load the test list. Please refresh."; }
 }
 window.addEventListener("DOMContentLoaded", loadTests);

@@ -1,0 +1,506 @@
+{
+    "title":  "Geography Test 9",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The Tropic of Cancer passes through how many Indian states?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5",
+                                          "6",
+                                          "8",
+                                          "10"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Which is the largest state of India by geographical area?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rajasthan",
+                                          "Madhya Pradesh",
+                                          "Maharashtra",
+                                          "Uttar Pradesh"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Match List-I (Himalayan range) with List-II (Feature) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Trans-Himalaya B. Greater Himalaya C. Lesser Himalaya D. Shiwalik",
+                                       "List-II: 1. Outermost range with duns 2. Karakoram, Ladakh, Zaskar 3. Highest peaks (Everest, Kanchenjunga) 4. Dhauladhar and Pir Panjal"
+                                   ],
+                          "options":  [
+                                          "A-2 B-3 C-1 D-4",
+                                          "A-3 B-2 C-4 D-1",
+                                          "A-2 B-3 C-4 D-1",
+                                          "A-2 B-4 C-3 D-1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following statements about the Himalayas:",
+                          "subs":  [
+                                       "1. The Himalayas are old block mountains.",
+                                       "2. The Greater Himalaya has the highest peaks.",
+                                       "3. The Shiwaliks are the outermost range."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Arrange the Himalayan ranges in order from north to south:",
+                          "subs":  [
+                                       "1. Trans-Himalaya 2. Greater Himalaya 3. Lesser Himalaya 4. Shiwalik"
+                                   ],
+                          "options":  [
+                                          "1, 2, 3, 4",
+                                          "4, 3, 2, 1",
+                                          "2, 1, 3, 4",
+                                          "1, 3, 2, 4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The western syntaxial bend of the Himalayas is located near:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nanga Parbat",
+                                          "K2",
+                                          "Namcha Barwa",
+                                          "Mount Everest"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Which one of the following is NOT one of India\u0027s six physiographic divisions?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Himalayan Mountains",
+                                          "Northern Plains",
+                                          "Peninsular Plateau",
+                                          "Ganga Delta"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Majuli, the largest river island of India, lies in which river?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ganga",
+                                          "Godavari",
+                                          "Brahmaputra",
+                                          "Kosi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Match List-I (Plain) with List-II (Feature) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Bhabar B. Tarai C. Bhangar D. Khadar",
+                                       "List-II: 1. Marshy, swampy tract 2. Older alluvium with kankar 3. New alluvium, fertile 4. Porous zone of boulders"
+                                   ],
+                          "options":  [
+                                          "A-1 B-4 C-2 D-3",
+                                          "A-4 B-2 C-1 D-3",
+                                          "A-4 B-1 C-3 D-2",
+                                          "A-4 B-1 C-2 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Consider the following statements about the northern plains:",
+                          "subs":  [
+                                       "1. The Bhabar tract is highly fertile and ideal for cultivation.",
+                                       "2. Khadar is the newer alluvium.",
+                                       "3. Bhangar contains nodules of calcium carbonate (kankar)."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The highest peak of the Peninsular plateau is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Anaimudi",
+                                          "Doddabetta",
+                                          "Mahendragiri",
+                                          "Guru Shikhar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Consider the following statements about the Peninsular plateau:",
+                          "subs":  [
+                                       "1. The Eastern Ghats are the highest mountains in India.",
+                                       "2. The Western Ghats are higher and more continuous than the Eastern Ghats.",
+                                       "3. The Deccan Plateau lies to the south of the Narmada."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The Western Ghats and the Eastern Ghats meet at the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Anaimalai Hills",
+                                          "Cardamom Hills",
+                                          "Nilgiri Hills",
+                                          "Palani Hills"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which one of the following is NOT part of the Central Highlands?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Malwa Plateau",
+                                          "Bundelkhand Plateau",
+                                          "Chotanagpur Plateau",
+                                          "Western Ghats"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The Deccan Trap, the source of India\u0027s black soil, is composed of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "granite",
+                                          "sandstone",
+                                          "limestone",
+                                          "basalt (volcanic lava)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Consider the following statements about India\u0027s coastal plains:",
+                          "subs":  [
+                                       "1. The Western Coastal Plains are an example of a submerged coast.",
+                                       "2. The Eastern Coastal Plains are an example of an emergent coast.",
+                                       "3. Wide river deltas are formed on the Western Coastal Plains."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Barren Island, India\u0027s only active volcano, is located in the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lakshadweep Islands",
+                                          "Gulf of Kachchh",
+                                          "Andaman \u0026 Nicobar Islands",
+                                          "Sundarbans"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The Lakshadweep Islands are of which origin?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "coral",
+                                          "volcanic",
+                                          "tectonic",
+                                          "fluvial"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Match List-I (Coast) with List-II (Extent) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Konkan Coast B. Malabar Coast C. Coromandel Coast D. Northern Circars",
+                                       "List-II: 1. Mangalore to Kanyakumari 2. Daman to Goa 3. Krishna delta to Kanyakumari 4. Mahanadi delta to Krishna delta"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "How many of the following statements are correct?",
+                          "subs":  [
+                                       "1. Anaimudi is the highest peak of Peninsular India.",
+                                       "2. The Luni is the only large river of the Thar desert.",
+                                       "3. Barren Island is India\u0027s only active volcano.",
+                                       "4. Goa is the largest state of India by area."
+                                   ],
+                          "options":  [
+                                          "Only one",
+                                          "Only two",
+                                          "Only three",
+                                          "All four"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "PYQ · CDS 2023-II Which one of the following passes is NOT located in the Indian Himalayan region?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Zojila",
+                                          "Bolan",
+                                          "Shipki La",
+                                          "Lipulekh"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "PYQ · CDS 2022-II In which one of the following highlands of India can you find the temperate forests called ‘Sholas’?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nilgiris",
+                                          "Vindhyas",
+                                          "Satpuras",
+                                          "Himalayas"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "PYQ · CDS 2025-I Which one of the following tributaries of the Indus does NOT originate in the Himalayas?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gilgit",
+                                          "Gomal",
+                                          "Hunza",
+                                          "Zaskar"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "PYQ · CDS 2019-II Match List-I (Peak) with List-II (Hill range): A. Anaimudi B. Doddabetta C. Dhupgarh D. Guru Shikhar 1. Nilgiri 2. Satpura 3. Aravali 4. Annamalai",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A-3 B-2 C-1 D-4",
+                                          "A-3 B-1 C-2 D-4",
+                                          "A-4 B-1 C-2 D-3",
+                                          "A-4 B-2 C-1 D-3"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "PYQ · CDS 2017-II Which of the following statements about the Indian Peninsular Plateau are correct? 1. The Deccan Plateau gradually rises from north to south. 2. The Malwa Plateau forms the eastern flank of the plateau. 3. The Western Satpuras separate the Narmada and Tapi rivers. 4. The Chota Nagpur Plateau is composed of Archaean granite and gneiss.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1, 2, 3 and 4",
+                                          "1, 3 and 4 only",
+                                          "2 and 4 only",
+                                          "1 and 3 only"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Extended Consider the following statements:",
+                          "subs":  [
+                                       "1. Mount Everest is the highest peak in the world.",
+                                       "2. Kanchenjunga is the highest peak located within India.",
+                                       "3. K2 is located in the Aravalli range."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Extended The highest mountain peak lying entirely within India is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mount Everest",
+                                          "K2",
+                                          "Kanchenjunga",
+                                          "Nanda Devi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Extended The Palghat (Palakkad) Gap is a break in which mountain range?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Eastern Ghats",
+                                          "Western Ghats",
+                                          "Aravalli",
+                                          "Vindhya"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Extended Which one of the following is NOT a Himalayan range?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Karakoram",
+                                          "Zaskar",
+                                          "Pir Panjal",
+                                          "Aravalli"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Extended The Indira Gandhi Canal provides irrigation mainly to which state?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rajasthan",
+                                          "Punjab",
+                                          "Gujarat",
+                                          "Haryana"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "India — Physiography"
+                      }
+                  ]
+}
