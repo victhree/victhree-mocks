@@ -21,12 +21,12 @@ function sectionGroup(t){
 function slug(g){ return g.toLowerCase().replace(/\s+/g, "-"); }
 
 /* Within the History folder, which era-column a test belongs to.
-   Ancient+Medieval sits in the Medieval column; Full History sits in the Modern column. */
+   Ancient+Medieval and the all-era Full History sit in the (central) Medieval column. */
 function historyEra(t){
   var id = t.id;
   if (/^anchist-/.test(id) || id === "ancient-history-01") return "Ancient";
-  if (/^medhist-/.test(id) || id === "ancient-medieval-01") return "Medieval";
-  return "Modern"; // modern-india-01, full-history-01, any other
+  if (/^medhist-/.test(id) || id === "ancient-medieval-01" || id === "full-history-01") return "Medieval";
+  return "Modern"; // modhist-*, modern-india-01 (Full Modern History), any other
 }
 
 function setBack(href, text){
