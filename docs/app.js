@@ -29,7 +29,20 @@ const state = {
   timerId: null,
   warned: false,
   submitted: false,
+  untimed: false,   // sectional tests can be taken with no time limit
+  elapsed: 0,       // seconds elapsed (used to count UP in untimed mode)
 };
+
+/* A "sectional" test (GK Sectional category) may be taken untimed. Mirrors
+   browse.js catOf(): everything that isn't a full-length / english / maths mock. */
+function isSectionalTest(id) {
+  return !/^full-mock-\d/.test(id) && !/^eng-mock-\d/.test(id) && !/^maths-mock-\d/.test(id);
+}
+/* Is the untimed option currently chosen on the start screen? */
+function untimedChosen() {
+  var f = $("timingField"), u = $("segUntimed");
+  return !!(f && !f.hasAttribute("hidden") && u && u.classList.contains("active"));
+}
 
 /* ---------- tiny DOM helpers ---------- */
 const $ = (id) => document.getElementById(id);
@@ -54,6 +67,8 @@ function saveState() {
       current: state.current,
       remaining: state.remaining,
       warned: state.warned,
+      untimed: state.untimed,
+      elapsed: state.elapsed,
       ts: Date.now(),
     }));
   } catch (e) { /* storage unavailable (private mode/quota) — ignore */ }
@@ -121,12 +136,13 @@ async function loadQuiz() {
     $("scoreMax").textContent = state.questions.length;
     $("remainingCount").textContent = state.questions.length;
 
-    if (isFullMock()) {
-      const neg = state.quiz.scoring.negativeFraction;
-      const negLabel = Math.abs(neg - 1 / 3) < 0.02 ? "1/3" : neg;
-      $("metaScoring").textContent =
-        state.quiz.scoring.totalMarks + " marks · " + negLabel + " negative marking · auto-submit at time-up";
+    // Sectional tests offer a "Timed / Untimed" choice (defaults to timed).
+    if (isSectionalTest(state.testId)) {
+      const seg = $("segTimed");
+      if (seg) seg.textContent = "Timed · " + (data.durationMin || 60) + " min";
+      show($("timingField"));
     }
+    updateTimingMeta();
 
     offerResume();
     offerLastResult();
@@ -137,6 +153,29 @@ async function loadQuiz() {
     show($("startError"));
     $("startBtn").disabled = true;
     console.error(err);
+  }
+}
+
+/* Reflect the current timing choice in the start-screen meta lines. */
+function updateTimingMeta() {
+  const untimed = untimedChosen();
+  const durItem = $("durItem");
+  if (durItem) {
+    durItem.innerHTML = untimed
+      ? "<strong>Untimed</strong> · no time limit"
+      : '<strong id="durLabel">' + ((state.quiz && state.quiz.durationMin) || 60) + "</strong> minutes";
+  }
+  const ms = $("metaScoring");
+  if (ms) {
+    let base;
+    if (isFullMock()) {
+      const neg = state.quiz.scoring.negativeFraction;
+      const negLabel = Math.abs(neg - 1 / 3) < 0.02 ? "1/3" : neg;
+      base = state.quiz.scoring.totalMarks + " marks · " + negLabel + " negative marking";
+    } else {
+      base = "1 mark each";
+    }
+    ms.textContent = base + " · " + (untimed ? "no time limit — submit when done" : "auto-submit at time-up");
   }
 }
 
@@ -152,6 +191,8 @@ function startTest() {
   }
   hide($("startError"));
   state.name = name;
+  state.untimed = untimedChosen();
+  state.elapsed = 0;
 
   hide($("resumeBox"));
   hide($("startScreen"));
@@ -166,9 +207,20 @@ function startTest() {
 /* If a started, unfinished attempt exists for this test, offer to resume it. */
 function offerResume() {
   const saved = loadState();
-  if (!saved || typeof saved.remaining !== "number") return;
-  if (saved.remaining <= 0 || saved.remaining >= state.durationSec) { return; }
+  if (!saved) return;
   const answered = saved.answers ? Object.keys(saved.answers).length : 0;
+  if (saved.untimed) {
+    // Untimed attempts have no countdown — offer resume if any progress was made.
+    const el = saved.elapsed || 0;
+    if (answered === 0 && el === 0) return;
+    const m = Math.floor(el / 60), s = el % 60;
+    $("resumeInfo").textContent =
+      `${answered} answered · ${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")} elapsed · untimed`;
+    show($("resumeBox"));
+    return;
+  }
+  if (typeof saved.remaining !== "number") return;
+  if (saved.remaining <= 0 || saved.remaining >= state.durationSec) { return; }
   const m = Math.floor(saved.remaining / 60), s = saved.remaining % 60;
   $("resumeInfo").textContent =
     `${answered} answered · ${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")} left`;
@@ -185,6 +237,8 @@ function resumeTest() {
   state.current = saved.current || 0;
   state.remaining = (typeof saved.remaining === "number") ? saved.remaining : state.durationSec;
   state.warned = !!saved.warned;
+  state.untimed = !!saved.untimed;
+  state.elapsed = saved.elapsed || 0;
 
   hide($("resumeBox"));
   hide($("startScreen"));
@@ -192,7 +246,7 @@ function resumeTest() {
 
   buildPalette();
   renderQuestion();
-  if (state.remaining <= 300) { $("timer").classList.add("warn"); }
+  if (!state.untimed && state.remaining <= 300) { $("timer").classList.add("warn"); }
   startTimer();
 }
 
@@ -275,6 +329,20 @@ function applyAccessWindow() {
    TIMER
    ============================================================ */
 function startTimer() {
+  // Untimed mode: no countdown, no auto-submit — the timer counts UP instead,
+  // just so the student (and the report) can see elapsed time.
+  if (state.untimed) {
+    const t = $("timer");
+    if (t) { t.classList.add("untimed"); t.title = "Untimed — no auto-submit"; }
+    updateUntimedDisplay();
+    state.timerId = setInterval(() => {
+      state.elapsed++;
+      updateUntimedDisplay();
+      saveState();
+    }, 1000);
+    return;
+  }
+
   updateTimerDisplay();
   state.timerId = setInterval(() => {
     state.remaining--;
@@ -299,6 +367,13 @@ function updateTimerDisplay() {
   const s = state.remaining % 60;
   $("timer").textContent =
     String(m).padStart(2, "0") + ":" + String(s).padStart(2, "0");
+}
+
+function updateUntimedDisplay() {
+  const m = Math.floor(state.elapsed / 60);
+  const s = state.elapsed % 60;
+  $("timer").textContent =
+    "∞ " + String(m).padStart(2, "0") + ":" + String(s).padStart(2, "0");
 }
 
 /* ============================================================
@@ -843,8 +918,10 @@ function buildReport(results, byNum, score, max, right, attempted, accuracy) {
   $("reportScore").textContent = score + "/" + max;
   $("reportAccuracy").textContent = accuracy + "%";
 
-  const timeTaken = Math.max(0, state.durationSec - state.remaining);
-  $("reportTime").textContent = fmtMMSS(timeTaken) + " / " + fmtMMSS(state.durationSec);
+  const timeTaken = state.untimed ? state.elapsed : Math.max(0, state.durationSec - state.remaining);
+  $("reportTime").textContent = state.untimed
+    ? fmtMMSS(timeTaken) + " (untimed)"
+    : fmtMMSS(timeTaken) + " / " + fmtMMSS(state.durationSec);
   $("reportAvg").textContent = attempted > 0 ? fmtAvg(timeTaken / attempted) : "—";
 
   // Full mocks show the richer subject-wise table (with guess stats) instead of
@@ -950,6 +1027,7 @@ function preparePaper(paper) {
   state.remaining = state.durationSec;
   state.answers = {}; state.marked = {}; state.guesses = {};
   state.current = 0; state.warned = false; state.submitted = false;
+  state.untimed = false; state.elapsed = 0; // multi-paper mocks are always timed
 }
 
 function routeMulti() {
@@ -1235,6 +1313,17 @@ window.addEventListener("DOMContentLoaded", () => {
 
   $("startBtn").addEventListener("click", startTest);
   $("nameInput").addEventListener("keydown", (e) => { if (e.key === "Enter") startTest(); });
+
+  // Timed / Untimed segmented toggle (sectional tests only)
+  ["segTimed", "segUntimed"].forEach((bid) => {
+    const b = $(bid);
+    if (!b) return;
+    b.addEventListener("click", () => {
+      $("segTimed").classList.toggle("active", bid === "segTimed");
+      $("segUntimed").classList.toggle("active", bid === "segUntimed");
+      updateTimingMeta();
+    });
+  });
 
   $("prevBtn").addEventListener("click", () => {
     if (state.current > 0) { state.current--; renderQuestion(); saveState(); }
