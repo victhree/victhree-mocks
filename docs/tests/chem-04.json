@@ -1,0 +1,491 @@
+{
+    "title":  "Chemistry Test 4",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "During a thunderstorm we see the lightning before we hear the thunder because:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the thunder happens later",
+                                          "sound is louder than light",
+                                          "light travels much faster than sound",
+                                          "clouds absorb the sound"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "A pressure cooker cooks food faster because increasing the pressure:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "lowers the boiling point of water",
+                                          "removes all the air",
+                                          "adds salt to the food",
+                                          "raises the boiling point of water"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Sweating cools the human body because:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the sweat is cold",
+                                          "it blocks sunlight",
+                                          "evaporation of sweat absorbs heat from the skin",
+                                          "it adds water to the body"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Woollen clothes keep us warm in winter because:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "wool produces heat",
+                                          "the trapped air is a poor conductor of heat",
+                                          "wool reflects body heat",
+                                          "wool is a good conductor of heat"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "A sharp knife cuts better than a blunt one because:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the same force acts over a smaller area, increasing the pressure",
+                                          "it is heavier",
+                                          "it is hotter",
+                                          "it reduces friction only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Dams are built much thicker at the bottom than at the top because:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "water is denser near the top",
+                                          "of strong winds",
+                                          "to save building material",
+                                          "water pressure increases with depth"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Light-coloured clothes are preferred in summer because:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "they are cheaper",
+                                          "they absorb more heat",
+                                          "they reflect more heat than dark clothes",
+                                          "they conduct heat better"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Ventilators and exhaust fans are usually placed high up on walls because:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cold air rises",
+                                          "hot air rises due to convection",
+                                          "it simply looks better",
+                                          "dust settles near the ceiling"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Food is stored in a refrigerator because the low temperature:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "kills all germs instantly",
+                                          "adds nutrients to the food",
+                                          "slows the growth and activity of microorganisms",
+                                          "removes all water from the food"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Salt and sugar help to preserve food mainly by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "poisoning microorganisms",
+                                          "adding vitamins",
+                                          "cooling the food",
+                                          "reducing the water available to microorganisms"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Soap works most effectively in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "soft water",
+                                          "hard water",
+                                          "sea (salt) water",
+                                          "distilled water only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Most conventional plastics are a serious environmental problem because they are:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "biodegradable",
+                                          "radioactive",
+                                          "non-biodegradable",
+                                          "water-soluble"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The ‘3Rs’ of waste management stand for:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Read, Revise, Recall",
+                                          "Reduce, Reuse and Recycle",
+                                          "Refine, Refuse, Return",
+                                          "Repair, Reduce, Restore"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "In agriculture, the letters ‘NPK’ on a fertiliser bag stand for:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nitrogen, Potassium and Krypton",
+                                          "Sodium, Phosphorus and Potassium",
+                                          "Nitrogen, Phosphate and Calcium",
+                                          "Nitrogen, Phosphorus and Potassium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The bacterium Rhizobium fixes atmospheric nitrogen in the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "leaves of all plants",
+                                          "root nodules of leguminous plants",
+                                          "stems of cereal crops",
+                                          "soil around cereal crops"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The Green Revolution in India is mainly associated with a large rise in the production of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "milk",
+                                          "fish",
+                                          "food grains such as wheat and rice",
+                                          "oilseeds"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Match List-I (Revolution) with List-II (Product) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. White Revolution B. Blue Revolution C. Yellow Revolution D. Green Revolution",
+                                       "List-II: 1. Milk 2. Fish 3. Oilseeds 4. Food grains"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-4 B-2 C-3 D-1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The antibiotic penicillin was discovered by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Louis Pasteur",
+                                          "Robert Koch",
+                                          "Edward Jenner",
+                                          "Alexander Fleming"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The scientist regarded as the ‘Father of Genetics’ is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Charles Darwin",
+                                          "Louis Pasteur",
+                                          "Gregor Mendel",
+                                          "William Harvey"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The Indian scientist C. V. Raman won the Nobel Prize in Physics (1930) for his work on:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the scattering of light (the Raman Effect)",
+                                          "nuclear fission",
+                                          "the theory of relativity",
+                                          "the structure of DNA"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Who among the following scientists introduced the concept of immunization to the medical world?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Edward Jenner",
+                                          "Robert Koch",
+                                          "Robert Hooke",
+                                          "Carl Linnaeus"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "‘Photo 51’ refers to an image of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a crater on the Moon",
+                                          "DNA molecules",
+                                          "the virus responsible for COVID-19",
+                                          "the virus responsible for the common cold"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The Bose-Einstein Condensate is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a solid state of matter",
+                                          "the fifth state of matter",
+                                          "plasma",
+                                          "a state of condensed matter like liquid"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which Arab scientist could be given the credit for christening the mathematical discipline of ‘algorithm’?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Al-Khwarizmi",
+                                          "Ibn al-Haytham",
+                                          "Ibn Rushd",
+                                          "Ibn Sina"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "What is ‘Little Boy’?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The fission bomb dropped at Hiroshima",
+                                          "The fusion bomb dropped at Nagasaki",
+                                          "The first nuclear bomb tested by America",
+                                          "The first nuclear bomb tested by North Korea"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Rice, maize and cotton, which are sown at the beginning of the monsoon, are examples of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rabi crops",
+                                          "Zaid crops",
+                                          "Kharif crops",
+                                          "plantation crops"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Vikram Sarabhai is regarded as the father of India’s:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "nuclear programme",
+                                          "missile programme",
+                                          "Green Revolution",
+                                          "space programme"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Wheat and mustard, which are sown in winter, are examples of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kharif crops",
+                                          "Zaid crops",
+                                          "plantation crops",
+                                          "Rabi crops"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which one of the following is a greenhouse gas?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Oxygen",
+                                          "Nitrogen",
+                                          "Carbon dioxide",
+                                          "Argon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following scientist–discovery pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Isaac Newton — theory of evolution",
+                                          "Alexander Fleming — penicillin",
+                                          "Marie Curie — radioactivity",
+                                          "Charles Darwin — natural selection"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Everyday Science, Agriculture \u0026 Discoveries"
+                      }
+                  ]
+}

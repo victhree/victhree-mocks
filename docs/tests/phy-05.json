@@ -1,0 +1,490 @@
+{
+    "title":  "Physics Test 5",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "A wave transports:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "matter only",
+                                          "both matter and energy",
+                                          "energy without transporting matter",
+                                          "neither matter nor energy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Sound is a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "mechanical, longitudinal wave",
+                                          "transverse electromagnetic wave",
+                                          "transverse mechanical wave",
+                                          "longitudinal electromagnetic wave"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Sound cannot travel through:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a solid",
+                                          "a liquid",
+                                          "a gas",
+                                          "a vacuum"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Sound travels fastest in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "gases",
+                                          "solids",
+                                          "a vacuum",
+                                          "liquids"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which one of the following is a transverse wave?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sound in air",
+                                          "A compression wave",
+                                          "Light",
+                                          "An ultrasonic wave"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The number of waves passing a point per second (frequency) is measured in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "hertz",
+                                          "metre",
+                                          "decibel",
+                                          "second"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "A wave of frequency 200 Hz has a wavelength of 1.7 m. Its speed is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "117.6 m/s",
+                                          "200 m/s",
+                                          "201.7 m/s",
+                                          "340 m/s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "A sound wave travelling at 340 m/s has a frequency of 170 Hz. Its wavelength is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0.5 m",
+                                          "2 m",
+                                          "510 m",
+                                          "57800 m"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The pitch of a sound is determined by its:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "frequency",
+                                          "amplitude",
+                                          "speed",
+                                          "waveform only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The loudness of a sound is determined by its:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "frequency",
+                                          "wavelength",
+                                          "amplitude",
+                                          "speed"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The property of sound that lets us distinguish two different instruments playing the same note is its:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "pitch",
+                                          "quality (timbre)",
+                                          "loudness",
+                                          "speed"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The normal range of frequencies audible to human beings is about:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 Hz to 100 Hz",
+                                          "above 20 kHz",
+                                          "below 20 Hz",
+                                          "20 Hz to 20,000 Hz"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Sound of frequency above 20,000 Hz is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "infrasonic",
+                                          "audible",
+                                          "ultrasonic",
+                                          "subsonic"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Ultrasonic waves are used in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "SONAR and medical ultrasound scans",
+                                          "AM radio broadcasting",
+                                          "microwave ovens",
+                                          "television broadcasting"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "An echo is heard 2 seconds after a sound is produced (speed of sound 340 m/s). The distance of the reflecting surface is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "680 m",
+                                          "340 m",
+                                          "170 m",
+                                          "1360 m"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "A musical note one octave higher than 256 Hz has a frequency of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "128 Hz",
+                                          "256 Hz",
+                                          "512 Hz",
+                                          "768 Hz"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "A sonic boom is produced when a source of sound moves:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "slower than the speed of sound",
+                                          "at the speed of light",
+                                          "at half the speed of sound",
+                                          "faster than the speed of sound"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The time period of a wave of frequency 50 Hz is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0.02 s",
+                                          "50 s",
+                                          "0.5 s",
+                                          "2 s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Consider the following statements: 1. Sound is a longitudinal wave. 2. Light is a transverse wave. 3. Sound can travel through a vacuum. Which of the statements is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following statements is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sound travels fastest in solids.",
+                                          "The speed of sound in air is about 340 m/s.",
+                                          "The pitch of a sound depends on its frequency.",
+                                          "Sound can travel through a vacuum."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "An echo is heard 5 seconds after the production of a sound which moves at a speed of 340 m/s. What is the distance of the mountain from the source of the sound?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0.085 km",
+                                          "0.85 km",
+                                          "0.17 km",
+                                          "1.7 km"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "A sound wave has a frequency of 4 kHz and a wavelength of 30 cm. How long will it take to travel 2.4 km?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2.0 s",
+                                          "0.6 s",
+                                          "1.0 s",
+                                          "8.0 s"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The pitch of a sound wave depends upon which one of its following characteristics?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Speed",
+                                          "Loudness",
+                                          "Amplitude",
+                                          "Frequency"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "A sound wave having a frequency of 300 Hz is travelling in an unknown medium. It travels a distance equal to 150 times its wavelength in time t. The value of t is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0.5 s",
+                                          "1 s",
+                                          "1.5 s",
+                                          "2 s"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "A sound wave travelling at a speed of 330 m/s produces 20 crests and 20 troughs in 0.1 second. The wavelength of the sound wave is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1.1 m",
+                                          "3.3 m",
+                                          "1.65 m",
+                                          "2.2 m"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Unlike sound waves, electromagnetic waves such as light:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "need a solid medium to travel",
+                                          "are longitudinal waves",
+                                          "can travel through a vacuum",
+                                          "travel slower than sound"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "A sound wave of frequency 500 Hz has a wavelength of 0.68 m in air. Its speed is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "735 m/s",
+                                          "340 m/s",
+                                          "500 m/s",
+                                          "168 m/s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "If 10 complete waves pass a point in 2 seconds, the frequency of the wave is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5 Hz",
+                                          "20 Hz",
+                                          "0.2 Hz",
+                                          "12 Hz"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Bats navigate and locate prey in the dark using:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "infrared light",
+                                          "infrasonic waves",
+                                          "X-rays",
+                                          "ultrasonic waves"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "A wave travels at 1500 m/s in water with a frequency of 1500 Hz. Its wavelength is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1500 m",
+                                          "0.5 m",
+                                          "1 m",
+                                          "2 m"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Waves \u0026 Sound"
+                      }
+                  ]
+}

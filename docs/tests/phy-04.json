@@ -1,0 +1,491 @@
+{
+    "title":  "Physics Test 4",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Light travels fastest in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "vacuum",
+                                          "water",
+                                          "glass",
+                                          "diamond"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "A convex mirror always forms an image that is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "real, inverted and enlarged",
+                                          "virtual, erect and diminished",
+                                          "real and of the same size",
+                                          "virtual and enlarged"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "A plane mirror forms an image that is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "real and inverted",
+                                          "virtual and diminished",
+                                          "virtual, erect, of the same size and laterally inverted",
+                                          "real and magnified"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Refraction of light is caused by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a change in the speed of light as it passes from one medium to another",
+                                          "a change in the colour of light",
+                                          "reflection at the surface",
+                                          "absorption of light"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The speed of light in air is 3 × 10⁸ m/s. Its speed in a glass of refractive index 1.5 is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4.5 × 10⁸ m/s",
+                                          "3 × 10⁸ m/s",
+                                          "1.5 × 10⁸ m/s",
+                                          "2 × 10⁸ m/s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "When a ray of light passes from a rarer medium into a denser medium, it bends:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "away from the normal",
+                                          "towards the normal",
+                                          "along the surface",
+                                          "back along its own path"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Which type of lens is used as a magnifying glass (a simple microscope)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A concave lens",
+                                          "A plane glass slab",
+                                          "A convex lens",
+                                          "A cylindrical lens"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The power of a lens of focal length 0.5 m is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2 D",
+                                          "0.5 D",
+                                          "5 D",
+                                          "50 D"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The power of a convex lens of focal length 25 cm is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "25 D",
+                                          "0.25 D",
+                                          "2.5 D",
+                                          "4 D"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Myopia (short-sightedness) is corrected using a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "convex lens",
+                                          "concave lens",
+                                          "plane mirror",
+                                          "cylindrical lens"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "When white light passes through a glass prism, the colour that bends (deviates) the most is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "red",
+                                          "yellow",
+                                          "violet",
+                                          "green"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The blue colour of the clear daytime sky is due to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "scattering of light",
+                                          "refraction of light",
+                                          "reflection of light",
+                                          "dispersion of light"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The Sun appears reddish at sunrise and sunset because:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Sun is physically closer to the Earth then",
+                                          "blue light is scattered away and mainly red light reaches us",
+                                          "the Sun cools down at those times",
+                                          "of total internal reflection"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Arrange the following electromagnetic waves in increasing order of wavelength: 1. Gamma rays 2. X-rays 3. Visible light 4. Radio waves",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "4, 3, 2, 1",
+                                          "1, 3, 2, 4",
+                                          "2, 1, 3, 4",
+                                          "1, 2, 3, 4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Which electromagnetic waves are chiefly used for satellite communication?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Microwaves",
+                                          "Infrared",
+                                          "Ultraviolet",
+                                          "Gamma rays"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Consider the following statements about X-rays: 1. They are electromagnetic waves. 2. They are not deflected by electric or magnetic fields. 3. Their wavelength is shorter than that of visible light. How many of these statements are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Optical fibres transmit light signals over long distances by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "dispersion",
+                                          "total internal reflection",
+                                          "diffraction",
+                                          "scattering"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Rutherford’s alpha-particle scattering experiment on thin gold foil led to the discovery of the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "atomic nucleus",
+                                          "electron",
+                                          "neutron",
+                                          "proton alone"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Match List-I (Scientist) with List-II (Discovery) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. J. J. Thomson B. Ernest Rutherford C. James Chadwick D. Niels Bohr",
+                                       "List-II: 1. Nucleus 2. Neutron 3. Electron shells (energy levels) 4. Electron"
+                                   ],
+                          "options":  [
+                                          "A-3 B-1 C-2 D-4",
+                                          "A-4 B-2 C-1 D-3",
+                                          "A-1 B-4 C-2 D-3",
+                                          "A-4 B-1 C-2 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Alpha particle — helium nucleus",
+                                          "Beta particle — electron",
+                                          "Isotopes — same mass number but different atomic number",
+                                          "Gamma ray — electromagnetic wave"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "When the Sun is near the horizon during the morning or evening, it appears reddish. The phenomenon responsible for this observation is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "reflection of light",
+                                          "refraction of light",
+                                          "dispersion of light",
+                                          "scattering of light"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The power of a lens of focal length 10 cm is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0.1 dioptre",
+                                          "1 dioptre",
+                                          "10 dioptre",
+                                          "100 dioptre"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following types of radiation has the shortest wavelength?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Radio waves",
+                                          "Visible light",
+                                          "Infrared (IR)",
+                                          "Ultraviolet (UV)"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Rutherford’s alpha particle scattering experiment on thin gold foil was responsible for the discovery of the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "electron",
+                                          "proton",
+                                          "atomic nucleus",
+                                          "neutron"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The hydrogen bomb and the uranium bomb are based, respectively, on:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "nuclear fusion and fission",
+                                          "fission and thermonuclear fusion",
+                                          "geothermal fission and fusion",
+                                          "geothermal fusion and fission"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Nuclear fusion is the process that powers the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "nuclear reactors on Earth",
+                                          "Sun and the stars",
+                                          "atom bomb",
+                                          "electric generators"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "In a nuclear reactor, unlike in a bomb, the chain reaction is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "controlled, using rods that absorb neutrons",
+                                          "uncontrolled and explosive",
+                                          "prevented completely",
+                                          "replaced by nuclear fusion"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "A radioactive sample of 80 g has a half-life of 2 years. The mass remaining undecayed after 4 years is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "40 g",
+                                          "20 g",
+                                          "10 g",
+                                          "0 g"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The three isotopes of hydrogen are protium, deuterium and:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "helium",
+                                          "hydronium",
+                                          "tritium",
+                                          "plutonium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The photoelectric effect, in which light falling on a metal surface ejects electrons, shows that light behaves as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "particles (photons)",
+                                          "only a wave",
+                                          "a liquid",
+                                          "sound"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light \u0026 Nuclear Physics"
+                      }
+                  ]
+}

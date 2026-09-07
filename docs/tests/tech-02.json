@@ -1,0 +1,491 @@
+{
+    "title":  "Technology Test 2",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "A ballistic missile reaches its target by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "following a high, arcing trajectory and falling under gravity",
+                                          "flying low and level the whole way",
+                                          "orbiting the Earth first",
+                                          "hovering over the target"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "A cruise missile differs from a ballistic missile in that it:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "has no guidance system",
+                                          "flies low and level, powered and guided throughout its flight",
+                                          "cannot carry a warhead",
+                                          "travels only in outer space"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The Agni series of Indian missiles are:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cruise missiles",
+                                          "surface-to-air missiles",
+                                          "ballistic missiles",
+                                          "anti-tank missiles"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Agni-V, with a range of 5,000–8,000 km, is classed as an:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "short-range missile",
+                                          "cruise missile",
+                                          "surface-to-air missile",
+                                          "intercontinental ballistic missile (ICBM)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "BrahMos, developed jointly by India and Russia, is a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "supersonic cruise missile",
+                                          "long-range ballistic missile",
+                                          "surface-to-air missile",
+                                          "anti-tank missile"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The BrahMos-II, under development, is designed to be a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "subsonic missile",
+                                          "hypersonic cruise missile",
+                                          "ballistic missile",
+                                          "man-portable missile"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Nirbhay is India’s long-range:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "supersonic ballistic missile",
+                                          "air-to-air missile",
+                                          "subsonic cruise missile",
+                                          "surface-to-air missile"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Akash is an Indian:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cruise missile",
+                                          "ballistic missile",
+                                          "air-to-air missile",
+                                          "surface-to-air missile (SAM)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Astra is India’s first indigenous:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "beyond-visual-range air-to-air missile",
+                                          "ballistic missile",
+                                          "cruise missile",
+                                          "anti-ship missile"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Pinaka is an Indian:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "main battle tank",
+                                          "multi-barrel rocket launcher",
+                                          "fighter aircraft",
+                                          "submarine"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The main developer of India’s missiles is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "DRDO",
+                                          "ISRO",
+                                          "HAL",
+                                          "BARC"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Tejas is India’s indigenous:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "main battle tank",
+                                          "aircraft carrier",
+                                          "light combat aircraft",
+                                          "submarine"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "INS Vikrant is significant as India’s first:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "nuclear submarine",
+                                          "destroyer",
+                                          "indigenously built aircraft carrier",
+                                          "patrol boat"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Arjun is an Indian:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "fighter jet",
+                                          "missile",
+                                          "helicopter",
+                                          "main battle tank"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "India’s ‘nuclear triad’ refers to the ability to launch nuclear weapons from:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "land only",
+                                          "land, air and sea",
+                                          "air and space",
+                                          "sea only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "India’s declared nuclear doctrine is one of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "No First Use (NFU)",
+                                          "first strike",
+                                          "complete nuclear disarmament",
+                                          "pre-emptive strike"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "India’s 1998 nuclear tests at Pokhran were codenamed:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Smiling Buddha",
+                                          "Operation Vijay",
+                                          "Operation Shakti",
+                                          "Operation Trishul"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Under Mission Shakti (2019), India demonstrated its:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "first Moon landing",
+                                          "hypersonic missile",
+                                          "nuclear test",
+                                          "anti-satellite (ASAT) capability by destroying a satellite in orbit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The highest wartime gallantry award of India is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Param Vir Chakra",
+                                          "Ashoka Chakra",
+                                          "Vir Chakra",
+                                          "Kirti Chakra"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following missile–type pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "BrahMos — cruise missile",
+                                          "Agni-V — surface-to-air missile",
+                                          "Akash — surface-to-air missile",
+                                          "Nirbhay — cruise missile"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Tejas is the name of which one of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Main battle tank",
+                                          "Nuclear submarine",
+                                          "Light combat aircraft",
+                                          "Aircraft carrier"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Pinaka, developed in India, is a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "battle tank",
+                                          "multi-barrel rocket launcher",
+                                          "anti-tank guided missile",
+                                          "armoured utility vehicle"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "From which one of the following countries has India procured the S-400 Triumf air-defence missile system?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "United Kingdom",
+                                          "U.S.A.",
+                                          "Russia",
+                                          "France"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "What is India’s first Indigenous Aircraft Carrier (IAC) called?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vikrant",
+                                          "Virat",
+                                          "Vaibhav",
+                                          "Varaha"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Mission Shakti of DRDO is related to which one of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Launch of multiple satellites using a single rocket",
+                                          "Launch of heavy satellites",
+                                          "Use of high-power rockets in launching satellites",
+                                          "Use of a rocket to destroy an orbiting satellite"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The S-400 Triumf is a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ballistic missile",
+                                          "fighter aircraft",
+                                          "submarine",
+                                          "long-range surface-to-air (air-defence) missile system"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Match List-I (Military exercise) with List-II (Partner) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Yudh Abhyas B. Varuna C. Indra D. Malabar",
+                                       "List-II: 1. USA 2. France 3. Russia 4. Multilateral (USA, Japan, Australia)"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-1 B-2 C-4 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The highest peacetime gallantry award of India is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Param Vir Chakra",
+                                          "Vir Chakra",
+                                          "Ashoka Chakra",
+                                          "Maha Vir Chakra"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The Chief of Defence Staff (CDS) serves as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "constitutional head of state",
+                                          "single-point military adviser to the government, heading the Department of Military Affairs",
+                                          "commander of the paramilitary forces",
+                                          "head of the DRDO"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following military-exercise / partner pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Malabar — multilateral naval exercise",
+                                          "Varuna — France",
+                                          "Indra — Russia",
+                                          "Yudh Abhyas — China"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Defence Technology \u0026 Armed Forces"
+                      }
+                  ]
+}

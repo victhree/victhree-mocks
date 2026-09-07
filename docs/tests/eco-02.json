@@ -1,0 +1,490 @@
+{
+    "title":  "Ecology Test 2",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The world’s largest mangrove forest is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Amazon rainforest",
+                                          "Western Ghats forest",
+                                          "Sundarbans",
+                                          "Gir forest"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The most widespread type of natural forest in India is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "tropical evergreen forest",
+                                          "tropical deciduous (monsoon) forest",
+                                          "montane forest",
+                                          "mangrove forest"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Coral reefs, the ‘rainforests of the sea’, are built by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "fish",
+                                          "seaweed alone",
+                                          "volcanic rock",
+                                          "coral polyps living in symbiosis with algae"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The greenhouse effect is the trapping of the Sun’s heat by gases that absorb and re-emit:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ultraviolet radiation",
+                                          "visible light only",
+                                          "infrared radiation",
+                                          "radio waves"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which one of the following is a greenhouse gas?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Carbon dioxide",
+                                          "Oxygen",
+                                          "Nitrogen",
+                                          "Argon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Which greenhouse gas is far more potent per molecule than carbon dioxide, though it is shorter-lived in the atmosphere?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "oxygen",
+                                          "nitrogen",
+                                          "argon",
+                                          "methane"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The ozone layer, which absorbs most of the harmful ultraviolet radiation, lies in the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "troposphere",
+                                          "mesosphere",
+                                          "stratosphere",
+                                          "ionosphere"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The main cause of the depletion of the ozone layer is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "carbon dioxide",
+                                          "methane",
+                                          "oxygen",
+                                          "chlorofluorocarbons (CFCs)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Montreal Protocol (1987) is an international treaty to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "reduce plastic waste",
+                                          "phase out ozone-depleting substances",
+                                          "protect wetlands",
+                                          "ban nuclear tests"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The Paris Agreement (2015) aims to keep the rise in global average temperature well below:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5 °C",
+                                          "10 °C",
+                                          "2 °C (and to pursue efforts to limit it to 1.5 °C)",
+                                          "0 °C"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The IPCC is a United Nations body that:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "sets global carbon prices",
+                                          "runs power plants",
+                                          "cleans up the oceans",
+                                          "provides scientific assessments of climate change"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "A carbon sink is a system that:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "absorbs more carbon than it releases",
+                                          "releases more carbon than it absorbs",
+                                          "has no effect on atmospheric carbon",
+                                          "burns fossil fuels"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Ground-level ozone and smog, which form in the atmosphere from other pollutants, are examples of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "primary pollutants",
+                                          "harmless natural gases",
+                                          "secondary pollutants",
+                                          "greenhouse gases only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Of the two categories of particulate matter, the one that is finer and more harmful because it penetrates deep into the lungs is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "PM10",
+                                          "PM2.5",
+                                          "both are equally harmless",
+                                          "neither is harmful"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Carbon monoxide (CO) is poisonous because it:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "burns the skin on contact",
+                                          "freezes the blood",
+                                          "adds extra oxygen to the blood",
+                                          "combines with haemoglobin, reducing the blood’s oxygen-carrying capacity"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Acid rain is caused mainly by the atmospheric oxides of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "carbon and hydrogen",
+                                          "oxygen and helium",
+                                          "sulphur and nitrogen",
+                                          "argon and neon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "A higher level of Dissolved Oxygen (DO) in a water body indicates:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cleaner, healthier water",
+                                          "heavily polluted water",
+                                          "an absence of aquatic life",
+                                          "high acidity"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "A higher Biochemical Oxygen Demand (BOD) of water indicates:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cleaner water",
+                                          "more oxygen available for fish",
+                                          "lower pollution",
+                                          "greater organic pollution"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Minamata disease, which affects the nervous system, is caused by pollution from:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "lead",
+                                          "arsenic",
+                                          "mercury",
+                                          "cadmium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following pollution disease–pollutant pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Itai-itai — cadmium",
+                                          "Fluorosis — mercury",
+                                          "Blue baby syndrome — nitrates",
+                                          "Arsenicosis — arsenic"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The Kyoto Protocol is an international treaty that commits State parties to reduction in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "poverty",
+                                          "greenhouse gases emission",
+                                          "nuclear armaments",
+                                          "agricultural subsidy"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The Basel Convention is aimed at protecting human health and the environment against the adverse effects of which of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hazardous wastes",
+                                          "Persistent Organic Pollutants (POPs)",
+                                          "Mercury",
+                                          "Chemicals and pesticides"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The ozone hole is a region over:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Antarctic caused mainly by CFC gases",
+                                          "the Antarctic caused mainly by carbon dioxide gas",
+                                          "the Arctic caused mainly by CFC gases",
+                                          "the Arctic caused mainly by carbon dioxide gas"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which one of the following is the most important factor for the formation of smog?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Long winter nights",
+                                          "Formation of an inversion lid",
+                                          "Presence of many air-pollutant sources",
+                                          "Rapid fall in temperature with increasing height above sea level"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which greenhouse gas has the maximum average residence time in the atmosphere?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "CFC",
+                                          "CH₄ (methane)",
+                                          "N₂O (nitrous oxide)",
+                                          "Water vapour"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "World Environment Day is celebrated every year on:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "16 September",
+                                          "22 April",
+                                          "5 June",
+                                          "1 December"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The Rio Earth Summit (1992) is notable for having adopted:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Montreal Protocol",
+                                          "the Paris Agreement",
+                                          "the Kyoto Protocol only",
+                                          "the UNFCCC and the Convention on Biological Diversity"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The use of microorganisms to break down or neutralise pollutants (for example, bacteria degrading an oil spill) is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "biomagnification",
+                                          "bioremediation",
+                                          "eutrophication",
+                                          "pasteurisation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "‘Blue baby syndrome’ in infants is caused by a high level of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "nitrates in drinking water",
+                                          "fluoride in drinking water",
+                                          "mercury in fish",
+                                          "carbon dioxide in air"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following agreement–focus pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Montreal Protocol — reducing greenhouse gas emissions",
+                                          "Paris Agreement — limiting global warming",
+                                          "Ramsar Convention — wetland conservation",
+                                          "Basel Convention — hazardous waste"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change \u0026 Pollution"
+                      }
+                  ]
+}

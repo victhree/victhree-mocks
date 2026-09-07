@@ -1,0 +1,491 @@
+{
+    "title":  "Physics Test 2",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Which one of the following is a vector quantity?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Distance",
+                                          "Displacement",
+                                          "Speed",
+                                          "Mass"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "A body starts from rest and accelerates uniformly at 2 m/s² for 5 seconds. Its final velocity is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "7 m/s",
+                                          "2.5 m/s",
+                                          "10 m/s",
+                                          "12 m/s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Starting from rest, a car accelerates uniformly at 4 m/s². The distance it covers in 3 seconds is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "18 m",
+                                          "12 m",
+                                          "36 m",
+                                          "6 m"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "A body starting from rest moves with a uniform acceleration of 2 m/s² and covers a distance of 25 m. Its final velocity is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "25 m/s",
+                                          "50 m/s",
+                                          "5 m/s",
+                                          "10 m/s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The area under a velocity–time graph represents the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "acceleration",
+                                          "speed",
+                                          "displacement",
+                                          "force"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Newton’s first law of motion is also known as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "law of inertia",
+                                          "law of momentum",
+                                          "law of action and reaction",
+                                          "law of gravitation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The force required to give a 2 kg body an acceleration of 3 m/s² is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1.5 N",
+                                          "5 N",
+                                          "0.67 N",
+                                          "6 N"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Which one of the following statements about Newton’s third law of motion is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Action and reaction act on the same body and cancel out.",
+                                          "Action and reaction act on different bodies and do not cancel out.",
+                                          "Action is always greater than reaction.",
+                                          "Action and reaction act in the same direction."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "A moving body on which the net force is zero will:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "move with increasing speed",
+                                          "always have zero speed",
+                                          "move with constant acceleration",
+                                          "move with constant velocity"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The linear momentum of a 5 kg body moving at 4 m/s is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "9 kg·m/s",
+                                          "1.25 kg·m/s",
+                                          "20 kg·m/s",
+                                          "40 kg·m/s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The law of conservation of linear momentum explains the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "recoil of a gun",
+                                          "bending of light",
+                                          "floating of ice on water",
+                                          "rusting of iron"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Airbags in cars, and bending the knees while landing from a jump, both reduce the force of impact by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "increasing the force applied",
+                                          "reducing the change in momentum to zero",
+                                          "decreasing the contact time",
+                                          "increasing the contact time so that the force is reduced"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "A force of 10 N moves a body through 5 m in the direction of the force. The work done is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2 J",
+                                          "50 J",
+                                          "15 J",
+                                          "0.5 J"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The work done by a force is zero when the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "force is very large",
+                                          "displacement is along the force",
+                                          "displacement is perpendicular to the force",
+                                          "force alone is zero"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The kinetic energy of a 2 kg body moving at 3 m/s is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "9 J",
+                                          "6 J",
+                                          "18 J",
+                                          "3 J"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The potential energy of a 2 kg object raised to a height of 5 m is (take g = 10 m/s²):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "20 J",
+                                          "50 J",
+                                          "10 J",
+                                          "100 J"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "As an object falls freely under gravity, its potential energy is converted mainly into:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "heat energy only",
+                                          "kinetic energy",
+                                          "sound energy",
+                                          "chemical energy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "In uniform circular motion, the centripetal acceleration is directed:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "along the velocity",
+                                          "away from the centre",
+                                          "towards the centre of the circle",
+                                          "opposite to the velocity"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The acceleration due to gravity (g) on the Earth’s surface is maximum at the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "poles",
+                                          "equator",
+                                          "tropics",
+                                          "centre of the Earth"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Match List-I (Principle) with List-II (Application/statement) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Pascal’s law B. Archimedes’ principle C. Bernoulli’s principle D. Newton’s second law",
+                                       "List-II: 1. Buoyant force / floating of ships 2. Lift on an aeroplane wing 3. Hydraulic lift 4. F = ma"
+                                   ],
+                          "options":  [
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-3 B-2 C-1 D-4",
+                                          "A-3 B-1 C-4 D-2",
+                                          "A-3 B-1 C-2 D-4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "A motorcycle has an initial velocity of 5 m/s. After 3 seconds, the velocity is 7 m/s. The displacement of the motorcycle in 3 seconds is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "21 m",
+                                          "18 m",
+                                          "36 m",
+                                          "6 m"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "If an object of mass 10 kg is moving with a uniform speed of 10 m/s, then the linear momentum and the kinetic energy of the object, respectively, are:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "100 N.s and 500 J",
+                                          "100 N.s and 1000 J",
+                                          "200 N.s and 500 J",
+                                          "200 N.s and 1000 J"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "If the linear momentum of a moving object gets doubled due to the application of a force, then its kinetic energy will:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "remain same",
+                                          "increase by four times",
+                                          "increase by two times",
+                                          "increase by eight times"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "An object weighs 9 N on the surface of the Earth. What would be its weight on the surface of a planet where the acceleration due to gravity is 9 times that on the surface of the Earth?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The weight would remain the same",
+                                          "The weight would be equal to 1 N",
+                                          "The weight would become 9 times",
+                                          "The weight will be reduced to 1/9 N"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "A bus starting from a bus-stand and moving with uniform acceleration attains a speed of 20 km/h in 10 minutes. What is its acceleration?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "200 km/h²",
+                                          "120 km/h²",
+                                          "100 km/h²",
+                                          "240 km/h²"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "A stone is dropped from rest. Its velocity after 2 seconds of free fall is (take g = 10 m/s²):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5 m/s",
+                                          "10 m/s",
+                                          "40 m/s",
+                                          "20 m/s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "An object completely immersed in water displaces 2 × 10⁻³ m³ of water. The buoyant force on it is (density of water = 1000 kg/m³, g = 10 m/s²):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0.5 N",
+                                          "2 N",
+                                          "20 N",
+                                          "200 N"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The working of a hydraulic lift (and hydraulic brakes) is based on:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pascal’s law",
+                                          "Bernoulli’s principle",
+                                          "Archimedes’ principle",
+                                          "Newton’s law of gravitation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "According to Bernoulli’s principle, in a flowing fluid, where the speed of flow is high, the pressure is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "low",
+                                          "high",
+                                          "zero",
+                                          "unchanged"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "A machine does 600 J of work in 10 seconds. Its power is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6000 W",
+                                          "6 W",
+                                          "60 W",
+                                          "610 W"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics"
+                      }
+                  ]
+}

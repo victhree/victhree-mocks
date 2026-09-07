@@ -1,0 +1,491 @@
+{
+    "title":  "Chemistry Test 1",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Which one of the following sub-atomic particles carries no charge?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Proton",
+                                          "Neutron",
+                                          "Electron",
+                                          "Ion"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Which sub-atomic particle is negatively charged?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Proton",
+                                          "Neutron",
+                                          "Electron",
+                                          "Nucleus"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The atomic number of an element is equal to the number of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "protons",
+                                          "neutrons",
+                                          "electrons plus neutrons",
+                                          "nucleons"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "An atom has 11 protons and 12 neutrons. Its mass number is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "11",
+                                          "12",
+                                          "1",
+                                          "23"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The protons and neutrons of an atom are located in the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "outermost shell",
+                                          "nucleus",
+                                          "electron cloud",
+                                          "valence shell"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "According to Dalton’s atomic theory, the atom is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "indivisible",
+                                          "mostly empty space",
+                                          "a plum pudding of charges",
+                                          "made of fixed shells"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The main limitation of Rutherford’s nuclear model of the atom was that it could not explain the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "charge of the electron",
+                                          "mass of the proton",
+                                          "stability of the atom",
+                                          "existence of isotopes"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "In Bohr’s model of the atom, electrons revolve around the nucleus in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "random paths",
+                                          "fixed energy levels (shells) without losing energy",
+                                          "the nucleus itself",
+                                          "a uniform positive sphere"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Carbon-12 and carbon-14 are examples of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "isotopes",
+                                          "isobars",
+                                          "isotones",
+                                          "different elements"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Calcium-40 and argon-40, which are different elements having the same mass number, are called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "isotopes",
+                                          "allotropes",
+                                          "isobars",
+                                          "isomers"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Isotopes of an element show almost identical chemical properties because chemical behaviour depends on:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the number of neutrons",
+                                          "the mass number",
+                                          "the size of the nucleus",
+                                          "the number of electrons"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The valency (combining capacity) of an atom is decided by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the neutrons in the nucleus",
+                                          "the electrons in its outermost shell",
+                                          "the protons only",
+                                          "the mass number"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The chemical properties of an element depend on:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "its mass number",
+                                          "the number of neutrons",
+                                          "the number of isotopes",
+                                          "the number of electrons in its outermost shell"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The modern periodic table arranges the elements in order of increasing:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "atomic number",
+                                          "atomic mass",
+                                          "density",
+                                          "valency"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "In the periodic table, the vertical columns are called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "periods",
+                                          "blocks",
+                                          "groups",
+                                          "shells"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Across a period (from left to right), the atomic radius of elements generally:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "increases",
+                                          "decreases",
+                                          "stays the same",
+                                          "first increases then decreases"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "On moving down a group in the periodic table, the metallic character of the elements generally:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "decreases",
+                                          "stays constant",
+                                          "increases",
+                                          "becomes zero"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "As we move down a group of the periodic table, metals become:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "more reactive",
+                                          "less reactive",
+                                          "non-metallic",
+                                          "completely inert"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Match List-I (Model/idea) with List-II (Scientist) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Indivisible atom B. Plum-pudding model C. Nuclear model D. Fixed energy shells",
+                                       "List-II: 1. Rutherford 2. Bohr 3. Dalton 4. J. J. Thomson"
+                                   ],
+                          "options":  [
+                                          "A-3 B-4 C-2 D-1",
+                                          "A-4 B-3 C-1 D-2",
+                                          "A-3 B-1 C-4 D-2",
+                                          "A-3 B-4 C-1 D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The number of atoms present in 2 moles of an element is (where N is Avogadro’s number):",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "N/2",
+                                          "N",
+                                          "2N",
+                                          "N²"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "There are two elements — calcium (atomic number 20) and argon (atomic number 18). The mass number of both elements is 40. They are therefore known as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "isotones",
+                                          "isochores",
+                                          "isobars",
+                                          "isotopes"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Consider the statement: ‘Atomic number of an element is a more fundamental property than its atomic mass.’ Who among the following scientists made this statement?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dmitri Mendeleev",
+                                          "Henry Moseley",
+                                          "J. J. Thomson",
+                                          "Ernest Rutherford"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "If the atomic number of an element is 11, the correct name, symbol and valency are:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lithium, Li, 1",
+                                          "Magnesium, Mg, 2",
+                                          "Boron, B, 3",
+                                          "Sodium, Na, 1"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The correct order of atomic radius of Li, Na, Be and O is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Na \u003e Li \u003e Be \u003e O",
+                                          "Na \u003e Be \u003e Li \u003e O",
+                                          "Be \u003e Li \u003e Na \u003e O",
+                                          "O \u003e Be \u003e Li \u003e Na"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which one of the following could NOT be explained by Rutherford’s nuclear model?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Stability of the atom",
+                                          "Presence of the nucleus at the centre of the atom",
+                                          "Comparison of the sizes of atom and nucleus",
+                                          "The nucleus is positively charged"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "A chlorine atom has an atomic number of 17 and a mass number of 35. The number of neutrons in it is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "17",
+                                          "18",
+                                          "35",
+                                          "52"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The neutron was discovered by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "J. J. Thomson",
+                                          "Ernest Rutherford",
+                                          "Niels Bohr",
+                                          "James Chadwick"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The mass of 2 moles of an element whose molar mass is 40 g/mol is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "20 g",
+                                          "40 g",
+                                          "80 g",
+                                          "42 g"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which one of the following properties generally increases on moving down a group of the periodic table?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Atomic radius",
+                                          "Non-metallic character",
+                                          "Electronegativity",
+                                          "Ionization energy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following particle–property pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Proton — positive charge",
+                                          "Electron — negative charge",
+                                          "Neutron — no charge",
+                                          "Electron — located inside the nucleus"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Atomic Structure \u0026 Periodic Table"
+                      }
+                  ]
+}

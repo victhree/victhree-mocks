@@ -101,6 +101,8 @@ html, body {
 .history-col + .history-col { border-left: 1px solid rgba(28,34,48,.14); }
 .history-col-empty { text-align: center; font-size: 13px; padding: 10px 0; }
 @media (max-width: 760px){ .history-cols { grid-template-columns: 1fr; } .history-col { padding: 0; } .history-col + .history-col { border-left: none; } }
+.subject-groups { display: flex; flex-direction: column; gap: 30px; }
+.subject-group-title { font-size: 16px; font-weight: 800; letter-spacing: .4px; text-transform: uppercase; color: var(--gold); margin: 0 0 14px; padding-bottom: 8px; border-bottom: 1px solid var(--line); }
 .test-card {
   display: flex; flex-direction: column; gap: 10px;
   justify-content: center; align-items: center; text-align: center; height: 210px;

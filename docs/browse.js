@@ -8,7 +8,7 @@ function catOf(id){ if (/^full-mock-\d/.test(id)) return "full"; if (/^eng-mock-
 function catTitle(cat){ return cat === "full" ? "Full-Length Tests" : (cat === "english" ? "English Tests" : (cat === "maths" ? "Maths Tests" : "GK Sectional Tests")); }
 
 /* Which subject folder a sectional test belongs to (driven by its manifest subject). */
-var GROUP_ORDER = ["Geography", "History", "Polity", "Economy", "Mixed Subjects"];
+var GROUP_ORDER = ["Geography", "History", "Polity", "Economy", "Science", "Mixed Subjects"];
 function sectionGroup(t){
   var s = (t.subject || "").toLowerCase();
   if (s.indexOf("geograph") >= 0) return "Geography";
@@ -16,9 +16,22 @@ function sectionGroup(t){
   if (s === "gs") return "Mixed Subjects";
   if (s.indexOf("polit") >= 0) return "Polity";
   if (s.indexOf("econom") >= 0) return "Economy";
+  if (scienceDiscipline(t)) return "Science";
   return "Other";
 }
 function slug(g){ return g.toLowerCase().replace(/\s+/g, "-"); }
+
+/* The Science folder is split into discipline sections (fixed order). */
+var SCIENCE_DISCIPLINES = ["Physics", "Chemistry", "Biology", "Technology", "Ecology"];
+function scienceDiscipline(t){
+  var s = (t.subject || "").toLowerCase();
+  if (s.indexOf("physic") >= 0) return "Physics";
+  if (s.indexOf("chemist") >= 0) return "Chemistry";
+  if (s.indexOf("biolog") >= 0) return "Biology";
+  if (s.indexOf("technolog") >= 0) return "Technology";
+  if (s.indexOf("ecolog") >= 0 || s.indexOf("environ") >= 0) return "Ecology";
+  return "";
+}
 
 /* Within the History folder, which era-column a test belongs to.
    Ancient+Medieval and the all-era Full History sit in the (central) Medieval column. */
@@ -102,6 +115,22 @@ async function loadTests(){
           var col = tests.filter(function(t){ return historyEra(t) === e.key; });
           var cards = col.length ? col.map(cardHtml).join("") : '<p class="history-col-empty muted">Coming soon</p>';
           return '<div class="history-col">' + cards + '</div>';
+        }).join("");
+        return;
+      }
+      // Science is grouped into labelled discipline sections.
+      if (sub === "science") {
+        var order = SCIENCE_DISCIPLINES.slice();
+        tests.forEach(function(t){ var d = scienceDiscipline(t); if (d && order.indexOf(d) < 0) order.push(d); });
+        list.className = "subject-groups";
+        list.innerHTML = order.map(function(d){
+          var grp = tests.filter(function(t){ return scienceDiscipline(t) === d; })
+                         .sort(function(a, b){ return (a.id || "").localeCompare(b.id || ""); });
+          if (!grp.length) return "";
+          return '<section class="subject-group">' +
+            '<h2 class="subject-group-title">' + escapeHtml(d) + '</h2>' +
+            '<div class="test-list">' + grp.map(cardHtml).join("") + '</div>' +
+            '</section>';
         }).join("");
         return;
       }

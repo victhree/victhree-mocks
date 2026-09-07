@@ -1,0 +1,492 @@
+{
+    "title":  "Technology Test 1",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "India’s national space agency is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ISRO",
+                                          "NASA",
+                                          "DRDO",
+                                          "BARC"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The ‘father of the Indian space programme’ is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vikram Sarabhai",
+                                          "Homi Bhabha",
+                                          "A. P. J. Abdul Kalam",
+                                          "C. V. Raman"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Almost all of ISRO’s launches take place from the Satish Dhawan Space Centre at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Thumba, Kerala",
+                                          "Sriharikota, Andhra Pradesh",
+                                          "Bengaluru, Karnataka",
+                                          "Ahmedabad, Gujarat"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "A geostationary satellite is placed at an altitude of about 35,786 km directly above the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "equator",
+                                          "poles",
+                                          "tropics",
+                                          "a random latitude"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "A polar (sun-synchronous) orbit is most suitable for:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "communication",
+                                          "weather broadcasting",
+                                          "remote sensing and mapping",
+                                          "deep-space travel"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The escape velocity from the Earth’s surface is about:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3 km/s",
+                                          "8 km/s",
+                                          "11.2 km/s",
+                                          "25 km/s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "A cryogenic rocket engine burns:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "solid fuel only",
+                                          "petrol and air",
+                                          "coal",
+                                          "super-cooled liquid hydrogen and liquid oxygen"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "ISRO’s reliable ‘workhorse’ launch vehicle, which launched Chandrayaan-1 and Mangalyaan, is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "SSLV",
+                                          "PSLV",
+                                          "GSLV Mk III",
+                                          "Ariane"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "India’s most powerful launch vehicle, which launched Chandrayaan-2 and Chandrayaan-3 and will fly Gaganyaan, is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "GSLV Mk III (LVM3)",
+                                          "SSLV",
+                                          "PSLV",
+                                          "Saturn V"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Chandrayaan-1, India’s first Moon mission, is credited with helping to confirm the presence of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "life on the Moon",
+                                          "gold on the Moon",
+                                          "water molecules on the Moon",
+                                          "a thick atmosphere on the Moon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Chandrayaan-3 made history as the first mission to achieve a successful soft-landing near the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "lunar equator",
+                                          "lunar south pole",
+                                          "far side of the Sun",
+                                          "planet Mars"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Mangalyaan (the Mars Orbiter Mission) is especially notable because India became:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the first nation to reach Mars orbit on its very first attempt",
+                                          "the first to land humans on Mars",
+                                          "the first to bring back Mars soil",
+                                          "the first to orbit Jupiter"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The Aditya-L1 mission is designed to study the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Moon",
+                                          "Mars",
+                                          "Sun",
+                                          "Jupiter"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Gaganyaan is India’s first planned:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "human spaceflight mission",
+                                          "crewed Mars landing",
+                                          "asteroid-mining mission",
+                                          "reusable rocket"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "With Chandrayaan-3, India became the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "second country to soft-land on the Moon",
+                                          "fourth country to soft-land on the Moon, and the first near its south pole",
+                                          "first country ever to reach the Moon",
+                                          "tenth country to soft-land on the Moon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The first Indian to travel into space (in 1984, aboard a Soviet mission) was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kalpana Chawla",
+                                          "Vikram Sarabhai",
+                                          "A. P. J. Abdul Kalam",
+                                          "Rakesh Sharma"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "India’s own regional satellite navigation system, its answer to the American GPS, is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "NavIC (IRNSS)",
+                                          "GLONASS",
+                                          "Galileo",
+                                          "BeiDou"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Communication satellites that relay TV, phone and internet signals are usually placed in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "polar orbit",
+                                          "low Earth orbit",
+                                          "geostationary orbit",
+                                          "sun-synchronous orbit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Match List-I (Navigation system) with List-II (Country/bloc) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. GPS B. GLONASS C. Galileo D. BeiDou",
+                                       "List-II: 1. Russia 2. USA 3. China 4. European Union"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following mission–target pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chandrayaan — Moon",
+                                          "Mangalyaan — Mars",
+                                          "Aditya-L1 — Sun",
+                                          "Gaganyaan — Jupiter"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "India’s maiden human space mission is to be launched. What is its name?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vayumitra",
+                                          "Vikram",
+                                          "Chandrayaan-3",
+                                          "Gaganyaan"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which one of the following planets was explored by the Cassini Mission launched by NASA, which ended in September 2017?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sun",
+                                          "Neptune",
+                                          "Saturn",
+                                          "Jupiter"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The Pragyan rover installed in the Chandrayaan-2 mission had how many wheels?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2",
+                                          "3",
+                                          "4",
+                                          "6"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Consider the following statements about the James Webb Space Telescope (JWST): 1. It is the largest observatory ever launched into space. 2. It was developed by NASA in partnership with the European Space Agency and the Canadian Space Agency. Which of the statements is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which one of the following statements with regard to Antrix Corporation Limited is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is a commercial arm of the Department of Industrial Policy and Promotion.",
+                                          "It is under the administrative control of the Department of Space.",
+                                          "It is under the administrative control of the Ministry of Health and Family Welfare.",
+                                          "It is a commercial arm of the Department of Science and Technology."
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The James Webb Space Telescope (launched 2021) observes the universe mainly in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "infrared",
+                                          "radio waves",
+                                          "X-rays",
+                                          "gamma rays"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Match List-I (Indian mission) with List-II (Target) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Chandrayaan B. Mangalyaan C. Aditya-L1 D. Gaganyaan",
+                                       "List-II: 1. Mars 2. Sun 3. Human spaceflight 4. Moon"
+                                   ],
+                          "options":  [
+                                          "A-1 B-4 C-2 D-3",
+                                          "A-4 B-2 C-1 D-3",
+                                          "A-4 B-1 C-3 D-2",
+                                          "A-4 B-1 C-2 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "India achieved a major technological milestone by developing its own indigenous:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "solid rocket motor",
+                                          "jet engine",
+                                          "cryogenic engine",
+                                          "nuclear reactor"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "ISRO’s Reusable Launch Vehicle (RLV), a ‘space plane’, is being developed mainly to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "carry humans to Mars",
+                                          "cut the cost of launches",
+                                          "replace all satellites",
+                                          "mine asteroids"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following navigation-system / country pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "GPS — USA",
+                                          "GLONASS — Russia",
+                                          "NavIC — India",
+                                          "Galileo — China"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      }
+                  ]
+}

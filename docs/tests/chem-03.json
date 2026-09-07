@@ -1,0 +1,491 @@
+{
+    "title":  "Chemistry Test 3",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Metals can be beaten into thin sheets. This property is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ductility",
+                                          "sonority",
+                                          "malleability",
+                                          "conductivity"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The property of metals that allows them to be drawn into thin wires is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ductility",
+                                          "malleability",
+                                          "brittleness",
+                                          "lustre"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Which one of the following metals is liquid at room temperature?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sodium",
+                                          "Mercury",
+                                          "Iron",
+                                          "Copper"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Non-metals generally form oxides that are:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "basic",
+                                          "neither acidic nor basic",
+                                          "metallic",
+                                          "acidic"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which one of the following non-metals is a good conductor of electricity?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sulphur",
+                                          "Phosphorus",
+                                          "Graphite",
+                                          "Iodine"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The hardest naturally occurring substance is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "diamond",
+                                          "graphite",
+                                          "iron",
+                                          "quartz"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Different physical forms of the same element, such as diamond and graphite, are called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "isotopes",
+                                          "allotropes",
+                                          "isomers",
+                                          "isobars"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "In a diamond, each carbon atom is bonded to how many other carbon atoms?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "two",
+                                          "one",
+                                          "three",
+                                          "four"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Graphite is used as pencil ‘lead’ and as a lubricant because it is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "very hard and rigid",
+                                          "a non-conductor",
+                                          "soft, slippery and a good conductor of electricity",
+                                          "radioactive"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Graphene, a newer allotrope of carbon, is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "an excellent conductor and extremely strong",
+                                          "an electrical insulator",
+                                          "radioactive",
+                                          "a liquid at room temperature"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Rust, formed when iron corrodes, is reddish-brown and forms in the presence of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "nitrogen only",
+                                          "oxygen and moisture (water)",
+                                          "carbon dioxide only",
+                                          "pure dry air"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Silver articles turn black on standing in air because silver reacts with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "oxygen, forming silver oxide",
+                                          "carbon dioxide",
+                                          "water",
+                                          "hydrogen sulphide, forming silver sulphide"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The green coating that forms on copper exposed to moist air is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "copper oxide",
+                                          "copper sulphide",
+                                          "basic copper carbonate",
+                                          "copper nitrate"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Coating iron with a thin layer of zinc to protect it from rusting is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "galvanisation",
+                                          "vulcanisation",
+                                          "electrolysis",
+                                          "sublimation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Match List-I (Metal) with List-II (Ore) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Aluminium B. Iron C. Mercury D. Lead",
+                                       "List-II: 1. Hematite 2. Bauxite 3. Galena 4. Cinnabar"
+                                   ],
+                          "options":  [
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-2 B-1 C-4 D-3",
+                                          "A-1 B-2 C-4 D-3",
+                                          "A-2 B-4 C-1 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The most abundant metal in the Earth’s crust is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "iron",
+                                          "copper",
+                                          "aluminium",
+                                          "calcium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "An alloy is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a pure metal",
+                                          "a compound of two acids",
+                                          "a type of ore",
+                                          "a mixture of a metal with other metals or non-metals"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Stainless steel, which resists rusting, is an alloy of iron with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "chromium and nickel",
+                                          "copper and tin",
+                                          "zinc and lead",
+                                          "carbon only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Brass is an alloy of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "copper and tin",
+                                          "iron and carbon",
+                                          "copper and zinc",
+                                          "lead and tin"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following alloy–composition pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bronze — copper and tin",
+                                          "Solder — lead and tin",
+                                          "Steel — iron and carbon",
+                                          "Brass — copper and nickel"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following is NOT an allotrope of carbon?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Coal",
+                                          "Diamond",
+                                          "Graphite",
+                                          "Graphene"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Aluminium is manufactured from:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Copper ore",
+                                          "Bauxite ore",
+                                          "Mica ore",
+                                          "Manganese ore"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following elements is a non-metal but is lustrous?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Carbon",
+                                          "Silicon",
+                                          "Germanium",
+                                          "Iodine"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Silver articles become black after some time when exposed to air because:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "silver gets oxidized to silver oxide",
+                                          "silver reacts with moist carbon dioxide to form silver carbonate",
+                                          "silver reacts with sulphur in the air to form a coating of silver sulphide",
+                                          "silver reacts with nitrogen oxides to form silver nitrate"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Tooth enamel of humans is made up of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Calcium phosphate",
+                                          "Sodium hydrogen carbonate",
+                                          "Maltose and lactose",
+                                          "Ribose and xylose"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The metal used to coat iron in the process of galvanisation is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "tin",
+                                          "zinc",
+                                          "aluminium",
+                                          "copper"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Nichrome, an alloy of nickel, chromium and iron, is used in the heating elements of appliances because it has:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a very low melting point",
+                                          "very low electrical resistance",
+                                          "a high electrical resistance",
+                                          "strong magnetic properties"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Hematite and magnetite are important ores of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "iron",
+                                          "copper",
+                                          "aluminium",
+                                          "zinc"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "An amalgam is an alloy that always contains:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "iron",
+                                          "mercury",
+                                          "carbon",
+                                          "zinc"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following metal–ore pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Copper — copper pyrites",
+                                          "Zinc — zinc blende",
+                                          "Mercury — cinnabar",
+                                          "Gold — bauxite"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-Metals \u0026 Alloys"
+                      }
+                  ]
+}

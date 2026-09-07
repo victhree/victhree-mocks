@@ -1,0 +1,490 @@
+{
+    "title":  "Technology Test 3",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The basic working cycle of a computer, known as the IPO cycle, stands for:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Input, Processing, Output",
+                                          "Install, Process, Operate",
+                                          "Input, Print, Output",
+                                          "Idle, Process, Off"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The ‘brain’ of a computer, which processes instructions, is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "monitor",
+                                          "CPU (Central Processing Unit)",
+                                          "keyboard",
+                                          "hard disk"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Within the CPU, arithmetic calculations and logical comparisons are carried out by the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Control Unit",
+                                          "monitor",
+                                          "Arithmetic and Logic Unit (ALU)",
+                                          "power supply"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The smallest unit of computer memory is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "bit",
+                                          "byte",
+                                          "kilobyte",
+                                          "gigabyte"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Computers store and process all data using the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "decimal number system",
+                                          "Roman numeral system",
+                                          "hexadecimal system only",
+                                          "binary number system"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "RAM (Random Access Memory) is best described as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "permanent and non-volatile",
+                                          "temporary and volatile (its contents are lost when the power is off)",
+                                          "a type of hard disk",
+                                          "an input device"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "ROM (Read Only Memory) is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "temporary and volatile",
+                                          "an output device",
+                                          "permanent and non-volatile, storing start-up instructions",
+                                          "the fastest memory in the CPU"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The most important system software, which manages the hardware, memory, files and programs, is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "operating system",
+                                          "web browser",
+                                          "spreadsheet",
+                                          "antivirus"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Which one of the following is an example of application software?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Windows",
+                                          "Linux",
+                                          "a device driver",
+                                          "a word processor"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The native language of a computer, written directly in 0s and 1s, is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "high-level language",
+                                          "machine language",
+                                          "assembly language",
+                                          "English"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "A program written in a high-level language is translated into machine code by a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "printer",
+                                          "modem",
+                                          "compiler or an interpreter",
+                                          "scanner"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "A LAN (Local Area Network) typically covers:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a single building or campus",
+                                          "a whole country",
+                                          "the entire world",
+                                          "a few metres around a person"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The largest wide area network (WAN) in the world is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a single LAN",
+                                          "Bluetooth network",
+                                          "a MAN",
+                                          "Internet"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The World Wide Web (WWW) is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "exactly the same thing as the internet",
+                                          "a collection of linked web pages accessed over the internet",
+                                          "a type of computer hardware",
+                                          "an input device"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "A URL (Uniform Resource Locator) is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the address of a web page",
+                                          "a type of computer virus",
+                                          "the brain of the computer",
+                                          "a storage device"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Which one of the following is a logical operator used by computers?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "SUM",
+                                          "PLUS",
+                                          "AND",
+                                          "EQUALS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "A firewall in a computer system is used to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cool the processor",
+                                          "store files permanently",
+                                          "increase the RAM",
+                                          "monitor network traffic and block unauthorised access"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "A ‘worm’, unlike a virus, is a type of malware that:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "needs a host file to spread",
+                                          "self-replicates and spreads across networks without needing a host file",
+                                          "is completely harmless",
+                                          "improves computer speed"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "India’s first indigenous supercomputer series, developed by C-DAC, is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "PARAM",
+                                          "ENIAC",
+                                          "UNIVAC",
+                                          "Tejas"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following computer-generation / component pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "First generation — vacuum tubes",
+                                          "Second generation — transistors",
+                                          "Third generation — integrated circuits",
+                                          "Fourth generation — vacuum tubes"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which among the following is a malicious software?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hacking",
+                                          "Password Cracking",
+                                          "Trojan Horse",
+                                          "Firewall"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which language uses the symbolic representation of machine codes needed to program a particular processor or processor family?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Machine Language",
+                                          "Assembly Language",
+                                          "High-Level Language",
+                                          "All of the above"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one among the following is the purpose of a firewall?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Preventing unauthorised computer access via the internet",
+                                          "Installation of software that can harm the computer",
+                                          "Recording everything that is done on the computer",
+                                          "Running checks to prevent virus attacks"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which one of the following is NOT an application software?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Spreadsheet",
+                                          "AutoCAD",
+                                          "MS PowerPoint",
+                                          "Linker"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "‘Qubit’ refers to a two-valued quantity used in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "classical computers",
+                                          "classical cryptography",
+                                          "quantum computers",
+                                          "lasers"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The scientist regarded as the ‘Father of the Computer’, who designed the Analytical Engine, is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Charles Babbage",
+                                          "Alan Turing",
+                                          "Ada Lovelace",
+                                          "George Boole"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Bitcoin, a decentralised virtual currency, is based on the technology called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cloud computing",
+                                          "artificial intelligence",
+                                          "blockchain",
+                                          "quantum computing"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "UPI (Unified Payments Interface), India’s real-time mobile payment system, is operated by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the RBI directly",
+                                          "the National Payments Corporation of India (NPCI)",
+                                          "SEBI",
+                                          "ISRO"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Fifth-generation computers are chiefly associated with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "vacuum tubes",
+                                          "transistors",
+                                          "integrated circuits",
+                                          "artificial intelligence"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following pioneer–contribution pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Charles Babbage — father of the computer",
+                                          "Ada Lovelace — first computer programmer",
+                                          "Alan Turing — Boolean algebra",
+                                          "George Boole — logic of digital circuits"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Computer \u0026 IT"
+                      }
+                  ]
+}

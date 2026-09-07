@@ -1,0 +1,491 @@
+{
+    "title":  "Chemistry Test 2",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Atoms form chemical bonds mainly in order to achieve:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a stable, completely filled outermost electron shell",
+                                          "a higher mass number",
+                                          "radioactivity",
+                                          "a coloured appearance"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "An ionic (electrovalent) bond is formed by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the sharing of electrons",
+                                          "a sea of free electrons",
+                                          "the transfer of electrons from a metal to a non-metal",
+                                          "a weak attraction between molecules"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "A covalent bond is formed by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the sharing of electrons between non-metals",
+                                          "the transfer of electrons",
+                                          "free electrons moving around metal ions",
+                                          "hydrogen bridges between molecules"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The ability of metals to conduct electricity and heat is due to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ionic bonds",
+                                          "covalent bonds",
+                                          "hydrogen bonds",
+                                          "metallic bonding with a sea of free electrons"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The reaction 2H₂ + O₂ → 2H₂O is an example of a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "decomposition reaction",
+                                          "combination (synthesis) reaction",
+                                          "displacement reaction",
+                                          "double displacement reaction"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The reaction CaCO₃ → CaO + CO₂ (on heating) is an example of a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "combination reaction",
+                                          "displacement reaction",
+                                          "decomposition reaction",
+                                          "neutralisation reaction"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "In the reaction Fe + CuSO₄ → FeSO₄ + Cu, iron replaces copper. This is a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "displacement reaction",
+                                          "combination reaction",
+                                          "double displacement reaction",
+                                          "decomposition reaction"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The reaction AgNO₃ + NaCl → AgCl↓ + NaNO₃ is an example of a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "combination reaction",
+                                          "displacement reaction",
+                                          "decomposition reaction",
+                                          "double displacement reaction"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "According to the mnemonic OIL RIG, oxidation is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "gain of electrons",
+                                          "gain of hydrogen",
+                                          "loss of electrons",
+                                          "loss of oxygen"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Rusting of iron is an example of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "oxidation",
+                                          "reduction",
+                                          "neutralisation",
+                                          "sublimation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "A catalyst is a substance that:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "stops a reaction completely",
+                                          "speeds up a reaction without being consumed",
+                                          "is used up during the reaction",
+                                          "changes the products of the reaction"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "An acid, when dissolved in water, releases:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "hydroxide ions",
+                                          "oxide ions",
+                                          "sodium ions",
+                                          "hydrogen ions (H⁺)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "A base, when dissolved in water, releases:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "hydroxide ions (OH⁻)",
+                                          "hydrogen ions",
+                                          "chloride ions",
+                                          "carbonate ions"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The reaction ‘acid + base → salt + water’ is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "oxidation",
+                                          "displacement",
+                                          "neutralisation",
+                                          "decomposition"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "On the pH scale, pure (distilled) water is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "acidic, with a pH of 0",
+                                          "basic, with a pH of 14",
+                                          "acidic, with a pH of about 5",
+                                          "neutral, with a pH of 7"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "When an acid reacts with a metal, the gas usually released is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "hydrogen",
+                                          "oxygen",
+                                          "carbon dioxide",
+                                          "chlorine"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Limewater turns milky when the gas passed through it is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "oxygen",
+                                          "hydrogen",
+                                          "carbon dioxide",
+                                          "nitrogen"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Match List-I (Common name) with List-II (Chemical name) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Baking soda B. Washing soda C. Bleaching powder D. Plaster of Paris",
+                                       "List-II: 1. Calcium oxychloride 2. Sodium hydrogen carbonate 3. Calcium sulphate hemihydrate 4. Sodium carbonate decahydrate"
+                                   ],
+                          "options":  [
+                                          "A-2 B-4 C-3 D-1",
+                                          "A-2 B-4 C-1 D-3",
+                                          "A-4 B-2 C-1 D-3",
+                                          "A-2 B-1 C-4 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Sulphuric acid (H₂SO₄) is commonly used in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "car (lead-acid) batteries",
+                                          "vinegar for cooking",
+                                          "citrus soft drinks",
+                                          "curd formation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following acid–source pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Citric acid — lemon and orange",
+                                          "Lactic acid — curd",
+                                          "Formic acid — vinegar",
+                                          "Ascorbic acid — Vitamin C"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The chemical reaction K₂SO₄(aq) + BaCl₂(aq) → 2KCl(aq) + BaSO₄(solid) is an example of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Addition reaction",
+                                          "Displacement reaction",
+                                          "Decomposition reaction",
+                                          "Double displacement reaction"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which one of the following acids is produced in the human stomach?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Formic acid",
+                                          "Sulphuric acid",
+                                          "Nitric acid",
+                                          "Hydrochloric acid"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following acids is also known as Vitamin C?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Methanoic acid",
+                                          "Ascorbic acid",
+                                          "Lactic acid",
+                                          "Tartaric acid"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "A solution having a pH equal to zero is known as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a highly alkaline solution",
+                                          "a highly acidic solution",
+                                          "a weakly acidic solution",
+                                          "a neutral solution"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which one of the following living organisms gives litmus?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Protozoa",
+                                          "Virus",
+                                          "Lichen",
+                                          "Saccharomyces"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Milk of magnesia, magnesium hydroxide [Mg(OH)₂], is commonly used as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "an antacid",
+                                          "a fertiliser",
+                                          "a bleaching agent",
+                                          "a fuel"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Vinegar is a dilute aqueous solution of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "citric acid",
+                                          "acetic acid",
+                                          "hydrochloric acid",
+                                          "sulphuric acid"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "While diluting a concentrated acid, the correct and safe procedure is to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "add water to the acid quickly",
+                                          "add water to the acid slowly",
+                                          "mix them together all at once",
+                                          "add the acid slowly to water"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Elements that show variable oxidation states (for example, iron as Fe²⁺ and Fe³⁺) are the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "alkali metals",
+                                          "transition metals",
+                                          "noble gases",
+                                          "halogens"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following common-name / chemical-name pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Baking soda — sodium hydrogen carbonate",
+                                          "Slaked lime — calcium hydroxide",
+                                          "Common salt — calcium carbonate",
+                                          "Blue vitriol — copper sulphate"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases"
+                      }
+                  ]
+}

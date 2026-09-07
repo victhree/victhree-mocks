@@ -1,0 +1,490 @@
+{
+    "title":  "Biology Test 2",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Photosynthesis is the process by which green plants:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "absorb proteins from the soil",
+                                          "take nitrogen directly from the air",
+                                          "make their own food (glucose), releasing oxygen",
+                                          "make water from carbon dioxide"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Photosynthesis takes place mainly in the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "roots",
+                                          "mitochondria",
+                                          "ribosomes",
+                                          "chloroplasts of leaf cells"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The element needed for the formation of chlorophyll, forming the central atom of the chlorophyll molecule, is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "iron",
+                                          "calcium",
+                                          "magnesium",
+                                          "potassium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "In a plant, the xylem tissue transports:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "food downward",
+                                          "water and minerals upward",
+                                          "gases",
+                                          "hormones"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The phloem tissue in plants transports:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "food (sugars) in both directions",
+                                          "water only, upward",
+                                          "minerals only",
+                                          "oxygen"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Water rises to the top of even the tallest trees mainly due to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "root pressure alone",
+                                          "active pumping by cells",
+                                          "transpiration pull (with cohesion and adhesion)",
+                                          "wind pressure"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Transpiration in plants is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "uptake of water by the roots",
+                                          "loss of water as vapour, mainly from the stomata of leaves",
+                                          "making of food in the leaves",
+                                          "loss of water as liquid droplets"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The loss of water as liquid droplets from the edges of leaves, usually at night or early morning, is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "transpiration",
+                                          "respiration",
+                                          "osmosis",
+                                          "guttation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Plants adapted to dry, desert conditions, such as the cactus, are called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "xerophytes",
+                                          "hydrophytes",
+                                          "halophytes",
+                                          "epiphytes"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Halophytes, such as mangroves, are plants adapted to grow in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "dry desert soil",
+                                          "saline (salt-rich) soil",
+                                          "rocky cliffs",
+                                          "deep freshwater"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Active transport differs from diffusion and osmosis in that it:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "needs no energy",
+                                          "happens only in animals",
+                                          "moves only gases",
+                                          "moves substances against a concentration gradient, using energy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The overall shape of a DNA molecule is a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "single straight chain",
+                                          "flat sheet",
+                                          "double helix",
+                                          "branched network"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "In DNA, the base adenine (A) always pairs with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "guanine",
+                                          "thymine",
+                                          "cytosine",
+                                          "adenine"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "A gene is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a segment of DNA that codes for a particular trait",
+                                          "a whole chromosome",
+                                          "a type of protein",
+                                          "a sugar molecule"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Chromosomes are thread-like structures made of DNA and:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "lipids",
+                                          "carbohydrates",
+                                          "proteins (histones)",
+                                          "vitamins"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The number of chromosomes in a normal human body cell is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "23",
+                                          "24",
+                                          "48",
+                                          "46"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The process of copying genetic information from DNA into RNA is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "replication",
+                                          "transcription",
+                                          "translation",
+                                          "mutation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "A mutation is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a change in the DNA (or RNA) sequence of an organism",
+                                          "the death of a cell",
+                                          "the making of a protein",
+                                          "the pairing of bases"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "In humans, a child with the sex chromosomes XY develops into a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "female, and the sex is determined by the mother",
+                                          "female, and the sex is determined by the father",
+                                          "male, and the sex is determined by the father",
+                                          "male, and the sex is determined by the mother"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following statements about plant transport tissues is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Xylem carries water and minerals.",
+                                          "Xylem carries water in the upward direction.",
+                                          "Phloem carries food (sugars).",
+                                          "Phloem is made mainly of dead cells."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following elements is essential for the formation of chlorophyll in green plants?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Calcium",
+                                          "Iron",
+                                          "Magnesium",
+                                          "Potassium"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Xylem in plants is responsible for the transport of which one of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Water",
+                                          "Water and dissolved minerals",
+                                          "Gases",
+                                          "Food"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The polynucleotide chain of DNA contains:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a nitrogenous base, deoxyribose sugar and phosphate group",
+                                          "a nitrogenous base, ribose sugar and phosphate group",
+                                          "deoxyribose sugar, ribose sugar and phosphate group",
+                                          "a nitrogenous base and phosphate group only"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Bacteria have an undefined nuclear region which lacks a nuclear membrane and contains only DNA without proteins. Such a region is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nucleosome",
+                                          "Nucleus",
+                                          "Nucleoprotein",
+                                          "Nucleoid"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which one of the following statements explains the higher mutation rate and faster evolution found in an RNA virus?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "RNA is relatively unstable compared to DNA.",
+                                          "A virus can multiply only within the living cell of a host.",
+                                          "Metabolic processes are absent in a virus.",
+                                          "A virus can remain latent for a long period."
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The famous X-ray diffraction image of DNA, ‘Photo 51’, that helped reveal its double-helix structure, was produced by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "James Watson",
+                                          "Rosalind Franklin",
+                                          "Gregor Mendel",
+                                          "Charles Darwin"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "A genetically modified organism (GMO) is one whose:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "genes are entirely unchanged",
+                                          "cells lack a nucleus",
+                                          "genes have been deliberately altered for desired traits",
+                                          "DNA has been completely removed"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Magnesium is the central atom of the molecule of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "chlorophyll",
+                                          "haemoglobin",
+                                          "insulin",
+                                          "DNA"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Compared with DNA viruses, RNA viruses such as the influenza and coronavirus families generally:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "mutate faster, so their vaccines need frequent updating",
+                                          "cannot mutate at all",
+                                          "mutate more slowly",
+                                          "have no genetic material"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following statements about plant adaptations is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Xerophytes have a thick cuticle to reduce water loss.",
+                                          "Xerophytes may have sunken stomata.",
+                                          "Hydrophytes have large air spaces for buoyancy.",
+                                          "Xerophytes have a large number of stomata to lose more water."
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Plant Physiology \u0026 Genetics"
+                      }
+                  ]
+}

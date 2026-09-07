@@ -1,0 +1,491 @@
+{
+    "title":  "Biology Test 3",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Biotechnology is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the use of living organisms or biological processes to make useful products",
+                                          "the study of rocks and minerals",
+                                          "the mining of metals from ores",
+                                          "a branch of pure mathematics"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Which one of the following is an example of traditional biotechnology?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "gene editing with CRISPR",
+                                          "making recombinant insulin",
+                                          "making curd and bread by fermentation",
+                                          "PCR testing for viruses"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "In genetic engineering, restriction enzymes act as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "‘molecular scissors’ that cut DNA at specific sites",
+                                          "glue that joins DNA fragments",
+                                          "carriers of genes into a host cell",
+                                          "copies of the whole genome"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The technique PCR (Polymerase Chain Reaction) is used to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cut DNA into pieces",
+                                          "destroy unwanted DNA",
+                                          "fuse two organisms together",
+                                          "make many copies of a DNA segment quickly"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "‘Dolly’, the first mammal cloned from an adult cell, was a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "sheep",
+                                          "cow",
+                                          "goat",
+                                          "dog"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Bt cotton, a genetically modified crop, carries a pest-resistance gene taken from the bacterium:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rhizobium",
+                                          "Escherichia coli",
+                                          "Bacillus thuringiensis",
+                                          "Salmonella typhi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "‘Golden Rice’ is genetically engineered to be rich in beta-carotene, to combat the deficiency of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "iron",
+                                          "Vitamin A",
+                                          "Vitamin C",
+                                          "protein"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Malaria is caused by a protozoan of the genus Plasmodium, which is spread by the bite of the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "female Anopheles mosquito",
+                                          "Aedes mosquito",
+                                          "common housefly",
+                                          "sandfly"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Tuberculosis (TB) is caused by a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "virus",
+                                          "fungus",
+                                          "bacterium",
+                                          "protozoan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "AIDS is caused by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a bacterium",
+                                          "a fungus",
+                                          "a protozoan",
+                                          "HIV, a virus"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Ringworm and athlete’s foot are examples of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "fungal diseases",
+                                          "bacterial diseases",
+                                          "viral diseases",
+                                          "protozoan diseases"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Dengue is a viral disease spread by the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Anopheles mosquito",
+                                          "common housefly",
+                                          "Aedes mosquito",
+                                          "tsetse fly"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Antibiotics are effective against:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "viruses only",
+                                          "bacteria, but not viruses",
+                                          "all germs equally",
+                                          "fungi only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "A vaccine protects against a disease by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "killing all the bacteria in the body",
+                                          "supplying antibiotics directly",
+                                          "adding extra vitamins",
+                                          "training the immune system with a weakened or inactivated germ"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "A disease that spreads across many countries or continents (such as COVID-19) is called:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "endemic",
+                                          "epidemic",
+                                          "pandemic",
+                                          "sporadic"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "A deficiency of Vitamin A causes:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "night blindness",
+                                          "scurvy",
+                                          "rickets",
+                                          "goitre"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "A deficiency of iodine in the diet causes:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "anaemia",
+                                          "beriberi",
+                                          "pellagra",
+                                          "goitre"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Kwashiorkor, a deficiency disease seen in children, is caused by a lack of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "carbohydrates",
+                                          "protein",
+                                          "fats",
+                                          "Vitamin C"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "In the body, carbohydrates chiefly serve as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "building material for muscles",
+                                          "genetic material",
+                                          "main source of energy",
+                                          "oxygen carrier"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following disease–cause pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cholera — bacterium",
+                                          "Malaria — protozoan",
+                                          "Dengue — virus",
+                                          "Ringworm — bacterium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following is NOT an epidemic disease?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cholera",
+                                          "Malaria",
+                                          "Smallpox",
+                                          "Elephantiasis"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The disease rickets develops in children due to the deficiency of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vitamin C",
+                                          "Vitamin D",
+                                          "Vitamin A",
+                                          "Vitamin B"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following is the special type of milk produced by a lactating mother, essential for the development of the immune response of a newborn baby?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Breast milk produced after a month of childbirth",
+                                          "Transitional milk",
+                                          "Colostrum",
+                                          "Mineralized milk"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Yeast, which is used to make bread, belongs to the group:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Protista",
+                                          "Fungi",
+                                          "Monera",
+                                          "Protozoa"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which one of the following is an example of an airborne disease?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tuberculosis",
+                                          "Malaria",
+                                          "Dengue",
+                                          "Cholera"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Match List-I (Disease) with List-II (Type of pathogen) and select the correct answer:",
+                          "subs":  [
+                                       "List-I: A. Malaria B. Tuberculosis C. Dengue D. Ringworm",
+                                       "List-II: 1. Protozoan 2. Bacterium 3. Virus 4. Fungus"
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-2 B-1 C-3 D-4",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-1 B-2 C-4 D-3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Which one of the following diseases is caused by a bacterium?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Dengue",
+                                          "Cholera",
+                                          "AIDS",
+                                          "Ringworm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Starch, the food store of plants, belongs to which class of carbohydrates?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "monosaccharide",
+                                          "disaccharide",
+                                          "polysaccharide",
+                                          "protein"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The apex body that regulates genetically modified organisms in India is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ICAR",
+                                          "DBT",
+                                          "ISRO",
+                                          "GEAC"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following deficiency–disease pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vitamin C — scurvy",
+                                          "Iron — goitre",
+                                          "Vitamin D — rickets",
+                                          "Iodine — goitre"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology, Diseases \u0026 Nutrition"
+                      }
+                  ]
+}
