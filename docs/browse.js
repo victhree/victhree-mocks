@@ -37,8 +37,9 @@ function scienceDiscipline(t){
    Ancient+Medieval and the all-era Full History sit in the (central) Medieval column. */
 function historyEra(t){
   var id = t.id;
+  if (id === "full-history-01") return "Full"; // whole-syllabus test — own section at the bottom
   if (/^anchist-/.test(id) || id === "ancient-history-01") return "Ancient";
-  if (/^medhist-/.test(id) || id === "ancient-medieval-01" || id === "full-history-01") return "Medieval";
+  if (/^medhist-/.test(id) || id === "ancient-medieval-01") return "Medieval";
   return "Modern"; // modhist-*, modern-india-01 (Full Modern History), any other
 }
 
@@ -108,7 +109,8 @@ async function loadTests(){
         var eras = [
           { key: "Ancient", label: "Ancient History" },
           { key: "Medieval", label: "Medieval History" },
-          { key: "Modern", label: "Modern History" }
+          { key: "Modern", label: "Modern History" },
+          { key: "Full", label: "Full History" }
         ];
         list.className = "subject-groups";
         list.innerHTML = eras.map(function(e){
