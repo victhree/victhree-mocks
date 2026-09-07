@@ -110,7 +110,7 @@ async function loadTests(){
           { key: "Ancient", label: "Ancient History" },
           { key: "Medieval", label: "Medieval History" },
           { key: "Modern", label: "Modern History" },
-          { key: "Full", label: "Full History" }
+          { key: "Full", label: "Full History — Ancient, Medieval & Modern History" }
         ];
         list.className = "subject-groups";
         list.innerHTML = eras.map(function(e){
