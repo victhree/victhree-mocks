@@ -441,8 +441,12 @@ button.report-toggle:hover { filter: brightness(1.04); }
 .m-br{display:none}
 @media(max-width:600px){.m-br{display:inline}}
 .cta{display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;text-align:center;
-  background:linear-gradient(135deg,#0B1F3A,#12294b);color:#fff;border-radius:14px;padding:14px 18px;margin:16px 0}
+  background:linear-gradient(135deg,#0B1F3A,#12294b);color:#fff;border-radius:14px;padding:14px 18px;margin:16px 0;
+  text-decoration:none;transition:filter .15s ease}
+.cta:hover{filter:brightness(1.08)}
 .cta-text{font-size:15px;font-weight:600;color:#fff;line-height:1.4}
+.cta-go{font-size:15px;font-weight:700;color:var(--gold);white-space:nowrap}
+.cta:hover .cta-go{color:#fff}
 .cta-social{display:flex;gap:16px;align-items:center}
 .cta-social a{color:#e0bd6a;display:inline-flex;line-height:0;transition:color .12s,transform .12s}
 .cta-social a:hover{color:#fff;transform:translateY(-2px)}
