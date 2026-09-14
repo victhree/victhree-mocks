@@ -760,6 +760,9 @@ function showResults(data, fromSaved) {
   hide($("quizScreen"));
   show($("resultsScreen"));
   window.scrollTo(0, 0);
+  // In a multi-paper mock the "retake" button instead returns to the papers hub.
+  const rbtn = $("restartBtn");
+  if (rbtn) rbtn.textContent = state.multi ? "‹ Back to the papers" : "Retake this test";
 
   const results = data.results || [];
   const max = data.max || state.questions.length;
@@ -1032,6 +1035,9 @@ function preparePaper(paper) {
 
 function routeMulti() {
   hideAllScreens();
+  // Open-papers mode: always land on the hub (both papers available; combined
+  // result reachable via "See my result" once all are done).
+  if (state.multi.openPapers) { showOverview(); return; }
   const idx = currentPaperIdx();
   if (idx >= state.multi.papers.length) { renderFinalMulti(); return; }
   // Always land on the overview — if the current paper was left mid-attempt,
@@ -1064,10 +1070,13 @@ function showOverview() {
   const ordinal = { 1: "One", 2: "Two", 3: "Three", 4: "Four", 5: "Five" };
   const mpSub = $("mpSub");
   if (mpSub) {
-    mpSub.textContent = (ordinal[ps.length] || ps.length) + " papers, taken in order. " +
-      "Each is a separate 2-hour paper worth 100 marks with 1/3 negative marking. A submitted paper cannot be reattempted.";
+    const nWord = (ordinal[ps.length] || ps.length);
+    mpSub.textContent = state.multi.openPapers
+      ? nWord + " papers — take either one, in any order. Each is a separate 2-hour paper worth 100 marks with 1/3 negative marking. Your score is shown as soon as you submit a paper; a submitted paper cannot be reattempted."
+      : nWord + " papers, taken in order. Each is a separate 2-hour paper worth 100 marks with 1/3 negative marking. A submitted paper cannot be reattempted.";
   }
   const idx = currentPaperIdx();
+  const open = !!state.multi.openPapers;
   $("ovNameField").style.display = state.name ? "none" : "";
   hide($("ovError"));
 
@@ -1078,7 +1087,7 @@ function showOverview() {
     let status, label;
     if (res && res.skipped) { status = "skipped"; label = "Skipped"; }
     else if (res) { status = "done"; label = "Submitted ✓"; }
-    else if (i === idx) { status = "active"; label = ""; }
+    else if (open || i === idx) { status = "active"; label = ""; }
     else { status = "locked"; label = "Locked"; }
     const pj = state.multi.loaded[p.id];
     const tile = document.createElement("div");
@@ -1087,18 +1096,23 @@ function showOverview() {
       `<div class="pt-badge">Paper ${i + 1}</div>` +
       `<div class="pt-title">${escapeHtml(p.title)}</div>` +
       `<div class="pt-meta">${pj.questions.length} Q · ${pj.scoring ? pj.scoring.totalMarks : 100} marks · ${pj.durationMin || 120} min</div>`;
-    if (status !== "active") inner += `<div class="pt-status">${label}</div>`;
+    if (status === "done") {
+      const mm = paperMarks(res);
+      inner += `<div class="pt-status">Submitted ✓ · ${fmtMarks(mm.marks)}/${mm.max}</div>`;
+    } else if (status !== "active") {
+      inner += `<div class="pt-status">${label}</div>`;
+    }
     tile.innerHTML = inner;
 
+    const row = document.createElement("div");
+    row.className = "pt-actions";
     if (status === "active") {
-      const row = document.createElement("div");
-      row.className = "pt-actions";
       const resuming = paperInProgress(p.id);
       const startBtn = document.createElement("button");
       startBtn.type = "button";
       startBtn.className = "btn btn-gold";
       startBtn.textContent = resuming ? "Resume ›" : "Start now ›";
-      startBtn.addEventListener("click", onStartActive);
+      startBtn.addEventListener("click", () => onStartPaper(p));
       row.appendChild(startBtn);
       if (p.skippable) {
         const skipBtn = document.createElement("button");
@@ -1108,8 +1122,15 @@ function showOverview() {
         skipBtn.addEventListener("click", skipRest);
         row.appendChild(skipBtn);
       }
-      tile.appendChild(row);
+    } else if (status === "done" && open) {
+      const viewBtn = document.createElement("button");
+      viewBtn.type = "button";
+      viewBtn.className = "btn btn-outline";
+      viewBtn.textContent = "View result";
+      viewBtn.addEventListener("click", () => viewPaperResult(p));
+      row.appendChild(viewBtn);
     }
+    if (row.children.length) tile.appendChild(row);
     wrap.appendChild(tile);
   });
 
@@ -1125,10 +1146,8 @@ function showOverview() {
   window.scrollTo(0, 0);
 }
 
-function onStartActive() {
-  const idx = currentPaperIdx();
-  if (idx >= state.multi.papers.length) return;
-  const paper = state.multi.papers[idx];
+function onStartPaper(paper) {
+  if (!paper) return;
   if (!state.name) {
     const nm = $("ovName").value.trim();
     if (!nm) { $("ovError").textContent = "Please enter your name."; show($("ovError")); return; }
@@ -1140,6 +1159,25 @@ function onStartActive() {
   } else {
     startPaper(paper);
   }
+}
+function onStartActive() {
+  const idx = currentPaperIdx();
+  if (idx >= state.multi.papers.length) return;
+  onStartPaper(state.multi.papers[idx]);
+}
+
+/* Re-open a submitted paper's own result (open-papers mode). */
+function viewPaperResult(p) {
+  const res = state.paperResults[p.id];
+  if (!res || res.skipped) return;
+  const pj = state.multi.loaded[p.id];
+  state.testId = p.id;
+  state.quiz = pj;
+  state.questions = pj.questions || [];
+  state.guesses = res.guesses || {};
+  state.durationSec = (pj.durationMin || 120) * 60; state.remaining = state.durationSec;
+  state.untimed = false; state.elapsed = 0;
+  showResults(res.data, true);
 }
 
 function setPaperTag(paper) {
@@ -1182,7 +1220,9 @@ function onPaperGraded(data) {
   };
   clearState();          // drop this paper's in-progress attempt (no retake)
   saveMulti();
-  showOverview();        // back to the hub — this paper now shows green, next is active
+  // Open-papers mode shows this paper's result immediately; sequential mode
+  // returns to the hub (no score revealed until the very end).
+  if (state.multi.openPapers) { showResults(data); } else { showOverview(); }
 }
 
 function skipRest() {
@@ -1372,7 +1412,7 @@ window.addEventListener("DOMContentLoaded", () => {
       .catch((err) => { console.error(err); alert("Sorry, couldn't generate the image."); });
   });
   $("submitBtn").addEventListener("click", () => submitTest(false));
-  $("restartBtn").addEventListener("click", () => location.reload());
+  $("restartBtn").addEventListener("click", () => { if (state.multi) { showOverview(); } else { location.reload(); } });
 
   // Multi-paper (Mock 3) overview: Enter in the name field starts the active paper
   const ovName = $("ovName");
