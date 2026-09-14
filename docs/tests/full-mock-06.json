@@ -1,0 +1,8 @@
+{
+  "title": "CDS (II) 2026 Exam Simulator",
+  "multiPaper": true,
+  "papers": [
+    { "id": "full-mock-06-eng", "title": "English",           "skippable": false },
+    { "id": "full-mock-06-gk",  "title": "General Knowledge", "skippable": false }
+  ]
+}

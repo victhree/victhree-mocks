@@ -1,0 +1,2005 @@
+{
+    "title":  "General Knowledge",
+    "durationMin":  120,
+    "scoring":  {
+                    "totalMarks":  100,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Three resistors, R1, R2 and R3, (R1 \u003e R2 \u003e R3), are connected to a battery of voltage V, such that the circuit generates maximum heat per unit time. Which one among the following is the correct circuit combination for this?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "R1, R2 and R3 are connected in series combination",
+                                          "R1, R2 and R3 are connected in parallel combination",
+                                          "R1 and R3 are connected in parallel and R2 is connected in series to the combination",
+                                          "R1 and R3 are connected in series and R2 is connected parallel to the combination"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Convex side of a plano-convex lens is fully immersed in a liquid, of same refractive index (equal to 8/5) as that of the lens. Which one among the following is correct regarding the image of a point source of light placed in air at 40 cm away from the lens? (Assume the focal length of the plano-convex lens as 20 cm)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Its image will be formed 40 cm behind the lens",
+                                          "Its image will be formed at 25 cm behind the lens",
+                                          "No image will be formed because of the same refractive index of the lens and the liquid",
+                                          "Its image will be formed 64 cm behind the lens"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "A car of mass 800 kg is travelling at a speed of 40 km/h on a straight road. A force of 1000 N is applied on it in the direction of its velocity for 12 s. Which one among the following is the final speed of the car?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "55 km/h",
+                                          "60 km/h",
+                                          "94 km/h",
+                                          "104 km/h"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "A positively charged particle (alpha-particle) is projected towards west in a horizontal plane. It is deflected towards north in the same plane by a magnetic field. Which one among the following is the direction of the magnetic field?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Towards south",
+                                          "Towards east",
+                                          "Vertically downwards",
+                                          "Vertically upwards"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "With regard to the magnetic field lines, which one among the following statements is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "They are always parallel to each other",
+                                          "They point from south pole to north pole inside bar magnets",
+                                          "They can cross each other inside bar magnets",
+                                          "The larger the line density in a region, the larger is the magnetic field in that region"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "A rod is balanced vertically on one of its ends. Which one among the following is the correct nature of its state of equilibrium?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Neutral equilibrium",
+                                          "Stable equilibrium",
+                                          "Unstable equilibrium",
+                                          "Conditional stable equilibrium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Two parallel, but not necessarily unidirectional, forces of magnitude 1 N and 2 N are acting on a body. Two more, parallel, again not necessarily unidirectional, forces of magnitude 3 N and 1 N, but perpendicular to the earlier forces, are applied to the body. Which one among the following are the smallest and largest possible magnitudes of the resultant force on the body?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2 N and 8 N",
+                                          "sqrt(2) N and 5 N",
+                                          "sqrt(5) N and 5 N",
+                                          "sqrt(3) N and 7 N"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Gravitational acceleration at moon is 1/6 of that on earth. On earth, if an object floats in water with fraction \u0027fe\u0027 of its volume submersed in water, and on moon, fraction \u0027fm\u0027 is submersed, then",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "fe \u003e fm",
+                                          "fe \u003c fm",
+                                          "fe = fm",
+                                          "fm = (1/6) fe"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Two very thin and very long uniform wires, placed very close to each other, carry equal but opposite currents. Point 1 is exactly at the middle of those wires and point 2 is far away from the wires. Which one among the following regarding the net magnetic field produced is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Magnetic field at point 1 is zero",
+                                          "Magnetic field at point 2 is zero",
+                                          "Magnetic field lines will form elliptical loops around the wires",
+                                          "Magnetic field lines will form circular loops around the wires"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Which one among the following is the primary reason for asking persons undergoing X-ray imaging to remove metallic objects?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Metallic objects can absorb/reflect X-ray resulting in dark/bright spot",
+                                          "Metallic objects can melt causing serious skin damage",
+                                          "X-ray can create sparks on hitting the metallic objects",
+                                          "X-ray can damage the metallic objects by altering their composition"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Which one among the following protocols works at application layer in a TCP/IP protocol suit?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "IP",
+                                          "TCP",
+                                          "TELNET",
+                                          "Go-back-N"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Which one among the following tasks is NOT carried out by an operating system?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To link a program with the subroutines it references",
+                                          "To manage data transfer to and from peripherals",
+                                          "To allocate memory for storing programs",
+                                          "To provide a layered, user-friendly interface"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Which one among the following is NOT true about Standard Generalised Markup Language (SGML)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is an international open standard",
+                                          "It is dependent on a computer\u0027s hardware",
+                                          "It is independent of a computer\u0027s operating system",
+                                          "It defines document type"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which one among the following consists of a list of commands that is executed automatically as the computer system starts up?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "COMMAND.COM",
+                                          "AUTOEXEC.BAT",
+                                          "CONFIG.SYS",
+                                          "AUTOSTART.BAT"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "In MS Word, which one among the following is used to set the alignment for the content in the document?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ruler bar",
+                                          "Toolbar",
+                                          "Status bar",
+                                          "Scrollbar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Consider the following statements: Which of the statements given above are correct?",
+                          "subs":  [
+                                       "1. Services sector contributes more than 50% to India\u0027s GVA",
+                                       "2. Services sector growth is more volatile than agriculture sector",
+                                       "3. FDI in services sector contributes to three-fourth of total FDI in the post-Covid period"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1 and 3 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which one of the following best explains the \"crowding-in effect\" observed in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Reduction in private sector borrowing",
+                                          "Public investment leading to increase in private investment",
+                                          "Decline in fiscal deficit",
+                                          "Increase in imports due to higher demand"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Consider the following statements: Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. India runs a current account deficit",
+                                       "2. Merchandise imports of India exceed exports"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "With reference to Ayushman Bharat Pradhan Mantri Jan Arogya Yojana, which of the following statements is/are correct? Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. It provides health insurance coverage to vulnerable families",
+                                       "2. It covers both secondary and tertiary care hospitalization",
+                                       "3. It is applicable to all citizens irrespective of income"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "1 and 2",
+                                          "2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "India\u0027s fiscal deficit widens significantly due to increased Government spending on subsidies while tax revenue remains unchanged. Which one of the following is the most likely consequence?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Inflation will rise, interest rates will fall, and private investment will increase",
+                                          "Inflation will rise, interest rates may rise, and private investment may slow down",
+                                          "Inflation will fall, interest rates will rise, and private investment will increase",
+                                          "Inflation will fall, interest rates will fall, and GDP growth will accelerate"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "India\u0027s reliance on imported energy exposes it to geopolitical supply shocks. In this context, what is the most likely short-term impact of a major disruption in crude oil imports?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Decrease in inflation",
+                                          "Strengthening of the rupee",
+                                          "Higher input costs and inflation pressure",
+                                          "Increase in exports"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The Defence Research \u0026 Development Organisation (DRDO) recently conducted a successful flight-test of the Pinaka Long Range Guided Rocket (LRGR). The rocket was tested for a user-defined minimum range of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "30 km",
+                                          "40 km",
+                                          "50 km",
+                                          "60 km"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Defence",
+                          "topic":  "Defence"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following best explains how India\u0027s growth resilience is achieved in a fragile global context in recent years?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lower inflation with a simultaneous increase in consumption and investment supported by strong domestic demand",
+                                          "A sharp depreciation of the Indian rupee to boost exports despite weak global demand",
+                                          "A fiscal push achieved primarily through increased revenue deficit financing",
+                                          "Reduced public capital expenditure to curb inflationary pressures"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "If Labour Force Participation Rate (LFPR) is 50% and Worker Population Ratio (WPR) is 45%, what is the Unemployment Rate?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5%",
+                                          "10%",
+                                          "15%",
+                                          "Cannot be determined"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which one of the following major structural trends in agricultural output is highlighted in the Economic Survey 2025-26?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Livestock output declined relative to crop production",
+                                          "Production of fruits exceeded production of vegetables",
+                                          "Pulses production outpaced both horticulture and food grains production",
+                                          "Horticulture production surpassed food grain production"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Consider the following statements with reference to PANI (Portal for Asset and Navigation Information): Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. It is a unified platform which provides river navigation and infrastructure information",
+                                       "2. It provides detailed information of various features of National Waterways",
+                                       "3. It facilitates \"One Nation – One Registration\" through a single-window system"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "3 only",
+                                          "1 and 2",
+                                          "2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Consider the following statements with reference to Indian Ports Act, 2025: Centre and coastal states Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. It established Maritime State Development Council (MSDC) as a statutory consultative body to coordinate between",
+                                       "2. Its legislation mandates Global Green Norms and Disaster Readiness for Indian Ports"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Which of the following statements relating to Disaster Management (Amendment) Act, 2025 are correct? having Municipal Corporations (excluding NCT of Delhi and Union Territories of Chandigarh) Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. It mandates the creation of a National Disaster Database",
+                                       "2. It addresses the issue of urban disaster risk management through Provision 41 A",
+                                       "3. It empowers the constitution of an Urban Disaster Management Authority (UDMA) for State Capitals and all cities"
+                                   ],
+                          "options":  [
+                                          "1 and 3 only",
+                                          "2 and 3 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Consider the following statements with reference to Fisheries Startups Ecosystem in India: sustainability, and market access fisheries sector mentorship and training for developing business models Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. Fisheries Startup Grand Challenge was launched to identify start-ups offering solutions related to productivity,",
+                                       "2. Matsya Manthan is a knowledge-building lecture series aimed at strengthening the innovation ecosystem in the",
+                                       "3. The Department of Fisheries has supported the establishment of fisheries business incubation centres to provide"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 3 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which of the following statements relating to objectives of National Livestock Mission are correct? fodder sector Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. Promoting risk management measures including livestock insurance for farmers",
+                                       "2. Increase in production of meat, egg, goat milk, wool and fodder",
+                                       "3. Employment generation through entrepreneurship development in small ruminant, poultry and piggery sector \u0026"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "Which of the following statements relating to given weather phenomena in India is/are correct? heat wave wave Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. When maximum temperature of a station reaches \u003e=40 C for plains and \u003e=30 C for hilly regions, it is considered",
+                                       "2. When minimum temperature of a station is \u003c=10 C for plains and \u003c=0 C for hilly regions, it is considered cold"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "Match List I with List II and select the answer using the code given below the Lists:",
+                          "subs":  [
+                                       "List I (Biosphere Reserve): A. Seshachalam B. Manas C. Similipal D. Panna",
+                                       "List II (State/Union Territory): 1. Andhra Pradesh 2. Assam 3. Odisha 4. Madhya Pradesh"
+                                   ],
+                          "options":  [
+                                          "1 2 3 4",
+                                          "1 3 2 4",
+                                          "4 3 2 1",
+                                          "4 2 3 1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Environment",
+                          "topic":  "Environment"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "Which one of the following is India\u0027s key programmes to conserve wildlife and protect endangered species?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Humpback Whale Project",
+                                          "International Big Cat Alliance",
+                                          "International Gorilla Conservation Programme",
+                                          "International Rhino Foundation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Environment",
+                          "topic":  "Environment"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "Consider the following statements: Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. Mangroves are natural buffers against cyclones, storm surges and coastal erosion",
+                                       "2. Recognising it, India implemented the Mangrove Initiative for Shoreline Habitats and Tangible Incomes (MISHTI)"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Environment",
+                          "topic":  "Environment"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "Consider the following statements with reference to Ramsar sites in India: Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. India has the highest number of Ramsar sites in Asia",
+                                       "2. Ramsar site Patna Bird Sanctuary is situated in Etah district of Uttar Pradesh"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Environment",
+                          "topic":  "Environment"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "Which of the following are India\u0027s first Ramsar-accredited Wetland Cities? Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. Udaipur",
+                                       "2. Patna",
+                                       "3. Indore",
+                                       "4. Bhubaneswar"
+                                   ],
+                          "options":  [
+                                          "1 and 3",
+                                          "1 and 4",
+                                          "2 and 3",
+                                          "3 and 4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Environment",
+                          "topic":  "Environment"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "Which of the following statements related to the stages of evolution of the present atmosphere are correct? Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. The first stage is marked by the loss of primordial atmosphere",
+                                       "2. In the second stage, the hot interior of the earth contributed to the evolution of the atmosphere",
+                                       "3. Finally, the composition of the atmosphere was modified by the living world through the process of photosynthesis"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1 and 3 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "Consider the following statements with reference to earthquakes: Which of the statements given above are correct?",
+                          "subs":  [
+                                       "1. Collapse earthquakes are most common",
+                                       "2. Tsunamis are waves generated by the tremors and not an earthquake in itself",
+                                       "3. High magnitude earthquakes i.e. 8+ are quite rare whereas \u0027tiny\u0027 types occur almost every minute"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1 and 3 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "Consider the following statements related to water vapours: Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. It is a variable gas in the atmosphere, which decreases with altitude",
+                                       "2. In the dry and cold areas of desert and polar regions, it may be less than one per cent of the air"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "Consider the following statements related to river terraces: depositional floodplain Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. They are surfaces marking old valley floor or floodplain levels",
+                                       "2. They may be bedrock surfaces without any alluvial cover or alluvial terraces consisting of stream deposits",
+                                       "3. They are basically products of deposition as they result due to vertical erosion by the stream into its own"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "Consider the following States: The State of Arunachal Pradesh has common boundary with which of the above States of India?",
+                          "subs":  [
+                                       "1. Nagaland",
+                                       "2. Assam",
+                                       "3. Mizoram",
+                                       "4. Tripura"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "(!)[illegible on scan , obscured by student\u0027s scribble; to verify]",
+                                          "1, 2 and 4",
+                                          "(!)[illegible on scan , obscured by student\u0027s scribble; to verify]"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "The Tetrahedral Hypothesis of the origin of continents and ocean basin was proposed by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "F B Taylor",
+                                          "Lowthian Green",
+                                          "Alfred Wegener",
+                                          "W M Davis"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Geography",
+                          "topic":  "Geography"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "Which one among the following constitute a food chain?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Grass, Fish and Goat",
+                                          "Grass, Insects and Frog",
+                                          "Goat, Cow and Elephant",
+                                          "Tiger, Lion and Grass"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "UNESCO World Heritage site Nanda Devi National Park is located in which one of the following States?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Arunachal Pradesh",
+                                          "Uttarakhand",
+                                          "Himachal Pradesh",
+                                          "Sikkim"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Environment",
+                          "topic":  "Environment"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "What was the theme for the International Day for Biological Diversity, 2026?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Save Water, Save Environment",
+                                          "Acting Locally for Global Impact",
+                                          "From Agreement to Action : Build Back Biodiversity",
+                                          "Conserve Flora and Fauna of the Planet"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Environment",
+                          "topic":  "Environment"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "Which of the following statements related to the Constituent Assembly of India is/are correct? Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. Its members were chosen by indirect election by the members of the Provincial Legislative Assemblies",
+                                       "2. Indian Princely States were given representation in the Constituent Assembly"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "Consider the following statements regarding State Support Mission by NITI Aayog: engagement with states and Union Territories (UTs) Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. State Support Mission is an umbrella initiative by NITI Aayog aimed at fostering structured and institutionalized",
+                                       "2. Its primary objective is to assist States and UTs in achieving their socioeconomic goals by 2036"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "Consider the following pairs of Institutions/Organizations and their official motto: How many of the above is/are correctly paired?",
+                          "subs":  [
+                                       "1. National Investigation Agency : Rastraraksanam adyakartavyam",
+                                       "2. Supreme Court of India : Yato Dharmastato Jayah",
+                                       "3. University Grants Commission : Gyan-Vigyan Vimuktaye"
+                                   ],
+                          "options":  [
+                                          "Nil",
+                                          "1",
+                                          "2",
+                                          "3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "Which one of the following is the \u0027Theme of the Year 2026\u0027 of Indian Army?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Anchored in Tradition, Sailing into Self-Reliance and Innovation",
+                                          "Year of Networking and Data Centricity",
+                                          "Achook, Abhedya va Sateek",
+                                          "Samarth Bharat, Saksham Sena"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Defence",
+                          "topic":  "Defence"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "Which one of the following Writs literally means \u0027you have the body\u0027?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Habeas Corpus",
+                                          "Mandamus",
+                                          "Prohibition",
+                                          "Certiorari"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "Which of the following statements about National Human Rights Commission, India is/are correct? Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. It can intervene in court proceedings involving human rights violations with the approval of the court",
+                                       "2. It can undertake research in the field of human rights",
+                                       "3. It cannot investigate human rights violation on its own initiative"
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "Which of the following statements is/are correct? Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. In First-Past-the-Post system of representation, candidate who wins the election may not get majority votes",
+                                       "2. In Proportional Representation system of representation, candidate who wins the election gets majority of votes"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "Which of the following statements is/are correct with respect to the Union Territory of Dadra and Nagar Haveli and Daman and Diu? of the Parliament of India allocated in the House of People Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. The merger of the Union Territories of Dadra and Nagar Haveli and Daman and Diu was given effect to by an Act",
+                                       "2. After the merger of the Union Territories of Dadra and Nagar Haveli and Daman and Diu, three seats have been",
+                                       "3. The jurisdiction of the High Court of Bombay continues to extend to this Union Territory"
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "2 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "As regards the \u0027disqualification on ground of defection\u0027 as per the Constitution of India, which of the following statements is/are correct? merger of her/his original political party into another and opts to function as a separate group Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. Disqualification on ground of defection does not apply to any nominated member of a House",
+                                       "2. Disqualification on ground of defection does not apply to a member of a House if she/he does not accept the"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "Which of the following statements is/are correct? List of socially, educationally and economically backward classes with respect to a State the Central List Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. Using powers given under Article 342 A of the Constitution of India, the President of India may notify a Central",
+                                       "2. Every State may prepare a list of socially and educationally backward classes for its own purposes different from"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "Which of the following statements about Goods and Services Tax (GST) in course of inter-State trade or commerce is/are correct? Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. Levy and collection of GST are governed under Article 269 A of the Constitution of India",
+                                       "2. GST on supplies in the course of inter-State trade or commerce may not be levied and collected by the States",
+                                       "3. GST is apportioned between the Union and the States"
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "Which of the following statements about State Election Commissioner is/are correct? India Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. Preparation of electoral rolls for elections to the Panchayats takes place under his/her direction",
+                                       "2. He/she is appointed by the Governor of the concerned State on the advice of the Chief Election Commissioner of"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "Which one of the following statements related to below mentioned Committees of the Parliament is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Rajya Sabha elects more members than the Lok Sabha to the Committee on the Welfare of Scheduled Castes and Scheduled Tribes",
+                                          "The Chairperson of the Committee on Welfare of Other Backward Classes is appointed by the Speaker of the Lok Sabha",
+                                          "Members nominated by the Chairman of the Rajya Sabha are more in number than Members nominated by the Speaker of the Lok Sabha on the Committee on Empowerment of Women",
+                                          "The Rajya Sabha elects more members than the Lok Sabha to the Public Accounts Committee"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "Which of the following statements is/are correct? energy resources by 2035 Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. India has committed to reduce Emissions Intensity of its GDP by 47% by 2035 from 2005 level",
+                                       "2. India has set the target to achieve 60% cumulative electric power installed capacity from non-fossil fuel-based"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Environment",
+                          "topic":  "Environment"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "Which of the following statements with respect to the Ordinance promulgated under Article 213 of the Constitution of India is/are correct? before both the Houses Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. It shall be laid before the Legislative Assembly of the State, or where there is a Legislative Council in the State,",
+                                       "2. It shall cease to operate at the expiration of two months from the reassembly of the Legislature",
+                                       "3. It may be withdrawn at any time by the Governor"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  61,
+                          "stem":  "Which one of the following groups of countries consists of the members of Mekong-Ganga Cooperation (MGC)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "India, Cambodia, Lao PDR, Myanmar, Thailand and Vietnam",
+                                          "India, Bangladesh, Lao PDR, Myanmar, Thailand and Vietnam",
+                                          "India, Bangladesh and Myanmar",
+                                          "India, Bangladesh, Myanmar and Sri Lanka"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "International Relations",
+                          "topic":  "International Relations"
+                      },
+                      {
+                          "n":  62,
+                          "stem":  "Which one of the following pairs is NOT correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Formation of the State of Arunachal Pradesh : The Constitution (Fifty-fifth Amendment) Act, 1986",
+                                          "Formation of the State of Mizoram : The Constitution (Fifty-third Amendment) Act, 1986",
+                                          "Special provision with respect to the State of Nagaland : The Constitution (Fourteenth Amendment) Act, 1962",
+                                          "Reorganisation of the Union Territory of Goa, Daman and Diu : The Constitution (Fifty-sixth Amendment) Act, 1987"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  63,
+                          "stem":  "Consider the statements regarding the delimitation exercise carried out in Assam in 2023: Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. The delimitation of constituencies was done on the basis of 2001 census",
+                                       "2. No increase was made in the number of ST Assembly seats"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  64,
+                          "stem":  "Consider the following statements about the administration and control of Scheduled Areas: President, make a report to the President regarding the administration of the Scheduled Areas in that State the Scheduled Areas Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. The Governors of each State having Scheduled Areas therein shall, annually or whenever so required by the",
+                                       "2. The Executive Power of the Union shall extend to the giving of directions to the States as to the administration of"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Polity"
+                      },
+                      {
+                          "n":  65,
+                          "stem":  "Under the Ministry of Finance, which Department is responsible for giving advice on economic issues having a bearing on internal and external aspects of economy including foreign exchange management?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Department of Economic Affairs",
+                                          "Department of Expenditure",
+                                          "Department of Investment and Public Asset Management",
+                                          "Department of Financial Services"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  66,
+                          "stem":  "Which of the following statements regarding the similarity in glycogen in animal cell and starch in plant cell is/are NOT correct? Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. Both are mixtures of amylose and amylopectin",
+                                       "2. Starch and glycogen, both represent the storage form of carbohydrate in liver cells"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  67,
+                          "stem":  "In which of the following processes, active transport is NOT used?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Reabsorption of amino acids and glucose from kidney into blood",
+                                          "Loading sugar from photosynthesizing leaf cells into phloem tissue for transportation",
+                                          "Passage of Na+ and Cl- through hydrophilic channel created by protein molecules",
+                                          "Absorption of glucose and electrolytes into the bloodstream"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  68,
+                          "stem":  "Which one of the following is NOT true of mitotic cell division?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The nuclei of the two daughter cells in mitosis have same number of chromosomes",
+                                          "Replacement of cell and tissue repairing is possible through mitosis",
+                                          "Asexual reproduction in eukaryotes is done by mitosis",
+                                          "The cells become haploid as a result of mitosis"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  69,
+                          "stem":  "Which one of the following is important for cartilage but NOT a globin protein?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Haemoglobin",
+                                          "Myoglobin",
+                                          "Keratin",
+                                          "Collagen"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  70,
+                          "stem":  "Which of the following activity a mammalian erythrocyte CANNOT perform?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Diffusion of oxygen",
+                                          "Protein synthesis and cell division",
+                                          "Squeeze while passing through capillaries",
+                                          "Carry haemoglobin"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  71,
+                          "stem":  "Consider the following statements associated with Malaria: Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. Only the female Anopheles mosquitoes take human blood for reproduction",
+                                       "2. Plasmodium can pass across the placenta from mother to foetus"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  72,
+                          "stem":  "Which one of the following is involved in light independent reactions of photosynthesis?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Calvin cycle",
+                                          "Hill reaction",
+                                          "Photosystem",
+                                          "Light absorption by photosynthetic pigments"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  73,
+                          "stem":  "Which of the following is associated to Schizophrenia?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Multiple personalities",
+                                          "Neurodegeneration",
+                                          "Not subjected to environmental influence",
+                                          "Hallucination"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  74,
+                          "stem":  "Which one of the following is NOT found in a prokaryotic cell?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cell wall",
+                                          "Ribosome",
+                                          "Nuclear membrane",
+                                          "Plasmid DNA"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  75,
+                          "stem":  "Which of the following statements is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hardy-Weinberg Principle says that allele frequencies in a population is unstable",
+                                          "Branching descent and natural selection are the two key concepts of Darwinian Theory of evolution",
+                                          "Lamarckism is based on inheritance of acquired character",
+                                          "The concept of mutation, gene flow, genetic drift, gene recombination and natural selection affect Hardy- Weinberg equilibrium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  76,
+                          "stem":  "Which of the following can be considered associated with mitigation of environmental problems?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Biomagnification",
+                                          "Accelerated eutrophication",
+                                          "Release of Nuclear wastes",
+                                          "Categorical disposal of different wastes"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Environment",
+                          "topic":  "Environment"
+                      },
+                      {
+                          "n":  77,
+                          "stem":  "Which of the following statements is/are associated with role of enzymes in genetic engineering? Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. Exonucleases remove nucleotides from the ends of DNA",
+                                       "2. Restriction endonucleases are used to form recombinant molecule of DNA"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  78,
+                          "stem":  "Which one of the following is NOT a biocontrol agent?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bacillus thuringiensis",
+                                          "Ladybird beetle",
+                                          "Trichoderma",
+                                          "Aphid"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  79,
+                          "stem":  "Which one of the following statements is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Single celled eukaryotes belong to Kingdom Protista",
+                                          "Yeast, a fungus is multicellular",
+                                          "The fungi constitute a unique kingdom of heterotrophs",
+                                          "Ascomycetes, a saprophytic fungi is multicellular or rarely unicellular"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  80,
+                          "stem":  "Which of the following statements associated with cancer is/are correct? Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. Oncogenes expression and some viral infections can cause cancer",
+                                       "2. In metastasis, the cancer cells spread through the blood and lymphatic system"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  81,
+                          "stem":  "Consider the following statements with regard to the defence sector in India: 2026-27 2026-27 Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. The overall defence budget has increased from about Rs 2.50 lakh crore in FY 2013-14 to Rs 7.80 lakh crore in FY",
+                                       "2. Capital expenditure has risen sharply from about Rs 94,000 crore in 2014-15 to more than Rs 2.00 lakh crore in"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Defence",
+                          "topic":  "Defence"
+                      },
+                      {
+                          "n":  82,
+                          "stem":  "The Technology Development Fund (TDF) is a flagship initiative under",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ministry of Defence",
+                                          "Ministry of Heavy Industries",
+                                          "Ministry of Science and Technology",
+                                          "Ministry of Agriculture and Farmers Welfare"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Defence",
+                          "topic":  "Defence"
+                      },
+                      {
+                          "n":  83,
+                          "stem":  "Consider the following statements about Exercise Khaan Quest, 2026: personnel from other Arms and Services operating in a multilateral environment Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. The Indian Army contingent comprises 40 personnel, including troops from a battalion of the Sikh Regiment and",
+                                       "2. The aim of the Exercise is to prepare contingents of participating Defence Forces for peacekeeping missions while"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Defence",
+                          "topic":  "Defence"
+                      },
+                      {
+                          "n":  84,
+                          "stem":  "How many of the 2026 Padma awardees were conferred the award from the category of Foreigners / NRI / PIO / OCI?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2",
+                                          "4",
+                                          "6",
+                                          "8"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Current Affairs"
+                      },
+                      {
+                          "n":  85,
+                          "stem":  "The Report on Floating Solar PV Potential Assessment of India was released by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ministry of Power",
+                                          "Ministry of New and Renewable Energy",
+                                          "Ministry of Coal",
+                                          "Ministry of Petroleum and Natural Gas"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Environment",
+                          "topic":  "Environment"
+                      },
+                      {
+                          "n":  86,
+                          "stem":  "Which one among the following was the theme of Fire Safety Week 2026?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Unite to Ignite, a Fire Safe India",
+                                          "(!)Safe Schools, Safe Hospitals, and a Fire Safety Aware Society Together for Fire Prevention [option partly obscured by student\u0027s scribble]",
+                                          "Ensure Fire Safety, Contribute towards Nation Building",
+                                          "Awareness in Fire Safety for Growth of National Infrastructure"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Current Affairs"
+                      },
+                      {
+                          "n":  87,
+                          "stem":  "NDMA has recently successfully operationalised the Integrated Alert System (SACHET). It has been developed by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "C-DOT (Centre for Development of Telematics)",
+                                          "C-DAC (Centre for Development of Advanced Computing)",
+                                          "C-MET (Centre for Materials for Electronics Technology)",
+                                          "SAMEER (Society for Applied Microwave Electronics Engineering \u0026 Research)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  88,
+                          "stem":  "Which book won the 2026 International Booker Prize?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Taiwan Travelogue",
+                                          "Transcription",
+                                          "Shadow Ticket",
+                                          "Vigil"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Current Affairs"
+                      },
+                      {
+                          "n":  89,
+                          "stem":  "Which of the following statements relating to SEBI (Index Providers) Regulations, 2024 is/are correct? recognized stock exchange in India for use in the Indian securities market Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. These are applicable only to Index Providers that administer significant indices consisting of securities listed on a",
+                                       "2. The primary objective is to promote transparency and accountability in governance and administration of indices"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  90,
+                          "stem":  "Which of the following statements regarding \u0027Startup India Fund of Funds 2.0\u0027 is/are correct? Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. It has a corpus of about Rs 10,000 crore",
+                                       "2. NITI Aayog serves as the primary implementation agency",
+                                       "3. It focuses on deep-tech and technology-driven manufacturing startups"
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "2 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Economy"
+                      },
+                      {
+                          "n":  91,
+                          "stem":  "\u0027Study of human societies and cultures from the oldest times to the present\u0027 is the work of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Archaeologists",
+                                          "Anthropologists",
+                                          "Palaeontologists",
+                                          "Geologists"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Miscellaneous",
+                          "topic":  "Miscellaneous"
+                      },
+                      {
+                          "n":  92,
+                          "stem":  "How many of the following pairs is/are correctly matched? Harappan site : Modern state/region Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. Bhirrana : Haryana",
+                                       "2. Ganweriwala : Punjab (Pakistan)",
+                                       "3. Dholavira : Gujarat",
+                                       "4. Farmana : Uttar Pradesh"
+                                   ],
+                          "options":  [
+                                          "1",
+                                          "2",
+                                          "3",
+                                          "4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  93,
+                          "stem":  "Which of the following is/are correct about the Harappans? Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. They were the first to grow cotton in Eurasia",
+                                       "2. They consumed turmeric, ginger and banana"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  94,
+                          "stem":  "The stories of Shvetaketu and Nachiketa teach us the worth of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Unquestioned obedience to Rishis",
+                                          "Asking questions in pursuit of knowledge",
+                                          "Lasting friendships in life",
+                                          "Physical labour for healthy life"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  95,
+                          "stem":  "Which of the following schools of thought believed that \u0027this material world is the only thing that exists\u0027 and therefore \u0027there can be no life after death\u0027?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vaisheshika",
+                                          "Ajivika",
+                                          "Charvaka",
+                                          "Nyaya"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  96,
+                          "stem":  "Consider the following statements: Which of the above statements is/are correct?",
+                          "subs":  [
+                                       "1. Dasavatara temple at Deogarh is a Gupta period building",
+                                       "2. Bhitargaon temple is built of dressed stone"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  97,
+                          "stem":  "Consider the following statements about the treaty of Allahabad (1765): to Mughal Emperor How many of the above statements is/are correct?",
+                          "subs":  [
+                                       "1. It was an agreement between the Mughal emperor Shah Alam II and the English East India Company",
+                                       "2. It made the English East India Company the Diwan of Bengal, Bihar and Orissa",
+                                       "3. As per the provisions of the treaty, the East India Company was granted Diwani in exchange for an annual tribute",
+                                       "4. The treaty was worked out after the defeat of the Mughal emperor in the battle of Buxar"
+                                   ],
+                          "options":  [
+                                          "1",
+                                          "2",
+                                          "3",
+                                          "4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  98,
+                          "stem":  "Which of the following is a correct order of placement of major Harappan settlements from north to south?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lakhmirwala, Banawali, Rakhigarhi, Bhirrana",
+                                          "Rakhigarhi, Banawali, Bhirrana, Lakhmirwala",
+                                          "Banawali, Rakhigarhi, Lakhmirwala, Bhirrana",
+                                          "Rakhigarhi, Bhirrana, Banawali, Lakhmirwala"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  99,
+                          "stem":  "Arrange the following landmarks in the discovery and preservation of early monuments and sculpture in a chronological order: Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. Founding of the Indian museum, Calcutta",
+                                       "2. H. H. Cole appointed Curator of Ancient Monuments",
+                                       "3. Establishment of the Government Museum, Madras",
+                                       "4. Passing of the Indian Treasure Trove Act, 1878"
+                                   ],
+                          "options":  [
+                                          "1, 2, 3, 4",
+                                          "1, 3, 2, 4",
+                                          "2, 3, 4, 1",
+                                          "3, 4, 2, 1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  100,
+                          "stem":  "With reference to the eligibility criteria for becoming the member of a \u0027Sabha\u0027 as laid down in the Uttarmerur inscription, consider the following statements: Which of the statements given above is/are correct?",
+                          "subs":  [
+                                       "1. The candidate should have his own house and his own plot of land",
+                                       "2. The candidate should be within 60 years of age and above 30 years"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  101,
+                          "stem":  "Why do you think Vijayanagara incorporated agricultural tracts within the fortified area?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To promote high yield agriculture under State supervision",
+                                          "To protect the agricultural belt from the sieges of an invading army",
+                                          "To protect the agriculture from stray animals",
+                                          "To protect the agriculture from drought"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  102,
+                          "stem":  "What do you think the titles of Mahendravarman-I like \u0027Vichitrachitta\u0027, \u0027Chaityakari\u0027 and \u0027Chitrakarapuli\u0027 seem to suggest?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It shows his proficiency in Sanskrit literature",
+                                          "It shows his interest in art activities",
+                                          "It shows his charming personality",
+                                          "It shows his interest in conducting experiments with agriculture"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  103,
+                          "stem":  "The term \u0027Pendentive\u0027 refers to which form of Indian architecture?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A building/temple which tends to be broader and shorter than Latina type",
+                                          "A triangular bracket in the angle of two walls, connecting the base of the dome to its supporting arches",
+                                          "Drum house from where ceremonial music was played which was usually situated over the gate",
+                                          "Many curves in an arch"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Art \u0026 Culture",
+                          "topic":  "Art \u0026 Culture"
+                      },
+                      {
+                          "n":  104,
+                          "stem":  "Which one of the following European travelers have NOT written an account of the Vijayanagara Empire?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Niccolo di Conti",
+                                          "Marco Polo",
+                                          "Domingo Paes",
+                                          "Fernao Nuniz"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  105,
+                          "stem":  "Who among the following was the founder president of the Asiatic Society of Bengal?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Charles Wilkins",
+                                          "William Jones",
+                                          "Warren Hastings",
+                                          "Henry Colebrooke"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  106,
+                          "stem":  "Which one among the following terms was used in the Sangam Texts for ploughmen?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vellalar",
+                                          "Uzhavar",
+                                          "Gahpati",
+                                          "Adimai"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  107,
+                          "stem":  "Prithivimahadevi, Dharmamahadevi, Dandimahadevi and Valkulamahadevi, who became rulers due to the absence of a male heir, belonged to the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Eastern Chalukya dynasty",
+                                          "Kadamba dynasty",
+                                          "Bhauma-Kara dynasty",
+                                          "Gonanda dynasty"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  108,
+                          "stem":  "Sri Narayana Dharma Paripalana Movement took place in which of the following States of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tamil Nadu",
+                                          "Kerala",
+                                          "Punjab",
+                                          "Uttarakhand"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  109,
+                          "stem":  "With reference to the Shunga dynasty, Patanjali refers to the yavanas reaching up to Saketa and Madhyamika. The place Madhyamika is identified as located near",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chittor",
+                                          "Ujjain",
+                                          "Kaushambi",
+                                          "Pataliputra"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  110,
+                          "stem":  "The Sylhet Referendum was held in?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1947",
+                                          "1948",
+                                          "1949",
+                                          "1950"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "History",
+                          "topic":  "History"
+                      },
+                      {
+                          "n":  111,
+                          "stem":  "Which of the following are the forms of calcium carbonate? Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. Marble",
+                                       "2. Chalk",
+                                       "3. Limestone"
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  112,
+                          "stem":  "Upon adding hydrochloric acid in copper oxide, it turns to blue-green color which is due to the formation of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Copper hydrochloride",
+                                          "Copper (II) chloride",
+                                          "Copper (I) chloride",
+                                          "Copper (I) hydride"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  113,
+                          "stem":  "Match List I with List II and select the answer using the code given below the Lists:",
+                          "subs":  [
+                                       "List I (Source): A. Tomato B. Sour milk C. Ant sting D. Vinegar",
+                                       "List II (Acid present): 1. Acetic acid 2. Methanoic acid 3. Oxalic Acid 4. Lactic acid"
+                                   ],
+                          "options":  [
+                                          "3 2 4 1",
+                                          "3 4 2 1",
+                                          "1 2 4 3",
+                                          "1 4 2 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  114,
+                          "stem":  "Chemical formula of cooking soda is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "NaCl",
+                                          "NaOCl",
+                                          "Na2CO3",
+                                          "NaHCO3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  115,
+                          "stem":  "Sodium metal is kept immersed in kerosene oil. This is because",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It evaporates quickly in the air",
+                                          "It undergoes corrosion with air",
+                                          "It reacts violently with moisture in air",
+                                          "All of the above"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  116,
+                          "stem":  "Concentration of a solution can be expressed in: Select the answer using the code given below:",
+                          "subs":  [
+                                       "1. Molarity",
+                                       "2. Molality"
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  117,
+                          "stem":  "When electricity is passed through an aqueous solution of sodium chloride, it decomposes to form",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "NaHCO3",
+                                          "NaOH",
+                                          "HCl",
+                                          "HOCl"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  118,
+                          "stem":  "The mass of one mole of a substance in grams is called its",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kilo-gram mass",
+                                          "Gram-mass",
+                                          "Molar-mass",
+                                          "All the above"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  119,
+                          "stem":  "An aqueous solution of an acid conducts electricity. This is because",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It contains hydrogen ion",
+                                          "It contains water molecules",
+                                          "Electricity passes through it",
+                                          "It generates electricity"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      },
+                      {
+                          "n":  120,
+                          "stem":  "A chemical that donate proton (hydrogen ion) is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hydrophilic",
+                                          "Protophilic",
+                                          "Hydrophobic",
+                                          "Acid"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Science \u0026 Technology",
+                          "topic":  "Science \u0026 Technology"
+                      }
+                  ]
+}

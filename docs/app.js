@@ -1061,6 +1061,12 @@ function showOverview() {
   const ovT = $("ovTitle");
   if (ovT) ovT.textContent = state.multi.title || "Mock Test";
   const ps = state.multi.papers;
+  const ordinal = { 1: "One", 2: "Two", 3: "Three", 4: "Four", 5: "Five" };
+  const mpSub = $("mpSub");
+  if (mpSub) {
+    mpSub.textContent = (ordinal[ps.length] || ps.length) + " papers, taken in order. " +
+      "Each is a separate 2-hour paper worth 100 marks with 1/3 negative marking. A submitted paper cannot be reattempted.";
+  }
   const idx = currentPaperIdx();
   $("ovNameField").style.display = state.name ? "none" : "";
   hide($("ovError"));

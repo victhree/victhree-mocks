@@ -1,0 +1,2030 @@
+{
+    "title":  "English",
+    "durationMin":  120,
+    "scoring":  {
+                    "totalMarks":  100,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The teacher asked that who was absent in the class that day.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The teacher asked",
+                                          "that who was absent",
+                                          "in the class that day.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Neither of the two boys have done his homework.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Neither of the two boys",
+                                          "have done",
+                                          "his homework.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "I recommended that he would reduce his expenditure.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "I recommended",
+                                          "that he would reduce",
+                                          "his expenditure.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "I am looking forward to meet you next month.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "I am looking forward",
+                                          "to meet you",
+                                          "next month.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "She said that she will help me in this matter.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "She said that",
+                                          "she will help me",
+                                          "in this matter.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "He insisted on knowing the reason of my absence.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "He insisted",
+                                          "on knowing",
+                                          "the reason of my absence.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "In your quotidian life you wouldn\u0027t find an elephant in the supermarket.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "In your quotidian life",
+                                          "you wouldn\u0027t find an elephant",
+                                          "in the supermarket.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "I often dreamed of being famous in my prime.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "I often dreamed",
+                                          "of being famous",
+                                          "in my prime.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "These shoes designed for regular runners like yourself.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "These shoes designed",
+                                          "for regular runners",
+                                          "like yourself.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Walk down our street any day you will see children playing.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Walk down our street",
+                                          "any day you will",
+                                          "see children playing.",
+                                          "No error"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Spotting Errors",
+                          "topic":  "Spotting Errors"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "To overplay one\u0027s hand",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To spoil one\u0027s chance of success due to overconfidence",
+                                          "To play card games for too long",
+                                          "To play exceedingly well with one hand",
+                                          "To be a strong arm-wrestler"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Idioms \u0026 Phrases",
+                          "topic":  "Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Pass the buck",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To treat someone badly",
+                                          "To deflect blame",
+                                          "To refuse money",
+                                          "To accept an unpleasant result"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Idioms \u0026 Phrases",
+                          "topic":  "Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Over one\u0027s head",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Protective covering worn as a hat",
+                                          "Bypassing authority surreptitiously",
+                                          "Appreciably taller than one",
+                                          "Beyond one\u0027s ability to understand"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Idioms \u0026 Phrases",
+                          "topic":  "Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Have a finger in every pie",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To be familiar with the most recent developments",
+                                          "To gorge on food",
+                                          "To be able to do something very well",
+                                          "To be involved in different activities"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Idioms \u0026 Phrases",
+                          "topic":  "Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "To go out on a limb",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adopt a convenient position that aligns with the popular view",
+                                          "Adopt a convenient position that goes against the popular view",
+                                          "Adopt a daring position that goes against the popular view",
+                                          "Adopt a daring position that aligns with the popular view"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Idioms \u0026 Phrases",
+                          "topic":  "Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Live on your nerves",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To be continually anxious",
+                                          "To live life to the fullest",
+                                          "To live without fear",
+                                          "To be steely nerved"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Idioms \u0026 Phrases",
+                          "topic":  "Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Lilly-livered",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cowardly",
+                                          "Weak",
+                                          "Inebriated",
+                                          "Triumphant"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Idioms \u0026 Phrases",
+                          "topic":  "Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "To spill the beans",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To be bursting with energy and health",
+                                          "To let a secret slip out",
+                                          "To be laidback and easy-going",
+                                          "To let food go waste"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Idioms \u0026 Phrases",
+                          "topic":  "Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "To make one\u0027s peace",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To experience serenity",
+                                          "To avoid violence at any cost",
+                                          "To put an end to a quarrel",
+                                          "To keep silent amidst adversity"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Idioms \u0026 Phrases",
+                          "topic":  "Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Fall by the wayside",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To trip on the footpath",
+                                          "To lose one\u0027s sense of direction",
+                                          "To weaken moral values",
+                                          "To drop out of a pursuit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Idioms \u0026 Phrases",
+                          "topic":  "Idioms \u0026 Phrases"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Weather, Whether, Whither , In which sentences are the underlined words used correctly?",
+                          "subs":  [
+                                       "1. Weather permitting, we\u0027ll have the gathering outside.",
+                                       "2. Whether conditions are likely to improve by Thursday.",
+                                       "3. They didn\u0027t know whither they should go."
+                                   ],
+                          "options":  [
+                                          "2 and 3 only",
+                                          "1 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Word Usage",
+                          "topic":  "Word Usage"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Quiet, Quite, Quit , In which sentences are the underlined words used correctly?",
+                          "subs":  [
+                                       "1. He plays quiet well.",
+                                       "2. They had a quite wedding.",
+                                       "3. He has decided to quit as the manager of the team."
+                                   ],
+                          "options":  [
+                                          "1 and 3 only",
+                                          "3 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Word Usage",
+                          "topic":  "Word Usage"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Way, Weigh, Whey , In which sentences are the underlined words used correctly?",
+                          "subs":  [
+                                       "1. I\u0027m not happy with this way of working.",
+                                       "2. How much does it weigh?",
+                                       "3. Whey is the thin liquid that separates from the solid parts when milk is curdled."
+                                   ],
+                          "options":  [
+                                          "2 and 3 only",
+                                          "2 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Word Usage",
+                          "topic":  "Word Usage"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Weave, Wave, Waive , In which sentences are the underlined words used correctly?",
+                          "subs":  [
+                                       "1. She loves to wave stories.",
+                                       "2. Unfortunately, he had to waive his rights.",
+                                       "3. A huge weave broke on the shore."
+                                   ],
+                          "options":  [
+                                          "1 and 3 only",
+                                          "2 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Word Usage",
+                          "topic":  "Word Usage"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Peak, Peek, Pique , In which sentences are the underlined words used correctly?",
+                          "subs":  [
+                                       "1. Traffic reaches its peak between 8 and 9 in the morning.",
+                                       "2. She peeked at the audience from behind the curtain.",
+                                       "3. When he realised nobody was listening to him, he left in a fit of pique."
+                                   ],
+                          "options":  [
+                                          "1 and 3 only",
+                                          "1 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Word Usage",
+                          "topic":  "Word Usage"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Sent, Scent, Cent , In which sentences are the underlined words used correctly?",
+                          "subs":  [
+                                       "1. A one minute phone call to the UK costs one sent.",
+                                       "2. The air was filled with the scent of wild flowers.",
+                                       "3. The dogs following him must have lost his cent."
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Word Usage",
+                          "topic":  "Word Usage"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Aisle, Ale, Isle , In which sentences are the underlined words used correctly?",
+                          "subs":  [
+                                       "1. I always prefer the isle seat in an aeroplane.",
+                                       "2. He always began his day with a glass of ginger ale.",
+                                       "3. While on a picnic we discovered a small aisle in the middle of a lake."
+                                   ],
+                          "options":  [
+                                          "2 and 3 only",
+                                          "2 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Word Usage",
+                          "topic":  "Word Usage"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Rein, Reign, Arraign , In which of the sentences given above have the underlined words been used correctly?",
+                          "subs":  [
+                                       "1. Queen Elizabeth II had a long rein as a British monarch.",
+                                       "2. One needs to reign in their impulses at times.",
+                                       "3. He was arraigned before the judge yesterday."
+                                   ],
+                          "options":  [
+                                          "1 and 3 only",
+                                          "2 and 3 only",
+                                          "3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Word Usage",
+                          "topic":  "Word Usage"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Ascend, Ascent, Assent , In which of the sentences given above have the underlined words been used correctly?",
+                          "subs":  [
+                                       "1. She made the ascend to the top of the mountains seem effortless.",
+                                       "2. The Prince waited a long time to ascend the throne.",
+                                       "3. She gave her tacit ascent to the transfer of power."
+                                   ],
+                          "options":  [
+                                          "2 only",
+                                          "1 and 2 only",
+                                          "1 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Word Usage",
+                          "topic":  "Word Usage"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Brawl, Bawl, Bowl , In which of the sentences given above have the underlined words been used correctly?",
+                          "subs":  [
+                                       "1. The brawl caused utter confusion inside the train compartment.",
+                                       "2. The host served a bawl of fresh garden fruit to the guests.",
+                                       "3. The little kid started to bowl noisily."
+                                   ],
+                          "options":  [
+                                          "2 only",
+                                          "1 and 2 only",
+                                          "1 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Word Usage",
+                          "topic":  "Word Usage"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "The second sentence:",
+                          "subs":  [
+                                       "S1: Many students failed in the examination.",
+                                       "S2: However, those who attended extra classes did not fail."
+                                   ],
+                          "options":  [
+                                          "contradicts the first",
+                                          "contrasts with the first",
+                                          "confirms the first",
+                                          "qualifies the first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Pairs",
+                          "topic":  "Sentence Pairs"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "The second sentence:",
+                          "subs":  [
+                                       "S1: The medicine was supposed to reduce his fever.",
+                                       "S2: Even after taking it, his temperature continued to rise."
+                                   ],
+                          "options":  [
+                                          "negates the first",
+                                          "contrasts with the first",
+                                          "confirms the first",
+                                          "qualifies the first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Pairs",
+                          "topic":  "Sentence Pairs"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "The second sentence:",
+                          "subs":  [
+                                       "S1: Mohan enjoys classical music.",
+                                       "S2: Sohan likes popular musical genres."
+                                   ],
+                          "options":  [
+                                          "contradicts the first",
+                                          "contrasts with the first",
+                                          "confirms the first",
+                                          "qualifies the first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Pairs",
+                          "topic":  "Sentence Pairs"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "S1 / S2 The second sentence:",
+                          "subs":  [
+                                       "S1: Global warming is accelerating with each passing year.",
+                                       "S2: Recent studies indicate that temperatures are rising across continents."
+                                   ],
+                          "options":  [
+                                          "contradicts the first",
+                                          "contrasts with the first",
+                                          "confirms the first",
+                                          "qualifies the first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Pairs",
+                          "topic":  "Sentence Pairs"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "The second sentence:",
+                          "subs":  [
+                                       "S1: Sarah recently contended that she has never visited Paris.",
+                                       "S2: Someone shared a photograph that shows Sarah standing underneath the Eiffel Tower."
+                                   ],
+                          "options":  [
+                                          "contradicts the first",
+                                          "contrasts with the first",
+                                          "confirms the first",
+                                          "qualifies the first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Pairs",
+                          "topic":  "Sentence Pairs"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "The second sentence:",
+                          "subs":  [
+                                       "S1: The Indian team won the championship.",
+                                       "S2: They were struggling in the preliminary rounds."
+                                   ],
+                          "options":  [
+                                          "contradicts the first",
+                                          "contrasts with the first",
+                                          "confirms the first",
+                                          "qualifies the first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Pairs",
+                          "topic":  "Sentence Pairs"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "The second sentence:",
+                          "subs":  [
+                                       "S1: Geeta is an excellent public speaker.",
+                                       "S2: She received a standing ovation after her speech."
+                                   ],
+                          "options":  [
+                                          "affirms the first",
+                                          "contradicts the first",
+                                          "contrasts with the first",
+                                          "qualifies the first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Pairs",
+                          "topic":  "Sentence Pairs"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "The second sentence:",
+                          "subs":  [
+                                       "S1: The city is known for its modern architecture.",
+                                       "S2: The neighbouring villages maintain their traditional buildings."
+                                   ],
+                          "options":  [
+                                          "affirms the first",
+                                          "contrasts with the first",
+                                          "confirms the first",
+                                          "quantifies the first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Pairs",
+                          "topic":  "Sentence Pairs"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "The second sentence:",
+                          "subs":  [
+                                       "S1: The train is usually on time.",
+                                       "S2: The train was delayed by an hour today."
+                                   ],
+                          "options":  [
+                                          "qualifies the first",
+                                          "contradicts the first",
+                                          "contrasts with the first",
+                                          "confirms the first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Pairs",
+                          "topic":  "Sentence Pairs"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "The second sentence:",
+                          "subs":  [
+                                       "S1: This vaccine is highly effective.",
+                                       "S2: Notably, however, its effect decreases slightly in older adults."
+                                   ],
+                          "options":  [
+                                          "contradicts the first",
+                                          "contrasts with the first",
+                                          "confirms the first",
+                                          "qualifies the first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Pairs",
+                          "topic":  "Sentence Pairs"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "Her experience is requisite for the job. (opposite of: requisite)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "essential",
+                                          "obligatory",
+                                          "vital",
+                                          "optional"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Antonyms",
+                          "topic":  "Antonyms"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "They were given rudimentary training for the job. (opposite of: rudimentary)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "fundamental",
+                                          "advanced",
+                                          "basic",
+                                          "elementary"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Antonyms",
+                          "topic":  "Antonyms"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "She sat there looking morose. (opposite of: morose)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cheerful",
+                                          "melancholic",
+                                          "disinterested",
+                                          "sullen"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Antonyms",
+                          "topic":  "Antonyms"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "If you listen carefully you\u0027ll discover that the soundtrack is fuzzy in places. (opposite of: fuzzy)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "noisy",
+                                          "distorted",
+                                          "clear",
+                                          "vague"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Antonyms",
+                          "topic":  "Antonyms"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "The shopkeeper is known to charge exorbitant rates for the articles in his shop. (opposite of: exorbitant)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "high",
+                                          "affordable",
+                                          "outrageous",
+                                          "ridiculous"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Antonyms",
+                          "topic":  "Antonyms"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "If you ponder the matter you are likely to arrive at the appropriate conclusion. (opposite of: ponder)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "mull",
+                                          "ignore",
+                                          "defer",
+                                          "rethink"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Antonyms",
+                          "topic":  "Antonyms"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "The diagnosis based on radiological evidence determined the condition to be mortiferous. (opposite of: mortiferous)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "exacerbating",
+                                          "degenerative",
+                                          "benign",
+                                          "lethal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Antonyms",
+                          "topic":  "Antonyms"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "The party president chose to placate his critics within the party. (opposite of: placate)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "prime",
+                                          "persuade",
+                                          "pacify",
+                                          "provoke"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Antonyms",
+                          "topic":  "Antonyms"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "The magician hoodwinked the children. (opposite of: hoodwinked)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cheated",
+                                          "fooled",
+                                          "disabused",
+                                          "unhooked"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Antonyms",
+                          "topic":  "Antonyms"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "She led a precarious life as a theatre artist. (opposite of: precarious)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "insecure",
+                                          "precious",
+                                          "precipitous",
+                                          "stable"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Antonyms",
+                          "topic":  "Antonyms"
+                      },
+                      {
+                          "n":  51,
+                          "stem":  "Switzerland lies _____ France, Germany, Austria and Italy.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "among",
+                                          "between",
+                                          "with",
+                                          "besides"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze",
+                          "topic":  "Cloze"
+                      },
+                      {
+                          "n":  52,
+                          "stem":  "Cloze May I pay _____ credit card? Cloze",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "by",
+                                          "with",
+                                          "in",
+                                          "on"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze",
+                          "topic":  "Cloze"
+                      },
+                      {
+                          "n":  53,
+                          "stem":  "The information is available _____ the internet.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "from",
+                                          "with",
+                                          "in",
+                                          "on"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze",
+                          "topic":  "Cloze"
+                      },
+                      {
+                          "n":  54,
+                          "stem":  "Didn\u0027t you borrow _____ books of mine?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "some",
+                                          "any",
+                                          "few",
+                                          "many"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze",
+                          "topic":  "Cloze"
+                      },
+                      {
+                          "n":  55,
+                          "stem":  "If you have any leftover milk, could you spare me _____?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "little",
+                                          "a little",
+                                          "an little",
+                                          "any"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze",
+                          "topic":  "Cloze"
+                      },
+                      {
+                          "n":  56,
+                          "stem":  "He sat _____ her all night.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "aside",
+                                          "beside",
+                                          "besides",
+                                          "asides"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze",
+                          "topic":  "Cloze"
+                      },
+                      {
+                          "n":  57,
+                          "stem":  "Tell me _____ your plans.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "for",
+                                          "around",
+                                          "about",
+                                          "through"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze",
+                          "topic":  "Cloze"
+                      },
+                      {
+                          "n":  58,
+                          "stem":  "_____ people make their own bread today than in earlier times.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lesser",
+                                          "Fewer",
+                                          "Few",
+                                          "Less"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze",
+                          "topic":  "Cloze"
+                      },
+                      {
+                          "n":  59,
+                          "stem":  "This beautiful historical building shall soon be restored to its _____ state.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "normal",
+                                          "pristine",
+                                          "degenerate",
+                                          "dilapidated"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze",
+                          "topic":  "Cloze"
+                      },
+                      {
+                          "n":  60,
+                          "stem":  "I don\u0027t like being stared _____.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "to",
+                                          "at",
+                                          "on",
+                                          "about"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Cloze",
+                          "topic":  "Cloze"
+                      },
+                      {
+                          "n":  61,
+                          "stem":  "Match List I with List II and select the correct answer:",
+                          "subs":  [
+                                       "List I (Word/Term): A. Discreet B. Discrete C. Desecrate D. Decrepit",
+                                       "List II (Meaning): 1. Decaying 2. Tactful 3. Defile 4. Separate"
+                                   ],
+                          "options":  [
+                                          "A-2, B-4, C-3, D-1",
+                                          "A-4, B-3, C-2, D-1",
+                                          "A-1, B-3, C-2, D-4",
+                                          "A-4, B-3, C-1, D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match the Columns",
+                          "topic":  "Match the Columns"
+                      },
+                      {
+                          "n":  62,
+                          "stem":  "Match List I with List II and select the correct answer:",
+                          "subs":  [
+                                       "List I (Word/Term): A. Inflation B. Indentation C. Infiltration D. Inflection",
+                                       "List II (Meaning): 1. Expansion 2. Declension 3. Permeation 4. Depression"
+                                   ],
+                          "options":  [
+                                          "A-4, B-2, C-3, D-1",
+                                          "A-4, B-3, C-2, D-1",
+                                          "A-1, B-3, C-2, D-4",
+                                          "A-1, B-4, C-3, D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match the Columns",
+                          "topic":  "Match the Columns"
+                      },
+                      {
+                          "n":  63,
+                          "stem":  "Match List I with List II and select the correct answer:",
+                          "subs":  [
+                                       "List I (Word/Term): A. Polyglot B. Polymorphous C. Polysemy D. Polymath",
+                                       "List II (Meaning): 1. Having more than one meaning 2. A person of great and varied learning 3. A person knowing more than one language 4. Having many different forms"
+                                   ],
+                          "options":  [
+                                          "A-3, B-2, C-1, D-4",
+                                          "A-3, B-4, C-2, D-1",
+                                          "A-3, B-4, C-1, D-2",
+                                          "A-4, B-3, C-1, D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match the Columns",
+                          "topic":  "Match the Columns"
+                      },
+                      {
+                          "n":  64,
+                          "stem":  "Match List I with List II and select the correct answer:",
+                          "subs":  [
+                                       "List I (Word/Term): A. Philatelist B. Philanthropist C. Philologist D. Philistine",
+                                       "List II (Meaning): 1. A person who studies language 2. A person who does not value art or culture 3. A person who collects stamps 4. A person who helps the needy"
+                                   ],
+                          "options":  [
+                                          "A-3, B-2, C-1, D-4",
+                                          "A-3, B-4, C-1, D-2",
+                                          "A-3, B-4, C-2, D-1",
+                                          "A-4, B-3, C-1, D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match the Columns",
+                          "topic":  "Match the Columns"
+                      },
+                      {
+                          "n":  65,
+                          "stem":  "Match List I with List II and select the correct answer:",
+                          "subs":  [
+                                       "List I (Word/Term): A. Tabernacle B. Tenuous C. Tempestuous D. Tendentious",
+                                       "List II (Meaning): 1. Biased 2. Place of worship 3. Stormy 4. Flimsy"
+                                   ],
+                          "options":  [
+                                          "A-2, B-4, C-3, D-1",
+                                          "A-4, B-3, C-2, D-1",
+                                          "A-1, B-3, C-2, D-4",
+                                          "A-4, B-3, C-1, D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match the Columns",
+                          "topic":  "Match the Columns"
+                      },
+                      {
+                          "n":  66,
+                          "stem":  "Match List I with List II and select the correct answer:",
+                          "subs":  [
+                                       "List I (Word/Term): A. Sacred B. Desecration C. Sacrosanct D. Sacrifice",
+                                       "List II (Meaning): 1. Oblation 2. Consecrated 3. Defilement 4. Inviolable"
+                                   ],
+                          "options":  [
+                                          "A-3, B-4, C-1, D-2",
+                                          "A-2, B-3, C-4, D-1",
+                                          "A-2, B-4, C-1, D-3",
+                                          "A-3, B-1, C-4, D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match the Columns",
+                          "topic":  "Match the Columns"
+                      },
+                      {
+                          "n":  67,
+                          "stem":  "Match List I with List II and select the correct answer:",
+                          "subs":  [
+                                       "List I (Word/Term): A. Triumph B. Triumphant C. Triumphal D. Triumphalism",
+                                       "List II (Meaning): 1. Feeling great pride post victory 2. Act of celebrating a great success or victory 3. A show of smug superiority 4. A notable success"
+                                   ],
+                          "options":  [
+                                          "A-4, B-1, C-2, D-3",
+                                          "A-2, B-3, C-4, D-1",
+                                          "A-2, B-4, C-1, D-3",
+                                          "A-3, B-1, C-4, D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match the Columns",
+                          "topic":  "Match the Columns"
+                      },
+                      {
+                          "n":  68,
+                          "stem":  "Match List I with List II and select the correct answer:",
+                          "subs":  [
+                                       "List I (Word/Term): A. Revel B. Revelry C. Reveal D. Reveller",
+                                       "List II (Meaning): 1. Unrestrained merriment 2. To make merry 3. Boisterous individual making merry 4. Disclose"
+                                   ],
+                          "options":  [
+                                          "A-1, B-4, C-2, D-3",
+                                          "A-4, B-3, C-2, D-1",
+                                          "A-2, B-1, C-4, D-3",
+                                          "A-3, B-4, C-1, D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match the Columns",
+                          "topic":  "Match the Columns"
+                      },
+                      {
+                          "n":  69,
+                          "stem":  "Match List I with List II and select the correct answer:",
+                          "subs":  [
+                                       "List I (Word/Term): A. Transmit B. Transmute C. Transpire D. Transient",
+                                       "List II (Meaning): 1. To happen or occur 2. To continue for only a short time 3. To change into something different 4. To send an electronic signal"
+                                   ],
+                          "options":  [
+                                          "A-3, B-4, C-2, D-1",
+                                          "A-4, B-2, C-3, D-1",
+                                          "A-2, B-4, C-1, D-3",
+                                          "A-4, B-3, C-1, D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match the Columns",
+                          "topic":  "Match the Columns"
+                      },
+                      {
+                          "n":  70,
+                          "stem":  "Match List I with List II and select the correct answer:",
+                          "subs":  [
+                                       "List I (Word/Term): A. Emanated B. Emancipated C. Empathised D. Emaciated",
+                                       "List II (Meaning): 1. Liberated 2. Starved 3. Originated 4. Commiserated"
+                                   ],
+                          "options":  [
+                                          "A-3, B-4, C-2, D-1",
+                                          "A-4, B-2, C-1, D-3",
+                                          "A-3, B-1, C-4, D-2",
+                                          "A-4, B-3, C-1, D-2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Match the Columns",
+                          "topic":  "Match the Columns"
+                      },
+                      {
+                          "n":  71,
+                          "stem":  "In this passage, “women\u0027s suffrage” refers to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Women\u0027s suffering",
+                                          "Women\u0027s inability to read",
+                                          "Women\u0027s right to vote in political elections",
+                                          "Women\u0027s anger at political rallies"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "When Elizabeth Long began investigating women\u0027s book groups in the mid-1980s, her research plan provoked two profoundly different sets of reactions. Women, who had themselves participated in such groups, as well as men whose mothers and grandmothers had done so, immediately grasped the importance of her project: “You will never know what a difference it made” was the phrase she heard again and again. But among her academic colleagues, common readers seemed to be occupying a zone of cultural invisibility. They were not of interest to literature departments, whose major focus is on books and authors, not readers. They were not of interest to sociologists or political scientists because women\u0027s reading groups do not pursue activities with any obvious relationship to formal political processes. Long, however, went on to show that such groups had mobilised the women\u0027s suffrage and Progressive movements at the grassroots. Scholars of popular culture had not found reading groups interesting because the groups read canonized fiction and did not transform their cultural consumption into a \u0027resistant\u0027 subcultural style. It had not yet occurred to them that the so-called highbrow canonical literature could be immensely popular and devilishly subversive. David Vincent\u0027s Bread, Knowledge and Freedom (1981) had already demonstrated the important role of reading in inspiring working-class consciousness in early nineteenth-century Britain. As a sociologist, Long concluded that the really important question that needed answering was why academics did not care about readers."
+                      },
+                      {
+                          "n":  72,
+                          "stem":  "In this passage, “grassroots” refers to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The common people at a local level",
+                                          "The common problems faced by people",
+                                          "The root cause of poverty",
+                                          "The gentry in the cities"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "When Elizabeth Long began investigating women\u0027s book groups in the mid-1980s, her research plan provoked two profoundly different sets of reactions. Women, who had themselves participated in such groups, as well as men whose mothers and grandmothers had done so, immediately grasped the importance of her project: “You will never know what a difference it made” was the phrase she heard again and again. But among her academic colleagues, common readers seemed to be occupying a zone of cultural invisibility. They were not of interest to literature departments, whose major focus is on books and authors, not readers. They were not of interest to sociologists or political scientists because women\u0027s reading groups do not pursue activities with any obvious relationship to formal political processes. Long, however, went on to show that such groups had mobilised the women\u0027s suffrage and Progressive movements at the grassroots. Scholars of popular culture had not found reading groups interesting because the groups read canonized fiction and did not transform their cultural consumption into a \u0027resistant\u0027 subcultural style. It had not yet occurred to them that the so-called highbrow canonical literature could be immensely popular and devilishly subversive. David Vincent\u0027s Bread, Knowledge and Freedom (1981) had already demonstrated the important role of reading in inspiring working-class consciousness in early nineteenth-century Britain. As a sociologist, Long concluded that the really important question that needed answering was why academics did not care about readers."
+                      },
+                      {
+                          "n":  73,
+                          "stem":  "Which of the following is the correct noun form of “subversive”?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Subvert",
+                                          "Subverting",
+                                          "Subversion",
+                                          "Subvention"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "When Elizabeth Long began investigating women\u0027s book groups in the mid-1980s, her research plan provoked two profoundly different sets of reactions. Women, who had themselves participated in such groups, as well as men whose mothers and grandmothers had done so, immediately grasped the importance of her project: “You will never know what a difference it made” was the phrase she heard again and again. But among her academic colleagues, common readers seemed to be occupying a zone of cultural invisibility. They were not of interest to literature departments, whose major focus is on books and authors, not readers. They were not of interest to sociologists or political scientists because women\u0027s reading groups do not pursue activities with any obvious relationship to formal political processes. Long, however, went on to show that such groups had mobilised the women\u0027s suffrage and Progressive movements at the grassroots. Scholars of popular culture had not found reading groups interesting because the groups read canonized fiction and did not transform their cultural consumption into a \u0027resistant\u0027 subcultural style. It had not yet occurred to them that the so-called highbrow canonical literature could be immensely popular and devilishly subversive. David Vincent\u0027s Bread, Knowledge and Freedom (1981) had already demonstrated the important role of reading in inspiring working-class consciousness in early nineteenth-century Britain. As a sociologist, Long concluded that the really important question that needed answering was why academics did not care about readers."
+                      },
+                      {
+                          "n":  74,
+                          "stem":  "In this passage, “canonical literature” refers to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "War literature",
+                                          "Nonsensical literature",
+                                          "Influential and significant literature",
+                                          "Pretentious and bombastic literature"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "When Elizabeth Long began investigating women\u0027s book groups in the mid-1980s, her research plan provoked two profoundly different sets of reactions. Women, who had themselves participated in such groups, as well as men whose mothers and grandmothers had done so, immediately grasped the importance of her project: “You will never know what a difference it made” was the phrase she heard again and again. But among her academic colleagues, common readers seemed to be occupying a zone of cultural invisibility. They were not of interest to literature departments, whose major focus is on books and authors, not readers. They were not of interest to sociologists or political scientists because women\u0027s reading groups do not pursue activities with any obvious relationship to formal political processes. Long, however, went on to show that such groups had mobilised the women\u0027s suffrage and Progressive movements at the grassroots. Scholars of popular culture had not found reading groups interesting because the groups read canonized fiction and did not transform their cultural consumption into a \u0027resistant\u0027 subcultural style. It had not yet occurred to them that the so-called highbrow canonical literature could be immensely popular and devilishly subversive. David Vincent\u0027s Bread, Knowledge and Freedom (1981) had already demonstrated the important role of reading in inspiring working-class consciousness in early nineteenth-century Britain. As a sociologist, Long concluded that the really important question that needed answering was why academics did not care about readers."
+                      },
+                      {
+                          "n":  75,
+                          "stem":  "Which of the following words is opposite in meaning to the word “resistant”?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "pliant",
+                                          "hesitant",
+                                          "persistent",
+                                          "defiant"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "When Elizabeth Long began investigating women\u0027s book groups in the mid-1980s, her research plan provoked two profoundly different sets of reactions. Women, who had themselves participated in such groups, as well as men whose mothers and grandmothers had done so, immediately grasped the importance of her project: “You will never know what a difference it made” was the phrase she heard again and again. But among her academic colleagues, common readers seemed to be occupying a zone of cultural invisibility. They were not of interest to literature departments, whose major focus is on books and authors, not readers. They were not of interest to sociologists or political scientists because women\u0027s reading groups do not pursue activities with any obvious relationship to formal political processes. Long, however, went on to show that such groups had mobilised the women\u0027s suffrage and Progressive movements at the grassroots. Scholars of popular culture had not found reading groups interesting because the groups read canonized fiction and did not transform their cultural consumption into a \u0027resistant\u0027 subcultural style. It had not yet occurred to them that the so-called highbrow canonical literature could be immensely popular and devilishly subversive. David Vincent\u0027s Bread, Knowledge and Freedom (1981) had already demonstrated the important role of reading in inspiring working-class consciousness in early nineteenth-century Britain. As a sociologist, Long concluded that the really important question that needed answering was why academics did not care about readers."
+                      },
+                      {
+                          "n":  76,
+                          "stem":  "This passage traces the history of ...",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the arrival of the potato in South America from Europe",
+                                          "the arrival of the potato in Europe from India",
+                                          "the arrival of the potato in India from Europe",
+                                          "the arrival of the potato in India from South America"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Christopher Columbus of Spain set foot in the New World in 1492. Six years later, Vasco da Gama of Portugal reached India. During the next two centuries the Spaniards and the Portuguese actively transferred, not only to Europe but to many parts of Asia as well, a number of plant species which they encountered in South and central America, in expectation of their potential either as food or as medicine. These plants had been developed to a high degree by the Maya and Inca civilizations of these regions. Of these, the potato (Solanum tuberosum) is believed to have been domesticated in terraced slopes on the high plateau of Bolivia-Peru in South America, sometime between 5000 and 2000 BC. Europeans first saw potatoes in South America in 1537, and around 1570 a Spanish ship brought the first potatoes to Europe. Though termed papa in South America, they were incorrectly called batata (the name for the sweet potato) when John Gerard first described them in English in 1597, and this name stuck. An 1860 report states that by 1780, potatoes, peas and beans were in high repute as foods in Calcutta, and that the Dutch are said to have been the first to introduce the culture of potatoes, which was received from their settlement of the Cape of Good Hope. From there the British received annually the seeds of every kind of vegetable useful at the table, as well as several plants of which there appears to be much need, especially various kinds of pot herbs."
+                      },
+                      {
+                          "n":  77,
+                          "stem":  "According to this passage, how long ago was the potato domesticated in South America?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Two thousand years ago",
+                                          "Two to five thousand years ago",
+                                          "Four to seven thousand years ago",
+                                          "Ten thousand years ago"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Christopher Columbus of Spain set foot in the New World in 1492. Six years later, Vasco da Gama of Portugal reached India. During the next two centuries the Spaniards and the Portuguese actively transferred, not only to Europe but to many parts of Asia as well, a number of plant species which they encountered in South and central America, in expectation of their potential either as food or as medicine. These plants had been developed to a high degree by the Maya and Inca civilizations of these regions. Of these, the potato (Solanum tuberosum) is believed to have been domesticated in terraced slopes on the high plateau of Bolivia-Peru in South America, sometime between 5000 and 2000 BC. Europeans first saw potatoes in South America in 1537, and around 1570 a Spanish ship brought the first potatoes to Europe. Though termed papa in South America, they were incorrectly called batata (the name for the sweet potato) when John Gerard first described them in English in 1597, and this name stuck. An 1860 report states that by 1780, potatoes, peas and beans were in high repute as foods in Calcutta, and that the Dutch are said to have been the first to introduce the culture of potatoes, which was received from their settlement of the Cape of Good Hope. From there the British received annually the seeds of every kind of vegetable useful at the table, as well as several plants of which there appears to be much need, especially various kinds of pot herbs."
+                      },
+                      {
+                          "n":  78,
+                          "stem":  "In this passage the word “culture” refers to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The arts, music, literature and other intellectual achievements",
+                                          "All the knowledge and values shared by a society",
+                                          "The practices of the Maya and Inca civilisations",
+                                          "Certain techniques of raising plants for propagation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Christopher Columbus of Spain set foot in the New World in 1492. Six years later, Vasco da Gama of Portugal reached India. During the next two centuries the Spaniards and the Portuguese actively transferred, not only to Europe but to many parts of Asia as well, a number of plant species which they encountered in South and central America, in expectation of their potential either as food or as medicine. These plants had been developed to a high degree by the Maya and Inca civilizations of these regions. Of these, the potato (Solanum tuberosum) is believed to have been domesticated in terraced slopes on the high plateau of Bolivia-Peru in South America, sometime between 5000 and 2000 BC. Europeans first saw potatoes in South America in 1537, and around 1570 a Spanish ship brought the first potatoes to Europe. Though termed papa in South America, they were incorrectly called batata (the name for the sweet potato) when John Gerard first described them in English in 1597, and this name stuck. An 1860 report states that by 1780, potatoes, peas and beans were in high repute as foods in Calcutta, and that the Dutch are said to have been the first to introduce the culture of potatoes, which was received from their settlement of the Cape of Good Hope. From there the British received annually the seeds of every kind of vegetable useful at the table, as well as several plants of which there appears to be much need, especially various kinds of pot herbs."
+                      },
+                      {
+                          "n":  79,
+                          "stem":  "Which form of the word “settlement” can be used both as a verb and as an adjective?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Settled",
+                                          "Settling",
+                                          "Settler",
+                                          "Settle"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Christopher Columbus of Spain set foot in the New World in 1492. Six years later, Vasco da Gama of Portugal reached India. During the next two centuries the Spaniards and the Portuguese actively transferred, not only to Europe but to many parts of Asia as well, a number of plant species which they encountered in South and central America, in expectation of their potential either as food or as medicine. These plants had been developed to a high degree by the Maya and Inca civilizations of these regions. Of these, the potato (Solanum tuberosum) is believed to have been domesticated in terraced slopes on the high plateau of Bolivia-Peru in South America, sometime between 5000 and 2000 BC. Europeans first saw potatoes in South America in 1537, and around 1570 a Spanish ship brought the first potatoes to Europe. Though termed papa in South America, they were incorrectly called batata (the name for the sweet potato) when John Gerard first described them in English in 1597, and this name stuck. An 1860 report states that by 1780, potatoes, peas and beans were in high repute as foods in Calcutta, and that the Dutch are said to have been the first to introduce the culture of potatoes, which was received from their settlement of the Cape of Good Hope. From there the British received annually the seeds of every kind of vegetable useful at the table, as well as several plants of which there appears to be much need, especially various kinds of pot herbs."
+                      },
+                      {
+                          "n":  80,
+                          "stem":  "The word “terraced” has been formed by changing",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A noun to a verb",
+                                          "A verb to a noun",
+                                          "An adjective to a noun",
+                                          "A noun to an adjective"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Reading Comprehension",
+                          "topic":  "Reading Comprehension",
+                          "passage":  "Christopher Columbus of Spain set foot in the New World in 1492. Six years later, Vasco da Gama of Portugal reached India. During the next two centuries the Spaniards and the Portuguese actively transferred, not only to Europe but to many parts of Asia as well, a number of plant species which they encountered in South and central America, in expectation of their potential either as food or as medicine. These plants had been developed to a high degree by the Maya and Inca civilizations of these regions. Of these, the potato (Solanum tuberosum) is believed to have been domesticated in terraced slopes on the high plateau of Bolivia-Peru in South America, sometime between 5000 and 2000 BC. Europeans first saw potatoes in South America in 1537, and around 1570 a Spanish ship brought the first potatoes to Europe. Though termed papa in South America, they were incorrectly called batata (the name for the sweet potato) when John Gerard first described them in English in 1597, and this name stuck. An 1860 report states that by 1780, potatoes, peas and beans were in high repute as foods in Calcutta, and that the Dutch are said to have been the first to introduce the culture of potatoes, which was received from their settlement of the Cape of Good Hope. From there the British received annually the seeds of every kind of vegetable useful at the table, as well as several plants of which there appears to be much need, especially various kinds of pot herbs."
+                      },
+                      {
+                          "n":  81,
+                          "stem":  "Codex",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "an ancient manuscript in book form",
+                                          "a member of a monastic community",
+                                          "an algorithm for cracking codes",
+                                          "an ancient time-measuring device"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary",
+                          "topic":  "Vocabulary"
+                      },
+                      {
+                          "n":  82,
+                          "stem":  "Vocab Ergonomics Vocab",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the study of market relations",
+                                          "the non-SI unit for energy",
+                                          "the study of human efficiency in the workplace",
+                                          "the study of agricultural economics"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary",
+                          "topic":  "Vocabulary"
+                      },
+                      {
+                          "n":  83,
+                          "stem":  "Sobriquet",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a thin broth or gruel",
+                                          "an assumed name",
+                                          "a broken piece of glass",
+                                          "an image or likeness of something"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary",
+                          "topic":  "Vocabulary"
+                      },
+                      {
+                          "n":  84,
+                          "stem":  "Viticulture",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the making of vinegar",
+                                          "the activation of any fermentable liquid",
+                                          "the process of making wine",
+                                          "the cultivation of grapevines"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary",
+                          "topic":  "Vocabulary"
+                      },
+                      {
+                          "n":  85,
+                          "stem":  "Vocab Communiqué Vocab",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Official order with retrospective effect",
+                                          "Official order with prospective effect",
+                                          "Official retraction of an order",
+                                          "Official announcement or statement"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary",
+                          "topic":  "Vocabulary"
+                      },
+                      {
+                          "n":  86,
+                          "stem":  "Sub-judice",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Matter under judicial consideration",
+                                          "Not showing or allowing any doubt regarding the legality of a matter",
+                                          "Legal authority over an important matter",
+                                          "A view that is untenable in the eyes of law"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary",
+                          "topic":  "Vocabulary"
+                      },
+                      {
+                          "n":  87,
+                          "stem":  "Manifesto",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Written, printed or typed copy of words that have been spoken",
+                                          "Written statements that describe the policies, goals, and positions of a person or group",
+                                          "Written laws that are formally created by a government",
+                                          "Written description of an organisation\u0027s functions and responsibilities"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary",
+                          "topic":  "Vocabulary"
+                      },
+                      {
+                          "n":  88,
+                          "stem":  "Tapestry",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "An engraved design on the surface of a plate",
+                                          "An artwork using various materials",
+                                          "A hand-dyed painting on fabrics",
+                                          "A heavy decorative cloth hung on a wall"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary",
+                          "topic":  "Vocabulary"
+                      },
+                      {
+                          "n":  89,
+                          "stem":  "Connotation",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The suggested implications beyond the literal meaning",
+                                          "Language that describes something as better or worse than it really is",
+                                          "A main subject that is elaborated upon in a piece of writing",
+                                          "A literal or the primary meaning of a word"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary",
+                          "topic":  "Vocabulary"
+                      },
+                      {
+                          "n":  90,
+                          "stem":  "Alibi",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Proven fact of having been elsewhere at the time of the commitment of a crime",
+                                          "A witness in court who speaks in favour of the defendant",
+                                          "Presenting a proxy to obviate punishment",
+                                          "Proving to be someone other than the accused and escaping thereby"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Vocabulary",
+                          "topic":  "Vocabulary"
+                      },
+                      {
+                          "n":  91,
+                          "stem":  "Arrange the parts (P, Q, R, S) in the correct sequence:",
+                          "subs":  [
+                                       "S1: In a typical Indian village today, one is certain to find groups of women talking about finance.",
+                                       "P: Sitting there, they might proudly introduce themselves by saying that they are members of a self-help group (SHG).",
+                                       "Q: Alternatively, they might lend money at reasonable interest rates to members for starting small businesses.",
+                                       "R: They can be seen sitting under a tree, in an abandoned school building, or in the front yard of a village resident\u0027s dilapidated home, holding thick notebooks.",
+                                       "S: An SHG is usually a community group of 10-12 women from similar socio-economic background who pool their resources for taking up joint economic activities.",
+                                       "S6: In a society where women play significant but never-recognised roles, being a part of an SHG which gives them such financial power is indeed a matter of pride."
+                                   ],
+                          "options":  [
+                                          "QSPR",
+                                          "RPSQ",
+                                          "RQSP",
+                                          "SQPR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Ordering",
+                          "topic":  "Sentence Ordering"
+                      },
+                      {
+                          "n":  92,
+                          "stem":  "Arrange the parts (P, Q, R, S) in the correct sequence:",
+                          "subs":  [
+                                       "S1: For much of history, surnames, or last names, were not considered necessary.",
+                                       "P: The other was the enactment of the Statute of Additions in 1413, which required that all legal documents contain not just the person\u0027s given name, but also his or her occupation and place of abode.",
+                                       "Q: One was the introduction of a poll tax in 1379, which led the government to collect the name of every person aged sixteen or over.",
+                                       "R: But sometimes, the process was accelerated such as in England where two events gave a boost to the adoption of surnames.",
+                                       "S: The business of acquiring surnames was a long one that evolved over centuries rather than years.",
+                                       "S6: These two pieces of medieval bureaucracy meant that virtually everyone had to settle on a definite and fixed surname."
+                                   ],
+                          "options":  [
+                                          "QPRS",
+                                          "RSQP",
+                                          "RQSP",
+                                          "SRQP"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Ordering",
+                          "topic":  "Sentence Ordering"
+                      },
+                      {
+                          "n":  93,
+                          "stem":  "change.",
+                          "subs":  [
+                                       "S1: The first American settlers left England at a time when the English language was undergoing considerable",
+                                       "P: Similarly, thee and thou pronoun forms were also dying out.",
+                                       "Q: This was a time when 12,000 words were being added to the language.",
+                                       "R: One such change which these first settlers had already adopted was to use the -s form on verbs, saying \u0027has\u0027 rather than \u0027hath\u0027, \u0027goes\u0027 rather than \u0027goeth\u0027.",
+                                       "S: It was also a time of considerable change in the structure of the language.",
+                                       "S6: Had the settlers gone a quarter of a century earlier, America might well have preserved these previous forms, as it preserved many other archaisms."
+                                   ],
+                          "options":  [
+                                          "RPQS",
+                                          "QSRP",
+                                          "SQPR",
+                                          "QPRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Ordering",
+                          "topic":  "Sentence Ordering"
+                      },
+                      {
+                          "n":  94,
+                          "stem":  "fourth millennium BCE.",
+                          "subs":  [
+                                       "S1: In 1984, two small clay tablets of vaguely rectangular shape were found in Tell Brak, Syria, dating from the",
+                                       "P: One of the animals may have been a goat, in which case, the other probably was a sheep.",
+                                       "Q: Lying there were these simple, unimpressive objects, each bearing a few discrete markings and some sort of stick- drawn animal in the centre.",
+                                       "R: The indentation, on the other hand, represents, according to archaeologists, the number ten.",
+                                       "S: These two tablets were seen by an expert the year before the Gulf War, in an unostentatious display case in the Archaeological Museum of Baghdad.",
+                                       "S6: All our history begins with these two modest tablets as they are among the oldest examples of writing we know."
+                                   ],
+                          "options":  [
+                                          "SQPR",
+                                          "QSPR",
+                                          "QSRP",
+                                          "SQRP"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Ordering",
+                          "topic":  "Sentence Ordering"
+                      },
+                      {
+                          "n":  95,
+                          "stem":  "district of Andhra Pradesh.",
+                          "subs":  [
+                                       "S1: For generations, the Balaraju pond remained the primary water source of Perakalapudi village in Guntur",
+                                       "P: By the 2000s, decades of water mismanagement led to a rapid drop in the groundwater table as well.",
+                                       "Q: However, overexploitation caused the pond to shrink to half its original size and reduced its water storage capacity by 60 per cent.",
+                                       "R: The pond, spread across 2-4 hectares, supported irrigation, sustained the fishing community, met household needs and remained home to a wide variety of flora and fauna.",
+                                       "S: As the pond disappeared, the households relied on groundwater to meet their daily needs.",
+                                       "S6: It was only after major restoration work was carried out to restore the pond\u0027s storage capacity that the community could return to its traditional livelihood."
+                                   ],
+                          "options":  [
+                                          "QRPS",
+                                          "QPRS",
+                                          "RQSP",
+                                          "RQPS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Ordering",
+                          "topic":  "Sentence Ordering"
+                      },
+                      {
+                          "n":  96,
+                          "stem":  "fundamental - seems less familiar.",
+                          "subs":  [
+                                       "S1: While most people are comfortable talking about colour, the concept of luminance - even though it is more",
+                                       "P: For example, given two patches of grey, they can easily tell which is lighter.",
+                                       "Q: As the artist and art teacher Josef Albers states, just as a musician should be able to distinguish between a higher tone and a lower tone, an artist should be able to distinguish between higher and lower light intensity between different colours.",
+                                       "R: Artists, however, must learn to distinguish differences in luminance, independent of colour.",
+                                       "S: But given two patches of different colours, it is often difficult to make the same distinction.",
+                                       "S6: This is something the Impressionist artists were able to master and it gave a shimmering, lively quality to many of their paintings."
+                                   ],
+                          "options":  [
+                                          "PSRQ",
+                                          "PSQR",
+                                          "RQSP",
+                                          "QRSP"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Ordering",
+                          "topic":  "Sentence Ordering"
+                      },
+                      {
+                          "n":  97,
+                          "stem":  "Arrange the parts (P, Q, R, S) in the correct sequence:",
+                          "subs":  [
+                                       "S1: Wooden furniture is durable and long-lasting, reducing the need for frequent replacement.",
+                                       "P: Some of these negative impacts are deforestation and the loss of habitat for numerous species of animals.",
+                                       "Q: Deforestation in turn disrupts water-cycles and accelerates the pace of climate change.",
+                                       "R: However, its use causes several negative ecological impacts.",
+                                       "S: One way of reducing the use of wood is to recycle it as much as possible.",
+                                       "S6: A still better and sustainable, though slow, way is to plant new trees to maintain the forest cover."
+                                   ],
+                          "options":  [
+                                          "RPQS",
+                                          "QSPR",
+                                          "SQRP",
+                                          "PRSQ"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Ordering",
+                          "topic":  "Sentence Ordering"
+                      },
+                      {
+                          "n":  98,
+                          "stem":  "experiences over a 24-hour cycle.",
+                          "subs":  [
+                                       "S1: Circadian rhythm is a term used to refer to the physical, mental and behavioural changes an organism",
+                                       "P: Light and dark (daytime and night-time) have the biggest influence on these circadian rhythms.",
+                                       "Q: Circadian rhythms are also affected by food intake, stress, physical activity, social environment and temperature.",
+                                       "R: Circadian rhythms are influenced by both internal biological clocks and external environmental cues.",
+                                       "S: When any one or more than one of these cause the circadian rhythm to be disrupted, it can lead to sleep problems, drowsiness and poor focus.",
+                                       "S6: Maintaining a good circadian rhythm through appropriate exposure to natural light, consistent sleep schedules and times of eating, and adequate physical exercise during the day can allow an organism to live a healthy life."
+                                   ],
+                          "options":  [
+                                          "RQSP",
+                                          "QRSP",
+                                          "QRPS",
+                                          "RQPS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Ordering",
+                          "topic":  "Sentence Ordering"
+                      },
+                      {
+                          "n":  99,
+                          "stem":  "Arrange the parts (P, Q, R, S) in the correct sequence:",
+                          "subs":  [
+                                       "S1: All the different parts of our eye help us to see.",
+                                       "P: The iris, which is the coloured part of the eye, controls how much light the pupil lets in.",
+                                       "Q: Next, light passes through the lens, the clear inner part of the eye, which focuses this light on the retina.",
+                                       "R: First, light passes through the cornea, the clear front layer of the eye, and enters the eye through an opening called the pupil.",
+                                       "S: When it hits the retina, special cells called photoreceptors convert the light into electrical signals.",
+                                       "S6: These electrical signals then travel through the optic nerve to the brain which in turn converts these signals into the images we see."
+                                   ],
+                          "options":  [
+                                          "RPSQ",
+                                          "RQPS",
+                                          "RQSP",
+                                          "RPQS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Ordering",
+                          "topic":  "Sentence Ordering"
+                      },
+                      {
+                          "n":  100,
+                          "stem":  "Arrange the parts (P, Q, R, S) in the correct sequence:",
+                          "subs":  [
+                                       "S1: Humans in colder climates first began wearing some form of sturdy foot covering at least 40,000 years ago.",
+                                       "P: Unfortunately, modern shoes have also had a negative impact on feet due to bad design such as a narrow toe box, difference in heel to toe drop, however slight, and stiff soles.",
+                                       "Q: Earlier skeletons had very robust little toes that could bend and grip surfaces.",
+                                       "R: These gradually evolved to become less substantial than the big toe, because shoe-like coverings reduced the mechanical stress on them and made them weaker.",
+                                       "S: The evidence for this comes from the study of changes in the structure of the toe bones of foot skeletons from that time.",
+                                       "S6: Today, minimalistic barefoot shoes are becoming popular because they allow the wearer to feel the ground beneath their feet while still offering some protection and support."
+                                   ],
+                          "options":  [
+                                          "SQRP",
+                                          "QSRP",
+                                          "QSPR",
+                                          "PSQR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Sentence Ordering",
+                          "topic":  "Sentence Ordering"
+                      },
+                      {
+                          "n":  101,
+                          "stem":  "Presumptive and Presumptuous",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Presumptive means something likely to be true, and Presumptuous means to be disrespectfully bold",
+                                          "Presumptive means to be true, respectfully bold, and Presumptuous means something likely to be true",
+                                          "Presumptive means to exist, and Presumptuous means something very important",
+                                          "Presumptive means something likely to be true, and Presumptuous means something very important"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Confused Word Pairs",
+                          "topic":  "Confused Word Pairs"
+                      },
+                      {
+                          "n":  102,
+                          "stem":  "Tempestuous and Temperamental",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tempestuous means unpredictable behaviour, and Temperamental means displaying violent behaviour",
+                                          "Tempestuous means displaying violent behaviour, and Temperamental means unpredictable behaviour",
+                                          "Tempestuous means translatory, and Temperamental means determined by temperature",
+                                          "Tempestuous means determined by temperature, and Temperamental means transitory"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Confused Word Pairs",
+                          "topic":  "Confused Word Pairs"
+                      },
+                      {
+                          "n":  103,
+                          "stem":  "Voyager and Voyeur",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Voyager means a travel writer, and Voyeur means an emotionally vulnerable person",
+                                          "Voyager means an emotionally vulnerable person, and Voyeur means a travel writer",
+                                          "Voyager means a person who enjoys watching the private life of others, and Voyeur means a traveller",
+                                          "Voyager means a traveller, and Voyeur means a person who enjoys watching the private life of others"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Confused Word Pairs",
+                          "topic":  "Confused Word Pairs"
+                      },
+                      {
+                          "n":  104,
+                          "stem":  "Differ and Defer",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Differ means to diffuse, and Defer means to be respectful",
+                                          "Differ means to be respectful, and Defer means to diffuse",
+                                          "Differ means to be different from something, and Defer means to delay action",
+                                          "Differ means to delay action, and Defer means to be different from something"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Confused Word Pairs",
+                          "topic":  "Confused Word Pairs"
+                      },
+                      {
+                          "n":  105,
+                          "stem":  "Elegy and Eulogy",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Elegy means a mournful poem, and Eulogy means a tribute to the dead",
+                                          "Elegy means a tribute to the dead, and Eulogy means a mournful poem",
+                                          "Elegy means an inscription on a gravestone, and Eulogy means a contemptuous utterance",
+                                          "Elegy means an allegation, and Eulogy means an inscription on the gravestone"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Confused Word Pairs",
+                          "topic":  "Confused Word Pairs"
+                      },
+                      {
+                          "n":  106,
+                          "stem":  "Concord and Concourse",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Concord means unity and harmony, and Concourse means the large open space in a building for people to gather",
+                                          "Concord means convergence, and Concourse means to move jointly",
+                                          "Concord means collaboration, and Concourse means goodwill",
+                                          "Concord means to cohere, and Concourse means to unify diverse positions"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Confused Word Pairs",
+                          "topic":  "Confused Word Pairs"
+                      },
+                      {
+                          "n":  107,
+                          "stem":  "Edify and Educe",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Edify means to be elated, and Educe means to subtract",
+                                          "Edify means to improve and uplift, and Educe means to extract information",
+                                          "Edify means to enlighten, and Educe means to reduce",
+                                          "Edify means to delight, and Educe means to be tolerant"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Confused Word Pairs",
+                          "topic":  "Confused Word Pairs"
+                      },
+                      {
+                          "n":  108,
+                          "stem":  "Flaunt and Flinch",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Flaunt means to be flamboyant, and Flinch means to be impertinent",
+                                          "Flaunt means to strut about, and Flinch means to boast",
+                                          "Flaunt means to display with flamboyance, and Flinch means to shy away",
+                                          "Flaunt means to exhibit, and Flinch means to breach"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Confused Word Pairs",
+                          "topic":  "Confused Word Pairs"
+                      },
+                      {
+                          "n":  109,
+                          "stem":  "Ingenious and Ingenuous",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ingenious means to be resourceful, and Ingenuous means to be rooted",
+                                          "Ingenious means to be artless, and Ingenuous means to be inventive",
+                                          "Ingenious means to be naturally talented, and Ingenuous means to be genuine",
+                                          "Ingenious means to be creative, and Ingenuous means to be naively trusting"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Confused Word Pairs",
+                          "topic":  "Confused Word Pairs"
+                      },
+                      {
+                          "n":  110,
+                          "stem":  "Nefarious and Nebulous",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nefarious means scandalous, and Nebulous means indistinct",
+                                          "Nefarious means destitute, and Nebulous means vague",
+                                          "Nefarious means wicked, and Nebulous means unpleasant",
+                                          "Nefarious means fastidious, and Nebulous means exposed"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Confused Word Pairs",
+                          "topic":  "Confused Word Pairs"
+                      },
+                      {
+                          "n":  111,
+                          "stem":  "As a child she displayed a precocious talent for music. (nearest meaning of: precocious)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "mildly unobtrusive",
+                                          "unusually advanced",
+                                          "sequestering",
+                                          "markedly reluctant"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Synonyms",
+                          "topic":  "Synonyms"
+                      },
+                      {
+                          "n":  112,
+                          "stem":  "He spoke with a tremulous voice. (nearest meaning of: tremulous)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "steady",
+                                          "quivering",
+                                          "sturdy",
+                                          "calm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Synonyms",
+                          "topic":  "Synonyms"
+                      },
+                      {
+                          "n":  113,
+                          "stem":  "These days there is a lot of gratuitous violence on television. (nearest meaning of: gratuitous)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "unjustified",
+                                          "gratifying",
+                                          "grating",
+                                          "unqualified"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Synonyms",
+                          "topic":  "Synonyms"
+                      },
+                      {
+                          "n":  114,
+                          "stem":  "His incendiary remarks precipitated disaffection among the group. (nearest meaning of: incendiary)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "insensitive",
+                                          "boastful",
+                                          "extended",
+                                          "provocative"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Synonyms",
+                          "topic":  "Synonyms"
+                      },
+                      {
+                          "n":  115,
+                          "stem":  "Her career as a gymnast has been blighted by the decisions taken by her coach. (nearest meaning of: blighted)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "shortened",
+                                          "ruined",
+                                          "extended",
+                                          "accelerated"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Synonyms",
+                          "topic":  "Synonyms"
+                      },
+                      {
+                          "n":  116,
+                          "stem":  "The office staff were left absolutely nonplussed by the unexpected question posed by the boss. (nearest meaning of: nonplussed)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "exacerbated",
+                                          "disaffected",
+                                          "perplexed",
+                                          "petrified"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Synonyms",
+                          "topic":  "Synonyms"
+                      },
+                      {
+                          "n":  117,
+                          "stem":  "He had not completed the mandatory training for his promotion to the level of senior manager. (nearest meaning of: mandatory)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "perfunctory",
+                                          "compulsory",
+                                          "recommendatory",
+                                          "introductory"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Synonyms",
+                          "topic":  "Synonyms"
+                      },
+                      {
+                          "n":  118,
+                          "stem":  "One ought not to be dogmatic about one\u0027s beliefs. (nearest meaning of: dogmatic)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "rigid",
+                                          "amenable",
+                                          "deterministic",
+                                          "unassuming"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Synonyms",
+                          "topic":  "Synonyms"
+                      },
+                      {
+                          "n":  119,
+                          "stem":  "Guests visiting the professor are inevitably treated to a scrumptious meal. (nearest meaning of: scrumptious)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "lavish",
+                                          "sustainable",
+                                          "delectable",
+                                          "abstemious"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Synonyms",
+                          "topic":  "Synonyms"
+                      },
+                      {
+                          "n":  120,
+                          "stem":  "The menu for the birthday party comprised only savoury items, which took the gathered children by surprise. (nearest meaning of: savoury)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "salty",
+                                          "blanched",
+                                          "sugary",
+                                          "spicy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Synonyms",
+                          "topic":  "Synonyms"
+                      }
+                  ]
+}
