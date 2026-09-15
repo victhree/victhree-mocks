@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Create Your Own Quiz — VicThree Defence</title>
+  <meta name="description" content="Build a custom CDS/AFCAT practice quiz — pick subjects and topics, choose length and timing. VicThree Defence." />
+  <link rel="stylesheet" href="styles.css?v=65" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="banner-wrap">
+      <a href="index.html" class="banner-link" aria-label="Go to home"><img src="assets/banner.jpg" alt="VicThree Defence — by Anmol Sharma" /></a>
+      <a href="index.html" class="home-btn" aria-label="Home" title="Home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3L2 12h3v8h6v-6h2v6h6v-8h3L12 3z"/></svg></a>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="card">
+      <a href="index.html" class="back-link">‹ All tests</a>
+      <h1 id="builderTitle">Create Your Own Quiz</h1>
+      <p class="muted builder-intro">Pick the subjects (and, if you like, the exact topics), choose how many questions and whether it is timed. Questions are drawn from real CDS previous-year papers and from the VicThree mock bank.</p>
+
+      <div id="builderMsg" class="muted" style="padding:8px 0">Loading question bank…</div>
+
+      <div id="builder" hidden>
+        <div class="build-step">
+          <div class="build-head">
+            <h3 class="build-label">1 · Subjects</h3>
+            <div class="build-tools">
+              <button type="button" id="selAll" class="linkbtn">Select all</button>
+              <button type="button" id="selNone" class="linkbtn">Clear</button>
+            </div>
+          </div>
+          <div id="subjectList" class="pick-grid"></div>
+        </div>
+
+        <div class="build-step">
+          <button type="button" id="advToggle" class="adv-toggle" aria-expanded="false">Advanced: choose specific topics ▾</button>
+          <div id="advPanel" hidden>
+            <p class="muted adv-note">Optional. Leave a subject fully unchecked here to include all of its topics. Only the subjects you picked above appear.</p>
+            <div class="build-subhead">Questions from</div>
+            <div class="seg-toggle" role="group" aria-label="Source">
+              <button type="button" class="seg-btn active" data-src="both">Both</button>
+              <button type="button" class="seg-btn" data-src="pyq">PYQs only</button>
+              <button type="button" class="seg-btn" data-src="mock">Mock bank only</button>
+            </div>
+            <div id="topicPanel" class="topic-panel"></div>
+          </div>
+        </div>
+
+        <div class="build-step">
+          <h3 class="build-label">2 · Number of questions</h3>
+          <div class="seg-toggle" role="group" aria-label="Number of questions" id="countSeg">
+            <button type="button" class="seg-btn active" data-count="30">30</button>
+            <button type="button" class="seg-btn" data-count="60">60</button>
+            <button type="button" class="seg-btn" data-count="120">120</button>
+          </div>
+        </div>
+
+        <div class="build-step">
+          <h3 class="build-label">3 · Time limit</h3>
+          <div class="seg-toggle" role="group" aria-label="Time limit" id="timeSeg">
+            <button type="button" class="seg-btn active" data-mode="timed">Timed</button>
+            <button type="button" class="seg-btn" data-mode="untimed">Untimed</button>
+          </div>
+          <p class="muted time-hint" id="timeHint">Timed: about one minute per question, auto-submits at time-up.</p>
+        </div>
+
+        <p id="availLine" class="avail-line"></p>
+        <p id="createError" class="error-msg" hidden></p>
+        <button id="createBtn" class="btn btn-gold btn-block">Create quiz ›</button>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">VicThree Defence · Mock Tests</footer>
+  <script src="create.js?v=65"></script>
+</body>
+</html>

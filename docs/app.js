@@ -31,6 +31,7 @@ const state = {
   submitted: false,
   untimed: false,   // sectional tests can be taken with no time limit
   elapsed: 0,       // seconds elapsed (used to count UP in untimed mode)
+  custom: false,    // Create-Your-Own-Quiz (hybrid PYQ + mock grading)
 };
 
 /* A "sectional" test (GK Sectional category) may be taken untimed. Mirrors
@@ -110,6 +111,9 @@ function getTestId() {
    LOAD QUESTIONS
    ============================================================ */
 async function loadQuiz() {
+  // Create-Your-Own-Quiz is assembled by create.js into sessionStorage.
+  if (new URLSearchParams(window.location.search).get("custom")) { loadCustomQuiz(); return; }
+
   state.testId = getTestId();
 
   // No/invalid test id → send the student back to the test list.
@@ -156,6 +160,39 @@ async function loadQuiz() {
   }
 }
 
+/* Load a Create-Your-Own-Quiz assembled by create.js (sessionStorage). */
+function loadCustomQuiz() {
+  let cq = null;
+  try { cq = JSON.parse(sessionStorage.getItem("v3customquiz") || "null"); } catch (e) {}
+  if (!cq || !cq.questions || !cq.questions.length) { window.location.replace("create.html"); return; }
+
+  state.custom = true;
+  state.testId = "custom";
+  state.quiz = { title: cq.title || "Custom Quiz", custom: true,
+                 scoring: { totalMarks: cq.questions.length, negativeFraction: 1 / 3 } };
+  state.questions = cq.questions;
+  state.untimed = !!cq.untimed;
+  state.durationSec = ((cq.durationMin || cq.questions.length)) * 60;
+  state.remaining = state.durationSec;
+  state.elapsed = 0;
+  clearState(); // custom quizzes are always fresh (no resume of a previous set)
+
+  $("quizTitle").textContent = state.quiz.title;
+  document.title = state.quiz.title + " — VicThree Defence";
+  $("qCount").textContent = state.questions.length;
+  $("scoreMax").textContent = state.questions.length;
+  $("remainingCount").textContent = state.questions.length;
+
+  // Meta lines (timing was chosen in the builder; no toggle here).
+  const durItem = $("durItem");
+  if (durItem) durItem.innerHTML = state.untimed
+    ? "<strong>Untimed</strong> · no time limit"
+    : "<strong>" + (cq.durationMin || state.questions.length) + "</strong> minutes";
+  const ms = $("metaScoring");
+  if (ms) ms.textContent = state.questions.length + " marks · 1/3 negative marking · " +
+    (state.untimed ? "no time limit — submit when done" : "auto-submit at time-up");
+}
+
 /* Reflect the current timing choice in the start-screen meta lines. */
 function updateTimingMeta() {
   const untimed = untimedChosen();
@@ -191,7 +228,7 @@ function startTest() {
   }
   hide($("startError"));
   state.name = name;
-  state.untimed = untimedChosen();
+  if (!state.custom) state.untimed = untimedChosen(); // custom keeps its builder-chosen timing
   state.elapsed = 0;
 
   hide($("resumeBox"));
@@ -625,6 +662,8 @@ async function submitTest(auto = false) {
   show($("overlay"));
   $("overlayMsg").textContent = auto ? "Time up — submitting…" : "Submitting your answers…";
 
+  if (state.custom) { await submitCustom(); return; }
+
   const payload = {
     testId: state.testId,
     name: state.name,
@@ -666,6 +705,49 @@ async function submitTest(auto = false) {
     );
     state.submitted = false; // allow manual retry
   }
+}
+
+/* Grade a Create-Your-Own-Quiz. PYQ questions are graded on-device from their
+   own answer; mock questions are graded by asking the backend for their keys
+   (by source test id + question number), so mock keys stay off the static site. */
+async function submitCustom() {
+  const mockItems = [];
+  state.questions.forEach((q) => { if (q.src === "mock") mockItems.push({ sid: q.sid, sn: q.sn }); });
+  let serverMap = {};
+  try {
+    if (mockItems.length) {
+      const resp = await postWithRetry(CONFIG.BACKEND_URL, JSON.stringify({ mode: "custom", items: mockItems }));
+      (resp.items || []).forEach((it) => { serverMap[it.sid + "#" + it.sn] = it; });
+    }
+  } catch (err) {
+    hide($("overlay"));
+    console.error(err);
+    alert("Could not reach the grading server after several tries. Please check your internet connection.\n\nYour answers are still saved on this page — you may press Submit again.");
+    state.submitted = false;
+    return;
+  }
+
+  const results = state.questions.map((q) => {
+    const chosen = state.answers[q.n] != null ? String(state.answers[q.n]).toLowerCase() : null;
+    let correct = null, correctText = "", exp = "";
+    if (q.src === "pyq") {
+      correct = q.ans;
+      correctText = q.options[LETTERS.indexOf(q.ans)] || "";
+      exp = q.exp || "";
+    } else {
+      const s = serverMap[q.sid + "#" + q.sn] || {};
+      correct = s.correct; correctText = s.correctText || ""; exp = s.exp || "";
+    }
+    const isCorrect = chosen != null && correct != null && chosen === correct;
+    return { n: q.n, chosen: chosen, correct: correct, correctText: correctText, isCorrect: isCorrect, exp: exp };
+  });
+
+  let right = 0, wrong = 0;
+  results.forEach((r) => { if (r.chosen != null) { if (r.isCorrect) right++; else wrong++; } });
+  const N = state.questions.length;
+  const marks = Math.round((right - wrong / 3) * 100) / 100;
+  hide($("overlay"));
+  showResults({ total: right, wrong: wrong, max: N, marks: marks, marksMax: N, results: results });
 }
 
 /* POST to the Apps Script backend with auto-retry + per-attempt timeout.

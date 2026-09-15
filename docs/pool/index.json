@@ -1,0 +1,1102 @@
+{
+    "updated":  "2026-09-15",
+    "totals":  {
+                   "questions":  6311,
+                   "pyq":  2211,
+                   "mock":  4100
+               },
+    "subjects":  [
+                     {
+                         "name":  "History",
+                         "slug":  "history",
+                         "count":  1249,
+                         "pyq":  385,
+                         "mock":  864,
+                         "topics":  [
+                                        {
+                                            "name":  "Modern India",
+                                            "count":  185
+                                        },
+                                        {
+                                            "name":  "Ancient India",
+                                            "count":  122
+                                        },
+                                        {
+                                            "name":  "History",
+                                            "count":  118
+                                        },
+                                        {
+                                            "name":  "Medieval India",
+                                            "count":  97
+                                        },
+                                        {
+                                            "name":  "Advent of Europeans \u0026 Rise of the EIC",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Civil Disobedience \u0026 the GoI Act 1935",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "EIC Administration",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Mahajanapadas \u0026 the Mauryan Empire",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Mahatma Gandhi",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Political Organizations \u0026 the INC",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Post-Guptas \u0026 Early Medieval Dynasties",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Post-Mauryas \u0026 the Gupta Empire",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Prehistory \u0026 the Indus Valley Civilisation",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Quit India \u0026 Independence",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Rebellions Against the British",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Revolt of 1857 \u0026 Socio-Religious Reforms",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Southern Kingdoms",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "The Delhi Sultanate",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "The Mughal Empire",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "The Vedic Period",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "World History",
+                                            "count":  17
+                                        },
+                                        {
+                                            "name":  "Delhi Sultanate",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "Gandhian Era \u0026 Mass Movements",
+                                            "count":  14
+                                        },
+                                        {
+                                            "name":  "Mauryan Empire",
+                                            "count":  14
+                                        },
+                                        {
+                                            "name":  "National Movement \u0026 Freedom Struggle",
+                                            "count":  14
+                                        },
+                                        {
+                                            "name":  "Vedic Age",
+                                            "count":  12
+                                        },
+                                        {
+                                            "name":  "Socio-Religious Reform",
+                                            "count":  11
+                                        },
+                                        {
+                                            "name":  "Ancient India: Mauryas to Guptas \u0026 South India",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Mughal Empire",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Ancient India: Prehistory, IVC \u0026 Vedic",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "Company Rule \u0026 Conquest",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "Constitutional Development (Acts)",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "Early Nationalism \u0026 INC",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "Gupta Empire",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "Indus Valley Civilisation",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "Mughals \u0026 Marathas",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "Prehistory \u0026 Stone Age",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "Agrarian \u0026 Tribal Movements",
+                                            "count":  6
+                                        },
+                                        {
+                                            "name":  "Deccan \u0026 Vijayanagara Kingdoms",
+                                            "count":  6
+                                        },
+                                        {
+                                            "name":  "Post-Mauryan Period",
+                                            "count":  6
+                                        },
+                                        {
+                                            "name":  "Revolt of 1857",
+                                            "count":  6
+                                        },
+                                        {
+                                            "name":  "Company Rule \u0026 Land Revenue",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "Ancient South India (Sangam, Cholas, Pallavas)",
+                                            "count":  4
+                                        },
+                                        {
+                                            "name":  "Buddhism \u0026 Jainism",
+                                            "count":  4
+                                        },
+                                        {
+                                            "name":  "Mahajanapadas \u0026 Magadha",
+                                            "count":  4
+                                        },
+                                        {
+                                            "name":  "Post-Mauryan (Kushanas \u0026 Satavahanas)",
+                                            "count":  4
+                                        },
+                                        {
+                                            "name":  "Towards Independence \u0026 Partition",
+                                            "count":  4
+                                        },
+                                        {
+                                            "name":  "Vijayanagara, Bahmani \u0026 Europeans",
+                                            "count":  4
+                                        },
+                                        {
+                                            "name":  "Indus Valley \u0026 Chalcolithic",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "Peasant \u0026 Tribal Revolts",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "Religion, Society \u0026 Culture",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "Later Mughals \u0026 Decline",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "Mahajanapadas",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "Post-Gupta Period",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "South India \u0026 Sangam",
+                                            "count":  2
+                                        }
+                                    ]
+                     },
+                     {
+                         "name":  "Geography",
+                         "slug":  "geography",
+                         "count":  955,
+                         "pyq":  329,
+                         "mock":  626,
+                         "topics":  [
+                                        {
+                                            "name":  "Geography",
+                                            "count":  92
+                                        },
+                                        {
+                                            "name":  "Climatology \u0026 Oceanography",
+                                            "count":  86
+                                        },
+                                        {
+                                            "name":  "Indian Geography",
+                                            "count":  66
+                                        },
+                                        {
+                                            "name":  "Environmental Geography \u0026 Sustainability",
+                                            "count":  47
+                                        },
+                                        {
+                                            "name":  "Physical Geography",
+                                            "count":  42
+                                        },
+                                        {
+                                            "name":  "Oceanography",
+                                            "count":  38
+                                        },
+                                        {
+                                            "name":  "World \u0026 Regional Geography",
+                                            "count":  33
+                                        },
+                                        {
+                                            "name":  "Atmosphere, Temperature \u0026 Rainfall",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Continental Drift, Volcanism \u0026 Earthquakes",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Cyclones, Monsoon, ENSO \u0026 IOD",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "India — Drainage \u0026 Soils",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "India — Minerals, Energy \u0026 Agriculture",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "India — Physiography",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Landforms",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Rocks, Minerals \u0026 Weathering",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Transport in India",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Universe \u0026 Interior of the Earth",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Wind Circulation \u0026 Jet Streams",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "World Climatic Types",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Miscellaneous \u0026 Mapping",
+                                            "count":  29
+                                        },
+                                        {
+                                            "name":  "Human, Economic \u0026 Agricultural Geography",
+                                            "count":  26
+                                        },
+                                        {
+                                            "name":  "Geomorphology \u0026 Earth\u0027s Interior",
+                                            "count":  25
+                                        },
+                                        {
+                                            "name":  "Atmosphere \u0026 Climatology",
+                                            "count":  24
+                                        },
+                                        {
+                                            "name":  "Soils, Minerals \u0026 Resources",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "Indian Physiography",
+                                            "count":  11
+                                        },
+                                        {
+                                            "name":  "Indian Rivers \u0026 Drainage",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "World Geography",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "Climate \u0026 Oceans",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "Economic Geography (Transport)",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "Geomorphology \u0026 Astronomy",
+                                            "count":  6
+                                        },
+                                        {
+                                            "name":  "Population \u0026 Human Geography",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "Resources \u0026 Economy",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "Indian Physiography \u0026 Rivers",
+                                            "count":  4
+                                        },
+                                        {
+                                            "name":  "Maps, Time \u0026 Location",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "Astronomy \u0026 Universe",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "Climate Classification",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "World",
+                                            "count":  2
+                                        }
+                                    ]
+                     },
+                     {
+                         "name":  "Polity",
+                         "slug":  "polity",
+                         "count":  459,
+                         "pyq":  302,
+                         "mock":  157,
+                         "topics":  [
+                                        {
+                                            "name":  "Polity",
+                                            "count":  97
+                                        },
+                                        {
+                                            "name":  "Fundamental Rights, Duties \u0026 DPSPs",
+                                            "count":  52
+                                        },
+                                        {
+                                            "name":  "Constitutional \u0026 Statutory Bodies",
+                                            "count":  32
+                                        },
+                                        {
+                                            "name":  "Parliament",
+                                            "count":  32
+                                        },
+                                        {
+                                            "name":  "Federalism \u0026 State Government",
+                                            "count":  29
+                                        },
+                                        {
+                                            "name":  "Historical Constitutional Development",
+                                            "count":  26
+                                        },
+                                        {
+                                            "name":  "Union Executive",
+                                            "count":  24
+                                        },
+                                        {
+                                            "name":  "Constitutional Framework",
+                                            "count":  23
+                                        },
+                                        {
+                                            "name":  "Elections \u0026 Representation",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "Judiciary",
+                                            "count":  19
+                                        },
+                                        {
+                                            "name":  "Amendments, Committees \u0026 Commissions",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "Local Government",
+                                            "count":  14
+                                        },
+                                        {
+                                            "name":  "Governance \u0026 Public Policy",
+                                            "count":  12
+                                        },
+                                        {
+                                            "name":  "International \u0026 Comparative Polity",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Constitution: Framework, Preamble \u0026 Federalism",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "Emergency \u0026 Special Provisions",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "Parliament \u0026 State Legislature",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "Fundamental Rights",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "Union, States, Schedules \u0026 Citizenship",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "DPSP \u0026 Fundamental Duties",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "Emergency Provisions",
+                                            "count":  4
+                                        },
+                                        {
+                                            "name":  "Local Government \u0026 Bodies",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "Writs \u0026 Judicial Remedies",
+                                            "count":  3
+                                        }
+                                    ]
+                     },
+                     {
+                         "name":  "Economy",
+                         "slug":  "economy",
+                         "count":  338,
+                         "pyq":  207,
+                         "mock":  131,
+                         "topics":  [
+                                        {
+                                            "name":  "Economy",
+                                            "count":  71
+                                        },
+                                        {
+                                            "name":  "National Income \u0026 Macroeconomics",
+                                            "count":  44
+                                        },
+                                        {
+                                            "name":  "Miscellaneous Economy",
+                                            "count":  33
+                                        },
+                                        {
+                                            "name":  "Banking \u0026 Financial Sector",
+                                            "count":  26
+                                        },
+                                        {
+                                            "name":  "Fiscal Policy \u0026 Budget",
+                                            "count":  22
+                                        },
+                                        {
+                                            "name":  "Planning, Poverty \u0026 Employment",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "Trade, FDI \u0026 International Economy",
+                                            "count":  18
+                                        },
+                                        {
+                                            "name":  "Industry \u0026 Infrastructure",
+                                            "count":  17
+                                        },
+                                        {
+                                            "name":  "Inflation, Money \u0026 Prices",
+                                            "count":  17
+                                        },
+                                        {
+                                            "name":  "Money, Banking \u0026 Monetary Policy",
+                                            "count":  13
+                                        },
+                                        {
+                                            "name":  "National Income, GDP \u0026 Microeconomics",
+                                            "count":  12
+                                        },
+                                        {
+                                            "name":  "Agriculture \u0026 Rural Economy",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Agriculture, Industry, Planning \u0026 Development",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "Inflation, Prices \u0026 Distribution",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "Public Finance: Budget \u0026 Taxation",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "External Sector \u0026 International Economy",
+                                            "count":  8
+                                        }
+                                    ]
+                     },
+                     {
+                         "name":  "Science \u0026 Technology",
+                         "slug":  "science-technology",
+                         "count":  1346,
+                         "pyq":  595,
+                         "mock":  751,
+                         "topics":  [
+                                        {
+                                            "name":  "Science \u0026 Technology",
+                                            "count":  267
+                                        },
+                                        {
+                                            "name":  "Physics",
+                                            "count":  160
+                                        },
+                                        {
+                                            "name":  "Biology",
+                                            "count":  115
+                                        },
+                                        {
+                                            "name":  "Applied Science \u0026 Miscellaneous",
+                                            "count":  104
+                                        },
+                                        {
+                                            "name":  "Chemistry",
+                                            "count":  98
+                                        },
+                                        {
+                                            "name":  "Environment \u0026 Ecology",
+                                            "count":  52
+                                        },
+                                        {
+                                            "name":  "Atomic Structure \u0026 Periodic Table",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Biotechnology, Diseases \u0026 Nutrition",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Bonding, Acids \u0026 Bases",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Cell Biology \u0026 Human Physiology",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Climate Change \u0026 Pollution",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Computer \u0026 IT",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Defence Technology \u0026 Armed Forces",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Ecosystems \u0026 Biodiversity",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Environment — Concepts \u0026 Reports",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Everyday Science, Agriculture \u0026 Discoveries",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Heat \u0026 Electricity",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Light \u0026 Nuclear Physics",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Mechanics",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Metals, Non-Metals \u0026 Alloys",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Plant Physiology \u0026 Genetics",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Space Technology",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Units, Measurements \u0026 Instruments",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Waves \u0026 Sound",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Environment",
+                                            "count":  10
+                                        }
+                                    ]
+                     },
+                     {
+                         "name":  "Art \u0026 Culture",
+                         "slug":  "art-culture",
+                         "count":  218,
+                         "pyq":  167,
+                         "mock":  51,
+                         "topics":  [
+                                        {
+                                            "name":  "Art \u0026 Culture",
+                                            "count":  51
+                                        },
+                                        {
+                                            "name":  "Literature \u0026 Languages",
+                                            "count":  51
+                                        },
+                                        {
+                                            "name":  "Architecture \u0026 Heritage",
+                                            "count":  32
+                                        },
+                                        {
+                                            "name":  "Religion \u0026 Philosophy",
+                                            "count":  31
+                                        },
+                                        {
+                                            "name":  "Miscellaneous Art \u0026 Culture",
+                                            "count":  21
+                                        },
+                                        {
+                                            "name":  "Personalities \u0026 Cultural Reformers",
+                                            "count":  12
+                                        },
+                                        {
+                                            "name":  "Performing Arts",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "Visual Arts",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "Awards \u0026 Cultural Institutions",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "Festivals \u0026 Traditions",
+                                            "count":  3
+                                        }
+                                    ]
+                     },
+                     {
+                         "name":  "Current Affairs",
+                         "slug":  "current-affairs",
+                         "count":  53,
+                         "pyq":  0,
+                         "mock":  53,
+                         "topics":  [
+                                        {
+                                            "name":  "Current Affairs \u0026 General Awareness",
+                                            "count":  50
+                                        },
+                                        {
+                                            "name":  "Current Affairs",
+                                            "count":  3
+                                        }
+                                    ]
+                     },
+                     {
+                         "name":  "Defence",
+                         "slug":  "defence",
+                         "count":  106,
+                         "pyq":  81,
+                         "mock":  25,
+                         "topics":  [
+                                        {
+                                            "name":  "Defence",
+                                            "count":  25
+                                        },
+                                        {
+                                            "name":  "Indian Navy",
+                                            "count":  16
+                                        },
+                                        {
+                                            "name":  "Indian Army",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "Joint Military Exercises \u0026 Operations",
+                                            "count":  13
+                                        },
+                                        {
+                                            "name":  "Miscellaneous Defence",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "Missiles \u0026 Defence Technology",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "Defence PSUs \u0026 Industry",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "Indian Air Force",
+                                            "count":  4
+                                        },
+                                        {
+                                            "name":  "Defence Training Institutions",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "Paramilitary \u0026 Central Armed Police Forces",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "Defence Personnel \u0026 Personalities",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "Joint Commands \u0026 Higher Defence Structure",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "Defence Awards \u0026 Honours",
+                                            "count":  1
+                                        }
+                                    ]
+                     },
+                     {
+                         "name":  "International Relations",
+                         "slug":  "international-relations",
+                         "count":  25,
+                         "pyq":  24,
+                         "mock":  1,
+                         "topics":  [
+                                        {
+                                            "name":  "UN \u0026 International Agencies",
+                                            "count":  11
+                                        },
+                                        {
+                                            "name":  "Multilateral Groupings",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "Bilateral, Summits \u0026 Diplomacy",
+                                            "count":  3
+                                        },
+                                        {
+                                            "name":  "Regional Organizations",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "International Relations",
+                                            "count":  1
+                                        }
+                                    ]
+                     },
+                     {
+                         "name":  "Miscellaneous",
+                         "slug":  "miscellaneous",
+                         "count":  122,
+                         "pyq":  121,
+                         "mock":  1,
+                         "topics":  [
+                                        {
+                                            "name":  "General Knowledge",
+                                            "count":  34
+                                        },
+                                        {
+                                            "name":  "Sports",
+                                            "count":  27
+                                        },
+                                        {
+                                            "name":  "History \u0026 Static GK",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "National Symbols \u0026 Miscellaneous GK",
+                                            "count":  11
+                                        },
+                                        {
+                                            "name":  "Books \u0026 Authors",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "Awards \u0026 Honours",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "Days, Themes \u0026 Observances",
+                                            "count":  6
+                                        },
+                                        {
+                                            "name":  "Persons in News",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "Government Schemes \u0026 Initiatives",
+                                            "count":  4
+                                        },
+                                        {
+                                            "name":  "Reports \u0026 Indices",
+                                            "count":  2
+                                        },
+                                        {
+                                            "name":  "Miscellaneous",
+                                            "count":  1
+                                        }
+                                    ]
+                     },
+                     {
+                         "name":  "English",
+                         "slug":  "english",
+                         "count":  840,
+                         "pyq":  0,
+                         "mock":  840,
+                         "topics":  [
+                                        {
+                                            "name":  "Reading Comprehension",
+                                            "count":  94
+                                        },
+                                        {
+                                            "name":  "Spotting Errors",
+                                            "count":  70
+                                        },
+                                        {
+                                            "name":  "Cloze Passage",
+                                            "count":  60
+                                        },
+                                        {
+                                            "name":  "Fill in the Blanks",
+                                            "count":  52
+                                        },
+                                        {
+                                            "name":  "Ordering of Sentences / Para-jumbles",
+                                            "count":  52
+                                        },
+                                        {
+                                            "name":  "Ordering of Words in a Sentence",
+                                            "count":  52
+                                        },
+                                        {
+                                            "name":  "Parts of Speech / Word Classes",
+                                            "count":  52
+                                        },
+                                        {
+                                            "name":  "Sentence Improvement / Completion",
+                                            "count":  52
+                                        },
+                                        {
+                                            "name":  "Vocabulary: Antonyms",
+                                            "count":  40
+                                        },
+                                        {
+                                            "name":  "Vocabulary: Idioms \u0026 Phrases",
+                                            "count":  40
+                                        },
+                                        {
+                                            "name":  "Vocabulary: Synonyms",
+                                            "count":  40
+                                        },
+                                        {
+                                            "name":  "Vocabulary: Word Meaning / Confusable Pairs",
+                                            "count":  40
+                                        },
+                                        {
+                                            "name":  "Sentence Co-relationship",
+                                            "count":  24
+                                        },
+                                        {
+                                            "name":  "Vocabulary in Context",
+                                            "count":  24
+                                        },
+                                        {
+                                            "name":  "Correctly Matched Pairs",
+                                            "count":  12
+                                        },
+                                        {
+                                            "name":  "Definitions \u0026 Terminology",
+                                            "count":  12
+                                        },
+                                        {
+                                            "name":  "Antonyms",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Cloze",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Confused Word Pairs",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Idioms \u0026 Phrases",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Match the Columns",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Sentence Ordering",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Sentence Pairs",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Synonyms",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Vocabulary",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Word Usage",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "Match Lists: Associations",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "Match Lists: Parts of Speech",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "Match Lists: Word \u0026 Meaning",
+                                            "count":  8
+                                        }
+                                    ]
+                     },
+                     {
+                         "name":  "Mathematics",
+                         "slug":  "mathematics",
+                         "count":  600,
+                         "pyq":  0,
+                         "mock":  600,
+                         "topics":  [
+                                        {
+                                            "name":  "Geometry",
+                                            "count":  78
+                                        },
+                                        {
+                                            "name":  "Trigonometric Ratios and Identities",
+                                            "count":  54
+                                        },
+                                        {
+                                            "name":  "Mensuration",
+                                            "count":  48
+                                        },
+                                        {
+                                            "name":  "Statistics",
+                                            "count":  36
+                                        },
+                                        {
+                                            "name":  "Number System",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Percentage",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Quadratic Equations and In-equations",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Ratio and Proportion",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Simple and Compound Interest",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "Basic Operations and Factorisation",
+                                            "count":  24
+                                        },
+                                        {
+                                            "name":  "HCF and LCM",
+                                            "count":  24
+                                        },
+                                        {
+                                            "name":  "Heights and Distances",
+                                            "count":  24
+                                        },
+                                        {
+                                            "name":  "Linear Equations in One and Two Variables",
+                                            "count":  24
+                                        },
+                                        {
+                                            "name":  "Profit, Loss and Discount",
+                                            "count":  24
+                                        },
+                                        {
+                                            "name":  "Time and Distance",
+                                            "count":  24
+                                        },
+                                        {
+                                            "name":  "Work and Time",
+                                            "count":  24
+                                        },
+                                        {
+                                            "name":  "Average",
+                                            "count":  18
+                                        },
+                                        {
+                                            "name":  "Power, Roots and Decimals",
+                                            "count":  18
+                                        },
+                                        {
+                                            "name":  "Set Theory",
+                                            "count":  18
+                                        },
+                                        {
+                                            "name":  "Logarithm",
+                                            "count":  12
+                                        }
+                                    ]
+                     }
+                 ]
+}

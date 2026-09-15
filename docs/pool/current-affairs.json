@@ -1,0 +1,827 @@
+[
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  111,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "The 2025 G20 Leaders\u0027 Summit, the first held on African soil, took place in:",
+        "options":  [
+                        "Nairobi, Kenya",
+                        "Johannesburg, South Africa",
+                        "Cairo, Egypt",
+                        "Lagos, Nigeria"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  112,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Which team won the ICC Women\u0027s Cricket World Cup 2025, its first-ever Women\u0027s ODI World Cup title?",
+        "options":  [
+                        "Australia",
+                        "England",
+                        "India",
+                        "South Africa"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  113,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "The Nobel Peace Prize 2025 was awarded to:",
+        "options":  [
+                        "María Corina Machado of Venezuela",
+                        "László Krasznahorkai of Hungary",
+                        "Graça Machel of Mozambique",
+                        "Omar Yaghi"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  114,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Justice Surya Kant, who was recently sworn in, holds which office?",
+        "options":  [
+                        "Attorney General of India",
+                        "53rd Chief Justice of India",
+                        "Chief Election Commissioner",
+                        "Comptroller and Auditor General"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  115,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "The ancient Sanskrit treatise on the performing arts recently inscribed on UNESCO\u0027s Intangible Cultural Heritage list is the:",
+        "options":  [
+                        "Arthashastra",
+                        "Natyashastra",
+                        "Rigveda",
+                        "Ashtadhyayi"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  116,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "The 2026 Winter Olympics were hosted by:",
+        "options":  [
+                        "Beijing, China",
+                        "Milano-Cortina, Italy",
+                        "The French Alps, France",
+                        "Salt Lake City, USA"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  117,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about the forthcoming Census 2027:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Neither 1 nor 2",
+                        "Both 1 and 2"
+                    ],
+        "subs":  [
+                     "1. It will be India\u0027s first fully digital census.",
+                     "2. For the first time since 1931, it will include caste enumeration."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  118,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Which digital payment system has been recognised by the IMF as the world\u0027s largest real-time payment system?",
+        "options":  [
+                        "RTGS",
+                        "NEFT",
+                        "UPI",
+                        "IMPS"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  119,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Under Project Cheetah, the cheetahs reintroduced in India are hosted mainly at:",
+        "options":  [
+                        "Gir National Park, Gujarat",
+                        "Kuno National Park, Madhya Pradesh",
+                        "Ranthambore, Rajasthan",
+                        "Bandipur, Karnataka"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  120,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Vande Mataram, which marked 150 years, was composed by Bankim Chandra Chattopadhyay and first appeared in his novel:",
+        "options":  [
+                        "Anandamath",
+                        "Durgeshnandini",
+                        "Gitanjali",
+                        "Devdas"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  111,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about the G20:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. It was founded in 1999, with Leaders\u0027 Summits held from 2008.",
+                     "2. The African Union was admitted as a permanent member in 2023.",
+                     "3. The 2025 G20 Summit was hosted by India."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  112,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "The 2025 G20 Leaders\u0027 Summit, the first held on African soil, took place in:",
+        "options":  [
+                        "Nairobi, Kenya",
+                        "Cairo, Egypt",
+                        "Johannesburg, South Africa",
+                        "Addis Ababa, Ethiopia"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  113,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about the Nobel Prizes:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. The Nobel Peace Prize is awarded in Oslo by the Norwegian Nobel Committee.",
+                     "2. All the Nobel Prizes are awarded in Stockholm.",
+                     "3. The Economics prize is formally the Sveriges Riksbank Prize, instituted in 1968."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  114,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Which one of the following pairs of person and office is NOT correctly matched?",
+        "options":  [
+                        "Justice Surya Kant — 53rd Chief Justice of India",
+                        "General N. S. Raja Subramani — Chief of Defence Staff",
+                        "Gyanesh Kumar — Chief Election Commissioner",
+                        "Praveen Vashista — Governor of the Reserve Bank of India"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  115,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about India\u0027s space missions:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. Chandrayaan-3 achieved a soft landing near the Moon\u0027s south polar region.",
+                     "2. Aditya-L1 studies the Sun from a halo orbit around the Sun-Earth Lagrange point L1.",
+                     "3. The Mars Orbiter Mission (Mangalyaan) was launched using the GSLV Mk-III."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  116,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "The Prototype Fast Breeder Reactor (PFBR), which recently attained criticality, is located at:",
+        "options":  [
+                        "Tarapur",
+                        "Kudankulam",
+                        "Kalpakkam",
+                        "Kaiga"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  117,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about recent developments in polity and governance:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. Under Article 324(5), the Chief Election Commissioner can be removed only in the same manner as a Supreme Court judge.",
+                     "2. The forthcoming Census will be India\u0027s first fully digital census and will include caste enumeration for the first time since 1931.",
+                     "3. A recent Constitution Amendment Bill sought to bring Chandigarh under Article 371."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  118,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "The International Big Cat Alliance (IBCA), launched to conserve seven big cats, is headquartered in:",
+        "options":  [
+                        "Kenya",
+                        "South Africa",
+                        "India",
+                        "Brazil"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  119,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about recent defence developments:",
+        "options":  [
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1 and 2 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. INS Aridhaman is a nuclear-powered ballistic-missile submarine of the Arihant class.",
+                     "2. The Rafale-Marine fighters being acquired are for the Indian Navy.",
+                     "3. GCAP is a next-generation fighter programme of France, Germany and Spain."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  120,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "India recently became the world\u0027s largest producer of which of the following, overtaking China?",
+        "options":  [
+                        "Wheat",
+                        "Sugarcane",
+                        "Rice",
+                        "Cotton"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  107,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about the tri-commissioning of warships at Kolkata in 2026:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. INS Dunagiri is a Project 17A stealth guided-missile frigate.",
+                     "2. All three warships were built by GRSE, Kolkata.",
+                     "3. Project 17A is the successor to the Shivalik-class (Project 17)."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  108,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Agni-V, first tested under ‘Mission Divyastra’, is significant because it carries which technology?",
+        "options":  [
+                        "A hypersonic glide vehicle",
+                        "MIRV (Multiple Independently-targetable Re-entry Vehicles)",
+                        "A scramjet air-breathing engine",
+                        "A quasi-ballistic manoeuvring warhead"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  109,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "COP30, the UN climate summit under the UNFCCC, was held in 2025 at:",
+        "options":  [
+                        "Baku, Azerbaijan",
+                        "Belém, Brazil",
+                        "Dubai, UAE",
+                        "Sharm el-Sheikh, Egypt"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  110,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Match List-I (Military exercise) with List-II (India\u0027s partner country) and select the correct answer:",
+        "options":  [
+                        "A-2 B-1 C-4 D-3",
+                        "A-2 B-1 C-3 D-4",
+                        "A-1 B-2 C-4 D-3",
+                        "A-3 B-4 C-1 D-2"
+                    ],
+        "subs":  [
+                     "List-I: A. Dharma Guardian B. Dustlik C. Surya Kiran D. Khanjar",
+                     "List-II: 1. Uzbekistan 2. Japan 3. Kyrgyzstan 4. Nepal"
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  111,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "The Kimberley Process, which India is chairing, regulates the international trade in:",
+        "options":  [
+                        "Rare-earth minerals",
+                        "Rough (‘conflict’) diamonds",
+                        "Enriched uranium",
+                        "Endangered wildlife"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  112,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "‘Heart Lamp’, which won the International Booker Prize, was originally written in which language?",
+        "options":  [
+                        "Malayalam",
+                        "Kannada",
+                        "Tamil",
+                        "Bengali"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  113,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Robert Prevost, recently elected head of the Roman Catholic Church, took which papal name?",
+        "options":  [
+                        "Pope Benedict XVII",
+                        "Pope Leo XIV",
+                        "Pope John XXIV",
+                        "Pope Pius XIII"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  114,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about the Union Budget 2026-27:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. The base year for GDP and CPI is to be revised to 2024.",
+                     "2. Under its Nuclear Energy Mission, the Budget set a target of at least 5 indigenous Small Modular Reactors by 2033.",
+                     "3. The Fund of Funds for Startups (FoF 2.0) invests through SEBI-registered AIFs, managed by SIDBI."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  115,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "GSAT-7R / CMS-03, the heaviest communication satellite launched from Indian soil, was placed in orbit by which launch vehicle?",
+        "options":  [
+                        "PSLV",
+                        "LVM3",
+                        "GSLV Mk-II",
+                        "SSLV"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  116,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about the Brahmaputra river:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. It is called the Yarlung Tsangpo in Tibet.",
+                     "2. It is known as the Siang in Arunachal Pradesh.",
+                     "3. India\u0027s first under-river road-cum-rail tunnel is being built beneath it in Assam."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  107,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "The 14th Ministerial Conference (MC14) of the World Trade Organization was held in 2026 in:",
+        "options":  [
+                        "Geneva, Switzerland",
+                        "Yaoundé, Cameroon",
+                        "Abu Dhabi, UAE",
+                        "Nairobi, Kenya"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  108,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about India\u0027s role in international groupings:",
+        "options":  [
+                        "1 and 2 only",
+                        "1, 2 and 3",
+                        "2 and 3 only",
+                        "1 and 3 only"
+                    ],
+        "subs":  [
+                     "1. The Quad comprises India, the United States, Japan and Australia.",
+                     "2. The Raisina Dialogue is India\u0027s flagship conference on geopolitics and geo-economics.",
+                     "3. India took command of the Combined Maritime Forces task force CTF-154 for the first time."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  109,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "The Indira Gandhi Prize for Peace, Disarmament and Development 2026 was awarded to:",
+        "options":  [
+                        "María Corina Machado",
+                        "Kaveh Madani",
+                        "Graça Machel",
+                        "Supriya Sahu"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  110,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Which one of the following pairs of a Nobel Prize and the city where it is awarded is NOT correctly matched?",
+        "options":  [
+                        "Economics — Oslo",
+                        "Physics — Stockholm",
+                        "Peace — Oslo",
+                        "Literature — Stockholm"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  111,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Who was recently appointed as a Vigilance Commissioner in the Central Vigilance Commission (CVC)?",
+        "options":  [
+                        "Gyanesh Kumar",
+                        "Ranjana Prakash Desai",
+                        "Praveen Vashista",
+                        "Krishna Swaminathan"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  112,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "‘B-READY’ (Business Ready), the index that has replaced the Ease of Doing Business ranking, is published by:",
+        "options":  [
+                        "the World Bank",
+                        "the World Economic Forum",
+                        "the IMF",
+                        "NITI Aayog"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  113,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about recent economic milestones for India:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. India\u0027s foreign-exchange reserves, managed by the RBI, crossed the US$700 billion mark.",
+                     "2. India has the world\u0027s largest electrified railway network.",
+                     "3. The Global Innovation Index is published by WIPO."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  114,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Artemis II, a NASA-led mission, is significant because it will be the first crewed mission to:",
+        "options":  [
+                        "fly around the Moon since Apollo 17",
+                        "land astronauts on Mars",
+                        "dock with a Chinese space station",
+                        "land on an asteroid"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  115,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Which country recently became the first in Africa to eliminate the disease onchocerciasis (river blindness)?",
+        "options":  [
+                        "Nigeria",
+                        "Kenya",
+                        "Ghana",
+                        "Niger"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  116,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about geography and the environment in the news:",
+        "options":  [
+                        "1 and 2 only",
+                        "1, 2 and 3",
+                        "2 and 3 only",
+                        "1 and 3 only"
+                    ],
+        "subs":  [
+                     "1. Gogabeel in Bihar, an oxbow lake, was designated a Ramsar site.",
+                     "2. The Great Indian Bustard is the state bird of Rajasthan.",
+                     "3. The International North-South Transport Corridor (INSTC) links India, Iran and Russia."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  107,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "The Financial Action Task Force (FATF), which sets global standards against money laundering, has its secretariat at the OECD in:",
+        "options":  [
+                        "Brussels",
+                        "Paris",
+                        "Geneva",
+                        "London"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  108,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. The chief guests at India\u0027s Republic Day 2026 were the Presidents of the European Commission and the European Council.",
+                     "2. Mercosur is headquartered in Montevideo, Uruguay.",
+                     "3. India is a Major Non-NATO Ally of the United States."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  109,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "The Indian recipient of the UN Environment Programme\u0027s ‘Champions of the Earth’ award was:",
+        "options":  [
+                        "Sunita Narain",
+                        "Supriya Sahu",
+                        "Vandana Shiva",
+                        "Jadav Payeng"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  110,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Who was recently appointed the Director-General of UNESCO, becoming the first Arab to hold the post?",
+        "options":  [
+                        "Audrey Azoulay",
+                        "Khaled El-Enany",
+                        "Tedros Adhanom",
+                        "Amina Mohammed"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  111,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about India\u0027s critical-minerals push:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. The National Critical Minerals Mission targets beach-sand monazite belts along the coast.",
+                     "2. Monazite is a source of thorium.",
+                     "3. China dominates the global mining and processing of rare earths."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  112,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "‘BIRSA-101’, an Indian CRISPR-based gene-therapy candidate developed by CSIR-IGIB, is designed to treat:",
+        "options":  [
+                        "Tuberculosis",
+                        "Sickle-cell disease",
+                        "Dengue",
+                        "Malaria"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  113,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about energy-storage and materials in the news:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. Sodium-ion batteries use abundant sodium as an alternative to lithium.",
+                     "2. A vanadium redox flow battery is a long-duration storage technology.",
+                     "3. Bio-bitumen, a bio-based road binder, has been produced from rice straw."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  114,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "The natural reservoir (host) of the Nipah virus, a WHO priority pathogen, is the:",
+        "options":  [
+                        "mosquito",
+                        "fruit bat",
+                        "tick",
+                        "house rat"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  115,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Renaming a State (for example, Kerala to ‘Keralam’) is carried out through the procedure laid down in which Article of the Constitution?",
+        "options":  [
+                        "Article 2",
+                        "Article 3",
+                        "Article 4",
+                        "Article 5"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  116,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs \u0026 General Awareness",
+        "stem":  "Consider the following statements about maritime chokepoints in the news:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. Chabahar port lies in Iran, on the Gulf of Oman.",
+                     "2. The Strait of Hormuz links the Persian Gulf with the Gulf of Oman.",
+                     "3. The Suez Canal links the Red Sea with the Persian Gulf."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-06-gk",
+        "sn":  84,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs",
+        "stem":  "How many of the 2026 Padma awardees were conferred the award from the category of Foreigners / NRI / PIO / OCI?",
+        "options":  [
+                        "2",
+                        "4",
+                        "6",
+                        "8"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-06-gk",
+        "sn":  86,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs",
+        "stem":  "Which one among the following was the theme of Fire Safety Week 2026?",
+        "options":  [
+                        "Unite to Ignite, a Fire Safe India",
+                        "(!)Safe Schools, Safe Hospitals, and a Fire Safety Aware Society Together for Fire Prevention [option partly obscured by student\u0027s scribble]",
+                        "Ensure Fire Safety, Contribute towards Nation Building",
+                        "Awareness in Fire Safety for Growth of National Infrastructure"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-06-gk",
+        "sn":  88,
+        "subject":  "Current Affairs",
+        "topic":  "Current Affairs",
+        "stem":  "Which book won the 2026 International Booker Prize?",
+        "options":  [
+                        "Taiwan Travelogue",
+                        "Transcription",
+                        "Shadow Ticket",
+                        "Vigil"
+                    ]
+    }
+]

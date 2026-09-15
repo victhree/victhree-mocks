@@ -1,0 +1,3879 @@
+[
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  33,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Performing Arts",
+        "stem":  "Which one among the following is the earliest text?",
+        "options":  [
+                        "Natyashastra of Bharata",
+                        "Sushruta Samhita",
+                        "Ashtadhyayi",
+                        "Manusmriti"
+                    ],
+        "ans":  "c",
+        "exp":  "Panini\u0027s Ashtadhyayi, the great treatise on Sanskrit grammar, is the earliest of these — dated to roughly the 5th–4th century BCE. The Natyashastra (Bharata\u0027s text on drama, dance and music) and the Manusmriti were compiled around 200 BCE–200 CE, and the Sushruta Samhita (surgery/medicine) reached its known form somewhat later. So Ashtadhyayi predates the others.",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  44,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Performing Arts",
+        "stem":  "Teejan Bai, a recipient of the M. S. Subbulakshmi Centenary Award 2016, is an exponent of",
+        "options":  [
+                        "Kannada classical vocal",
+                        "Kajari dance",
+                        "Bihu dance",
+                        "Pandavani, a traditional performing art"
+                    ],
+        "ans":  "d",
+        "exp":  "Teejan Bai is the legendary performer of Pandavani — a folk ballad-singing tradition of Chhattisgarh in which tales from the Mahabharata are narrated through powerful singing and dramatic gesture, the performer holding a tambura. A Padma Vibhushan awardee, she popularised this art worldwide.",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  82,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Performing Arts",
+        "stem":  "What is the name of the literary genre developed by the Khojas, a branch of the Ismaili sect?",
+        "options":  [
+                        "Ginan",
+                        "Ziyarat",
+                        "Raag",
+                        "Shahada"
+                    ],
+        "ans":  "a",
+        "exp":  "Ginans are devotional hymns/poems of the Nizari Ismaili (Khoja) community, composed in Indian languages (Gujarati, Sindhi, Hindi). Sung in melodious form, they convey mystical and ethical teachings and blend Islamic and Indic traditions. (Ziyarat = pilgrimage/visitation; Shahada = the Islamic declaration of faith; Raag is a melodic framework, not a literary genre.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  111,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Performing Arts",
+        "stem":  "Renowned classical singer Prabha Atre, who passed away recently, was an exponent of which Gharana?",
+        "options":  [
+                        "Kirana Gharana",
+                        "Patiala Gharana",
+                        "Gwalior Gharana",
+                        "Agra Gharana"
+                    ],
+        "ans":  "a",
+        "exp":  "A gharana is a stylistic \"school\" or lineage of Hindustani classical music. Prabha Atre (Padma Vibhushan), one of the most celebrated vocalists of her time, belonged to the Kirana Gharana — a school known for its emphasis on the precise intonation of individual notes (swara) and slow, elaborate melodic development. (A current-affairs/obituary item.)",
+        "year":  2024
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  120,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Performing Arts",
+        "stem":  "Match List-I (Sahitya Akademi Award winners, 2022) with List-II: A. Bhool Satya (Short Stories) B. Tumadi Ke Shabd (Poetry) C. Chhe Roopak (Drama) D. Alekhun Amba (Play) |",
+        "options":  [
+                        "A-1 B-2 C-3 D-4",
+                        "A-1 B-3 C-2 D-4",
+                        "A-4 B-3 C-2 D-1",
+                        "A-4 B-2 C-3 D-1"
+                    ],
+        "ans":  "b",
+        "exp":  "The Sahitya Akademi Awards are India\u0027s premier literary honours, given each year for outstanding works in the 24 recognised languages. For 2022: the poetry collection Tumadi Ke Shabd is by Badri Narayan (B-3), and the Assamese play Alekhun Amba is by Manoj Kumar Goswami (D-4); leaving Bhool Satya with Kamal Ranga (A-1) and Chhe Roopak with Veena Gupta (C-2). Hence A-1, B-3, C-2, D-4. (An awards-recall item.)",
+        "year":  2023,
+        "subs":  [
+                     "1. Kamal Ranga",
+                     "2. Veena Gupta",
+                     "3. Badri Narayan",
+                     "4. Manoj Kumar Goswami."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  45,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Performing Arts",
+        "stem":  "Who is the recipient of the Dadasaheb Phalke Award, 2016?",
+        "options":  [
+                        "Nana Patekar",
+                        "Manoj Kumar",
+                        "Javed Akhtar",
+                        "K. Viswanath"
+                    ],
+        "ans":  "d",
+        "exp":  "The Dadasaheb Phalke Award is India\u0027s highest honour in cinema, given for lifetime contribution. For 2016 it went to K. Viswanath, the acclaimed Telugu director-actor known for art films (like Sankarabharanam) that wove in classical music and dance. (A current-affairs item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  75,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Performing Arts",
+        "stem":  "The Indian short film \"The School Bag\" won the Best Short Film Award at the South Asian Film Festival, Montreal (November 2017). Who directed it?",
+        "options":  [
+                        "Anurag Kashyap",
+                        "Dheeraj Jindal",
+                        "Sujoy Ghosh",
+                        "Samvida Nanda"
+                    ],
+        "ans":  "b",
+        "exp":  "\"The School Bag,\" a short film (starring Rasika Dugal) set against the backdrop of the 2014 Peshawar school attack, was directed by Dheeraj Jindal and won the Best Short Film award at the festival. (A current-affairs item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  61,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Performing Arts",
+        "stem":  "Identify the actress: a film actress, director and producer and an accomplished Indian classical dancer; conferred the Padma Shri in 1992; Head of the Central Board of Film Certification from 1998 to 2001; honoured with the Dadasaheb Phalke Award.",
+        "options":  [
+                        "Vyjayanthimala",
+                        "Waheeda Rehman",
+                        "Mala Sinha",
+                        "Asha Parekh"
+                    ],
+        "ans":  "d",
+        "exp":  "The decisive clue is heading the CBFC (Censor Board) from 1998 to 2001 — that was Asha Parekh, the first woman to chair it. A trained classical dancer and 1960s–70s star, she received the Padma Shri (1992) and the Dadasaheb Phalke Award (2020). (A current-affairs/personality item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  115,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Performing Arts",
+        "stem":  "Identify the film personality: born in Hyderabad; emerged in the 1970s with films challenging mainstream Bollywood; widely known for the 53-episode TV series \"Bharat Ek Khoj\"; directed a biopic on Sheikh Mujibur Rahman.",
+        "options":  [
+                        "Govind Nihalani",
+                        "Girish Karnad",
+                        "Shyam Benegal",
+                        "Mani Ratnam"
+                    ],
+        "ans":  "c",
+        "exp":  "Shyam Benegal, born in Hyderabad, was the leading figure of India\u0027s parallel (new) cinema of the 1970s (Ankur, Nishant, Manthan). He created the landmark TV series \"Bharat Ek Khoj\" (based on Nehru\u0027s The Discovery of India) and, late in his career, directed the biopic \"Mujib: The Making of a Nation\" on Sheikh Mujibur Rahman. (A current-affairs/personality item.)",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-I",
+        "sn":  59,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Visual Arts",
+        "stem":  "The famous Mughal painting depicting Jahangir embracing the Safavid king Shah Abbas was painted by",
+        "options":  [
+                        "Abd al-Samad",
+                        "Abul Hasan",
+                        "Dasavant",
+                        "Bishandas"
+                    ],
+        "ans":  "b",
+        "exp":  "This allegorical painting — Jahangir dreaming of embracing his rival Shah Abbas of Persia, the two standing on a lion and a lamb over a globe — was painted by Abul Hasan, whom Jahangir honoured with the title \"Nadir-uz-Zaman\" (Wonder of the Age). (Abd al-Samad and Dasavant were master painters of Akbar\u0027s atelier; Bishandas was famed for portraits.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  49,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Visual Arts",
+        "stem":  "Which has been an important early Chola painting discovered at the Brihadisvara Temple, Thanjavur in 1931?",
+        "options":  [
+                        "Buddha with Chauri-bearers on either side",
+                        "Shiva as Yoga-Dakshinamurti",
+                        "Yakshi Kali",
+                        "Parshvanatha with snake-hood on a lion-throne"
+                    ],
+        "ans":  "b",
+        "exp":  "The Brihadisvara (Rajarajeshvara) Temple at Thanjavur, built by Rajaraja Chola I, preserves early Chola murals that were discovered beneath later Nayaka-period paintings in 1931. Being a great Shaiva temple, its paintings depict Shiva themes — including Shiva as Dakshinamurti and Nataraja. (The Buddha-with-chauri-bearers theme belongs to Ajanta, and the Parshvanatha/Yakshi options are Jain.) (Worth confirming against the official key.)",
+        "year":  2024
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-I",
+        "sn":  34,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Visual Arts",
+        "stem":  "Who was one of the founders of the Indian Society of Oriental Art?",
+        "options":  [
+                        "Rabindranath Tagore",
+                        "Abanindranath Tagore",
+                        "Dwarakanath Tagore",
+                        "Bankim Chandra Chattopadhyaya"
+                    ],
+        "ans":  "b",
+        "exp":  "The Indian Society of Oriental Art was founded in Calcutta in 1907 to revive Indian artistic traditions against colonial academic styles. Its driving force was Abanindranath Tagore — pioneer of the Bengal School of art (and nephew of Rabindranath) — along with Gaganendranath Tagore and the British art teacher E. B. Havell.",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  85,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Visual Arts",
+        "stem":  "About science in medieval South India:",
+        "options":  [
+                        "1 and 3 only",
+                        "3 only",
+                        "1 and 2 only",
+                        "1, 2 and 3"
+                    ],
+        "ans":  "d",
+        "exp":  "All three reflect the rich Kerala school of astronomy and mathematics. The Katapayadi system (a scheme for encoding numbers as syllables) is attributed to Vararuchi (1); Achyuta Pisharati, a member of the Kerala school, wrote on eclipses (2); and Ravi Varma Kulashekhara of Mahodayapuram is linked to an observatory and the Kollam era (3). (A history-of-science item.)",
+        "year":  2023,
+        "subs":  [
+                     "1. The Katapayadi system of numerals, invented by Vararuchi of Kerala (author of Chandra Vakyas), was used to calculate the Moon\u0027s position.",
+                     "2. Achyuta Pisharati (1550-1621) wrote Uparagakriyakrama, a text on eclipses.",
+                     "3. Ravi Varma of Mahodayapuram set up an observatory and is said to have inaugurated the Kollam era."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  62,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Visual Arts",
+        "stem":  "About Ajanta cave paintings:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "c",
+        "exp":  "The Ajanta caves (Maharashtra, 2nd c. BCE–6th c. CE) house India\u0027s finest ancient Buddhist murals — depicting Jataka tales alongside celestial beings such as yakshas, gandharvas and apsaras (statement 1). The artists were technically sophisticated, using multiple viewpoints/perspectives and subtle shading to give figures volume and narrative depth (statement 2). Both statements are correct.",
+        "year":  2025,
+        "subs":  [
+                     "1. The paintings depict yakshas, gandharvas and apsaras.",
+                     "2. The artists used the technique of providing multiple perspectives."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-I",
+        "sn":  50,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "About sculptures at Sanchi:",
+        "options":  [
+                        "1, 2 and 3",
+                        "2 and 3 only",
+                        "2 only",
+                        "1 and 3 only"
+                    ],
+        "ans":  "d",
+        "exp":  "The great Buddhist stupa at Sanchi carries, on its toranas (gateways), the Shalabhanjika — a graceful woman shown grasping the branch of a tree (statement 1). This is an ancient folk fertility/auspiciousness motif, not a Buddhist invention — it was absorbed into Buddhist art (statement 3). Statement 2 is wrong: a woman surrounded by lotuses and elephants describes Gaja-Lakshmi, not the Shalabhanjika. Hence 1 and 3 only.",
+        "year":  2022,
+        "subs":  [
+                     "1. Some sculptures represent Shalabhanjika.",
+                     "2. The Shalabhanjika figure is a woman surrounded by lotuses and elephants.",
+                     "3. The Shalabhanjika motif was not directly inspired by Buddhist ideas."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-II",
+        "sn":  32,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "1. The Flag Code of India superseded the Flag Code-India 2002.",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "b",
+        "exp":  "The State Emblem of India is indeed adapted from the Lion Capital of Ashoka at Sarnath (the four-lion capital), with the motto \"Satyameva Jayate\" added below (statement 2 correct). Statement 1 is wrong/garbled: it was the Flag Code of India, 2002 that consolidated the earlier flag rules — there is no later code that \"superseded\" the 2002 Code. Hence 2 only.",
+        "year":  2024,
+        "subs":  [
+                     "2. The State Emblem of India is an adaptation of the Lion Capital of Ashoka at Sarnath."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-II",
+        "sn":  58,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Correct components of the Lion Capital at Sarnath:",
+        "options":  [
+                        "1 only",
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "ans":  "b",
+        "exp":  "The Lion Capital sits atop a tall tapering shaft/column (stambha-yashti, statement 1) and rests on a base of inverted lotus petals (statement 3). Statement 2 is wrong: the abacus is richly carved — it bears the four animals (lion, elephant, bull, horse) and the four Dharma-chakras — so it is certainly not \"devoid of carvings.\" Hence 1 and 3 only.",
+        "year":  2024,
+        "subs":  [
+                     "1. The shaft (stambha-yashti), a tall tapering column.",
+                     "2. An elliptical top part (abacus) devoid of any carvings.",
+                     "3. Overflowing inverted petals below the abacus."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  61,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "In which state are the Guntupalle Buddhist Caves located?",
+        "options":  [
+                        "Andhra Pradesh",
+                        "Karnataka",
+                        "Tamil Nadu",
+                        "Kerala"
+                    ],
+        "ans":  "a",
+        "exp":  "The Guntupalle (Guntupalli) Buddhist caves — notable for their rock-cut chaitya (a rare circular chaitya hall) and vihara complex — are in the Eluru district of Andhra Pradesh, dating from around the 2nd century BCE onward.",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  67,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Which temple won the UNESCO Asia-Pacific Award of Merit, 2017 for cultural heritage conservation?",
+        "options":  [
+                        "Kamakhya Temple, Guwahati",
+                        "Sri Ranganathaswamy Temple, Srirangam",
+                        "Meenakshi Temple, Madurai",
+                        "Kedarnath Temple"
+                    ],
+        "ans":  "b",
+        "exp":  "The vast Sri Ranganathaswamy Temple at Srirangam (Tamil Nadu) — one of the largest functioning Hindu temple complexes in the world — won the UNESCO Asia-Pacific Award of Merit (2017) for its exemplary conservation work, the first time a temple from India received this recognition. (A current-affairs item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-II",
+        "sn":  3,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Travelling by the shortest road from Bikaner to Konark, which vegetation sequence would you find?",
+        "options":  [
+                        "Tropical thorny, Desert, Moist deciduous, Mangrove",
+                        "Desert, Tropical thorny, Moist deciduous, Mangrove",
+                        "Moist deciduous, Tropical thorny, Mangrove, Desert",
+                        "Desert, Tropical thorny, Mangrove, Moist deciduous"
+                    ],
+        "ans":  "b",
+        "exp":  "Starting in arid Bikaner (desert) in western Rajasthan and moving east-south-east toward Konark (Odisha coast), the natural vegetation grades from desert → thorny scrub → moist deciduous forest → coastal mangroves as rainfall increases. (A geography item, mis-filed here.)",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  36,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "About the use of the stirrup in India:",
+        "options":  [
+                        "1",
+                        "2",
+                        "3",
+                        "Nil"
+                    ],
+        "ans":  "c",
+        "exp":  "All three trace the evolution of the stirrup (a key cavalry technology) in India: the Konark horse sculpture (~1250) shows a ring-stirrup (1); Khajuraho sculptures (~10th century) show an earlier broad/wooden stirrup (2); and the Delhi Sultanate cavalry used iron stirrups from the 13th century (3). All three statements are correct.",
+        "year":  2025,
+        "subs":  [
+                     "1. The Konark horse sculpture (c. 1250) shows a ring-stirrup.",
+                     "2. A broad, probably wooden, stirrup appears in Khajuraho sculptures (c. 10th century).",
+                     "3. The iron stirrup was used in the Delhi Sultans\u0027 armies from the thirteenth century onwards. How many are correct?"
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  77,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Correct chronological order of building:",
+        "options":  [
+                        "3, 1, 4, 2",
+                        "3, 1, 2, 4",
+                        "1, 3, 2, 4",
+                        "1, 3, 4, 2"
+                    ],
+        "ans":  "b",
+        "exp":  "Placing the monuments in time: the Qutub Minar (3) was begun by Qutb-ud-din Aibak around 1199 (Slave dynasty); Tughlaqabad Fort (1) was built by Ghiyasuddin Tughlaq around 1321; the Bada Gumbad (2) in Lodhi Garden dates to the late-15th-century Lodhi period; and Fatehpur Sikri (4) was built by Akbar in the 1570s. Chronological order = 3, 1, 2, 4.",
+        "year":  2017,
+        "subs":  [
+                     "1. Tughlaqabad Fort",
+                     "2. Bada Gumbad (Lodhi Garden)",
+                     "3. Qutub Minar",
+                     "4. Fatehpur Sikri."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  56,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Manav plans to visit all UNESCO World Heritage Sites in Delhi. He will visit",
+        "options":  [
+                        "Red Fort, Qutab Minar, Jama Masjid",
+                        "Red Fort, India Gate, Qutab Minar",
+                        "Red Fort, Qutab Minar, Humayun\u0027s Tomb",
+                        "Red Fort, Humayun\u0027s Tomb, India Gate"
+                    ],
+        "ans":  "c",
+        "exp":  "Delhi has three UNESCO World Heritage Sites: the Red Fort (Lal Qila), the Qutub Minar complex, and Humayun\u0027s Tomb (c). Jama Masjid and India Gate, though famous, are not on the UNESCO World Heritage list — which is why options containing them are wrong.",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  117,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Which statement about Elephanta Island is correct?",
+        "options":  [
+                        "It was named by the British after a large elephant structure there.",
+                        "It contains one large cave.",
+                        "It is well-known for a carving of Vishnu described in the Vishnudharmottara Purana.",
+                        "It is associated with the Pashupata sect."
+                    ],
+        "ans":  "d",
+        "exp":  "The Elephanta caves (near Mumbai) are a group of rock-cut Shaiva caves (UNESCO site) famous for the colossal Trimurti/Maheshamurti of Shiva — and are associated with the Pashupata sect of Shaivism (d). The others are wrong: the island was named by the Portuguese (not British) after a stone elephant; it has several caves (not one); and its great sculpture is of Shiva, not Vishnu.",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  60,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "About Ellora:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "d",
+        "exp":  "Ellora is celebrated precisely because it is not exclusive to any one religion — its 34 caves include Buddhist, Hindu and Jain monuments side by side (so statement 1 is false). And the magnificent Kailasa temple is rock-cut — carved top-down out of a single monolithic basalt cliff, not built of dressed stone or bricks (so statement 2 is false). Hence neither is correct.",
+        "year":  2025,
+        "subs":  [
+                     "1. This site is associated exclusively with Buddhism.",
+                     "2. The Kailasa temple at Ellora has been built of dressed stone and kiln-fired bricks."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2016-II",
+        "sn":  115,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "About Harappan cities:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "c",
+        "exp":  "Harappan town-planning is famous for its grid layout, but research shows roads were not perfectly straight nor always at exact right angles (statement 1), and a hallmark of the civilisation was the standardised brick size (ratio 1:2:4) used uniformly for houses and city walls alike (statement 2). Both statements are correct.",
+        "year":  2016,
+        "subs":  [
+                     "1. Roads were not always absolutely straight and did not always cross one another at right angles.",
+                     "2. A striking feature is the uniformity in the average size of the bricks for houses and city walls."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  94,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Which statement about the Harappan Culture is not correct?",
+        "options":  [
+                        "It witnessed the first cities in the subcontinent.",
+                        "It marks the first use of script, written from right to left.",
+                        "It marks the earliest known use of iron as a medium for sculpting.",
+                        "It marks the earliest known use of stone as a medium for sculpting."
+                    ],
+        "ans":  "c",
+        "exp":  "The Harappan (Indus Valley) Civilisation produced the subcontinent\u0027s first cities (a), an as-yet-undeciphered script written right-to-left (b), and early stone sculpture (e.g. the \"Priest-King,\" d). But the Harappans belonged to the Bronze Age and did not use iron at all — iron came centuries later — so statement c is false.",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  104,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Match: A. Dholavira B. Rakhigarhi C. Bhirrana D. Bhogavo |",
+        "options":  [
+                        "1, 4, 2, 3",
+                        "1, 2, 4, 3",
+                        "3, 2, 4, 1",
+                        "3, 4, 2, 1"
+                    ],
+        "ans":  "c",
+        "exp":  "Dholavira sits on Kadir (Khadir) Island in the Rann of Kutch (A-3); Rakhigarhi, the largest Harappan site, is in Hisar district (B-2); Bhirrana is in Haryana (C-4); and Bhogavo is a river in Saurashtra (D-1). Hence A-3, B-2, C-4, D-1.",
+        "year":  2017,
+        "subs":  [
+                     "1. Saurashtra",
+                     "2. Hisar",
+                     "3. Kadir Island",
+                     "4. Haryana."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  55,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "The Harappan site at Kot Diji is close to which major site of the civilization?",
+        "options":  [
+                        "Harappa",
+                        "Mohenjo-daro",
+                        "Lothal",
+                        "Kalibangan"
+                    ],
+        "ans":  "b",
+        "exp":  "Kot Diji, in Sindh (Pakistan), lies on the east bank of the Indus close to Mohenjo-daro. It is important as a \"pre-Harappan/Early Harappan\" site (the \"Kot Dijian\" phase) showing the culture that preceded the mature urban phase.",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-I",
+        "sn":  76,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "From which factory site were limestone and chert blades mass-produced and sent to Harappan settlements in Sindh?",
+        "options":  [
+                        "Sukkur and Rohri Hills",
+                        "Khetri in Rajasthan",
+                        "Chagai Hills",
+                        "Hills of Baluchistan"
+                    ],
+        "ans":  "a",
+        "exp":  "The Rohri and Sukkur Hills in Sindh were a major source of fine chert, where stone blades were mass-produced in workshops and distributed to Harappan settlements. (Khetri in Rajasthan, by contrast, was a source of copper.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  116,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Why was Dholavira in the news recently?",
+        "options":  [
+                        "Skeletons discovered at the site",
+                        "For its conservation efforts",
+                        "For the discovery of gold and precious stones",
+                        "It received the UNESCO World Heritage Tag"
+                    ],
+        "ans":  "d",
+        "exp":  "Dholavira (Gujarat), a major Harappan city known for its sophisticated water-management systems (reservoirs) and a unique signboard, was inscribed as a UNESCO World Heritage Site in 2021 — making it India\u0027s first Harappan-era site to get the tag. (A current-affairs item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-II",
+        "sn":  95,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "In the citadel and lower-town areas of which Harappan city have several large cisterns and reservoirs been found?",
+        "options":  [
+                        "Banawali",
+                        "Mohenjodaro",
+                        "Dholavira",
+                        "Rakhigarhi"
+                    ],
+        "ans":  "c",
+        "exp":  "Dholavira is renowned for its remarkable water-harvesting system — a series of large rock-cut cisterns and reservoirs within the city, designed to store monsoon and stream water in an arid landscape. This is its most distinctive feature.",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  35,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Which is an ethnic community of Assam?",
+        "options":  [
+                        "Bhil",
+                        "Gond",
+                        "Ahom",
+                        "Adi"
+                    ],
+        "ans":  "c",
+        "exp":  "The Ahoms — a Tai people who migrated from present-day Myanmar in the 13th century and ruled Assam for ~600 years — are an ethnic community of Assam. (Bhils and Gonds are central/western Indian tribes; the Adi are of Arunachal Pradesh.) (A general-knowledge/ethnography item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  32,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Which motif does not appear on Harappan seals?",
+        "options":  [
+                        "Humped Bull",
+                        "Elephant",
+                        "Lion",
+                        "Crocodile"
+                    ],
+        "ans":  "c",
+        "exp":  "Harappan seals commonly depict the humped bull (zebu), elephant, rhinoceros, tiger, the \"unicorn,\" buffalo and crocodile — but the lion is conspicuously absent from the seal repertoire (the tiger, not the lion, was the great cat the Harappans knew). Hence the lion (c) is the motif not found.",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  119,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "1. Moidam — the mound-burial system of the Ahom dynasty — was inscribed on the UNESCO World Heritage list.",
+        "options":  [
+                        "2 only",
+                        "1 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "ans":  "b",
+        "exp":  "The Moidams — the royal mound-burials of the Ahom dynasty in Assam — were inscribed as a UNESCO World Heritage Site in 2024 (statement 1 correct). Statement 2 is wrong: the languages given classical status in 2024 were Pali, Prakrit, Marathi, Assamese and Bengali — not Maithili. Statement 3 is wrong: Project PARI (Public Art of India) is an initiative of the Ministry of Culture, not Education. Hence 1 only.",
+        "year":  2025,
+        "subs":  [
+                     "2. The Government conferred classical-language status on Pali, Assamese, Bengali and Maithili.",
+                     "3. Project PARI is an initiative of the Ministry of Education."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  55,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Which period has provided the evidence of a ploughed field at Kalibangan in Rajasthan?",
+        "options":  [
+                        "Early Harappan",
+                        "Mature Harappan",
+                        "Late Harappan",
+                        "Chalcolithic"
+                    ],
+        "ans":  "a",
+        "exp":  "Kalibangan (Rajasthan) yielded one of the world\u0027s earliest known ploughed agricultural fields — a cross-pattern furrowed field — dated to the Early (pre-urban) Harappan phase, evidence that the grid-pattern cropping (still used in the region) goes back over four millennia.",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  118,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "The tagline \"Invaluable Treasures of Incredible India\" is associated with the logo for",
+        "options":  [
+                        "Archaeological Survey of India",
+                        "India Tourism Development Corporation",
+                        "Geological Survey of India",
+                        "Geographical Indications (GI) of India"
+                    ],
+        "ans":  "a",
+        "exp":  "The Archaeological Survey of India (ASI) — the premier body for archaeological research and protection of monuments — adopted the tagline \"Invaluable Treasures of Incredible India\" with its logo, reflecting its custodianship of India\u0027s heritage. (A current-affairs item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  106,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "What is \"itat e-dwar\"?",
+        "options":  [
+                        "An Urdu magazine published from Lucknow",
+                        "An e-filing portal of the Income Tax Appellate Tribunal",
+                        "A religious monument",
+                        "A UNESCO world heritage site"
+                    ],
+        "ans":  "b",
+        "exp":  "\"itat e-dwar\" is the electronic filing portal of the Income Tax Appellate Tribunal (ITAT), launched in 2021 to allow online filing of appeals and documents. (A current-affairs item, mis-filed here.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  11,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "About Easter Island, a UNESCO World Heritage Site:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "c",
+        "exp":  "Easter Island (Rapa Nui) — famous for its giant moai stone statues (a UNESCO World Heritage Site) — lies in the southeastern Pacific and is part of Polynesia (statement 1), and politically it is a special territory of Chile (statement 2). Both statements are correct. (A geography item.)",
+        "year":  2025,
+        "subs":  [
+                     "1. It is part of the Polynesia group of islands.",
+                     "2. It is a territory of the South American nation Chile."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  114,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Who deciphered the Brahmi and Kharoshthi scripts?",
+        "options":  [
+                        "Piyadassi",
+                        "Colin Mackenzie",
+                        "Alexander Cunningham",
+                        "James Prinsep"
+                    ],
+        "ans":  "d",
+        "exp":  "James Prinsep, a British official and scholar of the Asiatic Society, deciphered the Brahmi and Kharoshthi scripts in the 1830s — a breakthrough that finally allowed Ashoka\u0027s edicts to be read and revealed the emperor \"Piyadassi\" to be Ashoka. (Cunningham later founded the ASI.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-I",
+        "sn":  83,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "About Ashoka\u0027s faith in Buddhism:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "a",
+        "exp":  "The Rummindei pillar (marking the Buddha\u0027s birthplace, Lumbini) and the Nigali Sagar pillar (recording Ashoka\u0027s enlargement of a stupa) are clear evidence of his Buddhist devotion (statement 1). Statement 2 is the doubtful one: Minor Rock Edict-I shows a gradual deepening of his commitment (becoming a lay follower, then drawing closer to the Sangha), not a \"sudden change.\" Hence 1 only. (Worth confirming against the official key.)",
+        "year":  2022,
+        "subs":  [
+                     "1. The Rummindei and Nigali Sagar Pillar Inscriptions provide clear evidence of Ashoka\u0027s faith in Buddhism.",
+                     "2. Minor Rock Edict-I gives evidence of a sudden change in Ashoka\u0027s faith in Buddhism."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-II",
+        "sn":  94,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "During the 8th-14th centuries, which terms were used in Sanskrit texts/inscriptions to denote Muslims?",
+        "options":  [
+                        "1, 2 and 3",
+                        "1, 2 and 4",
+                        "2 and 3 only",
+                        "1, 3 and 4"
+                    ],
+        "ans":  "a",
+        "exp":  "Medieval Sanskrit sources used several terms (often by ethnic/geographic origin) for Muslim/foreign groups: Turushka (Turks), Tajika (Arabs/Tazi), and Parashika (Persians) — statements 1, 2, 3. Kardamaka (4) is unrelated — it was the name of a line of the Western Kshatrapa (Shaka) rulers, centuries earlier. Hence 1, 2 and 3.",
+        "year":  2022,
+        "subs":  [
+                     "1. Turushka",
+                     "2. Tajika",
+                     "3. Parashika",
+                     "4. Kardamaka."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  76,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "The notion of kinship projected by the Kushana rulers is best evidenced through",
+        "options":  [
+                        "Their identification with deities",
+                        "Grants to religious institutions",
+                        "Inscriptional panegyrics",
+                        "Coins and sculpture"
+                    ],
+        "ans":  "d",
+        "exp":  "The Kushana kings projected their power and a notion of \"divine kingship/dynastic kinship\" most clearly through their coins and sculpture — their colossal statues (as at the Mat shrine near Mathura) and coinage portraying the rulers in a god-like aura, linking the dynasty to the divine. (A history item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  98,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Name the location of the musical inscription containing groups of musical notes arranged for the benefit of his pupils by a king in the 7th-8th century CE.",
+        "options":  [
+                        "Ennayiram",
+                        "Uttaramerur",
+                        "Siyyamangalam",
+                        "Kudumiyamalai"
+                    ],
+        "ans":  "d",
+        "exp":  "The Kudumiyamalai (Kudumiyanmalai) musical inscription in Tamil Nadu, dated to the 7th-8th century, records groups of musical notes (svaras) as a teaching aid for students — one of the oldest such records of Indian music theory. (Uttaramerur is famed for its inscriptions on Chola local self-government, a different subject.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  71,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "The Hathigumpha inscription of Kharavela mentions that in the 11th year of his reign he destroyed a confederacy of Tamil States (Tramiradesa Sanghatam). How old was this confederacy at that time?",
+        "options":  [
+                        "110 years old",
+                        "111 years old",
+                        "112 years old",
+                        "113 years old"
+                    ],
+        "ans":  "d",
+        "exp":  "The Hathigumpha inscription of the Kalinga king Kharavela (Udayagiri, Odisha) records that he broke up a 113-year-old confederacy of Tamil states (Tramiradesa Sanghatam) — a valuable chronological clue for early South Indian history. (A history item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  34,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Architecture \u0026 Heritage",
+        "stem":  "Which statement about Ashoka\u0027s inscriptions is correct?",
+        "options":  [
+                        "The Major Rock Edict found in Kerala is in Sanskrit.",
+                        "Minor Rock Edicts in Bihar are found only in Pataliputra.",
+                        "The Dhauli Major Rock Edict mentions the Kalinga War.",
+                        "Kalsi in Uttarakhand is a site of Major Rock Edicts."
+                    ],
+        "ans":  "d",
+        "exp":  "Kalsi (Uttarakhand) is indeed one of the sites bearing the set of Major Rock Edicts (statement d correct). The others are wrong: Ashoka\u0027s edicts are in Prakrit (in Brahmi script), not Sanskrit (a); at the Kalinga sites Dhauli and Jaugada, the war-remorse edict (Major Rock Edict XIII) was deliberately omitted and replaced by Separate Edicts (so c is false); and Minor Rock Edicts are found at several places, not only Pataliputra (b).",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2016-II",
+        "sn":  75,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Which statements about the philosopher Shankara are true?",
+        "options":  [
+                        "1 and 2 only",
+                        "1, 2 and 3",
+                        "3 and 4",
+                        "4 only"
+                    ],
+        "ans":  "b",
+        "exp":  "Adi Shankara (8th c. CE) propounded Advaita (\"non-dual\") Vedanta — the doctrine that the individual soul (Atman) and ultimate reality (Brahman) are one (statement 1). He built on the work of his predecessor Gaudapada (statement 2) and wrote commentaries showing that the Upanishads, Brahmasutras and Gita form one coherent philosophy (statement 3). (Tradition also credits him with founding four mathas, statement 4, but the keyed answer treats 1–3 as the established set.)",
+        "year":  2016,
+        "subs":  [
+                     "1. Shankara espoused a form of Vedanta called Advaita.",
+                     "2. He elaborated on the philosophy of Gaudapada.",
+                     "3. He tried to show that the Upanishads and Brahmasutras contain a unified, systematic philosophy.",
+                     "4. Shankara founded the Amnaya Mathas."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  80,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Which statement is not correct?",
+        "options":  [
+                        "Al-Biruni identifies the Sufi doctrine of divine love as self-annihilation with parallel passages from the Bhagavad Gita.",
+                        "Per Al-Biruni, Sufi theories of the Soul were similar to those in Patanjali\u0027s Yoga Sutra.",
+                        "The Hatha Yogic treatise Amrita Kunda had a lasting impact on Sufism.",
+                        "Hujwiri\u0027s conversation with the Yogis shows that he was impressed with their theory of the division of the human body."
+                    ],
+        "ans":  "d",
+        "exp":  "The well-attested links between Sufism and Indian thought include Al-Biruni\u0027s comparisons of Sufi divine-love and soul-theories with the Gita and Patanjali\u0027s Yoga Sutra (a, b) and the influence of the Hatha-yogic text Amrita Kunda on Sufi practice (c). Statement d — the specific claim about Hujwiri being impressed by the Yogis\u0027 theory of the body\u0027s divisions — is the odd one out and not correct. (Worth confirming against the official key.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  58,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "According to the Manusmriti, women can acquire wealth through which means?",
+        "options":  [
+                        "Purchase",
+                        "Investment",
+                        "Token of affection",
+                        "Inheritance"
+                    ],
+        "ans":  "c",
+        "exp":  "The Manusmriti lists the recognised forms of a woman\u0027s own wealth — stridhana — which included gifts given out of affection (at marriage, by parents, husband or relatives). So among these options, wealth acquired as a \"token of affection\" (c) is the form sanctioned. (A history item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  61,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Swami Dayanand Saraswati took inspiration from",
+        "options":  [
+                        "Puranas",
+                        "Vedas",
+                        "Medieval saints",
+                        "Sufism"
+                    ],
+        "ans":  "b",
+        "exp":  "Swami Dayanand Saraswati, founder of the Arya Samaj (1875), gave the call \"Back to the Vedas.\" He rejected later accretions like idol worship, ritualism and the Puranas, holding the Vedas as the infallible source of all knowledge and true religion.",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-II",
+        "sn":  114,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "The legend of Prahlad and his father Hiranyakashyap was first set out in the",
+        "options":  [
+                        "Bhagwat Purana",
+                        "Vishnu Purana",
+                        "Vamana Purana",
+                        "Agni Purana"
+                    ],
+        "ans":  "b",
+        "exp":  "The story of the devotee Prahlad and his demon-father Hiranyakashipu (and the Narasimha avatar) is found in several Puranas, but it is first set out in the Vishnu Purana, one of the earliest of the Mahapuranas, before being elaborated more famously in the later Bhagavata Purana. (Worth confirming against the official key.)",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-II",
+        "sn":  115,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Which statement on ownership according to Smriti literature is not correct?",
+        "options":  [
+                        "The paternal estate was to be divided equally among sons.",
+                        "Women were allowed to retain gifts received on marriage.",
+                        "Gifts to women on marriage were known as Stridhana.",
+                        "Stridhana was not inherited by the children without the permission of the husband."
+                    ],
+        "ans":  "d",
+        "exp":  "Under Smriti law the paternal estate was divided equally among sons (a), and a woman\u0027s marriage gifts — Stridhana — were her own property to keep (b, c). Statement d is wrong: Stridhana was inherited by a woman\u0027s children as a matter of course; it did not require the husband\u0027s permission to pass to them. (A history item.)",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  85,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "The theme of India\u0027s G20 Presidency, \"Vasudhaiva Kutumbakam\" (One Earth-One Family-One Future), is drawn from the",
+        "options":  [
+                        "Maha Purana",
+                        "Maha Upanishad",
+                        "Rig Veda",
+                        "Smriti"
+                    ],
+        "ans":  "b",
+        "exp":  "The Sanskrit phrase \"Vasudhaiva Kutumbakam\" (\"the world is one family\") comes from the Maha Upanishad. India adopted it as the theme of its 2023 G20 Presidency to convey a message of global unity and shared future. (A current-affairs item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  88,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "The Sahajiya Cult, traceable to the 10th-11th centuries, is usually associated with",
+        "options":  [
+                        "early Bhakti traditions",
+                        "a kind of early Sufism",
+                        "early Upanishadic philosophy",
+                        "Buddhism"
+                    ],
+        "ans":  "d",
+        "exp":  "The Sahajiya tradition originated within Tantric (Vajrayana/Sahajayana) Buddhism, emphasising the attainment of enlightenment through \"sahaja\" — the natural, spontaneous state — often expressed in the Charyapada songs. (It later influenced Bengali Vaishnava-Sahajiya traditions, but its roots are Buddhist.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  43,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Which statement about the grammarian Katyayana is correct?",
+        "options":  [
+                        "He was a contemporary of Panini.",
+                        "He was a contemporary of Patanjali.",
+                        "He belonged to a period between Panini and Patanjali.",
+                        "He belonged to a period later than both Panini and Patanjali."
+                    ],
+        "ans":  "c",
+        "exp":  "The three great names of Sanskrit grammar form a sequence: Panini (the Ashtadhyayi, ~5th-4th c. BCE) → Katyayana (who wrote the Varttikas, critical notes refining Panini\u0027s rules) → Patanjali (the Mahabhashya, a great commentary, ~2nd c. BCE). So Katyayana came between Panini and Patanjali (c).",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  13,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Which can be considered part of ancient Indian Smriti literature?",
+        "options":  [
+                        "1, 2 and 3 only",
+                        "3 and 4 only",
+                        "1 and 2 only",
+                        "1, 2, 3 and 4"
+                    ],
+        "ans":  "a",
+        "exp":  "Indian sacred texts are classed as Shruti (\"that which is heard\" — the eternal, revealed Vedas) and Smriti (\"that which is remembered\" — human-authored, derivative texts). The Puranas, the epics (Ramayana) and the Kalpa-Sutras all fall under Smriti (1, 2, 3). The Vedas (4) are Shruti, not Smriti — so they are excluded. Hence 1, 2 and 3 only.",
+        "year":  2025,
+        "subs":  [
+                     "1. Puranas",
+                     "2. Ramayana",
+                     "3. Kalpa-Sutra",
+                     "4. Vedas."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2016-II",
+        "sn":  82,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "The epic Silappadikaram refers to the",
+        "options":  [
+                        "story of Rama",
+                        "Jaina elements in the storyline",
+                        "culture of Sri Lankan Buddhists",
+                        "cult of Shakti worship"
+                    ],
+        "ans":  "b",
+        "exp":  "Silappadikaram (\"the tale of the anklet\"), one of the great Tamil epics, was composed by Ilango Adigal, a Jaina prince-ascetic, and the work carries strong Jaina elements in its outlook and storyline (alongside the famous Kannagi-Pattini theme). (A Tamil literature/history item.)",
+        "year":  2016
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  94,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "The royal portraits of Simhavishnu and Mahendravarman are found in which cave temple at Mamallapuram?",
+        "options":  [
+                        "Varaha Cave",
+                        "Ramanuja Cave",
+                        "Adivaraha Cave",
+                        "Trimurti Cave"
+                    ],
+        "ans":  "c",
+        "exp":  "The Adivaraha Cave temple at Mamallapuram (Mahabalipuram) contains rare royal portrait sculptures of the Pallava kings Simhavishnu and Mahendravarman (with their queens) — among the earliest royal portrait panels in South Indian temple art.",
+        "year":  2024
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  97,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "About Virashaivism:",
+        "options":  [
+                        "1 and 2 only",
+                        "1, 2 and 3",
+                        "1 and 3 only",
+                        "3 only"
+                    ],
+        "ans":  "d",
+        "exp":  "Only the Ashtavarana statement (statement 3) is accepted as correct. The claims about the movement\u0027s origin through the five named teachers and the exact wording of its philosophy are not accepted in the CDS answer framing - hence 3 only (option d).",
+        "year":  2024,
+        "subs":  [
+                     "1. It traces its origin to five great teachers — Renuka, Daruka, Ghantakarna, Dhenukarna and Vishvakarna.",
+                     "2. Its philosophy is called Shaktivishishtadvaita — the non-duality of God.",
+                     "3. Ashtavarana are the eight rules to be observed by followers."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  98,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Who propounded Kashmir Shaivism?",
+        "options":  [
+                        "Vasugupta",
+                        "Abhinavagupta",
+                        "Ramakantha",
+                        "Ranganathacharya"
+                    ],
+        "ans":  "a",
+        "exp":  "Kashmir Shaivism (the monistic Trika/Pratyabhijna system) is traced to Vasugupta (9th c. CE), to whom the foundational Shiva Sutras are attributed. Abhinavagupta (b) was its greatest later systematiser, but the school\u0027s founding is credited to Vasugupta.",
+        "year":  2024
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-II",
+        "sn":  51,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "About Vedanta philosophy:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "c",
+        "exp":  "Vedanta has several schools. Adi Shankara founded Advaita (non-dualism) (statement 1), while Madhvacharya elaborated Dvaita (dualism) — the doctrine that God (Vishnu) and the individual soul are eternally distinct (statement 2). (Ramanuja\u0027s Vishishtadvaita lies between them.) Both statements are correct.",
+        "year":  2024,
+        "subs":  [
+                     "1. Shankara was the founder of Advaita Vedanta.",
+                     "2. The philosophy of Dvaita was elaborated by Madhva."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  65,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Which book portrays three images of the Mother Goddess (\"Mother as she was, Mother as she is and Mother as she will be\")?",
+        "options":  [
+                        "Durgeshnandini",
+                        "Kapalkundala",
+                        "Anandamath",
+                        "Devi Chaudhurani"
+                    ],
+        "ans":  "c",
+        "exp":  "Anandamath (1882) by Bankim Chandra Chattopadhyay — the novel that gave India the song \"Vande Mataram\" — depicts, in the temple of the sanyasi rebels, three images of the Mother: as she was (prosperous past), as she is (subjugated present) and as she will be (glorious future). All four options are Bankim\u0027s novels, but only Anandamath has this motif.",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  39,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "About the heterodox sects (6th-4th century BC):",
+        "options":  [
+                        "1, 2, 3 and 4",
+                        "1, 2 and 3 only",
+                        "1, 2 and 4 only",
+                        "3 and 4 only"
+                    ],
+        "ans":  "b",
+        "exp":  "Parshvanatha, the 23rd Tirthankara, preached Jain ideas before Mahavira, in the 7th c. BCE (1). Both Buddhism and Jainism criticised but did not abolish the caste system (2). Mahavira\u0027s first woman disciple, Chandanbala, is described as a captured slave woman (3). Statement 4 is the doubtful one: although the Buddha did admit women and accept that nuns could attain liberation, he imposed extra rules (the eight garudhammas) that did not grant them fully \"equal status\" — so the keyed answer excludes it. Hence 1, 2 and 3 only. (Worth confirming against the official key.)",
+        "year":  2017,
+        "subs":  [
+                     "1. Jain ideas were already circulated in the 7th century BC by Parshva.",
+                     "2. Neither Buddhism nor Jainism sought to abolish the caste system.",
+                     "3. The first female disciple of Mahavira is said to have been a captured slave woman.",
+                     "4. Buddha held that nuns could attain spiritual liberation like monks and granted them equal status in the order."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  69,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Consider:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "1 and 2",
+                        "1 and 3"
+                    ],
+        "ans":  "c",
+        "exp":  "Different Buddhist texts give different accounts of Ashoka\u0027s conversion. The Sri Lankan chronicle Mahavamsa credits the young monk Nigrodha (Ashoka\u0027s nephew) (1), while the Divyavadana credits Samudra, a merchant who became a monk (2). Statement 3 misattributes the Samudra story to the Dipavamsa (which actually follows the Nigrodha tradition), so 3 is wrong. Hence 1 and 2.",
+        "year":  2019,
+        "subs":  [
+                     "1. Per the Mahavamsa, Ashoka turned to the Buddha\u0027s dhamma when his nephew Nigrodha preached to him.",
+                     "2. The Divyavadana ascribes Ashoka\u0027s turn to Buddhism to the influence of Samudra, a merchant-turned-monk.",
+                     "3. The Dipavamsa speaks of Samudra, a 12-year-old merchant\u0027s son, as the key figure."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-I",
+        "sn":  82,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Which was not a part of Kautilya\u0027s Saptanga Theory of the State?",
+        "options":  [
+                        "Amatya",
+                        "Janapada",
+                        "Durga",
+                        "Dhamma"
+                    ],
+        "ans":  "d",
+        "exp":  "Kautilya\u0027s Saptanga (seven-limb) theory in the Arthashastra lists the seven elements (\"prakritis\") of a state: Swami (king), Amatya (ministers), Janapada (territory/people), Durga (fort), Kosha (treasury), Danda/Bala (army) and Mitra (ally). Dhamma (righteousness) — central to Ashoka\u0027s policy — is not one of the seven limbs. Hence d.",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  77,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Who were referred to as the \"Theris\" in ancient India?",
+        "options":  [
+                        "Respected women",
+                        "Elder nuns in Buddhism",
+                        "Women denied Bhikkhuni status",
+                        "Women expelled from the Buddhist Sangha"
+                    ],
+        "ans":  "b",
+        "exp":  "\"Theris\" were the senior/elder Buddhist nuns (the feminine of \"Thera,\" elder monk). Their devotional verses are collected in the Therigatha (\"Verses of the Elder Nuns\"), one of the earliest known anthologies of women\u0027s writing in the world.",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  16,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Which statement about the Shvetambara sect of Jainism is not correct?",
+        "options":  [
+                        "It refers to monks who wear white clothes.",
+                        "It refers to monks who migrated south of the Vindhyas in the 4th century BCE.",
+                        "They recognized canonical texts including the 12 Angas.",
+                        "They believed women can also attain salvation."
+                    ],
+        "ans":  "b",
+        "exp":  "Jainism split into two sects: the Shvetambaras (\"white-clad,\" a) who stayed in the north, accept the 12 Angas (c) and hold that women can attain liberation (d); and the Digambaras (\"sky-clad,\" who renounce clothing) — it was the Digambaras, under Bhadrabahu, who migrated south of the Vindhyas. So statement b wrongly attributes the southern migration to the Shvetambaras.",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  107,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Which educational institution under the Union Ministry of Culture promotes the preservation and propagation of Lord Buddha\u0027s teachings and values of love, compassion and non-violence?",
+        "options":  [
+                        "Indian Institute of Advanced Study, Shimla",
+                        "NCERT, New Delhi",
+                        "Nava Nalanda Mahavihara, Nalanda",
+                        "IGNOU, New Delhi"
+                    ],
+        "ans":  "c",
+        "exp":  "Nava Nalanda Mahavihara at Nalanda (Bihar) — a deemed university under the Ministry of Culture — is devoted to the study of Pali, Buddhism and allied subjects, carrying forward the legacy of the ancient Nalanda and propagating the Buddha\u0027s teachings of compassion and non-violence. (A current-affairs/institutions item.)",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  60,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Verses ascribed to the poet-saint Kabir have been compiled in which traditions?",
+        "options":  [
+                        "1 and 2 only",
+                        "1, 2 and 3",
+                        "2 and 3 only",
+                        "3 only"
+                    ],
+        "ans":  "b",
+        "exp":  "Kabir\u0027s verses survive in three great compilations: the Bijak (preserved by the Kabirpanth in Varanasi/eastern India, 1), the Kabir Granthavali (associated with Rajasthan, 2), and many of his hymns included in the Sikh scripture, the Guru Granth Sahib / Adi Granth (3). All three traditions preserve his work.",
+        "year":  2018,
+        "subs":  [
+                     "1. Bijak in Varanasi",
+                     "2. Kabir Granthavali in Rajasthan",
+                     "3. Adi Granth Sahib."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  16,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Who is/are the recipient(s) of the Rajiv Gandhi Khel Ratna Award, 2018?",
+        "options":  [
+                        "Virat Kohli",
+                        "S. Mirabai Chanu and Virat Kohli",
+                        "Neeraj Chopra",
+                        "Hima Das and Neeraj Chopra"
+                    ],
+        "ans":  "b",
+        "exp":  "The Khel Ratna is India\u0027s highest sporting honour. For 2018 it was awarded jointly to cricketer Virat Kohli and weightlifter Saikhom Mirabai Chanu. (A current-affairs/sports item, mis-filed here.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  73,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Who is the author of the 16th-century Sanskrit text Vraja Bhakti Vilasa, focused on the Braj region?",
+        "options":  [
+                        "Todar Mal",
+                        "Narayana Bhatta",
+                        "Chaitanya",
+                        "Rupa Goswami"
+                    ],
+        "ans":  "b",
+        "exp":  "Vraja Bhakti Vilasa is attributed to Narayana Bhatta (Narayana Bhatta Goswami), not Rupa Goswami. Rupa Goswami is a key figure in Gaudiya Vaishnavism, but this text is not his - so the correct answer is Narayana Bhatta (option b).",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  81,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "The town of Chisht, from which the Sufi Chishti Silsila derives its name, is located in",
+        "options":  [
+                        "Western Turkey",
+                        "Central Afghanistan",
+                        "Eastern Iran",
+                        "Eastern Iraq"
+                    ],
+        "ans":  "b",
+        "exp":  "A Silsila is a Sufi order/lineage. The Chishti order — the most influential Sufi order in India (Khwaja Moinuddin Chishti of Ajmer) — takes its name from the town of Chisht, near Herat in central Afghanistan, where the order originated.",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  82,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "The rules for congregational worship (Sangat) involving collective recitation were organized by",
+        "options":  [
+                        "Guru Nanak",
+                        "Guru Angad",
+                        "Guru Arjan",
+                        "Guru Gobind Singh"
+                    ],
+        "ans":  "a",
+        "exp":  "Guru Nanak, the founder of Sikhism, established the core community institutions — the Sangat (congregation that gathers for collective worship and recitation of hymns/kirtan) and the Langar (community kitchen) — laying the basis of congregational worship in the faith. (Some accounts credit later Gurus with formalising aspects of worship; worth confirming against the official key.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  118,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Who is the first Indian woman to win a medal in the Olympics?",
+        "options":  [
+                        "Karnam Malleswari",
+                        "Mirabai Chanu",
+                        "P.T. Usha",
+                        "P.V. Sindhu"
+                    ],
+        "ans":  "a",
+        "exp":  "Weightlifter Karnam Malleswari became the first Indian woman to win an Olympic medal — a bronze at the Sydney 2000 Games. (A current-affairs/sports item, mis-filed here.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  52,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Who among the following is not a woman Nayanar saint?",
+        "options":  [
+                        "Karaikkal Ammaiyar",
+                        "Mangayarkkarasiyar",
+                        "Andal",
+                        "Isaignaniyar"
+                    ],
+        "ans":  "c",
+        "exp":  "The Nayanars were the 63 Shaiva (Shiva-devotee) saints of Tamil Nadu; among them were women such as Karaikkal Ammaiyar, Mangayarkkarasiyar and Isaignaniyar. Andal, however, was the lone woman Alvar — a Vaishnava (Vishnu-devotee) saint, not a Nayanar. Hence Andal (c) is the odd one out.",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  95,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "How many statements about the Bhakti poet Namdev are correct?",
+        "options":  [
+                        "1",
+                        "2",
+                        "3",
+                        "None"
+                    ],
+        "ans":  "b",
+        "exp":  "Namdev (13th–14th c.), a Marathi saint-poet, helped carry the Bhakti spirit from the south/Maharashtra to the north (1) and was a monotheist who opposed caste distinctions (2). Statement 3 is wrong on chronology: Namdev preceded Kabir and could not have been his follower — if anything, Namdev influenced later saints. Hence two statements (1 and 2) are correct.",
+        "year":  2024,
+        "subs":  [
+                     "1. He played a part in transmitting southern Bhakti to northern India.",
+                     "2. He was a rigorous monotheist and opposed caste distinctions.",
+                     "3. He was a devout follower of Kabir."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-I",
+        "sn":  61,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Religion \u0026 Philosophy",
+        "stem":  "Correct statements about the Shiromani Gurudwara Prabandhak Committee (SGPC):",
+        "options":  [
+                        "1, 3 and 4",
+                        "2, 3 and 4",
+                        "2 and 4 only",
+                        "2 and 3 only"
+                    ],
+        "ans":  "b",
+        "exp":  "The SGPC was formed in 1920 during the Akali (Gurdwara Reform) movement (2) to wrest control of the gurdwaras from corrupt hereditary mahants and government-backed managers (3), and it set up the Akali Dal to coordinate the Jathas (volunteer bands) that led the agitation (4). Statement 1 is wrong — it was not the political wing of the late-19th-century Singh Sabhas. Hence 2, 3 and 4. (A history item.)",
+        "year":  2017,
+        "subs":  [
+                     "1. It began as the political wing of the Singh Sabhas in the late 19th century.",
+                     "2. It was formed in 1920 as part of the Akali movement.",
+                     "3. It was founded to reclaim control of Sikh shrines from government-manipulated loyalist committees.",
+                     "4. It formed the Akali Dal to coordinate Jathas to reclaim the shrines."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  93,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Which river is praised in the fifth-century Tamil epic Silappadikaram?",
+        "options":  [
+                        "Cauvery",
+                        "Godavari",
+                        "Saraswati",
+                        "Ganges"
+                    ],
+        "ans":  "a",
+        "exp":  "Silappadikaram, the great Tamil epic, is set largely in the Tamil country and sings the praises of the Cauvery (Kaveri) — the lifeline river of the Chola heartland around Puhar/Kaveripattinam. Its celebration of the Cauvery reflects the river\u0027s central place in early Tamil civilisation.",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  83,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Who were the 10th-century composers of the Nalayira Divya Prabandham?",
+        "options":  [
+                        "Alvars",
+                        "Nayanars",
+                        "Appar",
+                        "Sambandar"
+                    ],
+        "ans":  "a",
+        "exp":  "The Nalayira Divya Prabandham (\"4,000 divine verses\") is the collection of the devotional hymns of the Alvars — the twelve Vaishnava (Vishnu-devotee) saint-poets of Tamil Nadu — compiled by Nathamuni around the 10th century. (The Nayanars, including Appar and Sambandar, were the Shaiva counterparts.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  116,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Who is the author of Manimekalai?",
+        "options":  [
+                        "Kovalan",
+                        "Sathanar",
+                        "Ilango Adigal",
+                        "Tirutakkatevar"
+                    ],
+        "ans":  "b",
+        "exp":  "Manimekalai, a Tamil epic with a strong Buddhist outlook (a sequel to Silappadikaram, following Kovalan and Madhavi\u0027s daughter Manimekalai), was composed by Sittalai Sathanar. (Ilango Adigal wrote Silappadikaram; Tirutakkatevar wrote the Jain epic Civaka Cintamani.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  57,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "According to the Tamil Sangam texts, who were the large landowners?",
+        "options":  [
+                        "Gahapatis",
+                        "Uzhavars",
+                        "Adimais",
+                        "Vellalars"
+                    ],
+        "ans":  "d",
+        "exp":  "Sangam-age Tamil society classified the rural population by landholding: the Vellalars were the large/rich landowners, the Uzhavars were the ordinary ploughmen/cultivators, and the Adimais were the landless labourers. So the great landowners were the Vellalars.",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  86,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Which dynasty of South India issued its documents first in Prakrit and later in Sanskrit?",
+        "options":  [
+                        "The Cholas of Tamil Nadu",
+                        "The Pandyas of the post-Sangam Age",
+                        "The Pallavas of Tondaimandalam",
+                        "The Gangas of Kalinganagara"
+                    ],
+        "ans":  "c",
+        "exp":  "The Pallavas (based in Tondaimandalam, around Kanchipuram) issued their earliest copper-plate grants in Prakrit, then shifted to Sanskrit (and later Tamil) — a transition that mirrors the wider spread of Sanskrit as the language of administration and prestige in early medieval South India.",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  91,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Which 12th-century Sanskrit scholar was first responsible for compiling the Nibandhas (digests of epic and Puranic texts)?",
+        "options":  [
+                        "Harsha",
+                        "Govindachandra",
+                        "Lakshmidhara",
+                        "Kalidasa"
+                    ],
+        "ans":  "c",
+        "exp":  "Lakshmidhara, the minister of the Gahadavala king Govindachandra, compiled the Krityakalpataru — one of the earliest and greatest Nibandhas (encyclopaedic digests of Dharmashastra material drawn from epics and Puranas), classifying rules on law, ritual and statecraft. (A history item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  95,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Harshacharita refers to presents sent by a ruler named Bhaskara to Harshavardhana. Bhaskara belonged to",
+        "options":  [
+                        "Haryanka Dynasty of Magadha",
+                        "Varman Dynasty of Assam",
+                        "Nanda Dynasty of North India",
+                        "None of the above"
+                    ],
+        "ans":  "b",
+        "exp":  "Bhaskaravarman, ruler of Kamarupa (Assam) of the Varman dynasty, was an ally of Harshavardhana; Banabhatta\u0027s Harshacharita records the lavish gifts Bhaskaravarman sent to Harsha, reflecting their political alliance. (A history item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  105,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Which statement about the Gupta period is not correct?",
+        "options":  [
+                        "Sanskrit literature reached a level of classical excellence through royal patronage.",
+                        "The status of women was redefined — they had formal education, became teachers/philosophers/doctors, early marriage was prohibited by law, and they were given the right to property.",
+                        "Land grants with fiscal/administrative immunities to priests/temples decentralized authority.",
+                        "Land grants paved the way for feudal developments and serfdom."
+                    ],
+        "ans":  "b",
+        "exp":  "The Gupta age was a golden age for Sanskrit literature (a) and saw the rise of land grants that fostered decentralisation and proto-feudalism (c, d). Statement b is false: in this period the status of women actually declined — early marriage spread and women\u0027s independent rights narrowed; they were not granted formal education or property rights \"by law.\" (A history item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  56,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "The story Gandatindu Jataka was written in which language?",
+        "options":  [
+                        "Sanskrit",
+                        "Telugu",
+                        "Tamil",
+                        "Pali"
+                    ],
+        "ans":  "d",
+        "exp":  "The Jatakas — stories of the Buddha\u0027s previous births — are part of the Pali canon of Theravada Buddhism. The Gandatindu Jataka (a tale carrying lessons on good kingship) was therefore composed in Pali, the language of the Theravada scriptures.",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  1,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Henry T. Colebrooke was a Professor of Sanskrit at which institution?",
+        "options":  [
+                        "Fort William College",
+                        "Serampore Mission",
+                        "Kashi Vidyapith",
+                        "Asiatic Society"
+                    ],
+        "ans":  "a",
+        "exp":  "Henry Thomas Colebrooke, one of the pioneering British Orientalists/Indologists, served as Professor of Sanskrit at Fort William College, Calcutta (founded 1800 to train Company officials in Indian languages). He later led the Asiatic Society but his professorship was at Fort William College.",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  33,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Chandimangala was composed in which language during the 16th century CE?",
+        "options":  [
+                        "Sanskrit",
+                        "Tamil",
+                        "Bengali",
+                        "Oriya"
+                    ],
+        "ans":  "c",
+        "exp":  "Chandimangal (by Mukundaram Chakrabarti) belongs to the Mangal-Kavya genre of medieval Bengali narrative poetry — verse celebrating local/folk deities (here the goddess Chandi). It is a landmark of 16th-century Bengali literature.",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-II",
+        "sn":  27,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Who played the role of Shakuntala Devi in the biopic about the famous mathematician?",
+        "options":  [
+                        "Madhuri Dixit",
+                        "Rani Mukherjee",
+                        "Tabu",
+                        "Vidya Balan"
+                    ],
+        "ans":  "d",
+        "exp":  "The 2020 biopic Shakuntala Devi — about the mathematician famed as the \"human computer\" — starred Vidya Balan in the title role. (A films/current-affairs item, mis-filed here.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  46,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "About Patanjali\u0027s Mahabhashya:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "b",
+        "exp":  "Patanjali\u0027s Mahabhashya is fundamentally a commentary on Sanskrit grammar (on Panini, via Katyayana); it refers to historical events/personalities only in passing — for example, alluding to the Mauryas and to contemporary events (the Yavana sieges, Pushyamitra\u0027s sacrifice) — so statement 2 is correct. It does not mention Kautilya, so statement 1 is wrong. Hence 2 only.",
+        "year":  2021,
+        "subs":  [
+                     "1. It makes mention of Kautilya.",
+                     "2. It is a book on grammar and refers to historical personalities only incidentally."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-II",
+        "sn":  65,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Match: A. Duta B. Mrichchhakatikam C. Kiratarjuniyam D. Ravanavadha |",
+        "options":  [
+                        "A-1 B-3 C-4 D-2",
+                        "A-1 B-4 C-3 D-2",
+                        "A-2 B-3 C-4 D-1",
+                        "A-2 B-4 C-3 D-1"
+                    ],
+        "ans":  "c",
+        "exp":  "Matching classical Sanskrit works to their authors: the Duta plays (Dutavakya/Dutaghatotkacha) are by Bhasa (A-2); Mrichchhakatika (\"The Little Clay Cart\") is by Shudraka (B-3); Kiratarjuniya (the Arjuna-Shiva epic) is by Bharavi (C-4); and Ravanavadha (the Bhattikavya) is by Bhatti (D-1). Hence A-2, B-3, C-4, D-1.",
+        "year":  2022,
+        "subs":  [
+                     "1. Ghatotkacha Bhatti",
+                     "2. Bhasa",
+                     "3. Shudraka",
+                     "4. Bharavi."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-II",
+        "sn":  118,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Which Indian thinker first spoke of food-for-work programmes to counteract famines?",
+        "options":  [
+                        "Kautilya",
+                        "Aryabhatta",
+                        "Chandragomin",
+                        "Prabhakara"
+                    ],
+        "ans":  "a",
+        "exp":  "Kautilya\u0027s Arthashastra discusses famine-relief measures, including the state employing the distressed on public works (building forts, irrigation) in exchange for food/wages — an early articulation of the food-for-work idea — alongside distributing seeds and provisions. (A history item.)",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  15,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "In which language is the famous political treatise \"Amuktamalyada\" written?",
+        "options":  [
+                        "Sanskrit",
+                        "Tamil",
+                        "Kannada",
+                        "Telugu"
+                    ],
+        "ans":  "d",
+        "exp":  "Amuktamalyada was written by Krishnadevaraya, the great Vijayanagara emperor, in Telugu. Though a devotional poem (on the Vaishnava saint Andal), it contains a famous section on statecraft and the duties of a king, making it both literature and a political treatise.",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  114,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "From which language is the name \"Cheetah\" derived?",
+        "options":  [
+                        "Swahili",
+                        "Afrikaans",
+                        "Somali",
+                        "Sanskrit"
+                    ],
+        "ans":  "d",
+        "exp":  "The word \"cheetah\" comes from the Sanskrit \"chitraka/chitra\" (meaning \"spotted\" or \"the speckled one\"), via Hindi \"chita.\" It entered English from the Indian languages. (A language/current-affairs item, topical after the cheetah reintroduction.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  901,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "About Madurai, capital of the Pandya kingdom:",
+        "options":  [
+                        "1 only",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "ans":  "d",
+        "exp":  "Madurai, the Pandya capital, is richly described in early sources: the Tamil poem Maduraikkanchi portrays it as a grand walled city bounded by the Vaigai river (1); the Arthashastra notes the fine cotton textiles of the Madurai region (2); and other literary sources describe it as a thriving craft centre (3). All three are correct. (A history item.)",
+        "year":  2024,
+        "subs":  [
+                     "1. Described in Maduraikkanchi as a grand walled city with the Vaigai river on the fourth side.",
+                     "2. The Arthashastra mentions it as a centre of fine cotton textiles.",
+                     "3. Other sources describe it as a major craft centre."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  902,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "About Sawai Jai Singh\u0027s astronomical work:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "c",
+        "exp":  "Sawai Jai Singh II of Amber/Jaipur — builder of the Jantar Mantar observatories — engaged deeply with European astronomy: he acquired de La Hire\u0027s astronomical tables and prepared his own refraction table (1), and his observatory\u0027s astronomers built instruments (including telescopes) to observe phenomena such as the phases of Venus (2). Both statements are accepted as correct. (A history-of-science item.)",
+        "year":  2024,
+        "subs":  [
+                     "1. He learnt of European observations and obtained de La Hire\u0027s tables, reproducing a refraction table.",
+                     "2. His astronomers developed a telescope of their own to observe the lunar phases of Venus."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-II",
+        "sn":  55,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "About the administrative measures of Shivaji:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "c",
+        "exp":  "Shivaji\u0027s administration rested on the Ashta Pradhan, a council of eight ministers (Peshwa, Amatya, Sachiv, etc.) whose duties were formalised at his 1674 coronation (statement 1). He also promoted Marathi and Sanskrit in administration in place of Persian, even commissioning a lexicon (the Rajya-vyavahara-kosha) of Sanskrit administrative terms (statement 2). Both are correct. (A history item.)",
+        "year":  2024,
+        "subs":  [
+                     "1. The scheme of Ashta Pradhan (eight ministers) was completed and announced at his coronation, with regulations and duties properly defined.",
+                     "2. Shivaji introduced Marathi in place of Persian and coined Sanskrit technical terms for administrative purposes."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  46,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "About the literary language Apabhramsha:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "c",
+        "exp":  "Apabhramsha was a stage of literary language transitional between the Prakrits and the modern North Indian (Indo-Aryan) languages. It appeared in recognizable literary form by about the 6th century CE (statement 1) and arose from the mixing of regional vernaculars with Prakrit and Sanskrit (statement 2). Both statements are correct.",
+        "year":  2025,
+        "subs":  [
+                     "1. It appeared in recognizable forms by the sixth century.",
+                     "2. It developed out of mixtures of regional vernaculars with the Prakrits and Sanskrit."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  48,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "In which work has Amir Khusrau praised the climate of India, its languages (notably Sanskrit), arts, music and even its animals?",
+        "options":  [
+                        "Ijaz-i Khusrawi",
+                        "Dewal Rani Khizr Khani",
+                        "Khazainul Futuh",
+                        "Nuh Sipihr"
+                    ],
+        "ans":  "d",
+        "exp":  "Amir Khusrau\u0027s \"Nuh Sipihr\" (\"The Nine Skies,\" 1318) contains a celebrated passage extolling India — praising its climate, its languages (including Sanskrit), its arts and music, its learning and its fauna — an early expression of patriotic pride in the land. (Khazainul Futuh is a history of Alauddin Khalji\u0027s campaigns; Dewal Rani Khizr Khani is a romance.)",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2016-II",
+        "sn":  63,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Which source tells us about women protesting against the infidelity of their husbands or the neglect of the wife and children by the male head of the household?",
+        "options":  [
+                        "The Kitab-ul-Hind",
+                        "Documents belonging to the Village Panchayats of Rajasthan, Gujarat and Maharashtra",
+                        "Sculptures from Mandor",
+                        "The Ain-i-Akbari of Abul Fazl"
+                    ],
+        "ans":  "b",
+        "exp":  "The archives of village panchayats (especially 17th-18th century records from Rajasthan, Gujarat and Maharashtra) preserve petitions and complaints brought by ordinary people — including women protesting a husband\u0027s infidelity or a household head\u0027s neglect. These records are a rare window into the lives of women and lower castes, used in NCERT\u0027s discussion of the Mughal countryside. (A history item.)",
+        "year":  2016
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  78,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "The important source for Akbar\u0027s reign, Tarikh-i-Akbari, was written by which Persian scholar?",
+        "options":  [
+                        "Arif Qandahari",
+                        "Bayazid Bayat",
+                        "Abdul Qadir Badauni",
+                        "Nizamuddin Ahmad"
+                    ],
+        "ans":  "a",
+        "exp":  "Tarikh-i-Akbari (also called Tarikh-i-Qandahari) was written by Muhammad Arif Qandahari, an early chronicler of Akbar\u0027s reign. (Badauni wrote the critical Muntakhab-ut-Tawarikh; Nizamuddin Ahmad wrote the Tabaqat-i-Akbari; Abul Fazl wrote the official Akbarnama.) (A history item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-II",
+        "sn":  73,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Al-Biruni\u0027s Kitab-ul-Hind was written in which language?",
+        "options":  [
+                        "Arabic",
+                        "Persian",
+                        "Urdu",
+                        "Turkish"
+                    ],
+        "ans":  "a",
+        "exp":  "Al-Biruni, the Central Asian scholar who came to India with Mahmud of Ghazni, wrote his famous account of India — Kitab-ul-Hind (Tahqiq-i-Hind) — in Arabic, the scholarly language of the Islamic world of his day. In it he described Indian religion, philosophy, sciences and social customs with rare objectivity. (A history item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-I",
+        "sn":  62,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Which scholar of Akbar\u0027s court translated Bhaskaracharya\u0027s Lilavati into Persian?",
+        "options":  [
+                        "Abul Fazl",
+                        "Faizi",
+                        "Fathullah Shirazi",
+                        "Ataullah Rashidi"
+                    ],
+        "ans":  "b",
+        "exp":  "Akbar set up a translation bureau (Maktab Khana) to render Sanskrit classics into Persian. Faizi — the poet laureate and brother of Abul Fazl — translated Bhaskaracharya\u0027s \"Lilavati\", the celebrated Sanskrit treatise on arithmetic and algebra, into Persian. (A history item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  57,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "The painted illustration of the moving of the Ashoka Pillar at Topra is found in",
+        "options":  [
+                        "Tarikh-i-Firuz Shahi",
+                        "Tarikh-i-Shahi",
+                        "Sirat-i-Firuz Shahi",
+                        "Akbar Nama"
+                    ],
+        "ans":  "c",
+        "exp":  "Sultan Firuz Shah Tughlaq had two Ashokan pillars transported to Delhi (one from Topra, one from Meerut). The episode of moving the Topra pillar is illustrated in the Sirat-i-Firuz Shahi, a contemporary work on Firuz Shah\u0027s reign. (A history item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  4,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "\"Man Kautuhal\", a work on music, was prepared under the aegis of",
+        "options":  [
+                        "Raja Man Singh of Gwalior",
+                        "Tansen",
+                        "Meera Bai",
+                        "Amir Khusrau"
+                    ],
+        "ans":  "a",
+        "exp":  "\"Mankutuhal\" (Man Kautuhal) was a treatise on music compiled under the patronage of Raja Man Singh Tomar of Gwalior (late 15th c.) — a great patron of music who is credited with developing the Dhrupad style. Gwalior under him was a major centre of Indian classical music. (A history item.)",
+        "year":  2024
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  31,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Which is listed in the Ain-i Akbari as one of the Indian sciences prescribed by Akbar for scholars to learn at school?",
+        "options":  [
+                        "Ayurveda",
+                        "Vyakarana",
+                        "Ganita",
+                        "Jyotisha"
+                    ],
+        "ans":  "d",
+        "exp":  "The correct branch is Jyotisha (astronomy/astrology), which the Ain-i-Akbari lists among the Indian sciences prescribed for scholars. The file wrongly selects Vyakarana (grammar) - the answer is Jyotisha (option d).",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  41,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Which is listed in the Ain-i Akbari as one of the Indian sciences prescribed by Akbar for scholars to learn at school?",
+        "options":  [
+                        "Ayurveda",
+                        "Vyakarana",
+                        "Ganita",
+                        "Jyotisha"
+                    ],
+        "ans":  "d",
+        "exp":  "Repeated question (same as Q.31): the correct branch is Jyotisha (astronomy/astrology), not Vyakarana (grammar) - answer d.",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2016-II",
+        "sn":  65,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Match author with work: A. Sumit Sarkar B. Shahid Amin C. Ranajit Guha D. Bipan Chandra |",
+        "options":  [
+                        "3, 4, 2, 1",
+                        "3, 2, 4, 1",
+                        "3, 1, 2, 4",
+                        "1, 4, 2, 3"
+                    ],
+        "ans":  "a",
+        "exp":  "These are landmark works of modern Indian historiography. Sumit Sarkar → The Swadeshi Movement in Bengal (3); Shahid Amin → Event, Metaphor, Memory: Chauri Chaura (4); Ranajit Guha (founder of Subaltern Studies) → A Rule of Property for Bengal (2); Bipan Chandra → The Rise and Growth of Economic Nationalism in India (1). Hence A-3, B-4, C-2, D-1. (A history item.)",
+        "year":  2016,
+        "subs":  [
+                     "1. The Rise and Growth of Economic Nationalism in India",
+                     "2. A Rule of Property for Bengal",
+                     "3. The Swadeshi Movement in Bengal, 1903-1908",
+                     "4. Event, Metaphor, Memory — Chauri Chaura, 1922-1992."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-I",
+        "sn":  81,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Match event with year: A. Rowlatt Act B. Salt March C. Chauri Chaura Incident D. Second Round Table Conference |",
+        "options":  [
+                        "4, 3, 1, 2",
+                        "3, 1, 4, 2",
+                        "4, 3, 2, 1",
+                        "3, 4, 2, 1"
+                    ],
+        "ans":  "a",
+        "exp":  "The Rowlatt Act was passed in 1919 (A-4); the Salt March (Dandi) was in 1930 (B-3); the Chauri Chaura incident (which led Gandhi to call off Non-Cooperation) was in 1922 (C-1); and the Second Round Table Conference (which Gandhi attended) was in 1931 (D-2). Hence A-4, B-3, C-1, D-2. (A history item.)",
+        "year":  2017,
+        "subs":  [
+                     "1. 1922",
+                     "2. 1931",
+                     "3. 1930",
+                     "4. 1919."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-I",
+        "sn":  85,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Who is the author of the book \"A Comparison between Women and Men\"?",
+        "options":  [
+                        "Pandita Ramabai",
+                        "Sarojini Naidu",
+                        "Tarabai Shinde",
+                        "Rameshwari Nehru"
+                    ],
+        "ans":  "c",
+        "exp":  "Tarabai Shinde, a 19th-century social reformer from Maharashtra, wrote \"Stri Purush Tulana\" (\"A Comparison between Women and Men,\" 1882) — a powerful, pioneering feminist critique of patriarchy and the double standards faced by women. (A history item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  41,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Who is the author of the book \"The Social Contract\"?",
+        "options":  [
+                        "Voltaire",
+                        "Hobbes",
+                        "Locke",
+                        "Rousseau"
+                    ],
+        "ans":  "d",
+        "exp":  "\"The Social Contract\" (1762) — which opens \"Man is born free, and everywhere he is in chains\" and argues that legitimate political authority rests on the general will of the people — was written by Jean-Jacques Rousseau. His ideas deeply influenced the French Revolution. (A political-thought item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  80,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Who was the editor of the journal \"Indian Social Reformer\", started in 1890?",
+        "options":  [
+                        "K. T. Telang",
+                        "Veeresalingam",
+                        "N. G. Chandavarkar",
+                        "K. N. Natarajan"
+                    ],
+        "ans":  "d",
+        "exp":  "The \"Indian Social Reformer\", an influential reformist weekly founded in 1890, was edited for decades by Kamakshi Natarajan (K. N. Natarajan), who used it to campaign against social evils and for reform. (A history item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  63,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Which statements about the Non-Cooperation Movement are correct?",
+        "options":  [
+                        "1 only",
+                        "1, 2 and 4",
+                        "2 and 3",
+                        "2 only"
+                    ],
+        "ans":  "d",
+        "exp":  "Statement 2 is correct — the Non-Cooperation Movement drew non-Brahmin lower-caste participation in Madras and Maharashtra. The others are flawed: statement 4 is plainly wrong because after Chauri Chaura, Gandhi suspended (withdrew) the movement, he did not \"continue on a smaller scale\"; statement 3 is wrong because there was considerable labour unrest (strikes in Assam tea gardens, Bengal, etc.); and statement 1 (peasants specifically from Karnataka) is not a recognised highlight. Hence 2 only. (A history item; worth confirming against the official key.)",
+        "year":  2018,
+        "subs":  [
+                     "1. Significant participation of peasants from Karnataka.",
+                     "2. Non-Brahmin lower-caste participation in Madras and Maharashtra.",
+                     "3. Lack of labour unrest in places like Assam, Bengal and Madras.",
+                     "4. After the Chauri Chaura incident (1922) Gandhi decided to continue the movement on a much smaller scale."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  94,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Who was the founder of the Phoenix Settlement?",
+        "options":  [
+                        "Mahatma Gandhi",
+                        "B. R. Ambedkar",
+                        "Rabindranath Tagore",
+                        "Swami Vivekananda"
+                    ],
+        "ans":  "a",
+        "exp":  "Gandhi founded the Phoenix Settlement near Durban, South Africa, in 1904 (inspired by Ruskin\u0027s Unto This Last) — a self-sufficient communal farm that became a base for his early experiments in satyagraha and simple, dignified living. (A history item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  30,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Who was the author of the book \"Plagues and Peoples\"?",
+        "options":  [
+                        "W. L. Thomas",
+                        "Rachel Carson",
+                        "David Cannadine",
+                        "William H. McNeill"
+                    ],
+        "ans":  "d",
+        "exp":  "\"Plagues and Peoples\" (1976) — a pioneering work of environmental/world history arguing that infectious disease has been a decisive force in shaping human history — was written by the historian William H. McNeill. (A history item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  106,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "During which 1921 tour did Gandhiji shave his head and begin wearing a loincloth to identify with the poor?",
+        "options":  [
+                        "Ahmadabad",
+                        "Champaran",
+                        "Chauri Chaura",
+                        "South India"
+                    ],
+        "ans":  "d",
+        "exp":  "It was during his 1921 tour of South India (Madurai) that Gandhi adopted the loincloth (and shaved his head), choosing the dress of the poorest Indians as a permanent statement of solidarity with the masses. (A history item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  31,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Who was the author of the book \"Plagues and Peoples\"?",
+        "options":  [
+                        "William H. McNeill",
+                        "W. I. Thomas",
+                        "Rachel Carson",
+                        "David Cannadine"
+                    ],
+        "ans":  "a",
+        "exp":  "As in the earlier question, \"Plagues and Peoples\" was authored by William H. McNeill — his thesis that epidemics shaped the rise and fall of civilisations. (A history item; repeat.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-I",
+        "sn":  79,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "The Tattvabodhini Sabha was established by",
+        "options":  [
+                        "Devendranath Tagore in 1839",
+                        "Keshab Chandra Sen in 1857",
+                        "Akshay Kumar Datta in 1850",
+                        "Dwarakanath Tagore in 1840"
+                    ],
+        "ans":  "a",
+        "exp":  "The Tattvabodhini Sabha was founded by Debendranath Tagore in 1839 to propagate Brahmo ideas and the study of Vedanta/Upanishads, and to promote rational, reformist religion. It later merged into the Brahmo Samaj. (A history item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  29,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Who is the author of the book \"Bandi Jivan\"?",
+        "options":  [
+                        "Rash Behari Bose",
+                        "Veer Savarkar",
+                        "Aruna Asaf Ali",
+                        "Sachindranath Sanyal"
+                    ],
+        "ans":  "d",
+        "exp":  "\"Bandi Jivan\" (\"A Life of Captivity\") was written by the revolutionary Sachindranath Sanyal — a founder of the Hindustan Republican Association and mentor to many revolutionaries — recounting his imprisonment; it became an inspirational text for the revolutionary movement. (A history item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  115,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Who founded the Hindu Dharma Sabha in the 19th century?",
+        "options":  [
+                        "Radhakanta Deb",
+                        "Ram Mohan Roy",
+                        "Dwarkanath Tagore",
+                        "Keshab Chandra Sen"
+                    ],
+        "ans":  "a",
+        "exp":  "Radhakanta Deb founded the conservative Dharma Sabha (1830) in Calcutta to defend orthodox Hindu practices and oppose the reforms of Ram Mohan Roy — most notably resisting the abolition of sati. (A history item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  51,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Who is the author of the book \"The Indian Struggle 1920-1942\"?",
+        "options":  [
+                        "Vinayak Damodar Savarkar",
+                        "Subhas Chandra Bose",
+                        "Vallabhbhai Patel",
+                        "Sarat Chandra Bose"
+                    ],
+        "ans":  "b",
+        "exp":  "\"The Indian Struggle 1920-1942\" is Subhas Chandra Bose\u0027s own account and analysis of the Indian freedom movement during those decades — part history, part political argument. (A history item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  106,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Who is the author of \"Four Stars of Destiny: An Autobiography\"?",
+        "options":  [
+                        "Sam Manekshaw",
+                        "K. J. S. Dhillon",
+                        "Bipin Rawat",
+                        "Manoj Mukund Naravane"
+                    ],
+        "ans":  "d",
+        "exp":  "\"Four Stars of Destiny\" is the autobiography of General Manoj Mukund Naravane, former Chief of the Army Staff — the \"four stars\" being the rank insignia of a full general. (A current-affairs item.)",
+        "year":  2024
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  63,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Neel Darpan, a play depicting the atrocities on indigo cultivators, was translated into English by",
+        "options":  [
+                        "Dinabandhu Mitra",
+                        "Michael Madhusudan Dutta",
+                        "James Long",
+                        "James C. Scott"
+                    ],
+        "ans":  "b",
+        "exp":  "\"Nil Darpan\" (1860), written by Dinabandhu Mitra, exposed the oppression of indigo cultivators by European planters. Its English translation was done by Michael Madhusudan Dutt, and it was published by the missionary Rev. James Long — who was prosecuted and jailed for it. So the translator was Michael Madhusudan Dutt (James Long was the publisher). (A history item.)",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  66,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "About women achievers in modern India:",
+        "options":  [
+                        "1",
+                        "2",
+                        "3",
+                        "None"
+                    ],
+        "ans":  "a",
+        "exp":  "Only statement 3 is correct — Sarojini Naidu did lead a delegation seeking voting rights for women. Statement 1 misattributes the book: \"Stri Purush Tulana\" (\"A Comparison between Women and Men\") was by Tarabai Shinde, not Pandita Ramabai. Statement 2 wrongly recasts Tarabai Shinde as a medical worker (she was a writer/reformer). Hence only one statement is correct. (A history item.)",
+        "year":  2025,
+        "subs":  [
+                     "1. Pandita Ramabai published \"A Comparison Between Women and Men\" protesting the colonial view that men enjoyed all the rights and benefits of change.",
+                     "2. Tarabai Shinde worked in the field of medicine to reduce child mortality in rural India.",
+                     "3. Sarojini Naidu led a delegation to London to demand female franchise. How many are correct?"
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  110,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "The book \"The Art of War\" was written by",
+        "options":  [
+                        "Niccolo Machiavelli",
+                        "Thucydides",
+                        "Thomas Hobbes",
+                        "J.S. Mill"
+                    ],
+        "ans":  "a",
+        "exp":  "Among these European thinkers, it is Niccolo Machiavelli who wrote a treatise titled \"The Art of War\" (Dell\u0027arte della guerra, 1521) on military organisation and strategy. (The ancient Chinese classic of the same name is by Sun Tzu, who is not an option here.) (A political-thought item.)",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2016-II",
+        "sn":  77,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Why are the Gypsies regarded as of Indian origin?",
+        "options":  [
+                        "1 and 4 only",
+                        "2 only",
+                        "1, 2 and 4",
+                        "2 and 3"
+                    ],
+        "ans":  "b",
+        "exp":  "The strongest, scientifically accepted evidence for the Indian origin of the Roma (Gypsies) is linguistic — their language, Romani, is an Indo-Aryan language descended from Sanskrit-related tongues (statement 2). They do not generally follow Indian religious practices (1), there is no firm tradition among them that they came from India (3), and there is no epigraphic evidence pinpointing UP as their home (4). Hence 2 only.",
+        "year":  2016,
+        "subs":  [
+                     "1. They follow Indian religious practices.",
+                     "2. Their language, Romani, is an Indo-Aryan language.",
+                     "3. They believe they came from India.",
+                     "4. Epigraphic evidence locates their original home in Uttar Pradesh."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  45,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Khasi language is included in",
+        "options":  [
+                        "Munda branch of the Austro-Asiatic sub-family",
+                        "Mon-Khmer branch of the Austro-Asiatic sub-family",
+                        "North Assam branch of the Sino-Tibetan family",
+                        "Assam-Myanmari branch of the Sino-Tibetan family"
+                    ],
+        "ans":  "b",
+        "exp":  "Khasi (spoken in Meghalaya) belongs to the Mon-Khmer branch of the Austro-Asiatic language family — making it an unusual \"island\" of Austro-Asiatic speech in a region otherwise dominated by Tibeto-Burman languages. (The Munda languages form the other, separate branch of Austro-Asiatic in India.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  19,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Literature \u0026 Languages",
+        "stem":  "Which statements are correct?",
+        "options":  [
+                        "1, 2 and 3",
+                        "1 and 3 only",
+                        "1 and 2 only",
+                        "2 only"
+                    ],
+        "ans":  "c",
+        "exp":  "The Bakshali Manuscript — an ancient mathematical text in Sharada script — deals with arithmetic including fractions, roots and progressions (statement 1 correct). Aryabhata gave a remarkably accurate value of π ≈ 3.1416 (statement 2 correct). Statement 3 is wrong: the Sharangadhara Samhita is a medieval text on Ayurveda (medicine), not on political systems. Hence 1 and 2 only.",
+        "year":  2023,
+        "subs":  [
+                     "1. The Bakshali Manuscript, written in Gatha language (a refined old Prakrit) using the Sharada script, deals with fractions, square roots, and arithmetic/geometric progressions.",
+                     "2. Aryabhata described the properties of a circle, giving a very accurate value of pi (to four decimal places) as 3.1416.",
+                     "3. The Sharangadhara Samhita is an important text on the political system of ancient India."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  120,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Festivals \u0026 Traditions",
+        "stem":  "Which organization was started at the Haridwar Kumbh Mela in 1915?",
+        "options":  [
+                        "Sanatan Dharma Sabha",
+                        "Dev Samaj",
+                        "Brahmin Sabha",
+                        "Hindu Mahasabha"
+                    ],
+        "ans":  "d",
+        "exp":  "The All India Hindu Mahasabha was founded at the Haridwar Kumbh Mela in 1915, bringing together various regional Hindu Sabhas into a single organisation to represent Hindu social and political interests. (A history item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2016-II",
+        "sn":  83,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Festivals \u0026 Traditions",
+        "stem":  "Rakshasa type of marriage is",
+        "options":  [
+                        "marriage by purchase",
+                        "marriage by capture",
+                        "marriage by giving dowry",
+                        "marriage by seduction"
+                    ],
+        "ans":  "b",
+        "exp":  "Ancient Dharmashastra texts list eight forms of marriage. The Rakshasa form is marriage by capture — the forcible abduction of a woman (associated with the warrior/Kshatriya ethos). (Marriage by purchase is Asura; by seduction/secret union is Gandharva/Paishacha.) (A history item.)",
+        "year":  2016
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-I",
+        "sn":  81,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Festivals \u0026 Traditions",
+        "stem":  "Naropa is an annual festival of",
+        "options":  [
+                        "Sikkim",
+                        "Ladakh",
+                        "Arunachal Pradesh",
+                        "Nagaland"
+                    ],
+        "ans":  "b",
+        "exp":  "The Naropa festival — often called the \"Kumbh Mela of the Himalayas\" — is a Buddhist festival celebrated in Ladakh at Hemis monastery, honouring the 11th-century saint Naropa; its highlight is the display of the sacred Six Bone Ornaments of Naropa. (A culture/current-affairs item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-I",
+        "sn":  84,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Personalities \u0026 Cultural Reformers",
+        "stem":  "Which statements about the social base of the Arya Samaj in British India are correct?",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 only",
+                        "1, 2 and 3"
+                    ],
+        "ans":  "a",
+        "exp":  "The Arya Samaj (founded by Dayanand Saraswati, 1875) drew its strength mainly from Punjab and western UP (1) and especially from urban trading/commercial castes (2). Statement 3 is wrong: the Arya Samaj actually had a wider and more popular social base than the more elite, intellectual Brahmo Samaj of Bengal. Hence 1 and 2 only. (A history item.)",
+        "year":  2017,
+        "subs":  [
+                     "1. It was located mainly in Punjab and western Uttar Pradesh.",
+                     "2. It mainly comprised the trading castes.",
+                     "3. It was much more limited than that of the Brahmo Samaj."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  103,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Personalities \u0026 Cultural Reformers",
+        "stem":  "Which were founded by Raja Ram Mohan Roy?",
+        "options":  [
+                        "1, 2 and 3",
+                        "2 only",
+                        "1 and 2 only",
+                        "1, 3 and 4"
+                    ],
+        "ans":  "c",
+        "exp":  "Raja Ram Mohan Roy founded the Atmiya Sabha (1814) and the Brahmo Sabha/Samaj (1828) (statements 1, 2). The Prarthana Samaj was founded in Bombay (by Atmaram Pandurang, 1867) and the Arya Samaj by Dayanand Saraswati (1875) — neither by Ram Mohan Roy. Hence 1 and 2 only. (A history item.)",
+        "year":  2017,
+        "subs":  [
+                     "1. Atmiya Sabha",
+                     "2. Brahmo Samaj",
+                     "3. Prarthana Samaj",
+                     "4. Arya Samaj."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  118,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Personalities \u0026 Cultural Reformers",
+        "stem":  "Which statements about Sir Syed Ahmad Khan are correct?",
+        "options":  [
+                        "1 only",
+                        "2 and 3",
+                        "3 only",
+                        "1 and 4"
+                    ],
+        "ans":  "d",
+        "exp":  "Sir Syed Ahmad Khan conceived India as a federation of distinct ethnic/religious communities of common descent (1), and the MAO College (Aligarh) he founded combined Muslim theology with modern European learning/empiricism (4). Statements 2 and 3 are wrong: his communitarian vision diverged from the Congress\u0027s idea of a single nation, and he did not imagine India as a nation-state of equal individual citizens. Hence 1 and 4. (A history item.)",
+        "year":  2018,
+        "subs":  [
+                     "1. He argued that India was a federation of ethnic communities based on common descent.",
+                     "2. His philosophy was very similar to that of the Indian National Congress.",
+                     "3. He imagined India as a nation-state based on individual citizens\u0027 rights.",
+                     "4. The curriculum at the Mohammedan Anglo-Oriental College blended Muslim theology and European empiricism."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  62,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Personalities \u0026 Cultural Reformers",
+        "stem":  "The concept of a Four Pillar State, free from district magistracy, for India was suggested by",
+        "options":  [
+                        "Lala Lajpat Rai",
+                        "Ram Manohar Lohia",
+                        "Raja Ram Mohan Roy",
+                        "Subhas Chandra Bose"
+                    ],
+        "ans":  "b",
+        "exp":  "The socialist thinker Ram Manohar Lohia proposed the idea of a \"Four-Pillar State\" — a radically decentralised polity with power distributed among the centre, state, district and village, freed from the colonial-style district magistracy — as part of his vision of participatory democracy. (A polity/thought item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-II",
+        "sn":  44,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Personalities \u0026 Cultural Reformers",
+        "stem":  "Who founded the Mohammedan Anglo-Oriental Defence Association (1893)?",
+        "options":  [
+                        "Auckland Colvin",
+                        "Badruddin Tyabji",
+                        "Theodore Beck",
+                        "Sir Syed Ahmad Khan"
+                    ],
+        "ans":  "d",
+        "exp":  "Sir Syed Ahmad Khan founded the United Patriotic Association and then the Mohammedan Anglo-Oriental Defence Association (1893) to keep Muslims loyal to the British and away from the Indian National Congress, reflecting his \"two-nations\" leanings. (Theodore Beck, the MAO College principal, assisted him.) (A history item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-I",
+        "sn":  54,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Personalities \u0026 Cultural Reformers",
+        "stem":  "Which work was composed by Krishnadevaraya on statecraft in Telugu?",
+        "options":  [
+                        "Amuktamalyada",
+                        "Jambavati Kalyanam",
+                        "Rayavachakamu",
+                        "Satyavadu Parinaya"
+                    ],
+        "ans":  "a",
+        "exp":  "Krishnadevaraya, the Vijayanagara emperor, wrote Amuktamalyada in Telugu — ostensibly a devotional poem on the saint Andal, but containing a famous section on statecraft, the duties of a king and administration, making it a treatise on governance. (A history item.)",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  91,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Personalities \u0026 Cultural Reformers",
+        "stem":  "About Rana Kumbha of Mewar:",
+        "options":  [
+                        "1, 2 and 3",
+                        "2 and 3 only",
+                        "1 and 2 only",
+                        "3 only"
+                    ],
+        "ans":  "a",
+        "exp":  "Rana Kumbha (15th c.), the scholar-king of Mewar, was a noted patron and author: he wrote a commentary on Jayadeva\u0027s Gitagovinda (1), composed four dramas using several provincial languages (2), and built the towering Kirtistambha (Tower of Victory/Fame) at Chittorgarh to celebrate his military victories (3). All three are correct. (A history item.)",
+        "year":  2024,
+        "subs":  [
+                     "1. He wrote a commentary on Jayadeva\u0027s Gitagovinda.",
+                     "2. He wrote four dramas in which he used four provincial languages.",
+                     "3. He erected the Kirtistambha at Chittor to commemorate his victory over Gujarat."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  93,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Personalities \u0026 Cultural Reformers",
+        "stem":  "Who was not a court poet of King Krishnadevaraya?",
+        "options":  [
+                        "Timmana",
+                        "Dhurjati",
+                        "Mallana",
+                        "Siddheshvara"
+                    ],
+        "ans":  "d",
+        "exp":  "Krishnadevaraya\u0027s court was adorned by the Ashtadiggajas (\"eight elephants\"), the eight great Telugu poets — including Allasani Peddana, Nandi Timmana, Dhurjati and (Pingali) Mallana. Siddheshvara was not among his court poets. Hence d. (A history item.)",
+        "year":  2024
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-II",
+        "sn":  54,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Personalities \u0026 Cultural Reformers",
+        "stem":  "About the condition of widows in 18th-century India:",
+        "options":  [
+                        "1 and 2 only",
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "ans":  "d",
+        "exp":  "All three are correct: Sawai Jai Singh of Amber and the Maratha general Parshuram Bhau both made efforts to encourage widow remarriage, and Raja Ram Mohan Roy led the campaign against sati (culminating in its abolition in 1829). Hence all three. (A history item.)",
+        "year":  2024,
+        "subs":  [
+                     "1. Raja Sawai Jai Singh of Amber promoted widow remarriage.",
+                     "2. Maratha General Parshuram Bhau promoted widow remarriage.",
+                     "3. Raja Ram Mohan Roy opposed Sati."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  72,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Personalities \u0026 Cultural Reformers",
+        "stem":  "Which Greek philosopher coined the term \"Geography\" in the 3rd century B.C.E.?",
+        "options":  [
+                        "Euclid",
+                        "Plato",
+                        "Eratosthenes",
+                        "Clio"
+                    ],
+        "ans":  "c",
+        "exp":  "Eratosthenes of Cyrene (c. 276-194 BCE), the polymath who also famously measured the Earth\u0027s circumference, coined the word \"geography\" (\"geo\" = earth, \"graphia\" = description/writing) and is regarded as the \"father of geography.\" (A geography/history item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-I",
+        "sn":  37,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Personalities \u0026 Cultural Reformers",
+        "stem":  "Legal Positivism theory was developed by",
+        "options":  [
+                        "T.H. Green",
+                        "Thomas Hobbes",
+                        "John Austin",
+                        "Patrick Devlin"
+                    ],
+        "ans":  "c",
+        "exp":  "Legal Positivism — the view that law is a command of the sovereign backed by sanctions, and that the validity of law is separate from its morality — was systematically developed by John Austin in the 19th century (building on Bentham). (A political/legal-thought item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  105,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Personalities \u0026 Cultural Reformers",
+        "stem":  "Match political idea with thinker: A. Human beings, unlike all other objects, possess dignity B. It is Swaraj when we learn to rule ourselves C. Freedom implies not only emancipation from political bondage but also equal distribution of wealth D. For me real freedom is freedom from fear |",
+        "options":  [
+                        "A-3 B-2 C-4 D-1",
+                        "A-1 B-4 C-2 D-3",
+                        "A-3 B-4 C-2 D-1",
+                        "A-1 B-2 C-4 D-3"
+                    ],
+        "ans":  "c",
+        "exp":  "\"Human beings possess dignity\" → Immanuel Kant (3), whose ethics centre on human dignity; \"Swaraj is when we learn to rule ourselves\" → Mahatma Gandhi (4); \"freedom = emancipation plus equal distribution of wealth\" → Subhas Chandra Bose (2), reflecting his socialist leanings; \"real freedom is freedom from fear\" → Aung San Suu Kyi (1), from her essay Freedom from Fear. Hence A-3, B-4, C-2, D-1. (A political-thought item.)",
+        "year":  2024,
+        "subs":  [
+                     "1. Aung San Suu Kyi",
+                     "2. Subhas Chandra Bose",
+                     "3. Immanuel Kant",
+                     "4. Mahatma Gandhi."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  42,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Awards \u0026 Cultural Institutions",
+        "stem":  "Who is the recipient of the Jnanpith Award, 2016?",
+        "options":  [
+                        "Shankha Ghosh",
+                        "Raghuveer Chaudhari",
+                        "Pratibha Ray",
+                        "Rehman Rahi"
+                    ],
+        "ans":  "a",
+        "exp":  "The Jnanpith Award is India\u0027s highest literary honour. The 2016 (52nd) Jnanpith went to the eminent Bengali poet Shankha Ghosh. (Raghuveer Chaudhari, Gujarati, won the 51st/2015 award; Pratibha Ray and Rehman Rahi won in earlier years.) (A current-affairs/awards item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  18,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Awards \u0026 Cultural Institutions",
+        "stem":  "Why was India\u0027s G.S. Lakshmi in the news recently?",
+        "options":  [
+                        "First Indian to play cricket for an English County Club",
+                        "She became the first female ICC match referee",
+                        "She received the Ramon Magsaysay Award 2019",
+                        "She was the recipient of the Booker Prize 2019"
+                    ],
+        "ans":  "b",
+        "exp":  "G. S. Lakshmi made history by becoming the first woman to be appointed an ICC match referee (on the ICC International Panel of Match Referees) in 2019. (A current-affairs/sports item, mis-filed here.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-I",
+        "sn":  111,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Awards \u0026 Cultural Institutions",
+        "stem":  "Which statements are correct?",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "c",
+        "exp":  "The Assamese poet Nilamoni Phukan (Jr.) received the 56th Jnanpith Award and the Konkani writer Damodar Mauzo received the 57th Jnanpith Award (both announced in 2021). Both statements are correct. (A current-affairs/awards item.)",
+        "year":  2022,
+        "subs":  [
+                     "1. Nilamoni Phukan Jr. is the 56th Jnanpith Award winner.",
+                     "2. Damodar Mauzo is the 57th Jnanpith Award winner."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-I",
+        "sn":  110,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "Who is the President of the Republic of the Union of Myanmar?",
+        "options":  [
+                        "Aung San Suu Kyi",
+                        "Htin Kyaw",
+                        "Myint Swe",
+                        "Henry Van Thio"
+                    ],
+        "ans":  "b",
+        "exp":  "At the time of this question (2017), the President of Myanmar was Htin Kyaw — a close confidant of Aung San Suu Kyi, who herself held the post of State Counsellor (she was constitutionally barred from the presidency). (A current-affairs item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  4,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "Arrange the following Tiger Reserves of India from North to South:",
+        "options":  [
+                        "4, 3, 2, 1",
+                        "2, 1, 4, 3",
+                        "1, 2, 3, 4",
+                        "1, 3, 2, 4"
+                    ],
+        "ans":  "c",
+        "exp":  "By latitude, north to south: Dudhwa (Uttar Pradesh, near the Nepal border, northernmost) → Panna (northern Madhya Pradesh) → Pench (southern MP/Maharashtra border) → Indravati (Chhattisgarh, southernmost). Hence 1, 2, 3, 4. (A geography item.)",
+        "year":  2017,
+        "subs":  [
+                     "1. Dudhwa",
+                     "2. Panna",
+                     "3. Pench",
+                     "4. Indravati."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  79,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "Which statements about the usage of the term \"barbarian\" are correct?",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "c",
+        "exp":  "The word \"barbarian\" comes from the Greek \"barbaros\" — originally those who did not speak Greek (their speech sounding like \"bar-bar\") (statement 1). The Romans later applied \"barbarian\" to the peoples beyond their frontiers — the Germanic tribes, Gauls and Huns (statement 2). Both are correct. (A history item.)",
+        "year":  2018,
+        "subs":  [
+                     "1. It is derived from the Greek word \"barbaros\" (non-Greek).",
+                     "2. Romans used the term for the Germanic tribes, the Gauls and the Huns."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  81,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "\"So much is wrung from the peasants, that even dry bread is scarcely left to fill their stomachs.\" Which European traveller made this statement about peasantry in the Mughal Empire?",
+        "options":  [
+                        "Francisco Pelsaert",
+                        "Francois Bernier",
+                        "Jean-Baptiste Tavernier",
+                        "Niccolao Manucci"
+                    ],
+        "ans":  "a",
+        "exp":  "The Dutch factor Francisco Pelsaert, who lived in Agra in the 1620s, wrote vivid accounts of the wretched condition of the Mughal peasantry and the heavy revenue demands that left them barely able to survive — the source of this quotation. (A history item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  95,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "Name the platform used for ritual purposes by the kings of the Vijayanagara Empire.",
+        "options":  [
+                        "Mahanavami Dibba",
+                        "Lotus Mahal",
+                        "Hazara Rama",
+                        "Virupaksha"
+                    ],
+        "ans":  "a",
+        "exp":  "The Mahanavami Dibba is a massive stone platform in the royal centre of Hampi (Vijayanagara), associated with the grand Mahanavami (Dussehra) festival — where the king received homage, reviewed his troops and performed rituals. (Hazara Rama was the royal chapel; Virupaksha is the great temple.) (A history item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  76,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "Which European traveller never returned to Europe and settled down in India?",
+        "options":  [
+                        "Duarte Barbosa",
+                        "Manucci",
+                        "Tavernier",
+                        "Bernier"
+                    ],
+        "ans":  "b",
+        "exp":  "Niccolao Manucci, the Italian traveller and self-taught physician who served at the Mughal court, never returned to Europe — he lived out his life in India (Madras/Pondicherry) and wrote the Storia do Mogor, a detailed account of Mughal India. (A history item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  77,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "The class of Amar Nayakas in Vijayanagara is a reference to which of the following?",
+        "options":  [
+                        "Village Chieftains",
+                        "Senior Civil Servants",
+                        "Tributary Chiefs",
+                        "Military Commanders"
+                    ],
+        "ans":  "d",
+        "exp":  "Under the Amara-Nayaka system of Vijayanagara, the Amara-Nayakas were military commanders granted territories (\"amaram\") to govern. They collected revenue, maintained troops (horses and elephants) for the king, and remitted tribute — a system with parallels to the iqta of the Delhi Sultanate. (A history item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  81,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "According to Tavernier, the majority of houses in Varanasi during the 17th century were made of",
+        "options":  [
+                        "brick and mud",
+                        "stone and thatch",
+                        "wood and stone",
+                        "brick and stone"
+                    ],
+        "ans":  "d",
+        "exp":  "Jean-Baptiste Tavernier described Banaras/Varanasi as a well-built town with most houses made of brick and cut stone. So the correct answer is brick and stone (option d), not brick and mud.",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  93,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "The economic historian who used Buchanan-Hamilton\u0027s data to support the thesis of deindustrialization in 19th-century India is",
+        "options":  [
+                        "Tirthankar Roy",
+                        "Amiya Kumar Bagchi",
+                        "Sabyasachi Bhattacharya",
+                        "Irfan Habib"
+                    ],
+        "ans":  "b",
+        "exp":  "Amiya Kumar Bagchi used the survey data collected by Francis Buchanan-Hamilton (early 19th century, Gangetic Bihar) to argue the deindustrialization thesis — that under colonial rule traditional Indian handicraft industries declined and the workforce was pushed back into agriculture. (A history/economic-history item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  29,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "Which European traveller observed, \"A Hindu woman can go anywhere alone, even in the most crowded places, and she need never fear the impertinent looks and jokes of idle loungers\"?",
+        "options":  [
+                        "Francois Bernier",
+                        "Jean-Baptiste Tavernier",
+                        "Thomas Roe",
+                        "Abbe J. A. Dubois"
+                    ],
+        "ans":  "d",
+        "exp":  "The French missionary Abbé Jean-Antoine Dubois, who spent decades in South India and wrote Hindu Manners, Customs and Ceremonies, made this observation about the safety and respect Hindu women enjoyed in public. (A history item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  31,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "Which Indian social theorist argued that the idea of a homogenized Hinduism was constructed through the cultural arrogance of post-enlightenment Europe?",
+        "options":  [
+                        "Ashis Nandy",
+                        "Partha Chatterjee",
+                        "T. K. Oommen",
+                        "Rajni Kothari"
+                    ],
+        "ans":  "a",
+        "exp":  "The statement that a homogenized Hinduism was constructed through the \u0027cultural arrogance of post-Enlightenment Europe\u0027 is attributed to Ashis Nandy, not Partha Chatterjee - so the answer is Ashis Nandy (option a).",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-I",
+        "sn":  12,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "The Amara-Nayaka system was a major political innovation of which Indian imperial rulers?",
+        "options":  [
+                        "Cholas",
+                        "Chalukyas",
+                        "Guptas",
+                        "Vijayanagara"
+                    ],
+        "ans":  "d",
+        "exp":  "The Amara-Nayaka system — under which military commanders (nayakas) were assigned territories to administer and collect revenue, in return for maintaining troops for the king — was a hallmark political-administrative innovation of the Vijayanagara Empire. (A history item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  94,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "Domingo Paes, the medieval traveller, described which city?",
+        "options":  [
+                        "Madurai",
+                        "Vijayanagara",
+                        "Arikamedu",
+                        "Gingee"
+                    ],
+        "ans":  "b",
+        "exp":  "Domingo Paes, a Portuguese traveller of the early 16th century, left a glowing eyewitness account of the imperial capital Vijayanagara (Hampi) at its height under Krishnadevaraya — its size, markets, palaces and the grandeur of the Mahanavami festival. (A history item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  33,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "Which two rivers flow in the region between Gulbarga and Vijayanagara (Hampi)?",
+        "options":  [
+                        "Narmada and Godavari",
+                        "Mahanadi and Godavari",
+                        "Kaveri and Periyar",
+                        "Krishna and Tungabhadra"
+                    ],
+        "ans":  "d",
+        "exp":  "The Deccan tract between Gulbarga (Bahmani territory) and Vijayanagara/Hampi lies in the Krishna-Tungabhadra doab — the fertile, contested region between the Krishna and its tributary the Tungabhadra, fought over repeatedly by the Vijayanagara and Bahmani states. (A geography/history item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  97,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "The titles \"Rayagajakesari\" and \"Dayagajakesari\" were associated with which dynasty?",
+        "options":  [
+                        "Kakatiya",
+                        "Vijayanagara",
+                        "Gajapati",
+                        "Rashtrakuta"
+                    ],
+        "ans":  "c",
+        "exp":  "These \"gajakesari\" (lion-among-elephants) titles belong to the Gajapati dynasty of Odisha (15th c.) — whose very name means \"lord of elephants,\" reflecting the dynasty\u0027s renowned war-elephant corps. (A history item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  101,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "About the Kanaganahalli archaeological site:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "ans":  "d",
+        "exp":  "Kanaganahalli (Karnataka), a major Buddhist site, lies on the bank of the Bhima river (1); its great stupa dates to roughly the 1st-3rd centuries CE (2); and — remarkably — it yielded a sculpted portrait of Emperor Ashoka with a label inscription (\"Raya Asoko\"), one of the only known representations of Ashoka (3). All three are correct. (A history item.)",
+        "year":  2023,
+        "subs":  [
+                     "1. It is situated on the bank of the Bhima river.",
+                     "2. The remains of the Kanaganahalli Stupa can be dated between the 1st and 3rd centuries CE.",
+                     "3. Emperor Ashoka\u0027s image was found at the site."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  54,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "Where is the famous Gupta-period Deogarh Temple situated?",
+        "options":  [
+                        "Uttar Pradesh",
+                        "Madhya Pradesh",
+                        "Chhattisgarh",
+                        "Rajasthan"
+                    ],
+        "ans":  "a",
+        "exp":  "The Dashavatara Temple at Deogarh — one of the earliest surviving North Indian (Nagara-style) stone temples, famous for its panel of Vishnu reclining on the serpent Shesha — is in Lalitpur district, Uttar Pradesh, and dates to the early 6th century (Gupta period). (A history/art item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  72,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "Which statements about the Vaishnava saint of Assam, Shankardeva, are correct?",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1, 2 and 3",
+                        "3 only"
+                    ],
+        "ans":  "c",
+        "exp":  "Srimanta Shankardeva founded the Eka-sarana-nama-dharma / Bhagavati dharma of Assam (devotion to one God, Vishnu/Krishna) (1); he institutionalised it through satras (monasteries) and namghars (village prayer halls) (2); and among his many works is the devotional Kirtana-ghosha (3). All three are correct. (A history item.)",
+        "year":  2023,
+        "subs":  [
+                     "1. His teachings are often known as the Bhagavati dharma.",
+                     "2. He encouraged the establishment of satras (monasteries) and namghars (prayer halls).",
+                     "3. His major compositions include the Kirtana-ghosha."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-II",
+        "sn":  70,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "Consider the pairs:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "1, 2 and 3",
+                        "None of the above"
+                    ],
+        "ans":  "c",
+        "exp":  "Medieval South Indian political vocabulary used these three \"pati\" titles: Gajapati (\"lord of elephants\") — the Gajapati dynasty of Odisha (1); Ashvapati (\"lord of horses\") — the Bahmani/Deccan Sultans (famed for their cavalry) (2); and Narapati (\"lord of men\") — the Rayas of Vijayanagara (whose strength was infantry) (3). All three are correctly matched. (A history item.)",
+        "year":  2024,
+        "subs":  [
+                     "1. Gajapati — Name of a powerful dynasty in Orissa",
+                     "2. Ashvapati — Deccan Sultans",
+                     "3. Narapati — Rayas of Vijayanagara. Which are correctly matched?"
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  106,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "Which organisation/institute recently started the new initiatives Bharat Vidya Pariyojana, Brihattar Bharat and Nari Samvaad Prakalp?",
+        "options":  [
+                        "IGNOU",
+                        "Sahitya Akademi",
+                        "Centre for Cultural Resources and Training (CCRT)",
+                        "Indira Gandhi National Centre for the Arts (IGNCA)"
+                    ],
+        "ans":  "d",
+        "exp":  "The Indira Gandhi National Centre for the Arts (IGNCA) — an autonomous body under the Ministry of Culture devoted to research and documentation of the arts — launched these initiatives: Bharat Vidya Pariyojana (Indology), Brihattar Bharat (Greater India / cultural links abroad) and Nari Samvaad Prakalp (on women, linked to the Nari Shakti theme). (A current-affairs/institutions item.)",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  58,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Miscellaneous Art \u0026 Culture",
+        "stem":  "With reference to the Amara-Nayaka system, which statement is not correct?",
+        "options":  [
+                        "It was a major political innovation of the Vijayanagara Empire.",
+                        "They were military commanders given territories to govern and to collect taxes from peasants, craftspersons and traders.",
+                        "They retained part of the revenue for personal use and to maintain a stipulated contingent of horses and elephants.",
+                        "They were not allowed to use their share of revenue for the maintenance of temples."
+                    ],
+        "ans":  "d",
+        "exp":  "In the Amara-Nayaka system of Vijayanagara, the nayakas (military commanders) governed assigned lands, collected revenue, kept part for themselves and for maintaining troops (horses and elephants) (a, b, c correct). Statement d is false — the nayakas did use their resources to build and maintain temples and irrigation works (an important source of their local prestige and patronage). Hence d is the incorrect statement. (A history item.)",
+        "year":  2025
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  98,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "What is the name of the literary genre developed by the Khojas, who are a branch of the Ismaili sect?",
+        "options":  [
+                        "Ginan",
+                        "Ziyarat",
+                        "Raag",
+                        "Shahada"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  99,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Match List-I (Classical dance) with List-II (State of origin) and select the correct answer:",
+        "options":  [
+                        "A-2 B-1 C-4 D-3",
+                        "A-1 B-2 C-4 D-3",
+                        "A-2 B-4 C-1 D-3",
+                        "A-2 B-1 C-3 D-4"
+                    ],
+        "subs":  [
+                     "List-I: A. Bharatanatyam B. Kathakali C. Odissi D. Kuchipudi",
+                     "List-II: 1. Kerala 2. Tamil Nadu 3. Andhra Pradesh 4. Odisha"
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  100,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The Tirukkural, a classical work of couplets on virtue, wealth and love, was composed in which language?",
+        "options":  [
+                        "Sanskrit",
+                        "Tamil",
+                        "Telugu",
+                        "Pali"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  101,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The Dravidian style of temple architecture is characterised by a pyramidal tower over the sanctum known as the:",
+        "options":  [
+                        "Shikhara",
+                        "Vimana",
+                        "Stupa",
+                        "Torana"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  102,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Consider the following statements about UNESCO World Heritage Sites in India:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Neither 1 nor 2",
+                        "Both 1 and 2"
+                    ],
+        "subs":  [
+                     "1. The Sun Temple at Konark is a World Heritage Site in Odisha.",
+                     "2. The Group of Monuments at Hampi represents the Vijayanagara style."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  103,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Consider the following statements about the Bhakti and Sufi movements:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Neither 1 nor 2",
+                        "Both 1 and 2"
+                    ],
+        "subs":  [
+                     "1. Kabir and Guru Nanak emphasised devotion to a formless God and criticised ritualism.",
+                     "2. Sufism is the mystical dimension of Islam, and the Chishti order was prominent in India."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  104,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The famous rock-cut caves at Ajanta are renowned chiefly for their:",
+        "options":  [
+                        "Jain sculptures",
+                        "Buddhist paintings (murals)",
+                        "Islamic calligraphy",
+                        "Chola bronzes"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  105,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The sitar, a plucked string instrument prominent in Hindustani classical music, is a:",
+        "options":  [
+                        "Percussion instrument",
+                        "Wind instrument",
+                        "String (chordophone) instrument",
+                        "Idiophone"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-01",
+        "sn":  106,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Which one of the following languages is NOT included in the Eighth Schedule of the Constitution?",
+        "options":  [
+                        "Sanskrit",
+                        "Bodo",
+                        "English",
+                        "Dogri"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  98,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The classical dance form “Kuchipudi” originated in which state?",
+        "options":  [
+                        "Tamil Nadu",
+                        "Karnataka",
+                        "Andhra Pradesh",
+                        "Kerala"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  99,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Consider the following statements about the Sattriya dance:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. It was introduced by the saint-reformer Srimanta Sankardeva.",
+                     "2. It developed in the Vaishnava monasteries (sattras) of Assam.",
+                     "3. It was recognised as a classical dance form by the Sangeet Natak Akademi only around the year 2000."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  100,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Consider the following statements about temple architecture:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. In the Nagara style, the tower over the sanctum is called the shikhara.",
+                     "2. In the Dravida style, the complex is usually enclosed and entered through a gopuram.",
+                     "3. The Vesara style is a hybrid form associated especially with the Deccan."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  101,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Which one of the following pairs of a classical text and its author is NOT correctly matched?",
+        "options":  [
+                        "Arthashastra — Kautilya",
+                        "Rajatarangini — Kalhana",
+                        "Harshacharita — Banabhatta",
+                        "Gita Govinda — Kalidasa"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  102,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The Sun Temple at Konark, built in the shape of a colossal chariot, was constructed by a ruler of which dynasty?",
+        "options":  [
+                        "Chandela",
+                        "Chola",
+                        "Eastern Ganga",
+                        "Rashtrakuta"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  103,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The musician Tansen, one of the “navaratnas”, adorned the court of:",
+        "options":  [
+                        "Shivaji",
+                        "Krishnadevaraya",
+                        "Akbar",
+                        "Sher Shah Suri"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  104,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The Sanskrit lyrical work “Gita Govinda” was composed by:",
+        "options":  [
+                        "Kalidasa",
+                        "Bhavabhuti",
+                        "Jayadeva",
+                        "Bharavi"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  105,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Which one of the following is NOT inscribed on UNESCO\u0027s list of Intangible Cultural Heritage from India?",
+        "options":  [
+                        "Yoga",
+                        "Kumbh Mela",
+                        "The ruins of Hampi",
+                        "Durga Puja in Kolkata"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-02",
+        "sn":  106,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Which one of the following is NOT a “classical language” recognised by the Government of India?",
+        "options":  [
+                        "Tamil",
+                        "Sanskrit",
+                        "Odia",
+                        "Hindi"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  98,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Which one of the following pairs of a medieval text and its language is NOT correctly matched?",
+        "options":  [
+                        "Kitab-ul-Hind — Arabic",
+                        "Baburnama — Chagatai Turkish",
+                        "Amuktamalyada — Telugu",
+                        "Razmnama — Sanskrit"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  99,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Consider the following statements about Sangam-age Tamil society and literature:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. Silappadikaram is one of the five great epics of Tamil literature.",
+                     "2. The Alvars were Vaishnava saints and the Nayanars were Shaiva saints.",
+                     "3. In Sangam society, the Vellalars were the large landowners."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  100,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Consider the following statements about Jain philosophy:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. Parshvanatha taught four vows, and Mahavira added celibacy as the fifth.",
+                     "2. Anekantavada, the doctrine of many-sided reality, is connected with Syadvada.",
+                     "3. Digambara means ‘sky-clad’ and Shvetambara means ‘white-clad’."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  101,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Which one of the following animals does NOT appear on the seals of the Indus Valley Civilisation?",
+        "options":  [
+                        "Humped bull",
+                        "Elephant",
+                        "Rhinoceros",
+                        "Lion"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  102,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Arrange the following Delhi-region monuments in correct chronological order (earliest first):",
+        "options":  [
+                        "2, 1, 3, 4",
+                        "1, 2, 3, 4",
+                        "1, 3, 2, 4",
+                        "2, 3, 1, 4"
+                    ],
+        "subs":  [
+                     "1. Qutub Minar 2. Tughlaqabad 3. Lodhi Gardens tombs 4. Fatehpur Sikri"
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  103,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Match List-I (Dynasty) with List-II (Temple/site) and select the correct answer:",
+        "options":  [
+                        "A-2 B-1 C-4 D-3",
+                        "A-1 B-2 C-3 D-4",
+                        "A-2 B-1 C-3 D-4",
+                        "A-3 B-1 C-4 D-2"
+                    ],
+        "subs":  [
+                     "List-I: A. Chola B. Pallava C. Hoysala D. Chalukya",
+                     "List-II: 1. Mamallapuram 2. Brihadisvara, Thanjavur 3. Pattadakal 4. Halebidu"
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  104,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Consider the following statements about the Bhakti movement:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. Basava led the Virashaiva (Lingayat) movement in Karnataka.",
+                     "2. The Varkari saints of Maharashtra were devoted to Vitthal of Pandharpur.",
+                     "3. Shankardeva of Assam founded satras and preached Ekasarana dharma."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  105,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The roots of Indian classical music are traditionally traced to which of the Vedas?",
+        "options":  [
+                        "Rigveda",
+                        "Samaveda",
+                        "Yajurveda",
+                        "Atharvaveda"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-03-gk",
+        "sn":  106,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Who among the following was the first to treat zero as a number and to work with negative numbers?",
+        "options":  [
+                        "Aryabhata",
+                        "Brahmagupta",
+                        "Bhaskaracharya",
+                        "Varahamihira"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  98,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Match List-I (Text) with List-II (Author) and select the correct answer:",
+        "options":  [
+                        "A-3 B-1 C-2 D-4",
+                        "A-1 B-3 C-2 D-4",
+                        "A-3 B-1 C-4 D-2",
+                        "A-3 B-2 C-1 D-4"
+                    ],
+        "subs":  [
+                     "List-I: A. Harshacharita B. Mudrarakshasa C. Gita Govinda D. Prithviraj Raso",
+                     "List-II: 1. Vishakhadatta 2. Jayadeva 3. Banabhatta 4. Chand Bardai"
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  99,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Consider the following statements about Buddhism:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. The Tri-ratna (Three Jewels) are the Buddha, the Dhamma and the Sangha.",
+                     "2. Anicca refers to the impermanence of all things.",
+                     "3. The Therigatha is a collection of verses composed by Buddhist nuns."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  100,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Which one of the following statements about rock-cut architecture is NOT correct?",
+        "options":  [
+                        "The Ellora caves have Buddhist, Hindu and Jain monuments",
+                        "The Kailasa temple at Ellora was built by the Cholas",
+                        "The Kailasa temple at Ellora was carved out for the Rashtrakutas",
+                        "The Ajanta caves are famous for their fresco paintings"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  101,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The devotional song form ‘Qawwali’, sung at Sufi shrines, was developed by:",
+        "options":  [
+                        "Amir Khusrau",
+                        "Tansen",
+                        "Baiju Bawra",
+                        "Swami Haridas"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  102,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Which one of the following is NOT recognised as a classical language of India?",
+        "options":  [
+                        "Odia",
+                        "Maithili",
+                        "Pali",
+                        "Prakrit"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  103,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Match List-I (Classical dance) with List-II (State) and select the correct answer:",
+        "options":  [
+                        "A-1 B-3 C-2 D-4",
+                        "A-3 B-1 C-4 D-2",
+                        "A-3 B-1 C-2 D-4",
+                        "A-3 B-2 C-1 D-4"
+                    ],
+        "subs":  [
+                     "List-I: A. Kuchipudi B. Manipuri C. Odissi D. Kathakali",
+                     "List-II: 1. Manipur 2. Odisha 3. Andhra Pradesh 4. Kerala"
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  104,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The ‘Bani Thani’, a celebrated example of Indian miniature painting, belongs to which school?",
+        "options":  [
+                        "Kangra school",
+                        "Basohli school",
+                        "Tanjore school",
+                        "Kishangarh school"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  105,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The ancient Indian treatise ‘Sushruta Samhita’ deals chiefly with:",
+        "options":  [
+                        "astronomy",
+                        "grammar",
+                        "surgery",
+                        "statecraft"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-04-gk",
+        "sn":  106,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The Hornbill Festival, often called the ‘Festival of Festivals’, is celebrated in which state?",
+        "options":  [
+                        "Nagaland",
+                        "Manipur",
+                        "Meghalaya",
+                        "Mizoram"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  98,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Consider the following statements about classical Sanskrit literature:",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "subs":  [
+                     "1. Kalidasa wrote the Abhijnanashakuntalam.",
+                     "2. Kautilya\u0027s Arthashastra deals with statecraft and administration.",
+                     "3. Banabhatta was the court poet of Harshavardhana."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  99,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "How many of the following statements are correct?",
+        "options":  [
+                        "Only one statement is correct",
+                        "Only two statements are correct",
+                        "Only three statements are correct",
+                        "All four statements are correct"
+                    ],
+        "subs":  [
+                     "1. Jainism recognises 24 Tirthankaras.",
+                     "2. Mahavira was the 24th Tirthankara.",
+                     "3. The Buddhist Tripitaka is written in Pali.",
+                     "4. The Ajivika sect was founded by Mahavira."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  100,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Which one of the following statements about temple architecture is NOT correct?",
+        "options":  [
+                        "The Nagara style is associated with North India",
+                        "The Dravida style is associated with South India",
+                        "The Vesara style is a hybrid of the Deccan",
+                        "The gopuram (gateway tower) is a characteristic feature of the Nagara style"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  101,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The Kailasa temple at Ellora, carved top-down from a single rock, was created under which dynasty?",
+        "options":  [
+                        "Chalukyas",
+                        "Rashtrakutas",
+                        "Pallavas",
+                        "Hoysalas"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  102,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The ‘Ashtadhyayi’, the earliest surviving treatise on Sanskrit grammar, was composed by:",
+        "options":  [
+                        "Patanjali",
+                        "Panini",
+                        "Katyayana",
+                        "Kalidasa"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  103,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Match List-I (Folk dance) with List-II (State) and select the correct answer:",
+        "options":  [
+                        "A-2 B-4 C-1 D-3",
+                        "A-2 B-1 C-4 D-3",
+                        "A-4 B-2 C-1 D-3",
+                        "A-2 B-4 C-3 D-1"
+                    ],
+        "subs":  [
+                     "List-I: A. Bihu B. Garba C. Bhangra D. Chhau",
+                     "List-II: 1. Punjab 2. Assam 3. Jharkhand 4. Gujarat"
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  104,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The prehistoric rock shelters of Bhimbetka, famous for their early paintings, are located in which state?",
+        "options":  [
+                        "Maharashtra",
+                        "Madhya Pradesh",
+                        "Odisha",
+                        "Karnataka"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  105,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The ‘Sangita Ratnakara’, a landmark medieval treatise on Indian music, was written by:",
+        "options":  [
+                        "Bharata Muni",
+                        "Sarangadeva",
+                        "Amir Khusrau",
+                        "Pundarika Vitthala"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-05-gk",
+        "sn":  106,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The Sammakka–Saralamma Jatara, regarded as Asia\u0027s largest tribal festival, is held in which state?",
+        "options":  [
+                        "Chhattisgarh",
+                        "Telangana",
+                        "Jharkhand",
+                        "Odisha"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-06-gk",
+        "sn":  94,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The stories of Shvetaketu and Nachiketa teach us the worth of",
+        "options":  [
+                        "Unquestioned obedience to Rishis",
+                        "Asking questions in pursuit of knowledge",
+                        "Lasting friendships in life",
+                        "Physical labour for healthy life"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-06-gk",
+        "sn":  95,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Which of the following schools of thought believed that \u0027this material world is the only thing that exists\u0027 and therefore \u0027there can be no life after death\u0027?",
+        "options":  [
+                        "Vaisheshika",
+                        "Ajivika",
+                        "Charvaka",
+                        "Nyaya"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-06-gk",
+        "sn":  96,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Consider the following statements: Which of the above statements is/are correct?",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "subs":  [
+                     "1. Dasavatara temple at Deogarh is a Gupta period building",
+                     "2. Bhitargaon temple is built of dressed stone"
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-06-gk",
+        "sn":  99,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "Arrange the following landmarks in the discovery and preservation of early monuments and sculpture in a chronological order: Select the answer using the code given below:",
+        "options":  [
+                        "1, 2, 3, 4",
+                        "1, 3, 2, 4",
+                        "2, 3, 4, 1",
+                        "3, 4, 2, 1"
+                    ],
+        "subs":  [
+                     "1. Founding of the Indian museum, Calcutta",
+                     "2. H. H. Cole appointed Curator of Ancient Monuments",
+                     "3. Establishment of the Government Museum, Madras",
+                     "4. Passing of the Indian Treasure Trove Act, 1878"
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-06-gk",
+        "sn":  102,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "What do you think the titles of Mahendravarman-I like \u0027Vichitrachitta\u0027, \u0027Chaityakari\u0027 and \u0027Chitrakarapuli\u0027 seem to suggest?",
+        "options":  [
+                        "It shows his proficiency in Sanskrit literature",
+                        "It shows his interest in art activities",
+                        "It shows his charming personality",
+                        "It shows his interest in conducting experiments with agriculture"
+                    ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-06-gk",
+        "sn":  103,
+        "subject":  "Art \u0026 Culture",
+        "topic":  "Art \u0026 Culture",
+        "stem":  "The term \u0027Pendentive\u0027 refers to which form of Indian architecture?",
+        "options":  [
+                        "A building/temple which tends to be broader and shorter than Latina type",
+                        "A triangular bracket in the angle of two walls, connecting the base of the dome to its supporting arches",
+                        "Drum house from where ceremonial music was played which was usually situated over the gate",
+                        "Many curves in an arch"
+                    ]
+    }
+]

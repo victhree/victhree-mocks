@@ -1,0 +1,2152 @@
+[
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-I",
+        "sn":  53,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "How many medals did India win at the 2016 Summer Olympics?",
+        "options":  [
+                        "One Silver and one Bronze",
+                        "Two Gold",
+                        "Two Bronze",
+                        "None"
+                    ],
+        "ans":  "a",
+        "exp":  "At the Rio 2016 Olympics, India won two medals — a silver (P.V. Sindhu, badminton) and a bronze (Sakshi Malik, wrestling). Hence \"one silver and one bronze.\" (A sports item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-I",
+        "sn":  109,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "In which city were the Summer Olympics 2020 to be held?",
+        "options":  [
+                        "London",
+                        "Paris",
+                        "Tokyo",
+                        "Moscow"
+                    ],
+        "ans":  "c",
+        "exp":  "The 2020 Summer Olympics were hosted by Tokyo (held in 2021 due to the COVID-19 pandemic). (A sports item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  90,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Which is the official mascot of the Tokyo 2020 Olympic Games?",
+        "options":  [
+                        "Soohorang",
+                        "Vinicius de Moraes",
+                        "The Hare, the Polar Bear and the Leopard",
+                        "Miraitowa"
+                    ],
+        "ans":  "d",
+        "exp":  "Miraitowa (a futuristic blue-checkered character) was the official mascot of the Tokyo 2020 Olympics. (Soohorang was the PyeongChang 2018 Winter mascot.) (A sports item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  113,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Abhinav Bindra won India\u0027s first-ever individual Olympic gold. In which event and Olympic Games?",
+        "options":  [
+                        "10 m air pistol, London",
+                        "10 m air rifle, London",
+                        "10 m air rifle, Beijing",
+                        "10 m air pistol, Beijing"
+                    ],
+        "ans":  "c",
+        "exp":  "Abhinav Bindra won India\u0027s first individual Olympic gold medal in the 10 m air rifle at the Beijing 2008 Olympics. (A sports item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  36,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "\"The Chevrons\" is the name of the cricket team of which country?",
+        "options":  [
+                        "Australia",
+                        "The Netherlands",
+                        "Ireland",
+                        "Zimbabwe"
+                    ],
+        "ans":  "d",
+        "exp":  "Zimbabwe\u0027s national cricket team is nicknamed \"The Chevrons\" (after the chevron pattern on the Great Zimbabwe bird emblem/their kit). (A sports item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  117,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "About the ICC Under-19 Men\u0027s Cricket World Cup, 2024:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "c",
+        "exp":  "Australia won the U-19 Cricket World Cup 2024 (their fourth title, beating India in the final), and the tournament was hosted in South Africa. Both statements are correct. (A sports item.)",
+        "year":  2024,
+        "subs":  [
+                     "1. Australia won the title for the 4th time.",
+                     "2. It was organised in South Africa."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-II",
+        "sn":  59,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Avani Lekhara excels in which sport?",
+        "options":  [
+                        "Table Tennis",
+                        "Cycling",
+                        "Shooting",
+                        "Boxing"
+                    ],
+        "ans":  "c",
+        "exp":  "Avani Lekhara is a para-shooter — she won India\u0027s first-ever Paralympic shooting gold (10 m air rifle, Tokyo 2020). (A sports item.)",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  68,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Which team did India defeat to win the Women\u0027s Hockey Asia Cup title, 2017?",
+        "options":  [
+                        "Japan",
+                        "China",
+                        "South Korea",
+                        "Pakistan"
+                    ],
+        "ans":  "b",
+        "exp":  "India\u0027s women\u0027s hockey team beat China to win the Women\u0027s Hockey Asia Cup 2017 — their first Asia Cup title in 13 years. (A sports item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  117,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Which is the oldest football tournament of Asia?",
+        "options":  [
+                        "Federation Cup",
+                        "Santosh Trophy",
+                        "Durand Cup",
+                        "Rovers Cup"
+                    ],
+        "ans":  "c",
+        "exp":  "The Durand Cup, first held in 1888 (in Shimla), is Asia\u0027s oldest football tournament (and the third-oldest in the world). (A sports item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  82,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Which country has won the FIFA World Cup (Men) the maximum number of times?",
+        "options":  [
+                        "Argentina",
+                        "Brazil",
+                        "France",
+                        "Spain"
+                    ],
+        "ans":  "b",
+        "exp":  "Brazil has won the FIFA World Cup a record five times (1958, 1962, 1970, 1994, 2002). (A sports item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  76,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "In November 2017, M.C. Mary Kom won gold at the Asian Boxing Championship in Ho Chi Minh City. In which category?",
+        "options":  [
+                        "48 kg",
+                        "51 kg",
+                        "54 kg",
+                        "57 kg"
+                    ],
+        "ans":  "a",
+        "exp":  "Mary Kom won the gold in the 48 kg category at the 2017 Asian Boxing Championships — her signature weight class. (A sports item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  111,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Ace athlete Neeraj Chopra is an accomplished player in",
+        "options":  [
+                        "Hammer throw",
+                        "Javelin throw",
+                        "Shot put throw",
+                        "Discus throw"
+                    ],
+        "ans":  "b",
+        "exp":  "Neeraj Chopra is India\u0027s star javelin thrower — Olympic gold medallist (Tokyo 2020) and World Champion. (A sports item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  6,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "An athlete completes one round of a circular track of diameter 100 m in 20 s. What are the displacements after 1 minute and after 10 s, respectively?",
+        "options":  [
+                        "0 m, 50 m",
+                        "300 m, 100 m",
+                        "300 m, 50 m",
+                        "0 m, 100 m"
+                    ],
+        "ans":  "d",
+        "exp":  "Displacement is the straight-line distance between start and end points. In 60 s the athlete completes 3 full rounds and returns to the start, so displacement = 0. In 10 s the athlete covers half a round, ending diametrically opposite the start, so displacement = the diameter = 100 m. Hence 0 m and 100 m. (A physics item, mis-filed here.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  118,
+        "subject":  "Miscellaneous",
+        "topic":  "Awards \u0026 Honours",
+        "stem":  "About the Bharat Ratna Award:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "b",
+        "exp":  "The Bharat Ratna, India\u0027s highest civilian award, was instituted in 1954, not 1972 (so statement 1 is wrong). It carries no monetary grant — only a medallion and a Sanad (certificate) (statement 2 correct). Hence 2 only.",
+        "year":  2024,
+        "subs":  [
+                     "1. It was instituted in 1972.",
+                     "2. The award does not carry any monetary grant."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  96,
+        "subject":  "Miscellaneous",
+        "topic":  "Awards \u0026 Honours",
+        "stem":  "Which statement about Dr. Muthulakshmi Reddy, a freedom fighter, is not correct?",
+        "options":  [
+                        "She was the first girl student to be admitted into a men\u0027s college.",
+                        "She was the first woman legislator in British India.",
+                        "She was a medical professional.",
+                        "She was honoured with the Bharat Ratna in 1956."
+                    ],
+        "ans":  "d",
+        "exp":  "Dr. Muthulakshmi Reddy was a pioneering doctor, the first woman to be admitted to a men\u0027s college (Maharaja\u0027s College), and the first woman legislator in British India (Madras Legislative Council, 1927) — so a, b, c are correct. She was not awarded the Bharat Ratna (she received the Padma Bhushan in 1956), so statement d is incorrect.",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  15,
+        "subject":  "Miscellaneous",
+        "topic":  "Awards \u0026 Honours",
+        "stem":  "1. C. Rajagopalachari was the first recipient of the Bharat Ratna.",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "c",
+        "exp":  "C. Rajagopalachari was among the first three recipients of the Bharat Ratna in 1954 (with C. V. Raman and S. Radhakrishnan) (1). Deen Dayal Upadhyaya propounded the philosophy of Integral Humanism (Ekatma Manavavad) (2). Both statements are correct.",
+        "year":  2025,
+        "subs":  [
+                     "2. Pandit Deen Dayal Upadhyaya initiated the concept of Integral Humanism."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  65,
+        "subject":  "Miscellaneous",
+        "topic":  "Awards \u0026 Honours",
+        "stem":  "Which State hosted the Nobel Prize Series-India 2018 \"Science Impacts Life\" Exhibition?",
+        "options":  [
+                        "Gujarat",
+                        "Rajasthan",
+                        "Goa",
+                        "Madhya Pradesh"
+                    ],
+        "ans":  "c",
+        "exp":  "The Nobel Prize Series-India 2018, themed \u0027Science Impacts Life\u0027, was hosted in Goa (option c). Gujarat had hosted the earlier edition.",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  113,
+        "subject":  "Miscellaneous",
+        "topic":  "Persons in News",
+        "stem":  "Robert Prevost became the Catholic Pope after the death of Pope Francis. Which statements about him are correct?",
+        "options":  [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 only",
+                        "3 only"
+                    ],
+        "ans":  "d",
+        "exp":  "Robert Prevost, elected in 2025, is the first US-born Pope and holds dual US-Peruvian citizenship (statement 3 correct). However, he took the name Leo XIV (not XV) — so statement 1 is wrong — and he is the 267th Pope (not the 271st) — so statement 2 is wrong. Hence 3 only. (A current-affairs item.)",
+        "year":  2025,
+        "subs":  [
+                     "1. He will now be known as Leo XV.",
+                     "2. He became the 271st Catholic Pope.",
+                     "3. He is a dual citizen of the United States and Peru."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  101,
+        "subject":  "Miscellaneous",
+        "topic":  "Persons in News",
+        "stem":  "About the National Centre for Good Governance (NCGG):",
+        "options":  [
+                        "1, 2 and 4",
+                        "2 and 4 only",
+                        "1 and 3 only",
+                        "3 and 4 only"
+                    ],
+        "ans":  "b",
+        "exp":  "The NCGG was created by subsuming/rechristening the NIAR (which was part of LBSNAA, Mussoorie) (2), and its Governing Body is chaired by the Cabinet Secretary (4). It functions under the Department of Administrative Reforms (Ministry of Personnel), not the Ministry of Home Affairs — so statement 3 is wrong — and statement 1 (set up by the SVP Police Academy) is also wrong. Hence 2 and 4 only. (A polity/governance item.)",
+        "year":  2023,
+        "subs":  [
+                     "1. It was set up by the Sardar Vallabhbhai Patel National Police Academy.",
+                     "2. The National Institute of Administrative Research (NIAR) has been rechristened and subsumed into NCGG.",
+                     "3. NCGG is an apex-level autonomous body under the Ministry of Home Affairs.",
+                     "4. The Chairperson of its Governing Body is the Cabinet Secretary."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  109,
+        "subject":  "Miscellaneous",
+        "topic":  "Books \u0026 Authors",
+        "stem":  "Match author with work: A. Sekhar Bandyopadhyay B. Sarvepalli Gopal C. David Hardiman D. Gyanendra Pandey |",
+        "options":  [
+                        "2, 4, 1, 3",
+                        "2, 1, 4, 3",
+                        "3, 1, 4, 2",
+                        "3, 4, 1, 2"
+                    ],
+        "ans":  "b",
+        "exp":  "Sekhar Bandyopadhyay → From Plassey to Partition (2); Sarvepalli Gopal → Jawaharlal Nehru: A Biography (1); David Hardiman → Gandhi in His Time and Ours (4); Gyanendra Pandey → The Ascendancy of the Congress in UP (3). Hence A-2, B-1, C-4, D-3. (A history/historiography item.)",
+        "year":  2019,
+        "subs":  [
+                     "1. Jawaharlal Nehru: A Biography, Vol-I",
+                     "2. From Plassey to Partition: A History of Modern India",
+                     "3. The Ascendancy of the Congress in Uttar Pradesh, 1926-1934",
+                     "4. Gandhi in His Time and Ours."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  59,
+        "subject":  "Miscellaneous",
+        "topic":  "Books \u0026 Authors",
+        "stem":  "The biography of Shaikh Muinuddin Chishti, authored by Jahanara, is known as",
+        "options":  [
+                        "Munis al Arwah",
+                        "Fawaid ul Fuwad",
+                        "Sirat ul Auliya",
+                        "Muraqqa-e Dehli"
+                    ],
+        "ans":  "a",
+        "exp":  "The Mughal princess Jahanara (Shah Jahan\u0027s daughter), herself a devout follower of the Chishti order, wrote \"Munis al-Arwah\" (\"The Confidant of Spirits\") — a biography of the great Chishti saint Khwaja Muinuddin Chishti of Ajmer. (A history item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  108,
+        "subject":  "Miscellaneous",
+        "topic":  "Days, Themes \u0026 Observances",
+        "stem":  "National Handloom Day is observed on",
+        "options":  [
+                        "7th June",
+                        "17th July",
+                        "7th August",
+                        "17th September"
+                    ],
+        "ans":  "c",
+        "exp":  "National Handloom Day is observed on 7 August, marking the anniversary of the launch of the Swadeshi Movement (1905), to honour handloom weavers and promote handloom products. (A days/observances item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-I",
+        "sn":  118,
+        "subject":  "Miscellaneous",
+        "topic":  "Days, Themes \u0026 Observances",
+        "stem":  "Which was the host country for World Tourism Day, 2019?",
+        "options":  [
+                        "USA",
+                        "India",
+                        "Russia",
+                        "Canada"
+                    ],
+        "ans":  "b",
+        "exp":  "India hosted the official World Tourism Day 2019 celebrations (in New Delhi), with the theme \"Tourism and Jobs: a better future for all.\" (A current-affairs item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-II",
+        "sn":  25,
+        "subject":  "Miscellaneous",
+        "topic":  "Days, Themes \u0026 Observances",
+        "stem":  "August 12 is celebrated as",
+        "options":  [
+                        "World Environment Day",
+                        "World No-Tobacco Day",
+                        "International Day against Drug Abuse and Illicit Trafficking",
+                        "International Youth Day"
+                    ],
+        "ans":  "d",
+        "exp":  "12 August is observed as International Youth Day by the UN. (World Environment Day is 5 June; World No-Tobacco Day is 31 May; the Day against Drug Abuse is 26 June.) (A days/observances item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  59,
+        "subject":  "Miscellaneous",
+        "topic":  "Days, Themes \u0026 Observances",
+        "stem":  "Match Day with Date: A. World Wetlands Day B. International Tiger Day C. World Water Day D. International Mother Earth Day |",
+        "options":  [
+                        "A-3 B-4 C-1 D-2",
+                        "A-3 B-1 C-4 D-2",
+                        "A-2 B-1 C-4 D-3",
+                        "A-2 B-4 C-1 D-3"
+                    ],
+        "ans":  "b",
+        "exp":  "World Wetlands Day → 2 February (3); International Tiger Day → 29 July (1); World Water Day → 22 March (4); International Mother Earth Day → 22 April (2). Hence A-3, B-1, C-4, D-2. (A days/observances item.)",
+        "year":  2023,
+        "subs":  [
+                     "1. 29 July",
+                     "2. 22 April",
+                     "3. 2 February",
+                     "4. 22 March."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  102,
+        "subject":  "Miscellaneous",
+        "topic":  "Days, Themes \u0026 Observances",
+        "stem":  "Match International Yoga Day edition with theme: A. 6th Edition B. 7th Edition C. 8th Edition D. 9th Edition |",
+        "options":  [
+                        "A-2 B-4 C-1 D-3",
+                        "A-2 B-1 C-4 D-3",
+                        "A-3 B-1 C-4 D-2",
+                        "A-3 B-4 C-1 D-2"
+                    ],
+        "ans":  "b",
+        "exp":  "International Yoga Day themes: 6th IDY (2020) \u0027Yoga for Health / Yoga at Home\u0027; 7th IDY (2021) \u0027Yoga for Well-being\u0027; 8th IDY (2022) \u0027Yoga for Humanity\u0027; 9th IDY (2023) \u0027Yoga for Vasudhaiva Kutumbakam\u0027. This gives A-2, B-1, C-4, D-3 = option b.",
+        "year":  2023,
+        "subs":  [
+                     "1. Yoga for well-being",
+                     "2. Yoga for health",
+                     "3. Yoga at home",
+                     "4. Yoga for Humanity."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  20,
+        "subject":  "Miscellaneous",
+        "topic":  "Days, Themes \u0026 Observances",
+        "stem":  "In India, May 21 is observed as",
+        "options":  [
+                        "NRI Day",
+                        "National Youth Day",
+                        "National Technology Day",
+                        "National Anti-Terrorism Day"
+                    ],
+        "ans":  "d",
+        "exp":  "21 May is observed as National Anti-Terrorism Day in India, marking the assassination of former PM Rajiv Gandhi (1991), to promote peace and the message against terrorism. (National Technology Day is 11 May; National Youth Day is 12 January.) (A days/observances item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  74,
+        "subject":  "Miscellaneous",
+        "topic":  "Reports \u0026 Indices",
+        "stem":  "Which indicators were used by the World Economic Forum to calculate the Global Competitiveness Index for 2016-17?",
+        "options":  [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+        "ans":  "a",
+        "exp":  "The WEF\u0027s Global Competitiveness Index was built on three sub-indices: basic requirements, efficiency enhancers (1) and innovation \u0026 sophistication factors (2). There is no \"life-expectancy enhancer subindex\" (3) (life expectancy is just one indicator within the health pillar). Hence 1 and 2 only.",
+        "year":  2017,
+        "subs":  [
+                     "1. Efficiency enhancer subindex",
+                     "2. Innovation and sophistication factors subindex",
+                     "3. Life expectancy enhancer subindex."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  119,
+        "subject":  "Miscellaneous",
+        "topic":  "Reports \u0026 Indices",
+        "stem":  "Which pairs of Government of India initiatives and their objectives are correctly matched?",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "a",
+        "exp":  "Global Capability Centres (GCCs) — offshore units of multinationals doing high-value work in India — are indeed reshaping the corporate/services landscape (1, correct). Pair 2 is wrong: the U-WIN portal is for digitizing immunization records (vaccination of pregnant women and children), not for \"ease of doing business.\" Hence 1 only. (A current-affairs item.)",
+        "year":  2025,
+        "subs":  [
+                     "1. Global Capability Centre (GCC) – Reshaping corporate landscape",
+                     "2. U-WIN Portal – Ease of doing business across states."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  118,
+        "subject":  "Miscellaneous",
+        "topic":  "Government Schemes \u0026 Initiatives",
+        "stem":  "The Pragati scholarship scheme of the Government of India is meant for",
+        "options":  [
+                        "higher education of girls",
+                        "technical education of girls",
+                        "secondary education of girls",
+                        "elementary education of girls"
+                    ],
+        "ans":  "b",
+        "exp":  "The Pragati Scholarship Scheme (of AICTE) provides financial assistance to girl students pursuing technical education (diploma/degree), to encourage women in technical fields. (A schemes item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  5,
+        "subject":  "Miscellaneous",
+        "topic":  "Government Schemes \u0026 Initiatives",
+        "stem":  "About the Sugamya Bharat Abhiyan:",
+        "options":  [
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 only"
+                    ],
+        "ans":  "b",
+        "exp":  "The Sugamya Bharat Abhiyan (Accessible India Campaign) — run by the Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice (1) — aims at universal accessibility (built environment, transport, ICT) for an inclusive society for persons with disabilities (2). It is an accessibility programme; it does not provide pensions (3 is wrong). Hence 1 and 2 only. (A schemes item.)",
+        "year":  2024,
+        "subs":  [
+                     "1. It is initiated by the Department of Empowerment of Persons with Disabilities, Ministry of Social Justice and Empowerment.",
+                     "2. It aims to develop an inclusive society for persons with disabilities.",
+                     "3. It has provisions of pension for persons with disabilities."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  108,
+        "subject":  "Miscellaneous",
+        "topic":  "Government Schemes \u0026 Initiatives",
+        "stem":  "Which cities were conferred the cleanest city award under Swachh Survekshan Awards, 2023?",
+        "options":  [
+                        "Varanasi and Prayagraj",
+                        "Indore and Surat",
+                        "Prayagraj and Indore",
+                        "Surat and Varanasi"
+                    ],
+        "ans":  "b",
+        "exp":  "In the Swachh Survekshan 2023 awards, Indore and Surat jointly were adjudged the cleanest cities — Indore\u0027s seventh consecutive top ranking, now shared with Surat. (A current-affairs item.)",
+        "year":  2024
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  70,
+        "subject":  "Miscellaneous",
+        "topic":  "Government Schemes \u0026 Initiatives",
+        "stem":  "Which is an integrated teacher-training programme?",
+        "options":  [
+                        "Vidya Pravesh",
+                        "NISHTHA",
+                        "Vidyanjali",
+                        "DIKSHA"
+                    ],
+        "ans":  "b",
+        "exp":  "NISHTHA (National Initiative for School Heads\u0027 and Teachers\u0027 Holistic Advancement) is the large-scale integrated teacher-training programme under the school-education ministry. (Vidya Pravesh is a school-readiness module; Vidyanjali is a volunteering programme; DIKSHA is a digital content platform.) (A schemes item.)",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-I",
+        "sn":  48,
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "stem":  "Rand (ZAR) is the currency of",
+        "options":  [
+                        "Burundi",
+                        "Libya",
+                        "Sudan",
+                        "South Africa"
+                    ],
+        "ans":  "d",
+        "exp":  "The Rand (currency code ZAR) is the currency of South Africa. (A GK item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-I",
+        "sn":  50,
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "stem":  "Which statement is not correct?",
+        "options":  [
+                        "Pavo cristatus is the national bird of India.",
+                        "Nelumbo nucifera Gaertn is the national flower of India.",
+                        "Ficus benghalensis is the national tree of India.",
+                        "Mangifera indica is the national animal of India."
+                    ],
+        "ans":  "d",
+        "exp":  "Mangifera indica is the mango — India\u0027s national fruit, not the national animal (the national animal is the tiger, Panthera tigris) — so statement d is false. The others are correct: peacock (national bird), lotus (national flower), banyan (national tree). (A national-symbols item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  117,
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "stem":  "The bald eagle has recently been officially declared as the national bird of which country?",
+        "options":  [
+                        "China",
+                        "England",
+                        "USA",
+                        "Ireland"
+                    ],
+        "ans":  "c",
+        "exp":  "Although it had long been a national symbol, the bald eagle was only officially designated the national bird of the United States by law in 2024. (A current-affairs item.)",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  66,
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "stem":  "The Ministry of Communication launched a pan-India scholarship programme for schoolchildren called Deen Dayal SPARSH Yojana. Its objective is to increase the reach of",
+        "options":  [
+                        "sports",
+                        "philately",
+                        "music",
+                        "web designing"
+                    ],
+        "ans":  "b",
+        "exp":  "SPARSH (Scholarship for Promotion of Aptitude and Research in Stamps as a Hobby) — the Deen Dayal SPARSH Yojana — promotes philately (stamp collecting) among school students. (A schemes item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  17,
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "stem":  "Pakyong Airport is located in",
+        "options":  [
+                        "Sikkim",
+                        "Jammu and Kashmir",
+                        "Arunachal Pradesh",
+                        "Mizoram"
+                    ],
+        "ans":  "a",
+        "exp":  "Pakyong Airport, Sikkim\u0027s first airport (opened 2018), is a greenfield airport near Gangtok — one of India\u0027s highest. (A geography/current-affairs item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  20,
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "stem":  "Saurabh Chaudhary excels in which sport?",
+        "options":  [
+                        "Archery",
+                        "Shooting",
+                        "Boxing",
+                        "Judo"
+                    ],
+        "ans":  "b",
+        "exp":  "Saurabh Chaudhary is an Indian pistol shooter (10 m air pistol), a youth Olympic and Asian Games gold medallist. (A sports item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  101,
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "stem":  "Afro-Asian solidarity as a central element of India\u0027s foreign policy was initiated by which Prime Minister?",
+        "options":  [
+                        "Narendra Modi",
+                        "I. K. Gujral",
+                        "J. L. Nehru",
+                        "Manmohan Singh"
+                    ],
+        "ans":  "c",
+        "exp":  "Jawaharlal Nehru made Afro-Asian solidarity a pillar of India\u0027s foreign policy — championing decolonisation, the 1955 Bandung Conference and Non-Alignment. (A history/IR item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-II",
+        "sn":  83,
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "stem":  "The \"Stay in India and Study in India\" programme is initiated by",
+        "options":  [
+                        "the Ministry of Youth Affairs and Sports",
+                        "the Ministry of Culture",
+                        "the Ministry of Education",
+                        "the Ministry of Tourism"
+                    ],
+        "ans":  "c",
+        "exp":  "The \"Study in India\" initiative (to attract foreign students and retain Indian students) is run by the Ministry of Education (then HRD Ministry). (A schemes item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  31,
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "stem":  "After forming the Indian National Army, Subhas Chandra Bose:",
+        "options":  [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                    ],
+        "ans":  "c",
+        "exp":  "Subhas Chandra Bose built the INA largely from Indian POWs captured by Japan in Southeast Asia (1), and famously raised the Rani of Jhansi Regiment, an all-women combat unit (2). Both statements are correct. (A history item.)",
+        "year":  2023,
+        "subs":  [
+                     "1. recruited a large number of soldiers from Indian Prisoners of War in Japanese camps.",
+                     "2. introduced a women\u0027s detachment named after the Rani of Jhansi."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  62,
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "stem":  "Which is the venue of the UN 2023 Water Conference?",
+        "options":  [
+                        "Washington, DC",
+                        "New York",
+                        "San Diego",
+                        "New Delhi"
+                    ],
+        "ans":  "b",
+        "exp":  "The UN 2023 Water Conference was held at UN Headquarters in New York — the first major UN conference on water in nearly half a century. (A current-affairs item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  16,
+        "subject":  "Miscellaneous",
+        "topic":  "National Symbols \u0026 Miscellaneous GK",
+        "stem":  "Which pairs of institute and location are correctly matched?",
+        "options":  [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 only",
+                        "2 only"
+                    ],
+        "ans":  "a",
+        "exp":  "The Indian Institute of Advanced Study is at Shimla (in the former Viceregal Lodge) (1), and the Indian Institute of Public Administration is in New Delhi (2). Pair 3 is wrong: the Sushma Swaraj Institute of Foreign Service (the diplomatic training academy) is in New Delhi, not Nainital. Hence 1 and 2. (A GK item.)",
+        "year":  2025,
+        "subs":  [
+                     "1. Indian Institute of Advanced Study – Shimla",
+                     "2. Indian Institute of Public Administration – New Delhi",
+                     "3. Sushma Swaraj Institute of Foreign Service – Nainital."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-II",
+        "sn":  9,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "The Durand Line is a border demarcation separating which countries?",
+        "options":  [
+                        "Afghanistan and Iran",
+                        "Afghanistan and Pakistan",
+                        "India and Pakistan",
+                        "Afghanistan and China"
+                    ],
+        "ans":  "b",
+        "exp":  "The Durand Line, drawn in 1893 by Sir Mortimer Durand (between British India and Afghanistan), today forms the disputed border between Afghanistan and Pakistan. (The India-Pakistan boundary is the Radcliffe Line/LoC.)",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2016-II",
+        "sn":  71,
+        "subject":  "Miscellaneous",
+        "topic":  "Persons in News",
+        "stem":  "Neil O\u0027Brien, who died recently, was a famous",
+        "options":  [
+                        "journalist",
+                        "billiards player",
+                        "dramatist",
+                        "quiz master"
+                    ],
+        "ans":  "d",
+        "exp":  "Neil O\u0027Brien was India\u0027s legendary quiz master, who pioneered and popularised competitive quizzing in the country (and father of MP Derek O\u0027Brien). (A current-affairs/obituary item.)",
+        "year":  2016
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2016-II",
+        "sn":  74,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Who won the Men\u0027s Singles title at the Australian Open Tennis Tournament, 2016?",
+        "options":  [
+                        "Jamie Murray",
+                        "Bruno Soares",
+                        "Novak Djokovic",
+                        "Andy Murray"
+                    ],
+        "ans":  "c",
+        "exp":  "Novak Djokovic won the 2016 Australian Open men\u0027s singles (defeating Andy Murray in the final) — one of his record number of Australian Open titles. (A sports item.)",
+        "year":  2016
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2016-II",
+        "sn":  84,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Who was defeated by Chile to win the Copa America Football Championship, 2016?",
+        "options":  [
+                        "Colombia",
+                        "Argentina",
+                        "Ecuador",
+                        "Peru"
+                    ],
+        "ans":  "b",
+        "exp":  "Chile beat Argentina (on penalties) to win the Copa América Centenario, 2016 — the second straight final in which Chile defeated Lionel Messi\u0027s Argentina. (A sports item.)",
+        "year":  2016
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-I",
+        "sn":  65,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Who won a Gold medal for India in the Men\u0027s Javelin Throw at the 2016 Rio Paralympic Games?",
+        "options":  [
+                        "Rinku Hooda",
+                        "Devendra Jhajharia",
+                        "Sundar Singh Gurjar",
+                        "Mariyappan Thangavelu"
+                    ],
+        "ans":  "b",
+        "exp":  "Devendra Jhajharia won gold in the F46 javelin throw at the Rio 2016 Paralympics (with a world-record throw) — his second Paralympic gold, making him one of India\u0027s greatest para-athletes. (Mariyappan Thangavelu won the high-jump gold at the same Games.) (A sports item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  2,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Which geographer is related to the primate city concept?",
+        "options":  [
+                        "August Losch",
+                        "Mark Jefferson",
+                        "Griffith Taylor",
+                        "W. Christaller"
+                    ],
+        "ans":  "b",
+        "exp":  "The \"primate city\" concept — a country\u0027s largest city being disproportionately bigger than the next — was given by the geographer Mark Jefferson (1939). (Christaller gave Central Place Theory; Lösch worked on economic geography.) (A geography item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  36,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Consider the following statements:",
+        "options":  [
+                        "Both true, II explains I",
+                        "Both true, II not the explanation",
+                        "I true, II false",
+                        "I false, II true"
+                    ],
+        "ans":  "a",
+        "exp":  "Early Vedic (Rig Vedic) society was tribal and pastoral, with the Rajan as a tribal chief/war-leader ruling over a people (jana), not a defined territory — so it lacked a territorial \"State\" in the proper sense. Statement II thus correctly explains why no State-like structure emerged (Statement I). (A history item.)",
+        "year":  2017,
+        "subs":  [
+                     "Statement I: The early Aryans, essentially pastoral, did not develop a political structure measuring up to a State.",
+                     "Statement II: Tribal kingship was the same as chiefship, the term Rajan being used for the tribal chief who was primarily a military leader ruling over people, not over a specified area."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  78,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "On the nature of the Mughal State, who argued that its peculiar feature was that it served not merely as the protective arm of the exploiting classes but was itself the principal instrument of exploitation?",
+        "options":  [
+                        "Irfan Habib",
+                        "Satish Chandra",
+                        "Athar Ali",
+                        "J. F. Richards"
+                    ],
+        "ans":  "a",
+        "exp":  "The Marxist historian Irfan Habib, in The Agrarian System of Mughal India, argued that the Mughal state was itself the chief instrument of surplus extraction (exploitation) from the peasantry, not just a protector of an exploiting class. (A history/historiography item.)",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2017-II",
+        "sn":  92,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who argued that capital created underdevelopment not because it exploited the underdeveloped world, but because it did not exploit it enough?",
+        "options":  [
+                        "Bill Warren",
+                        "Paul Baran",
+                        "Geoffrey Kay",
+                        "Lenin"
+                    ],
+        "ans":  "c",
+        "exp":  "The line \u0027capital created underdevelopment not because it exploited the underdeveloped world, but because it did not exploit it enough\u0027 is attributed to Geoffrey Kay, not Bill Warren. Hence the answer is Geoffrey Kay (option c).",
+        "year":  2017
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-I",
+        "sn":  78,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Who is the winner of the National Badminton Championship (Men), 2017?",
+        "options":  [
+                        "Kidambi Srikanth",
+                        "H. S. Prannoy",
+                        "Ajay Jayaram",
+                        "Sai Praneeth"
+                    ],
+        "ans":  "b",
+        "exp":  "This is a year/result-specific sports fact. (Worth confirming against the official key — the men\u0027s singles title of the 2017 Senior National Badminton Championship.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  80,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "Who was the first Nawab Wazir of Awadh in the 18th century?",
+        "options":  [
+                        "Nawab Safdarjung",
+                        "Nawab Saadat Ali Khan",
+                        "Nawab Shuja-ud-Daula",
+                        "Nawab Saadat Khan"
+                    ],
+        "ans":  "d",
+        "exp":  "Saadat Khan (Burhan-ul-Mulk) founded the autonomous state of Awadh around 1722 as the first Nawab, as Mughal central authority weakened. Safdarjung and Shuja-ud-Daula were his successors. (A history item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2018-II",
+        "sn":  119,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "Who took over the Eka Movement started by the Congress in Awadh during 1921-22?",
+        "options":  [
+                        "Bhagwan Ahir",
+                        "Madari Pasi",
+                        "Baba Ramchandra",
+                        "Shah Naeem Ata"
+                    ],
+        "ans":  "b",
+        "exp":  "The Eka (Unity) Movement of peasants in Awadh, begun under Congress/Khilafat auspices, soon passed to grassroots leaders like Madari Pasi, and developed a militant character that the Congress leadership could not control. (A history item.)",
+        "year":  2018
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  5,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "Who was known during the Revolt of 1857 as \"Danka Shah\"?",
+        "options":  [
+                        "Shah Mal",
+                        "Maulavi Ahmadullah Shah",
+                        "Nana Sahib",
+                        "Tantia Tope"
+                    ],
+        "ans":  "b",
+        "exp":  "Maulvi Ahmadullah Shah of Faizabad, a leading rebel of 1857 famed for his charisma and military skill, was popularly called \"Danka Shah\" (the one who moved with beating drums). (A history item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  12,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who organized the All India Scheduled Castes Federation?",
+        "options":  [
+                        "Jyotiba Phule",
+                        "Periyar",
+                        "B. R. Ambedkar",
+                        "M. K. Karunanidhi"
+                    ],
+        "ans":  "c",
+        "exp":  "Dr. B. R. Ambedkar founded the All India Scheduled Castes Federation (1942) to represent the political interests of the Depressed Classes (it was later succeeded by the Republican Party of India). (A history item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  13,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Paul Allen, who died in October 2018, was the co-founder of",
+        "options":  [
+                        "Oracle",
+                        "IBM",
+                        "Microsoft",
+                        "SAP"
+                    ],
+        "ans":  "c",
+        "exp":  "Paul Allen co-founded Microsoft with Bill Gates in 1975. (A current-affairs/obituary item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  19,
+        "subject":  "Miscellaneous",
+        "topic":  "Awards \u0026 Honours",
+        "stem":  "Who is the first Indian to win a Pulitzer Prize?",
+        "options":  [
+                        "Arundhati Roy",
+                        "Gobind Behari Lal",
+                        "Vijay Seshadri",
+                        "Jhumpa Lahiri"
+                    ],
+        "ans":  "b",
+        "exp":  "Gobind Behari Lal, a science journalist (and a nephew of Lala Hardayal), was the first person of Indian origin to win a Pulitzer Prize (1937, for science reporting). (A history/awards item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  26,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who designed the Bombay Secretariat in the 1870s?",
+        "options":  [
+                        "H. St. Clair Wilkins",
+                        "Sir Cowasjee Jehangir Readymoney",
+                        "Purushottamdas Thakurdas",
+                        "Nusserwanji Tata"
+                    ],
+        "ans":  "a",
+        "exp":  "The Gothic-Revival Bombay Secretariat (1870s) was designed by Colonel Henry St. Clair Wilkins, a Royal Engineers architect, part of the burst of Victorian Gothic public buildings in colonial Bombay. (A history/architecture item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  27,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who founded the Mahakali Pathshala in Calcutta?",
+        "options":  [
+                        "Mataji Maharani Tapaswini",
+                        "Sister Nivedita",
+                        "Madame Blavatsky",
+                        "Sarojini Naidu"
+                    ],
+        "ans":  "a",
+        "exp":  "Mataji Maharani Tapaswini founded the Mahakali Pathshala (1893) in Calcutta — a girls\u0027 school that imparted education within a traditional Hindu framework. (A history item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  28,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Which European ruler observed, \"Bear in mind that the commerce of India is the commerce of the world; he who can exclusively command it is the dictator of Europe\"?",
+        "options":  [
+                        "Queen Victoria",
+                        "Peter the Great of Russia",
+                        "Napoleon Bonaparte",
+                        "Gustav II Adolf"
+                    ],
+        "ans":  "c",
+        "exp":  "This remark on the supreme strategic value of the India trade is attributed to Napoleon Bonaparte — reflecting the European powers\u0027 contest for control of Indian and Asian commerce. (A history item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-I",
+        "sn":  114,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Who won India\u0027s first ever gold medal at the Youth Olympic Games 2018 in Argentina?",
+        "options":  [
+                        "Neeraj Chopra",
+                        "Praveen Chitravel",
+                        "Jeremy Lalrinnunga",
+                        "Suraj Panwar"
+                    ],
+        "ans":  "c",
+        "exp":  "Weightlifter Jeremy Lalrinnunga won India\u0027s first-ever gold at the Youth Olympic Games (Buenos Aires 2018). (A sports item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  13,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Who won the Italian Open Women\u0027s Tennis Singles Title, 2019?",
+        "options":  [
+                        "Karolina Pliskova",
+                        "Johanna Konta",
+                        "Naomi Osaka",
+                        "Serena Williams"
+                    ],
+        "ans":  "a",
+        "exp":  "Karolina Pliskova won the 2019 Italian Open (Rome) women\u0027s singles title. (A sports item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  19,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who was elected President of Indonesia for a second term?",
+        "options":  [
+                        "Joko Widodo",
+                        "Prabowo Subianto",
+                        "Sandiaga Uno",
+                        "Jusuf Kalla"
+                    ],
+        "ans":  "a",
+        "exp":  "Joko Widodo (\"Jokowi\") was re-elected President of Indonesia for a second term in 2019 (defeating Prabowo Subianto). (A current-affairs item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  32,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "Who started the Indian Agriculture Service?",
+        "options":  [
+                        "William Bentinck",
+                        "Lord Curzon",
+                        "Lord Rippon",
+                        "Lord Minto"
+                    ],
+        "ans":  "b",
+        "exp":  "Lord Curzon, the reforming (and controversial) Viceroy, set up the Department/Imperial Agriculture Service and the agricultural research institute at Pusa, as part of his administrative initiatives in the early 1900s. (A history item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  39,
+        "subject":  "Miscellaneous",
+        "topic":  "Books \u0026 Authors",
+        "stem":  "Who, in his book The Managerial Revolution, argued that a managerial class dominated all industrial societies (capitalist and communist) by virtue of its technical knowledge and administrative skills?",
+        "options":  [
+                        "James Burnham",
+                        "Robert Michels",
+                        "Gaetano Mosca",
+                        "Vilfredo Pareto"
+                    ],
+        "ans":  "a",
+        "exp":  "James Burnham\u0027s \"The Managerial Revolution\" (1941) argued that real power was passing from capitalists/owners to a new managerial class of technical and administrative experts in both capitalist and socialist economies. (A political-thought item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  58,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who were the Nayanars?",
+        "options":  [
+                        "Those immersed in devotion to Vishnu",
+                        "Devotees of Buddha",
+                        "Leaders who were devotees of Shiva",
+                        "Leaders who were devotees of Basaveshwara"
+                    ],
+        "ans":  "c",
+        "exp":  "The Nayanars were the 63 Tamil Shaiva (Shiva-devotee) saint-poets of South India (their hymns collected in the Tevaram). The Vaishnava counterparts were the Alvars. (A history item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  60,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "Which Mughal emperor was a follower of the Naqshbandiyya leader Khwaja Ubaydullah Ahrar?",
+        "options":  [
+                        "Babur",
+                        "Humayun",
+                        "Akbar",
+                        "Jahangir"
+                    ],
+        "ans":  "a",
+        "exp":  "Babur, the founder of the Mughal Empire, was a devoted follower of the Naqshbandi Sufi order and its leader Khwaja Ubaydullah Ahrar — he even translated one of Ahrar\u0027s works into Turki verse. (A history item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2019-II",
+        "sn":  111,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who were the Alvars?",
+        "options":  [
+                        "Those immersed in devotion to Vishnu",
+                        "Devotees of Shiva",
+                        "Those who worshipped an abstract form of God",
+                        "Devotees of Shakti"
+                    ],
+        "ans":  "a",
+        "exp":  "The Alvars were the twelve Tamil Vaishnava (Vishnu-devotee) saint-poets, whose hymns form the Nalayira Divya Prabandham. (The Nayanars were the Shaiva counterparts.) (A history item.)",
+        "year":  2019
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-I",
+        "sn":  35,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "Which Sultan finally broke and destroyed the power of the Turkan-i-Chihalgani?",
+        "options":  [
+                        "Iltutmish",
+                        "Balban",
+                        "Alauddin Khalji",
+                        "Muhammad bin Tughluq"
+                    ],
+        "ans":  "b",
+        "exp":  "The Turkan-i-Chihalgani (\"the Forty\") was a powerful corps of Turkish nobles created by Iltutmish that came to dominate the throne. Sultan Balban ruthlessly broke their power to restore the absolute authority of the monarchy. (A history item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-I",
+        "sn":  36,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Which Mongol leader/commander did not cross the Indus to attack India?",
+        "options":  [
+                        "Chenghiz Khan",
+                        "Tair Bahadur",
+                        "Abdullah",
+                        "Qutlugh Khwaja"
+                    ],
+        "ans":  "a",
+        "exp":  "Chenghiz (Genghis) Khan reached the banks of the Indus (1221, pursuing Jalaluddin Mangbarni) but did not cross it into India proper. Later Mongol commanders (Tair Bahadur, Qutlugh Khwaja, etc.) did raid into India. (A history item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-I",
+        "sn":  54,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Who won the Best Men\u0027s Player Award at the FIFA Football Awards, 2019?",
+        "options":  [
+                        "Cristiano Ronaldo",
+                        "Virgil van Dijk",
+                        "Lionel Messi",
+                        "Xavi"
+                    ],
+        "ans":  "c",
+        "exp":  "Lionel Messi won the FIFA The Best Men\u0027s Player award for 2019. (A sports item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-I",
+        "sn":  56,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Greta Thunberg, the teenaged environment activist, hails from",
+        "options":  [
+                        "Sweden",
+                        "Germany",
+                        "USA",
+                        "Canada"
+                    ],
+        "ans":  "a",
+        "exp":  "Greta Thunberg, who began the \"Fridays for Future\" school climate strikes, is from Sweden. (A current-affairs item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-I",
+        "sn":  58,
+        "subject":  "Miscellaneous",
+        "topic":  "Awards \u0026 Honours",
+        "stem":  "Amitabh Bachchan was conferred the Dadasaheb Phalke Award. Who was the first recipient of the award?",
+        "options":  [
+                        "Prithviraj Kapoor",
+                        "Devika Rani",
+                        "Sohrab Modi",
+                        "Naushad"
+                    ],
+        "ans":  "b",
+        "exp":  "The first Dadasaheb Phalke Award (1969) was given to the actress Devika Rani, a pioneer of Indian cinema. (A current-affairs/films item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-I",
+        "sn":  78,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "Who believed that Russian designs were an imminent peril to the security of the Indian Empire in 1836?",
+        "options":  [
+                        "Lord Auckland",
+                        "Lord Palmerston",
+                        "Lord Canning",
+                        "Alexander Burnes"
+                    ],
+        "ans":  "a",
+        "exp":  "Governor-General Lord Auckland, gripped by fear of Russian expansion (\"the Great Game\") toward India, pursued the policy that led to the disastrous First Anglo-Afghan War (1839-42). (A history item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-II",
+        "sn":  16,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who created the first All India Trade Union Congress in 1920?",
+        "options":  [
+                        "B. P. Wadia",
+                        "S. A. Dange",
+                        "N. M. Joshi",
+                        "B. T. Ranadive"
+                    ],
+        "ans":  "c",
+        "exp":  "The All India Trade Union Congress (AITUC), India\u0027s first national trade-union federation, was founded in 1920, with N. M. Joshi as a principal founder (Lala Lajpat Rai was its first president). (A history item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-II",
+        "sn":  20,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who moved the motion of the Secret Sitting Session of the Assembly in 1942?",
+        "options":  [
+                        "M. S. Aney",
+                        "G. V. Mavalankar",
+                        "C. M. Stephen",
+                        "A. Ayyangar"
+                    ],
+        "ans":  "a",
+        "exp":  "This is a niche legislative-history fact relating to the Central Legislative Assembly in 1942. (Worth confirming against the official key.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-II",
+        "sn":  42,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "During the 19th century, who wrote the Satapatra (Shatapatre) Series?",
+        "options":  [
+                        "M. G. Ranade",
+                        "B. G. Tilak",
+                        "Bankim Chandra Chatterjee",
+                        "G. H. Deshmukh"
+                    ],
+        "ans":  "d",
+        "exp":  "Gopal Hari Deshmukh (\"Lokahitwadi\") wrote the \"Shatapatre\" (a hundred letters) in the Marathi weekly Prabhakar in the 1840s-50s, advocating social and religious reform. (A history item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-II",
+        "sn":  46,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who was the first to accept a ministerial position in the Central Provinces in October 1925?",
+        "options":  [
+                        "B. S. Moonje",
+                        "M. R. Jayakar",
+                        "S. B. Tambe",
+                        "B. N. Sasmal"
+                    ],
+        "ans":  "c",
+        "exp":  "S. B. Tambe\u0027s acceptance of a ministerial (executive council) post in the Central Provinces in 1925 caused a major controversy within the Swaraj Party (the \"responsivist\" vs \"non-cooperationist\" split). (A history item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-II",
+        "sn":  47,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who formed the National Liberal Federation (Liberal Party)?",
+        "options":  [
+                        "Motilal Nehru and C. R. Das",
+                        "Muhammad Ali and C. R. Das",
+                        "T. B. Sapru and M. R. Jayakar",
+                        "M. R. Jayakar and C. R. Das"
+                    ],
+        "ans":  "c",
+        "exp":  "The moderates who left the Congress after 1918 (over the Reforms) formed the National Liberal Federation — led by figures such as Tej Bahadur Sapru and M. R. Jayakar (and Srinivasa Sastri). (A history item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-II",
+        "sn":  68,
+        "subject":  "Miscellaneous",
+        "topic":  "Books \u0026 Authors",
+        "stem":  "Who wrote \"The Philosophy of the Bomb\"?",
+        "options":  [
+                        "Sukhdev",
+                        "Chandrashekhar Azad",
+                        "Bhagwati Charan Vohra",
+                        "Bhagat Singh"
+                    ],
+        "ans":  "c",
+        "exp":  "\"The Philosophy of the Bomb\" (1930) — the revolutionaries\u0027 reply to Gandhi\u0027s criticism of violence — was authored chiefly by Bhagwati Charan Vohra (of the HSRA). (A history item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2020-II",
+        "sn":  117,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Who won the Singles title at the Wimbledon Tennis Championship (Women) in 2019?",
+        "options":  [
+                        "Karolina Pliskova",
+                        "Simona Halep",
+                        "Serena Williams",
+                        "Naomi Osaka"
+                    ],
+        "ans":  "b",
+        "exp":  "Simona Halep won the 2019 Wimbledon women\u0027s singles title, beating Serena Williams in the final. (A sports item.)",
+        "year":  2020
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-I",
+        "sn":  8,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who founded the Bhil Seva Mandal in 1922?",
+        "options":  [
+                        "Dayaram Gidumal",
+                        "Gurusaday Dutt",
+                        "Dhondo Keshav Karve",
+                        "Amritlal Vithaldas Thakkar"
+                    ],
+        "ans":  "d",
+        "exp":  "Amritlal Vithaldas Thakkar (\"Thakkar Bapa\"), a Gandhian social worker, founded the Bhil Seva Mandal (1922) to work for the welfare and upliftment of the Bhil tribal community. (A history item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-I",
+        "sn":  38,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who said \"Democracy means a system of Government by Consent\"?",
+        "options":  [
+                        "John Locke",
+                        "J. S. Mill",
+                        "Jeremy Bentham",
+                        "J. J. Rousseau"
+                    ],
+        "ans":  "a",
+        "exp":  "The idea of government resting on the consent of the governed is central to John Locke\u0027s social-contract theory. (A political-thought item; worth confirming the exact attribution against the official key.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-I",
+        "sn":  47,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who founded the Central Hindu School at Benaras, later developed into Banaras Hindu University?",
+        "options":  [
+                        "Madan Mohan Malaviya",
+                        "Annie Besant",
+                        "Ishwar Chandra Vidyasagar",
+                        "Madame H. P. Blavatsky"
+                    ],
+        "ans":  "b",
+        "exp":  "Annie Besant founded the Central Hindu School at Benaras (1898), which later — through the efforts of Madan Mohan Malaviya — grew into Banaras Hindu University (1916). (A history item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-I",
+        "sn":  58,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who was popularly known as \"Lokahitwadi\"?",
+        "options":  [
+                        "Gopal Hari Deshmukh",
+                        "Mahadev Govind Ranade",
+                        "Gopal Krishna Gokhale",
+                        "Jyotiba Phule"
+                    ],
+        "ans":  "a",
+        "exp":  "Gopal Hari Deshmukh was known by the pen-name \"Lokahitwadi\" (\"one who desires the welfare of the people\"), under which he wrote his reformist Shatapatre letters. (A history item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-I",
+        "sn":  59,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Which socialist activist persuaded Gandhiji not to restrict the salt-march protest to men alone?",
+        "options":  [
+                        "Kamaladevi Chattopadhyay",
+                        "Sarojini Naidu",
+                        "Matangini Hazra",
+                        "Mithuben Petit"
+                    ],
+        "ans":  "a",
+        "exp":  "Kamaladevi Chattopadhyay persuaded Gandhi to let women participate in the Salt Satyagraha, arguing they should not be excluded — and she herself became prominent in breaking the salt law. (A history item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-I",
+        "sn":  65,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "Who founded the Marathi newspaper Kesari?",
+        "options":  [
+                        "Lokmanya Tilak",
+                        "Vallabhbhai Patel",
+                        "Lala Lajpat Rai",
+                        "Mahatma Gandhi"
+                    ],
+        "ans":  "a",
+        "exp":  "Bal Gangadhar Tilak (Lokmanya Tilak) founded the Marathi newspaper Kesari (and the English Maratha) to spread nationalist ideas and rouse public opinion against colonial rule. (A history item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-I",
+        "sn":  84,
+        "subject":  "Miscellaneous",
+        "topic":  "Persons in News",
+        "stem":  "Hollywood actor Sir Sean Connery, who died recently, was popularly known for the role of",
+        "options":  [
+                        "Rocky",
+                        "Captain Jack Sparrow",
+                        "Terminator",
+                        "James Bond"
+                    ],
+        "ans":  "d",
+        "exp":  "Sir Sean Connery was the first and most iconic screen James Bond (007). (A current-affairs/obituary item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  32,
+        "subject":  "Miscellaneous",
+        "topic":  "Books \u0026 Authors",
+        "stem":  "Who is the author of the famous essay \"The End of History and the Last Man\"?",
+        "options":  [
+                        "Francis Fukuyama",
+                        "Daniel Bell",
+                        "Abraham Lincoln",
+                        "Anthony Giddens"
+                    ],
+        "ans":  "a",
+        "exp":  "Francis Fukuyama wrote \"The End of History and the Last Man\" (1992), arguing that liberal democracy might represent the final form of human government after the Cold War. (A political-thought item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  41,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "Which ancient Indian king was praised in glowing terms in the Prayaga Prashasti?",
+        "options":  [
+                        "Ashoka",
+                        "Harshavardhana",
+                        "Samudragupta",
+                        "Bindusara"
+                    ],
+        "ans":  "c",
+        "exp":  "The Prayaga Prashasti (Allahabad Pillar Inscription), composed by the court poet Harisena, is a panegyric praising the conquests and qualities of the Gupta emperor Samudragupta. (A history item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  44,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who was not a Jain Acharya?",
+        "options":  [
+                        "Bhadrabahu",
+                        "Khema",
+                        "Haribhadra",
+                        "Siddhasena Divakara"
+                    ],
+        "ans":  "b",
+        "exp":  "Khema was a renowned Buddhist nun (theri) — one of the Buddha\u0027s chief female disciples — not a Jain Acharya. Bhadrabahu, Haribhadra and Siddhasena Divakara were all eminent Jain teachers. (A history item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  101,
+        "subject":  "Miscellaneous",
+        "topic":  "Awards \u0026 Honours",
+        "stem":  "Who was chosen for the Kuvempu Award 2020?",
+        "options":  [
+                        "Dr. Rajendra Kishore Panda",
+                        "Amitav Ghosh",
+                        "Vikram Seth",
+                        "Chetan Bhagat"
+                    ],
+        "ans":  "a",
+        "exp":  "The Kuvempu Rashtriya Puraskar (a literary award instituted in Karnataka) for 2020 was given to the Odia poet Rajendra Kishore Panda. (A current-affairs/awards item; worth confirming against the official key.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  111,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "President Jovenel Moise, assassinated recently, was the President of which country?",
+        "options":  [
+                        "Dominican Republic",
+                        "Haiti",
+                        "Guatemala",
+                        "Cuba"
+                    ],
+        "ans":  "b",
+        "exp":  "Jovenel Moïse, President of Haiti, was assassinated at his residence in July 2021. (A current-affairs item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2021-II",
+        "sn":  115,
+        "subject":  "Miscellaneous",
+        "topic":  "Awards \u0026 Honours",
+        "stem":  "Who was honoured with the Gandhi Peace Prize for 2020?",
+        "options":  [
+                        "Qaboos bin Said Al Said",
+                        "Sheikh Mujibur Rahman",
+                        "Ekal Abhiyan Trust",
+                        "Sulabh International"
+                    ],
+        "ans":  "b",
+        "exp":  "The Gandhi Peace Prize for 2020 was awarded (posthumously) to Bangabandhu Sheikh Mujibur Rahman, the founding father of Bangladesh. (The 2019 prize went to Oman\u0027s Sultan Qaboos.) (A current-affairs item.)",
+        "year":  2021
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-I",
+        "sn":  39,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who formulated the concept of poverty as a measurable development indicator in the Indian subcontinent?",
+        "options":  [
+                        "Dadabhai Naoroji",
+                        "Romesh Chandra Dutt",
+                        "V.K.R.V. Rao",
+                        "M. Ranade"
+                    ],
+        "ans":  "a",
+        "exp":  "Dadabhai Naoroji, the \"Grand Old Man of India,\" in Poverty and Un-British Rule in India, made the first systematic estimates of India\u0027s per-capita income and poverty and developed the \"drain of wealth\" theory — pioneering poverty as a measurable indicator of the colonial economy. (A history/economics item.)",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-I",
+        "sn":  52,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "Who was the founder of the Virashaiva Movement in Karnataka?",
+        "options":  [
+                        "Basavanna",
+                        "Sambandar",
+                        "Appar",
+                        "Sundarar"
+                    ],
+        "ans":  "a",
+        "exp":  "Basavanna (Basava), a 12th-century statesman and reformer, founded the Virashaiva (Lingayat) movement in Karnataka — rejecting caste, ritual and temple-priesthood in favour of devotion to Shiva and social equality. (Appar, Sambandar and Sundarar were Tamil Nayanar saints.) (A history item.)",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-I",
+        "sn":  68,
+        "subject":  "Miscellaneous",
+        "topic":  "Books \u0026 Authors",
+        "stem":  "Which pioneering Bengali woman serialised her autobiography \"Amar Katha\" between 1910 and 1913?",
+        "options":  [
+                        "Binodini Dasi",
+                        "Rashsundari Debi",
+                        "Begum Rokeya Sakhawat Hossain",
+                        "Kailashbashini Debi"
+                    ],
+        "ans":  "a",
+        "exp":  "Binodini Dasi (\"Nati Binodini\"), the celebrated actress of the 19th-century Bengali stage, serialised her autobiography \"Amar Katha\" (My Story) — a rare, candid memoir by a woman performer of her time. (A history item.)",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-I",
+        "sn":  80,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who belonged to the Serampore Mission?",
+        "options":  [
+                        "1 and 2 only",
+                        "1 and 3 only",
+                        "1, 2 and 3 only",
+                        "2, 3 and 4 only"
+                    ],
+        "ans":  "c",
+        "exp":  "The famous \"Serampore Trio\" — William Carey, Joshua Marshman and William Ward — were the Baptist missionaries who pioneered printing, education and Bengali prose at Serampore. David Hare (4) was a separate, secular philanthropist of education in Calcutta, not part of the Serampore Mission. Hence 1, 2 and 3 only. (A history item.)",
+        "year":  2022,
+        "subs":  [
+                     "1. William Carey",
+                     "2. Joshua Marshman",
+                     "3. William Ward",
+                     "4. David Hare."
+                 ]
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-I",
+        "sn":  96,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "Who did not belong to the group of \"No-Changers\"?",
+        "options":  [
+                        "M.A. Ansari",
+                        "Vithalbhai Patel",
+                        "Chakravarti Rajagopalachari",
+                        "Kasturi Ranga Iyengar"
+                    ],
+        "ans":  "b",
+        "exp":  "After the Non-Cooperation Movement\u0027s suspension, Congress split into \"Pro-Changers\" (Swarajists, who wanted to enter the councils) and \"No-Changers\" (who wanted to continue the constructive boycott programme). Vithalbhai Patel was a Swarajist (Pro-Changer) — he became Speaker of the Central Assembly — so he did not belong to the No-Changers. (A history item.)",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-I",
+        "sn":  110,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "In December 2021, who succeeded Angela Merkel as Chancellor of Germany?",
+        "options":  [
+                        "Olaf Scholz",
+                        "Annalena Baerbock",
+                        "Armin Laschet",
+                        "Jana Puglierin"
+                    ],
+        "ans":  "a",
+        "exp":  "Olaf Scholz (of the Social Democratic Party) became Chancellor of Germany in December 2021, ending Angela Merkel\u0027s 16-year tenure. (A current-affairs item.)",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-I",
+        "sn":  117,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Who won the FIDE World Chess Championship, 2021?",
+        "options":  [
+                        "Nepomniachtchi",
+                        "Magnus Carlsen",
+                        "Ding Liren",
+                        "Anish Giri"
+                    ],
+        "ans":  "b",
+        "exp":  "Magnus Carlsen of Norway retained the World Chess Championship in 2021, beating Ian Nepomniachtchi. (A sports item.)",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2022-II",
+        "sn":  116,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who was not a woman labour leader who organised workers in the strikes of the 1920s?",
+        "options":  [
+                        "Sarala Devi Chaudhurani",
+                        "Ushabai Dange",
+                        "Prabhabati Devi",
+                        "Anasuya Behn"
+                    ],
+        "ans":  "a",
+        "exp":  "Ushabai Dange, Prabhabati Devi and Anasuya Behn (Sarabhai) were associated with organising workers/labour in the 1920s (Anasuya Sarabhai founded the Ahmedabad textile-labour union). Sarala Devi Chaudhurani was a nationalist and women\u0027s-organisation pioneer (she founded the Bharat Stree Mahamandal), not a labour leader. Hence a. (A history item; worth confirming against the official key.)",
+        "year":  2022
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  28,
+        "subject":  "Miscellaneous",
+        "topic":  "Persons in News",
+        "stem":  "Which Chief Justice of India ordered the constitution of a special \"Social Justice Bench\"?",
+        "options":  [
+                        "Justice H. L. Dattu",
+                        "Justice K. G. Balakrishnan",
+                        "Justice R. M. Lodha",
+                        "Justice Y. K. Sabharwal"
+                    ],
+        "ans":  "a",
+        "exp":  "The Supreme Court\u0027s Social Justice Bench — to deal specifically with matters relating to social welfare and the marginalized — was constituted in 2014 under CJI H. L. Dattu. (A polity item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  83,
+        "subject":  "Miscellaneous",
+        "topic":  "Books \u0026 Authors",
+        "stem":  "Who is the author of the famous novel \"City of Joy\"?",
+        "options":  [
+                        "Larry Collins",
+                        "Dominique Lapierre",
+                        "Rudyard Kipling",
+                        "Mark Tully"
+                    ],
+        "ans":  "b",
+        "exp":  "\"The City of Joy\" (1985), set in a Kolkata slum, was written by the French author Dominique Lapierre. (He co-authored other works, like Freedom at Midnight, with Larry Collins.) (A books item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  114,
+        "subject":  "Miscellaneous",
+        "topic":  "Books \u0026 Authors",
+        "stem":  "Who is the author of \"Maze Vidyapeeth\", the famous poem about the working class of Bombay?",
+        "options":  [
+                        "Narayan Surve",
+                        "Amol Palekar",
+                        "Bhalchandra Nemade",
+                        "Narendra Jadhav"
+                    ],
+        "ans":  "a",
+        "exp":  "Narayan Surve, the Marathi \"poet of the working class,\" who himself grew up among mill workers, wrote of the lives and struggles of Bombay\u0027s labourers — \"Maze Vidyapeeth\" (\"My University\") being one of his celebrated poems. (A literature item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  117,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Karthik Meiyappan, who took a hat-trick in the ICC Men\u0027s T20 World Cup 2022, represents",
+        "options":  [
+                        "Zimbabwe",
+                        "United Arab Emirates",
+                        "Sri Lanka",
+                        "Namibia"
+                    ],
+        "ans":  "b",
+        "exp":  "Karthik Meiyappan, an India-born leg-spinner, took a hat-trick playing for the United Arab Emirates at the 2022 T20 World Cup. (A sports item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-I",
+        "sn":  119,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who is known as the \"Payyoli Express\"?",
+        "options":  [
+                        "Hima Das",
+                        "Dutee Chand",
+                        "P. T. Usha",
+                        "Shiny Abraham"
+                    ],
+        "ans":  "c",
+        "exp":  "The legendary sprinter P. T. Usha — from Payyoli in Kerala — is nicknamed the \"Payyoli Express.\" (A sports item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  87,
+        "subject":  "Miscellaneous",
+        "topic":  "Books \u0026 Authors",
+        "stem":  "Who was the author of the Gwalior Prashasti of Mihira Bhoja?",
+        "options":  [
+                        "Nagabhata",
+                        "Vatsaraja",
+                        "Baladitya",
+                        "Kakkuka"
+                    ],
+        "ans":  "c",
+        "exp":  "For CDS answer-key purposes, the composer of the Gwalior Prashasti of Mihira Bhoja is taken as Baladitya (option c). Caveat: some secondary sources instead name Kakkuka, so verify for deep academic use - but Baladitya is the expected exam answer.",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  116,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Which set of Indian players have either won or finished runner-up at the All England Badminton Tournament?",
+        "options":  [
+                        "Prakash Padukone, P.V. Sindhu, Parupalli Kashyap",
+                        "Pullela Gopichand, Saina Nehwal, Lakshya Sen",
+                        "Prakash Padukone, Pullela Gopichand, Srikanth Kidambi",
+                        "Lakshya Sen, Saina Nehwal, P.V. Sindhu"
+                    ],
+        "ans":  "b",
+        "exp":  "At the prestigious All England Open, Pullela Gopichand won (2001), Saina Nehwal was runner-up (2015) and Lakshya Sen was runner-up (2022) — all three reached the final. (Prakash Padukone also won, in 1980, but the options pairing him with Sindhu/Kashyap/Srikanth — who did not reach the All England final — are wrong.) Hence b. (A sports item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2023-II",
+        "sn":  117,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who recently won the election to the office of President of Turkey?",
+        "options":  [
+                        "Recep Tayyip Erdoğan",
+                        "Kemal Kılıçdaroğlu",
+                        "Ahmet Necdet Sezer",
+                        "Abdullah Gül"
+                    ],
+        "ans":  "a",
+        "exp":  "Recep Tayyip Erdoğan won the 2023 Turkish presidential election (defeating Kemal Kılıçdaroğlu in a run-off), extending his long rule. (A current-affairs item.)",
+        "year":  2023
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  92,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "Which Chola king encouraged the Sailendra ruler of Sri Vijaya to build a Buddhist Vihara at Negapatnam (Nagapattinam)?",
+        "options":  [
+                        "Parantaka I",
+                        "Rajaraja I",
+                        "Rajendra I",
+                        "Kulottunga I"
+                    ],
+        "ans":  "b",
+        "exp":  "Rajaraja I, the great Chola emperor, permitted and supported the Sailendra (Srivijaya) king to build the Chudamani Vihara, a Buddhist monastery, at Nagapattinam — reflecting the close maritime and cultural ties between the Cholas and Southeast Asia. (A history item.)",
+        "year":  2024
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-I",
+        "sn":  110,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "With which sport is Yogesh Singh, who won a Gold Medal at an Asian Championship in 2024, associated?",
+        "options":  [
+                        "Badminton",
+                        "Shooting",
+                        "Archery",
+                        "Wrestling"
+                    ],
+        "ans":  "b",
+        "exp":  "Yogesh Singh\u0027s 2024 Asian Championship gold is associated with shooting. (A sports/current-affairs item; worth confirming against the official key.)",
+        "year":  2024
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-II",
+        "sn":  38,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who stated that \"A just society is that society in which the ascending sense of reverence and descending sense of contempt is dissolved into the creation of a compassionate society\"?",
+        "options":  [
+                        "Vinoba Bhave",
+                        "Bhimrao Ramji Ambedkar",
+                        "Rammanohar Lohia",
+                        "Jayaprakash Narayan"
+                    ],
+        "ans":  "b",
+        "exp":  "The image of caste as a system of graded inequality — an \"ascending scale of reverence and descending scale of contempt\" — is famously B. R. Ambedkar\u0027s analysis; the call to dissolve it into a \"compassionate society\" is in keeping with his vision of social justice. (A political-thought item; worth confirming the exact attribution against the official key.)",
+        "year":  2024
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-II",
+        "sn":  60,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "Who were famous for their metal-casting skills and used to cast excellent matchlocks during the medieval period?",
+        "options":  [
+                        "Marathas",
+                        "Rajputs",
+                        "Ahoms",
+                        "Gonds"
+                    ],
+        "ans":  "c",
+        "exp":  "The Ahoms of Assam were noted for their skilled metallurgy and gun-making — casting fine matchlocks (firearms) and cannon — which helped them resist Mughal invasions. (A history item.)",
+        "year":  2024
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2024-II",
+        "sn":  106,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "India\u0027s women\u0027s badminton team won the Badminton Asia Team Championship 2024. Who was not part of the team?",
+        "options":  [
+                        "P.V. Sindhu",
+                        "Treesa Jolly",
+                        "Anmol Kharb",
+                        "Saina Nehwal"
+                    ],
+        "ans":  "d",
+        "exp":  "India\u0027s historic 2024 Badminton Asia Team Championship win featured players like P.V. Sindhu, Treesa Jolly and the young Anmol Kharb (who clinched the final). Saina Nehwal was not part of the squad. Hence d. (A sports item.)",
+        "year":  2024
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  47,
+        "subject":  "Miscellaneous",
+        "topic":  "History \u0026 Static GK",
+        "stem":  "Who composed Zainavilas, a history of the rulers of Kashmir, in the time of Zainul Abidin?",
+        "options":  [
+                        "Bhattavatara",
+                        "Jonaraja",
+                        "Shrivara",
+                        "Vachaspati"
+                    ],
+        "ans":  "c",
+        "exp":  "Continuing Kalhana\u0027s Rajatarangini tradition, Shrivara wrote the Jaina-Rajatarangini (Zaina-vilasa), chronicling the reign of Sultan Zain-ul-Abidin of Kashmir. (Jonaraja wrote the second Rajatarangini, covering the period just before.) (A history item.)",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  95,
+        "subject":  "Miscellaneous",
+        "topic":  "General Knowledge",
+        "stem":  "Who was responsible for demarcating the borders between India and Pakistan during the Partition in 1947?",
+        "options":  [
+                        "Cyril Radcliffe",
+                        "Mortimer Durand",
+                        "Henry McMahon",
+                        "Arthur Balfour"
+                    ],
+        "ans":  "a",
+        "exp":  "Sir Cyril Radcliffe chaired the Boundary Commissions that drew the partition line (\"Radcliffe Line\") between India and Pakistan in 1947, despite never having visited India before. (Durand drew the Afghanistan-Pakistan line; McMahon the India-Tibet line.) (A history item.)",
+        "year":  2025
+    },
+    {
+        "src":  "pyq",
+        "sid":  "CDS 2025-I",
+        "sn":  114,
+        "subject":  "Miscellaneous",
+        "topic":  "Sports",
+        "stem":  "Who were awarded the Major Dhyan Chand Khel Ratna Award 2024?",
+        "options":  [
+                        "1, 2, 3 and 4",
+                        "1 and 4 only",
+                        "1, 2 and 4 only",
+                        "2 and 3 only"
+                    ],
+        "ans":  "a",
+        "exp":  "The Khel Ratna 2024 (India\u0027s highest sporting honour) was conferred on four athletes — chess world champion Gukesh D, hockey captain Harmanpreet Singh, para-athlete (high-jumper) Praveen Kumar, and shooter Manu Bhaker. Hence all four. (A sports/current-affairs item.)",
+        "year":  2025,
+        "subs":  [
+                     "1. Gukesh D",
+                     "2. Harmanpreet Singh",
+                     "3. Praveen Kumar",
+                     "4. Manu Bhaker."
+                 ]
+    },
+    {
+        "src":  "mock",
+        "sid":  "full-mock-06-gk",
+        "sn":  91,
+        "subject":  "Miscellaneous",
+        "topic":  "Miscellaneous",
+        "stem":  "\u0027Study of human societies and cultures from the oldest times to the present\u0027 is the work of",
+        "options":  [
+                        "Archaeologists",
+                        "Anthropologists",
+                        "Palaeontologists",
+                        "Geologists"
+                    ]
+    }
+]

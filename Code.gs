@@ -4417,6 +4417,28 @@ var SCORING = {
 function doPost(e) {
   try {
     var body = JSON.parse(e.postData.contents);
+
+    // ---- Create-Your-Own-Quiz: reveal the keys for a set of (sid, sn) refs ----
+    // The custom-quiz builder assembles questions from existing tests; at submit
+    // time it asks for the answer of each mock-sourced question by its source
+    // test id + question number. (PYQ-sourced questions are graded on-device.)
+    if (body.mode === "custom") {
+      var items = body.items || [];
+      var out = [];
+      for (var ci = 0; ci < items.length; ci++) {
+        var it = items[ci] || {};
+        var kk = ANSWER_KEYS[(it.sid || "").toString()];
+        var rec = kk ? kk[String(it.sn)] : null;
+        out.push({
+          sid: it.sid, sn: it.sn,
+          correct: rec ? rec.correct : null,
+          correctText: rec ? rec.correctText : "",
+          exp: rec ? rec.exp : ""
+        });
+      }
+      return jsonOutput({ ok: true, mode: "custom", items: out });
+    }
+
     var testId = (body.testId || "").toString().trim();
     var name = (body.name || "").toString().trim();
     var roll = (body.roll || "").toString().trim();
