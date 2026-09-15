@@ -194,7 +194,7 @@ async function createQuiz(){
       return o;
     });
     const cq = {
-      title: "Custom Quiz",
+      title: "Custom Mock Test",
       custom: true,
       untimed: !state.timed,
       durationMin: state.timed ? take.length : 0,
