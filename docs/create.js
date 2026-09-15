@@ -44,8 +44,7 @@ function renderSubjects(){
   const wrap = $("subjectList");
   wrap.innerHTML = (state.index.subjects || []).map((s) =>
     '<label class="pick-item"><input type="checkbox" class="subj-cb" value="' + s.slug + '">' +
-    '<span class="pick-name">' + esc(s.name) + '</span>' +
-    '<span class="pick-count">' + s.count + '</span></label>'
+    '<span class="pick-name">' + esc(s.name) + '</span></label>'
   ).join("");
 }
 
