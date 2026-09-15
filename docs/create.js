@@ -60,7 +60,7 @@ function renderTopicPanel(){
     const topics = (s.topics || []).map((t) =>
       '<label class="topic-item"><input type="checkbox" class="topic-cb" data-subj="' + sl + '" value="' + esc(t.name) + '"' +
       (chosen.has(t.name) ? " checked" : "") + '>' +
-      '<span>' + esc(t.name) + '</span><span class="pick-count">' + t.count + '</span></label>'
+      '<span>' + esc(t.name) + '</span></label>'
     ).join("");
     return '<div class="topic-group"><div class="topic-group-head">' + esc(s.name) + '</div>' +
       '<div class="topic-items">' + topics + '</div></div>';
