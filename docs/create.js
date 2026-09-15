@@ -25,6 +25,8 @@ async function init(){
     const res = await fetch("pool/index.json", { cache: "no-store" });
     if (!res.ok) throw new Error("HTTP " + res.status);
     state.index = await res.json();
+    // Mathematics is not offered in Create Your Own Quiz.
+    state.index.subjects = (state.index.subjects || []).filter((s) => s.slug !== "mathematics");
   } catch (e) {
     $("builderMsg").textContent = "Could not load the question bank. Please refresh.";
     console.error(e);
