@@ -1,0 +1,490 @@
+{
+    "title":  "Polity Test 4",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  30,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The Union Parliament of India consists of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Lok Sabha and the Rajya Sabha only",
+                                          "the Prime Minister, the Lok Sabha and the Rajya Sabha",
+                                          "the President, the Lok Sabha and the Rajya Sabha",
+                                          "the President and the Lok Sabha only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "What is the maximum sanctioned strength of the Lok Sabha?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "552 (530 from states, 20 from UTs, and formerly 2 nominated)",
+                                          "545",
+                                          "500",
+                                          "250"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Members of the Rajya Sabha representing the states are",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "directly elected by the people of the state",
+                                          "elected by the members of the State Legislative Assemblies through proportional representation by single transferable vote",
+                                          "nominated by the President",
+                                          "elected by the Legislative Councils"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The voting age for elections to the Lok Sabha was reduced from 21 to 18 years by which amendment?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "42nd Amendment, 1976",
+                                          "44th Amendment, 1978",
+                                          "61st Amendment, 1988",
+                                          "52nd Amendment, 1985"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which one of the following statements about the Rajya Sabha is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It can be dissolved by the President like the Lok Sabha",
+                                          "Its members have a term of five years",
+                                          "All its members retire together every six years",
+                                          "It is a continuing chamber; one-third of its members retire every two years"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The President nominates 12 members to the Rajya Sabha from persons with special knowledge or practical experience in",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "literature, science, art and social service",
+                                          "literature, science, sports and cinema",
+                                          "law, medicine, engineering and defence",
+                                          "trade, industry, agriculture and journalism"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "At present, how many states in India have a bicameral legislature?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Four",
+                                          "Six",
+                                          "Five",
+                                          "Seven"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The creation or abolition of a State Legislative Council under Article 169 requires",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a constitutional amendment ratified by half the states",
+                                          "a simple resolution of the State Assembly alone",
+                                          "a special majority resolution of the State Assembly followed by a simple-majority law of Parliament",
+                                          "the consent of the Rajya Sabha only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The minimum age to become a member of the Rajya Sabha and the Lok Sabha respectively is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "25 years and 30 years",
+                                          "30 years and 21 years",
+                                          "35 years and 25 years",
+                                          "30 years and 25 years"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Under the anti-defection law (Tenth Schedule), the question of disqualification of a member on the ground of defection is decided by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Speaker or Chairman of the House concerned, subject to judicial review",
+                                          "the Supreme Court directly",
+                                          "the President or Governor on the advice of the Election Commission",
+                                          "the leader of the political party"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Which one of the following statements about the Speaker of the Lok Sabha is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Speaker resigns by writing to the President",
+                                          "The Speaker resigns by writing to the Deputy Speaker and continues in office until the newly elected Lok Sabha meets",
+                                          "The Speaker vacates office the moment the Lok Sabha is dissolved",
+                                          "The Speaker can be removed by a simple majority of members present and voting"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Which one of the following powers is exercised by the Speaker but NOT by the Chairman of the Rajya Sabha?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Interpreting the rules of procedure",
+                                          "Maintaining order in the House",
+                                          "Deciding whether a bill is a Money Bill and presiding over a joint sitting",
+                                          "Deciding points of order"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "For how long can the Rajya Sabha delay a Money Bill passed by the Lok Sabha?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It can reject it outright",
+                                          "One year",
+                                          "Six months",
+                                          "14 days, after which it is deemed passed"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "A joint sitting of the two Houses of Parliament under Article 108 is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "summoned by the President and presided over by the Speaker, and is applicable to ordinary and financial bills but not money or constitutional amendment bills",
+                                          "presided over by the Chairman of the Rajya Sabha",
+                                          "used to pass Money Bills",
+                                          "used to pass Constitutional Amendment Bills"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The grant made to keep the government running for a short period until the full budget is passed is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Supplementary Grant",
+                                          "Vote on Account",
+                                          "Vote of Credit",
+                                          "Excess Grant"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Withdrawal of money from the Consolidated Fund of India requires",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "only executive sanction",
+                                          "the approval of the Public Accounts Committee",
+                                          "authorisation by law made by Parliament",
+                                          "the President\u0027s discretion alone"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which one of the following statements about the Public Accounts Committee is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It has 30 members, all from the Lok Sabha",
+                                          "It examines the budget estimates before they are voted",
+                                          "Its Chairman is always from the ruling party",
+                                          "It examines the audit reports of the Comptroller and Auditor General, and a Minister cannot be its member"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The Estimates Committee of Parliament",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "has 30 members drawn entirely from the Lok Sabha",
+                                          "has members from both Houses",
+                                          "is chaired by a member of the Rajya Sabha",
+                                          "audits the accounts of public undertakings"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The Departmentally Related Standing Committees (DRSCs) set up in 1993",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "number 17, with binding recommendations",
+                                          "number 24, with 31 members each (21 from the Lok Sabha and 10 from the Rajya Sabha), and their recommendations are advisory",
+                                          "consist only of Rajya Sabha members",
+                                          "replace the financial committees"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following statements about a No-Confidence Motion is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It can be moved in both the Lok Sabha and the Rajya Sabha",
+                                          "It is moved against an individual minister",
+                                          "It can be moved only in the Lok Sabha, against the entire Council of Ministers, and is not mentioned in the Constitution",
+                                          "It must state the specific grounds on which it is based"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "A Money Bill passed by the Lok Sabha can be held up by the Rajya Sabha for how many weeks?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Two",
+                                          "Three",
+                                          "Four",
+                                          "Five"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The executive is given an advance grant to meet temporary and running requirements of the Government of India at the beginning of the new financial year until the demands are voted by the legislature. This is known as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vote of Credit",
+                                          "Vote on Account",
+                                          "Appropriation Bill",
+                                          "Advance Account"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Any question pertaining to the disqualification of a member of the Lok Sabha on the ground of defection is decided by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the President of India",
+                                          "the Speaker of the Lok Sabha",
+                                          "the Supreme Court of India",
+                                          "the concerned political party"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "A Joint Sitting of Parliament is resorted to for resolving the deadlock between the two Houses for passing which of the following Bills? 1. Money Bill 2. Constitutional Amendment Bill 3. Ordinary Bill. Select the correct answer using the code given below.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 and 3 only",
+                                          "3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The Rajya Sabha has exclusive jurisdiction in",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "creation of new States",
+                                          "declaring a war",
+                                          "financial emergency",
+                                          "authorizing Parliament to legislate on a subject in the State List"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The quorum to constitute a sitting of either House of Parliament, under Article 100, is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "fifty members",
+                                          "one-fourth of the members present",
+                                          "a simple majority of members",
+                                          "one-tenth of the total number of members of the House"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Which one of the following correctly describes the effect of \u0027prorogation\u0027 of a House?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It terminates a session, but pending bills do not lapse",
+                                          "It suspends the sitting for a few hours or days without affecting pending business",
+                                          "It ends the life of the House and all pending business lapses",
+                                          "It dissolves only the Rajya Sabha"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The Speaker\u0027s decision that a bill is a Money Bill",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "can be questioned in a court of law",
+                                          "is final and cannot be questioned in any court",
+                                          "requires the Rajya Sabha\u0027s concurrence",
+                                          "can be overruled by the President"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Regarding the casting vote of the Speaker, which of the following is correct? 1. It is exercised only in the case of an equality of votes. 2. The Speaker does not vote in the first instance. 3. It is always used to maintain the status quo.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Parliamentary privileges under the Constitution extend to which of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The President of India",
+                                          "State Election Commissioners",
+                                          "Judges of the Supreme Court",
+                                          "The Attorney General of India, who has the right to speak in Parliament"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Legislature (Parliament)"
+                      }
+                  ]
+}

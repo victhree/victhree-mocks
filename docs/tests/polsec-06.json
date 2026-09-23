@@ -1,0 +1,490 @@
+{
+    "title":  "Polity Test 6",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  30,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The Emergency Provisions of the Constitution are contained in which Part, and were borrowed from which source?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Part XV (Articles 324-329); the British Constitution",
+                                          "Part XVIII (Articles 352-360); the Government of India Act, 1935",
+                                          "Part XI (Articles 245-263); the US Constitution",
+                                          "Part XX (Article 368); the Irish Constitution"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "A defining constitutional effect of any emergency is that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Constitution is suspended entirely",
+                                          "the federal structure temporarily converts into a unitary one, concentrating power in the Union",
+                                          "the Supreme Court is dissolved",
+                                          "Parliament is dissolved automatically"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Which one of the following correctly pairs the type of emergency with its Article?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "National Emergency - Article 356",
+                                          "President\u0027s Rule - Article 360",
+                                          "National Emergency - Article 352, President\u0027s Rule - Article 356, Financial Emergency - Article 360",
+                                          "Financial Emergency - Article 352"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The ground of \u0027internal disturbance\u0027 for a National Emergency was replaced by \u0027armed rebellion\u0027 through which amendment?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "42nd Amendment, 1976",
+                                          "44th Amendment, 1978",
+                                          "38th Amendment, 1975",
+                                          "39th Amendment, 1975"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "A National Emergency under Article 352 can be proclaimed by the President",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "on the advice of the Prime Minister alone",
+                                          "only after Parliament passes a resolution",
+                                          "on the recommendation of the Governors",
+                                          "on the written recommendation of the Cabinet"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "A proclamation of National Emergency must be approved by both Houses of Parliament within",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "one month, by a special majority",
+                                          "two months, by a simple majority",
+                                          "six months, by a special majority",
+                                          "one month, by a simple majority"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Once approved, how long does a National Emergency continue at a time, and how can it be extended?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Indefinitely, without any re-approval",
+                                          "Six months at a time, extendable indefinitely only with fresh parliamentary approval every six months",
+                                          "Three years, with no re-approval",
+                                          "One year at a time"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "A National Emergency can be revoked by a disapproving resolution that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "needs a special majority of both Houses",
+                                          "can be passed only by the Rajya Sabha",
+                                          "needs only a simple majority and can be passed only by the Lok Sabha",
+                                          "requires the President\u0027s consent"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "How many times has a National Emergency been proclaimed in India so far?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Once",
+                                          "Twice",
+                                          "Four times",
+                                          "Three times"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "During a National Emergency, with respect to legislative power, which one of the following is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Parliament can make laws on State List subjects, and such laws become inoperative six months after the emergency ceases",
+                                          "The State Legislatures are dissolved",
+                                          "Parliament cannot legislate on State subjects",
+                                          "State laws are permanently repealed"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Under Article 358, Fundamental Rights under Article 19 are",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "suspended only by a specific Presidential Order",
+                                          "suspended automatically on the declaration of an external emergency (war or external aggression), for the whole of India",
+                                          "never suspended",
+                                          "suspended during any type of emergency"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Under Article 359, which Fundamental Rights can never be suspended even by a Presidential Order?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Articles 14 and 19",
+                                          "Articles 21 and 22",
+                                          "Articles 20 and 21",
+                                          "Articles 19 and 21"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "During a National Emergency, the term of the Lok Sabha can be extended",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "by two years at once",
+                                          "only with the President\u0027s discretion",
+                                          "indefinitely with no limit",
+                                          "one year at a time, but not beyond six months after the emergency ceases"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "President\u0027s Rule can be imposed under Article 356 on the report of the Governor, and under Article 365 when",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a state fails to comply with directions from the Centre",
+                                          "a state faces a natural disaster",
+                                          "a state\u0027s finances are threatened",
+                                          "a war breaks out"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "A proclamation of President\u0027s Rule must be approved by Parliament within",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "one month, by a special majority",
+                                          "two months, by a simple majority",
+                                          "six months, by a special majority",
+                                          "two months, by a special majority"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "President\u0027s Rule can normally be extended up to a maximum of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "one year",
+                                          "two years",
+                                          "three years, with special conditions required beyond one year",
+                                          "there is no maximum limit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "During President\u0027s Rule, which one of the following is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The powers of the High Court are suspended",
+                                          "The State Legislative Assembly is always immediately dissolved",
+                                          "Parliament cannot legislate for the state",
+                                          "The State Council of Ministers is dismissed, and the Assembly may be either suspended or dissolved"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "In the S.R. Bommai case (1994), the Supreme Court held that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the imposition of President\u0027s Rule is subject to judicial review, and a majority should be tested on the floor of the House",
+                                          "the imposition of President\u0027s Rule is beyond judicial review",
+                                          "the Governor\u0027s report is final and binding",
+                                          "President\u0027s Rule can be imposed for maladministration"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "A Financial Emergency under Article 360 has which of the following features?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It has been declared twice",
+                                          "It has never been declared and can continue indefinitely once approved, without repeated re-approval",
+                                          "It requires periodic parliamentary re-approval",
+                                          "It can be declared by the Governor for a state"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "During a Financial Emergency, the President can direct that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "all elections be postponed",
+                                          "Fundamental Rights under Articles 20 and 21 be suspended",
+                                          "the salaries and allowances of persons serving the Union or a state, including judges of the Supreme Court and High Courts, be reduced",
+                                          "Parliament be dissolved"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following is NOT a circumstance for the proclamation of Emergency by the President under Article 352 of the Constitution of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "War",
+                                          "External aggression",
+                                          "Internal disturbance",
+                                          "Armed rebellion"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which one of the following is NOT mentioned as a form of Emergency in the Constitution of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "National Emergency",
+                                          "State Emergency in terms of President\u0027s Rule in a State",
+                                          "Financial Emergency",
+                                          "Health Emergency"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "When a Proclamation of Emergency is in operation, the right to move a court for the enforcement of all Fundamental Rights remains suspended, except",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 20 and Article 21",
+                                          "Article 21 and Article 22",
+                                          "Article 19 and Article 20",
+                                          "Article 15 and Article 16"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which one of the following Articles was defended by Dr. B.R. Ambedkar on the plea that it would be used only as a matter of last resort?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 352",
+                                          "Article 359",
+                                          "Article 356",
+                                          "Article 368"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Under Article 352 of the Constitution of India, an emergency can be declared if the security of any part of India is threatened by 1. war 2. external aggression 3. armed rebellion 4. internal disturbance. Select the correct answer using the code given below.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "2, 3 and 4",
+                                          "1, 3 and 4",
+                                          "1 and 2 only"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Which one of the following correctly distinguishes Article 358 from Article 359?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 358 suspends all Fundamental Rights; Article 359 suspends only Article 19",
+                                          "Article 359 is automatic while Article 358 needs a Presidential Order",
+                                          "Both operate only during a Financial Emergency",
+                                          "Article 358 automatically suspends Article 19 during an external emergency; Article 359 empowers the President to suspend the enforcement of other specified rights except Articles 20 and 21"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Beyond one year, President\u0027s Rule can be continued only if",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a National Emergency is in operation and the Election Commission certifies that elections cannot be held",
+                                          "the state government requests it",
+                                          "the Supreme Court permits it",
+                                          "the Governor recommends it again"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Which emergency, once approved, requires NO periodic parliamentary re-approval for its continuance?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "National Emergency",
+                                          "Financial Emergency",
+                                          "President\u0027s Rule",
+                                          "All three require re-approval"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which of the following safeguards relating to emergencies was introduced by the 44th Amendment, 1978?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Allowing the emergency to extend to only a part of India",
+                                          "Making the emergency immune from judicial review",
+                                          "Replacing \u0027internal disturbance\u0027 with \u0027armed rebellion\u0027 and requiring the Cabinet\u0027s written recommendation",
+                                          "Removing the need for parliamentary approval"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "During President\u0027s Rule, the powers of the state legislature are exercised by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Governor alone",
+                                          "the State Council of Ministers",
+                                          "the High Court",
+                                          "Parliament, which can also delegate the power to the President or another authority under Article 357"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Emergency Provisions"
+                      }
+                  ]
+}

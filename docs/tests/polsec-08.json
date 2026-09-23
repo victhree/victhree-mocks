@@ -1,0 +1,490 @@
+{
+    "title":  "Polity Test 8",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  30,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The Indian judicial system is best described as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a dual system like that of the United States",
+                                          "a single integrated system with the Supreme Court at the apex",
+                                          "a system with separate central and state courts having no link",
+                                          "a purely federal system with independent state judiciaries"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The sanctioned strength of the Supreme Court of India is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "31 judges including the Chief Justice",
+                                          "25 judges",
+                                          "34 judges, comprising the Chief Justice of India and 33 other judges",
+                                          "30 judges including the Chief Justice"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Which one of the following is NOT a qualification for appointment as a judge of the Supreme Court?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Five years as a judge of a High Court",
+                                          "Ten years of service as a district judge only",
+                                          "A distinguished jurist in the opinion of the President",
+                                          "Ten years as an advocate of a High Court"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The retirement ages of a Supreme Court judge and a High Court judge are respectively",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "62 years and 60 years",
+                                          "60 years and 58 years",
+                                          "65 years and 62 years",
+                                          "65 years and 60 years"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Judges of the Supreme Court are appointed by the President",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "on the sole advice of the Prime Minister",
+                                          "after consulting the Chief Justice of India and other senior judges through the collegium",
+                                          "after election by Parliament",
+                                          "on the recommendation of the Union Public Service Commission"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The exclusive original jurisdiction of the Supreme Court covers",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "appeals from the High Courts",
+                                          "enforcement of ordinary legal rights",
+                                          "disputes between the Centre and states or between states, and disputes over the election of the President and Vice-President",
+                                          "inter-state water disputes"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Under Article 143, the advisory jurisdiction of the Supreme Court means that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "its advice on a Presidential reference is binding on the government",
+                                          "the President may refer a question of law or fact to it, and the advice given is not binding",
+                                          "it can advise any citizen on legal matters",
+                                          "it can only advise Parliament"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Which of the following is NOT covered by the original jurisdiction of the Supreme Court?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A dispute between the Government of India and a state",
+                                          "A dispute between two or more states",
+                                          "Inter-state water disputes",
+                                          "A dispute over the election of the President"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The writ jurisdiction of the Supreme Court under Article 32 differs from that of a High Court under Article 226 in that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Supreme Court can issue writs for both Fundamental Rights and ordinary legal rights",
+                                          "the High Court can issue writs only for Fundamental Rights",
+                                          "only the Supreme Court can issue writs",
+                                          "the Supreme Court\u0027s writ jurisdiction is limited to Fundamental Rights, while the High Court\u0027s is wider, covering ordinary legal rights too"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "To be appointed a judge of a High Court, a person must have",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ten years of judicial office or ten years as a High Court advocate",
+                                          "five years as a district judge",
+                                          "the status of a distinguished jurist",
+                                          "twenty years at the bar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "A judge of the Supreme Court or a High Court can be removed only on the ground of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a policy disagreement with the government",
+                                          "proved misbehaviour or incapacity",
+                                          "reaching the age of 60",
+                                          "a majority vote of the Bar Council"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "A motion for the removal of a Supreme Court judge must be signed by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "50 members of the Lok Sabha or 25 of the Rajya Sabha",
+                                          "one-third of either House",
+                                          "100 members of the Lok Sabha or 50 of the Rajya Sabha",
+                                          "the entire Cabinet"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The three-member committee that inquires into charges against a judge, under the Judges Inquiry Act, 1968, consists of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "three Supreme Court judges",
+                                          "three Members of Parliament",
+                                          "the Prime Minister, the Law Minister and the CJI",
+                                          "a Supreme Court judge, a High Court Chief Justice, and a distinguished jurist"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "With respect to transfer, which one of the following is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A High Court judge can be transferred from one High Court to another by the President after consulting the CJI, while Supreme Court judges are not transferable",
+                                          "High Court judges cannot be transferred at all",
+                                          "Supreme Court judges can be transferred to High Courts",
+                                          "Only the Chief Justice of India can transfer a judge"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "\u0027Wilful disobedience to any judgment, decree, order or writ of a court\u0027 constitutes",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "criminal contempt",
+                                          "civil contempt",
+                                          "judicial review",
+                                          "a breach of privilege"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The contempt power of the Supreme Court extends to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "only its own contempt",
+                                          "only the High Courts",
+                                          "itself, the High Courts, subordinate courts and tribunals throughout the entire country",
+                                          "military tribunals alone"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "A District Judge is appointed by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Chief Justice of India",
+                                          "the State Public Service Commission alone",
+                                          "the President directly",
+                                          "the Governor in consultation with the High Court"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "A Sessions Judge can pass a death sentence, but it",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "requires confirmation by the High Court",
+                                          "takes effect immediately",
+                                          "requires confirmation by the Supreme Court",
+                                          "requires confirmation by the Governor"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Which one of the following correctly distinguishes Article 323A from Article 323B relating to tribunals?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 323A covers taxation and elections; Article 323B covers only public service matters",
+                                          "Article 323A allows administrative tribunals for public service matters and can be established only by Parliament; Article 323B covers other matters and can be established by Parliament and state legislatures",
+                                          "Both can be established only by Parliament",
+                                          "Both allow a hierarchy of tribunals"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Under Article 141 of the Constitution, the law declared by the Supreme Court is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "merely advisory",
+                                          "binding only on the High Courts",
+                                          "binding on all courts within the territory of India",
+                                          "binding only on the parties to the case"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The power of the Supreme Court to decide in the case of a dispute between two or more States is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "original jurisdiction",
+                                          "inherent jurisdiction",
+                                          "plenary jurisdiction",
+                                          "advisory jurisdiction"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which one of the following criteria is NOT required to be qualified for appointment as a Judge of the Supreme Court?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "At least five years as a Judge of a High Court",
+                                          "At least ten years as an Advocate of a High Court",
+                                          "In the opinion of the President, a distinguished Jurist",
+                                          "At least twenty years as a Sub-Judicial Magistrate"
+                                      ],
+                          "pyq":  "CDS 2018-II",
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The judgment of the Supreme Court of India in the Vishakha case pertains to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "sexual harassment at the workplace",
+                                          "Sati",
+                                          "dowry death",
+                                          "rape"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Who among the following was the Chief Justice of India when Public Interest Litigation (PIL) was introduced in the Indian judicial system?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "M. Hidayatullah",
+                                          "A.S. Anand",
+                                          "A.M. Ahmadi",
+                                          "P.N. Bhagwati"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which of the following are powers of the Supreme Court of India? 1. Original jurisdiction in a dispute between the Government of India and one or more States 2. The power to hear appeals from the High Courts 3. Passing decrees and orders for doing complete justice in any matter 4. Render advice to the President in matters of law. Select the correct answer using the code given below.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1, 2, 3 and 4",
+                                          "1, 2 and 3 only",
+                                          "1 and 2 only",
+                                          "3 and 4 only"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The collegium system for the appointment of judges evolved through the \u0027Three Judges Cases\u0027 and was reaffirmed when the Supreme Court struck down which body in 2015?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Central Administrative Tribunal",
+                                          "The Law Commission",
+                                          "The Finance Commission",
+                                          "The National Judicial Appointments Commission (NJAC)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The basic structure doctrine, which limits Parliament\u0027s amending power, is most directly linked to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "judicial review, the Kesavananda Bharati judgment, and constraints on Article 368",
+                                          "the Golaknath case alone",
+                                          "Article 143 advisory jurisdiction",
+                                          "the contempt power of the Supreme Court"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Which one of the following statements about Public Interest Litigation (PIL) is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Only the aggrieved person can file it",
+                                          "It relaxes the rule of locus standi so that any public-spirited person can approach the court on behalf of others",
+                                          "It can be filed only in the subordinate courts",
+                                          "It is provided for expressly in the original Constitution"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Article 137 of the Constitution empowers the Supreme Court to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "issue advisory opinions",
+                                          "transfer High Court judges",
+                                          "review its own judgments or orders",
+                                          "declare an emergency"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following statements about the removal of judges in India is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Several judges have been removed by Parliament so far",
+                                          "Removal requires only a simple majority",
+                                          "Judges are removed by the collegium",
+                                          "No judge of the Supreme Court has ever been removed through the parliamentary process, though a motion was once initiated"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Judiciary"
+                      }
+                  ]
+}

@@ -386,6 +386,105 @@
       "description": "60 MCQs on Indian Polity & Constitution — framework, rights, DPSP, executive, legislature, judiciary, emergency & bodies; 20 tagged CDS PYQs."
     },
     {
+      "id": "polsec-01",
+      "title": "Polity Test 1",
+      "subject": "Polity",
+      "topic": "Basics \u0026 Constitutional Framework",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Polity sectional test - 30 MCQs on Basics \u0026 Constitutional Framework (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "polsec-02",
+      "title": "Polity Test 2",
+      "subject": "Polity",
+      "topic": "Fundamental Rights",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Polity sectional test - 30 MCQs on Fundamental Rights (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "polsec-03",
+      "title": "Polity Test 3",
+      "subject": "Polity",
+      "topic": "DPSP \u0026 Fundamental Duties",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Polity sectional test - 30 MCQs on DPSP \u0026 Fundamental Duties (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "polsec-04",
+      "title": "Polity Test 4",
+      "subject": "Polity",
+      "topic": "The Legislature (Parliament)",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Polity sectional test - 30 MCQs on The Legislature (Parliament) (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "polsec-05",
+      "title": "Polity Test 5",
+      "subject": "Polity",
+      "topic": "The Executive",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Polity sectional test - 30 MCQs on The Executive (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "polsec-06",
+      "title": "Polity Test 6",
+      "subject": "Polity",
+      "topic": "Emergency Provisions",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Polity sectional test - 30 MCQs on Emergency Provisions (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "polsec-07",
+      "title": "Polity Test 7",
+      "subject": "Polity",
+      "topic": "Union Territories \u0026 Local Government",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Polity sectional test - 30 MCQs on Union Territories \u0026 Local Government (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "polsec-08",
+      "title": "Polity Test 8",
+      "subject": "Polity",
+      "topic": "The Judiciary",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Polity sectional test - 30 MCQs on The Judiciary (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "polsec-09",
+      "title": "Polity Test 9",
+      "subject": "Polity",
+      "topic": "Constitutional \u0026 Statutory Bodies",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Polity sectional test - 30 MCQs on Constitutional \u0026 Statutory Bodies (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
       "id": "economy-01",
       "title": "Economy-Test 1",
       "subject": "Economy",

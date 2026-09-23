@@ -1,0 +1,490 @@
+{
+    "title":  "Polity Test 5",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  30,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "In the Indian parliamentary executive, the nominal and real heads of the Union are respectively",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Prime Minister and the President",
+                                          "the President and the Prime Minister",
+                                          "the Vice-President and the President",
+                                          "the President and the Council of Ministers as a whole"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "To be eligible for election as President of India, a person must, among other things, be",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "at least 35 years of age and qualified for election as a member of the Lok Sabha",
+                                          "at least 30 years of age and a member of the Rajya Sabha",
+                                          "at least 40 years of age",
+                                          "at least 35 years of age and a member of the Lok Sabha at the time of election"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The President of India is elected by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "direct election on universal adult franchise",
+                                          "proportional representation by means of the single transferable vote, through secret ballot",
+                                          "the members of the Lok Sabha only",
+                                          "a simple majority of the electoral college"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Which one of the following is NOT included in the electoral college for the election of the President?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Elected members of the Lok Sabha",
+                                          "Elected members of the State Legislative Assemblies",
+                                          "Members of the State Legislative Councils",
+                                          "Elected members of the Delhi and Puducherry Assemblies"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Regarding the impeachment of the President under Article 61, which one of the following is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The sole ground is proved misbehaviour or incapacity",
+                                          "Only elected members of Parliament take part",
+                                          "It requires a simple majority of both Houses",
+                                          "The sole ground is violation of the Constitution, and both elected and nominated members of Parliament participate, while MLAs do not"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The President of India tenders his resignation to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Vice-President",
+                                          "the Chief Justice of India",
+                                          "the Speaker of the Lok Sabha",
+                                          "the Prime Minister"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "If the offices of both the President and the Vice-President fall vacant at the same time, who acts as President?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Prime Minister",
+                                          "The Chief Justice of India, or in his absence the senior-most Supreme Court judge",
+                                          "The Speaker of the Lok Sabha",
+                                          "The Attorney General"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The President is bound by the advice of the Council of Ministers by virtue of which amendment, and which amendment allows one reconsideration?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "24th Amendment made the advice binding; 44th allows reconsideration",
+                                          "44th Amendment made the advice binding; 42nd allows reconsideration",
+                                          "42nd Amendment made the advice binding; 44th Amendment allows the President to return a matter once for reconsideration",
+                                          "42nd Amendment allows reconsideration; 44th made the advice binding"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Which one of the following pardoning powers removes both the sentence and the conviction of an offender?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Commutation",
+                                          "Remission",
+                                          "Reprieve",
+                                          "Pardon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "With reference to the pardoning power, which one of the following is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The President alone can pardon a death sentence and a court-martial sentence",
+                                          "The Governor can pardon a court-martial sentence",
+                                          "The Governor can pardon a death sentence",
+                                          "Neither the President nor the Governor can pardon a death sentence"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The Governor of a state is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "directly elected by the people of the state",
+                                          "appointed by the President and holds office during the pleasure of the President",
+                                          "elected by the State Legislative Assembly",
+                                          "appointed by the Chief Minister"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Which of the following is a matter of the Governor\u0027s constitutional discretion?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Assenting to every bill passed by the Assembly",
+                                          "Appointing the Chief Justice of the High Court",
+                                          "Reserving a state bill for the consideration of the President and recommending President\u0027s Rule",
+                                          "Declaring a financial emergency in the state"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "An ordinance promulgated by the Governor under Article 213 must be laid before the state legislature and ceases to operate unless approved within",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "two weeks",
+                                          "three months",
+                                          "six months",
+                                          "six weeks of its reassembly"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which one of the following statements about the Vice-President of India is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "He is the ex-officio Chairman of the Rajya Sabha and is elected by all members of both Houses of Parliament, elected and nominated",
+                                          "He is elected by both Houses of Parliament and the State Assemblies",
+                                          "He can be removed only by impeachment for violating the Constitution",
+                                          "He must be a member of the Rajya Sabha at the time of election"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "For how long can the Vice-President act as President when a vacancy occurs in the office of the President?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Three months",
+                                          "A maximum of six months",
+                                          "One year",
+                                          "Until the next general election"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Which of the following about the appointment of the Prime Minister is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The PM must be a member of the Lok Sabha at the time of appointment",
+                                          "The PM is elected directly by the Lok Sabha",
+                                          "The PM is appointed by the President, and if not already a member of either House must become one within six months",
+                                          "The PM is appointed by the Vice-President"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The maximum size of the Union Council of Ministers, and the minimum size of a State Council of Ministers, are respectively",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "20% of the Lok Sabha; no minimum",
+                                          "10% of the Lok Sabha; ten members",
+                                          "15% of both Houses; fifteen members",
+                                          "15% of the Lok Sabha; twelve members (91st Amendment, 2003)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The Prime Minister is the ex-officio Chairman of which one of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The NITI Aayog",
+                                          "The Finance Commission",
+                                          "The Union Public Service Commission",
+                                          "The Election Commission"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The Attorney General of India, the highest law officer, is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a whole-time salaried government servant barred from private practice",
+                                          "appointed by the President, must be qualified to be a Supreme Court judge, and can take part in Parliament but cannot vote",
+                                          "appointed by the Chief Justice of India",
+                                          "a member of the Union Cabinet"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The Advocate General of a State is appointed by the Governor and must be qualified to be",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a Supreme Court judge",
+                                          "a district judge",
+                                          "a High Court judge",
+                                          "a member of the State Public Service Commission"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following Articles of the Constitution of India requires the Prime Minister to furnish information related to decisions of the Council of Ministers to the President of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 78",
+                                          "Article 74",
+                                          "Article 75",
+                                          "Article 81"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The total number of members in the Union Council of Ministers in India shall not exceed",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10% of the total number of members of the Parliament",
+                                          "15% of the total number of members of the Parliament",
+                                          "10% of the total number of members of the Lok Sabha",
+                                          "15% of the total number of members of the Lok Sabha"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The President of India is elected by an Electoral College comprising the elected members of which of the following? 1. Both Houses of Parliament 2. The Legislative Assemblies of States 3. The Legislative Councils of States 4. The Legislative Assemblies of NCT of Delhi and Puducherry. Select the correct answer using the code given below.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "1, 2 and 4",
+                                          "3 and 4"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which provision of the Constitution of India provides that the President shall not be answerable to any Court in India for the exercise of the powers of his office?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 53",
+                                          "Article 74",
+                                          "Article 361",
+                                          "Article 363"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which one of the following best describes the electoral system used to elect the President of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Proportional Representation",
+                                          "Proportional Representation and Single Transferable Vote System",
+                                          "First-Past-the-Post System",
+                                          "List System"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "In which one of the following situations does the President exercise genuine discretion?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Assenting to a Money Bill",
+                                          "Constituting a Finance Commission",
+                                          "Nominating twelve members to the Rajya Sabha",
+                                          "Appointing the Prime Minister when no party has a clear majority in the Lok Sabha"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Which one of the following statements about the Union Cabinet is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A person from outside Parliament can never be appointed to the Cabinet",
+                                          "It remains in power while it enjoys the confidence of the Lok Sabha",
+                                          "It is responsible to the Lok Sabha",
+                                          "It is the highest decision-making body of the executive"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Which one of the following statements about the removal of the Vice-President is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "He is removed by impeachment like the President",
+                                          "He is removed by a resolution of the Rajya Sabha passed by an effective majority and agreed to by the Lok Sabha, with no grounds specified",
+                                          "He can be removed by the President at pleasure",
+                                          "He is removed only by the Supreme Court"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which one of the following correctly describes the office of the Solicitor General of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is a constitutional office created by Article 76",
+                                          "It is the highest law officer of the country",
+                                          "It is a statutory, non-constitutional office that assists the Attorney General",
+                                          "It is a member of the Union Cabinet"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The Governor\u0027s pardoning power under Article 161 differs from the President\u0027s under Article 72 in that the Governor",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "can pardon offences under Union laws",
+                                          "can pardon a death sentence",
+                                          "has no pardoning power at all",
+                                          "cannot pardon a death sentence or a court-martial sentence, and deals only with offences against state laws"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "The Executive"
+                      }
+                  ]
+}

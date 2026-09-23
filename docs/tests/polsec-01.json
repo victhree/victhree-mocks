@@ -1,0 +1,490 @@
+{
+    "title":  "Polity Test 1",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  30,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Which one of the following statements best describes \u0027constitutionalism\u0027 as distinct from a Constitution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is the codified single document that lays down the framework of government",
+                                          "It is the collection of conventions and judicial decisions in an unwritten set-up",
+                                          "It is the doctrine that the powers of the State must be subject to specific limits laid down by the Constitution",
+                                          "It is the process by which a Constitution is amended by the legislature"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "In a parliamentary system such as India\u0027s, which one of the following is a defining feature?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The executive is not responsible to the legislature",
+                                          "Ministers must be members of the legislature",
+                                          "There is a strict separation of powers between the executive and legislature",
+                                          "The head of the executive is elected for a fixed term and cannot be removed by the legislature"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "India is described as \u0027quasi-federal\u0027. Which one of the following is a UNITARY feature of the Indian Constitution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "An independent judiciary headed by the Supreme Court",
+                                          "Bicameralism with a Rajya Sabha representing the states",
+                                          "A written and supreme Constitution",
+                                          "Residuary powers vested in the Union and a single citizenship"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Article 1 of the Constitution describes India as a \u0027Union of States\u0027. This phrasing primarily signifies that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the states have no right to secede from the Union",
+                                          "India is a confederation of sovereign states",
+                                          "states can alter their own boundaries without Parliament",
+                                          "the Union derives its authority from the states"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The doctrine of \u0027basic structure\u0027 of the Constitution was propounded in which one of the following cases?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Indira Gandhi v. Raj Narain (1975)",
+                                          "Minerva Mills v. Union of India (1980)",
+                                          "Kesavananda Bharati v. State of Kerala (1973)",
+                                          "I.R. Coelho v. State of Tamil Nadu (2007)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "A constitutional amendment under Article 368 that seeks to change the distribution of powers between the Centre and States requires",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a simple majority of both Houses",
+                                          "a special majority of Parliament only",
+                                          "approval of the Rajya Sabha alone",
+                                          "a special majority of Parliament plus ratification by half of the state legislatures"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Consider the following about the Preamble of the Indian Constitution: 1. It is enforceable in a court of law. 2. It reflects the philosophy and objectives of the Constitution. 3. It indicates the source of authority of the Constitution. Which of the statements given above are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1 and 3 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Which set of words was added to the Preamble by the 42nd Constitutional Amendment Act, 1976?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Socialist, Secular and Integrity",
+                                          "Sovereign, Socialist and Secular",
+                                          "Secular, Democratic and Republic",
+                                          "Socialist, Fraternity and Liberty"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "What is the correct order of the descriptive words of the Indian State as they appear in the Preamble?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Socialist, Sovereign, Secular, Democratic, Republic",
+                                          "Sovereign, Socialist, Secular, Democratic, Republic",
+                                          "Sovereign, Secular, Socialist, Republic, Democratic",
+                                          "Secular, Sovereign, Socialist, Democratic, Republic"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The Directive Principles of State Policy in the Indian Constitution were borrowed from the Constitution of which country?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "United States of America",
+                                          "Canada",
+                                          "Australia",
+                                          "Ireland"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The provision for the suspension of Fundamental Rights during a national emergency in the Indian Constitution was inspired by the Constitution of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the United Kingdom",
+                                          "the USA",
+                                          "Germany (Weimar)",
+                                          "the USSR"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Which Part of the Constitution of India contains the Directive Principles of State Policy?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Part IV",
+                                          "Part III",
+                                          "Part IV-A",
+                                          "Part V"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The anti-defection provisions are contained in which Schedule of the Constitution of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ninth Schedule",
+                                          "Eighth Schedule",
+                                          "Second Schedule",
+                                          "Tenth Schedule"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The Seventh Schedule of the Constitution deals with which one of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Forms of oaths and affirmations",
+                                          "Division of legislative powers into Union, State and Concurrent Lists",
+                                          "Languages recognised by the Constitution",
+                                          "Allocation of Rajya Sabha seats to states"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Which of the following languages is NOT included in the Eighth Schedule of the Constitution of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "English",
+                                          "Bodo",
+                                          "Konkani",
+                                          "Santhali"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "With reference to the creation of states, which one of the following correctly distinguishes Article 2 from Article 3?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 2 requires reference to the state legislature; Article 3 does not",
+                                          "Both Article 2 and Article 3 require ratification by half the states",
+                                          "Article 2 deals with admission of new states not already part of India; Article 3 deals with reorganisation of existing states",
+                                          "Article 3 admits new states, while Article 2 alters boundaries of existing states"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which one of the following was the first state to be created on a purely linguistic basis in independent India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Andhra State",
+                                          "Maharashtra",
+                                          "Gujarat",
+                                          "Nagaland"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Which of the following Union Territories has its own legislature?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chandigarh",
+                                          "Puducherry",
+                                          "Lakshadweep",
+                                          "Ladakh"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "As per the current position, how many States and Union Territories does India have?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "29 States and 7 Union Territories",
+                                          "27 States and 9 Union Territories",
+                                          "28 States and 9 Union Territories",
+                                          "28 States and 8 Union Territories"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following statements about the Preamble is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is a source of substantive powers to the legislature",
+                                          "It can override the express provisions of the Constitution",
+                                          "It serves as a key to interpret the Constitution but is not itself enforceable",
+                                          "It has never been amended"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which of the following terms were added to the Preamble of the Constitution of India by the Constitutional Amendment, 1976? 1. Socialist 2. Secular 3. Integrity 4. Fraternity. Select the correct answer using the code given below.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "2 and 4",
+                                          "1, 3 and 4"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which of the following statements with reference to the Preamble to the Constitution of India are correct? 1. The word secular comes before the word socialist. 2. The word justice comes before the word equality. 3. The word fraternity comes after the word liberty. Select the answer using the code given below.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The Sixth Schedule of the Constitution of India pertains to the administration of tribal areas in which of the following States?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Assam, Meghalaya, Tripura and Mizoram",
+                                          "Meghalaya, Tripura, Manipur and Mizoram",
+                                          "Assam, Manipur, Meghalaya and Tripura",
+                                          "Manipur, Meghalaya, Tripura and Arunachal Pradesh"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which, amongst the following, is the latest language to be included in the Eighth Schedule of the Constitution of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Maithili",
+                                          "Nepali",
+                                          "Konkani",
+                                          "Manipuri"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which of the following statements with regard to the creation of a new state or alteration of boundaries of states is/are correct? 1. An amendment has to be moved in Parliament under Article 368. 2. Ratification by one half of the states is necessary after the amendment. 3. The legislation can be passed by a simple majority of both Houses of Parliament. Select the correct answer using the code given below.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 3 only",
+                                          "2 only",
+                                          "3 only",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The description of India as an \u0027indestructible union of destructible states\u0027, in contrast with the USA, chiefly conveys that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Indian states can secede but American states cannot",
+                                          "both Indian and American states can redraw their own borders",
+                                          "American states are more powerful than the Union in all matters",
+                                          "Parliament can reorganise Indian states without their consent, but US states cannot be altered without their consent"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Which one of the following cases held that federalism is a part of the basic structure of the Constitution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kesavananda Bharati (1973)",
+                                          "S.R. Bommai v. Union of India (1994)",
+                                          "Golaknath (1967)",
+                                          "Berubari Union (1960)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Which one of the following statements about the terms \u0027Territory of India\u0027 and \u0027Union of India\u0027 is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Both terms mean exactly the same thing",
+                                          "\u0027Union of India\u0027 is wider and includes acquired territories",
+                                          "\u0027Territory of India\u0027 is wider and includes states, Union Territories and acquired territories",
+                                          "\u0027Territory of India\u0027 includes only the states"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The impeachment of the President of India under Article 61 requires which one of the following majorities?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Simple majority of both Houses",
+                                          "Special majority under Article 368",
+                                          "Two-thirds of the members present and voting in the Rajya Sabha only",
+                                          "A resolution passed by a two-thirds majority of the total membership of each House"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The reorganisation of Jammu \u0026 Kashmir in 2019 into two Union Territories was carried out by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Jammu and Kashmir Reorganisation Act, 2019 passed by Parliament",
+                                          "a constitutional amendment ratified by half the states",
+                                          "an agreement between the Centre and the State government",
+                                          "a Presidential proclamation under Article 356 alone"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Basics \u0026 Constitutional Framework"
+                      }
+                  ]
+}

@@ -1,0 +1,490 @@
+{
+    "title":  "Polity Test 3",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  30,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The Directive Principles of State Policy are contained in which Part of the Constitution and are borrowed from which country?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Part IV; Ireland",
+                                          "Part III; the United States",
+                                          "Part IV-A; the USSR",
+                                          "Part IV; Australia"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Who described the Directive Principles as a \u0027novel feature\u0027 of the Indian Constitution, and which colonial instrument do they resemble?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "B.R. Ambedkar; the Instrument of Instructions under the Government of India Act, 1935",
+                                          "Granville Austin; the Government of India Act, 1919",
+                                          "K.C. Wheare; the Charter Act of 1833",
+                                          "B.N. Rau; the Indian Councils Act, 1909"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The classification of DPSPs into Socialistic, Gandhian and Liberal-Intellectual principles is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "made expressly by the Constitution itself",
+                                          "a scholarly classification not found in the Constitution",
+                                          "based on the Seventh Schedule",
+                                          "laid down by the Sardar Swaran Singh Committee"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "\u0027To organise village panchayats and endow them with powers to enable them to function as units of self-government\u0027 is a Directive Principle under which Article, and of which type?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 44; Liberal-Intellectual principle",
+                                          "Article 38; Socialistic principle",
+                                          "Article 40; Gandhian principle",
+                                          "Article 48; Gandhian principle"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which one of the following pairs of Directive Principle and its classification is correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 44 (Uniform Civil Code) - Gandhian",
+                                          "Article 50 (separation of judiciary from executive) - Socialistic",
+                                          "Article 39A (free legal aid) - Liberal-Intellectual",
+                                          "Article 46 (promotion of educational and economic interests of weaker sections) - Gandhian"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Which of the following Directive Principles was added by the 42nd Amendment, 1976?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 48A - protection and improvement of the environment",
+                                          "Article 44 - Uniform Civil Code",
+                                          "Article 40 - organisation of village panchayats",
+                                          "Article 50 - separation of judiciary from executive"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The subject matter of Article 45 was changed by the 86th Amendment, 2002 to focus on",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "free legal aid for the poor",
+                                          "early childhood care and education for children below the age of six years",
+                                          "a living wage for all workers",
+                                          "promotion of cottage industries"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Which one of the following is a correct distinction between Fundamental Rights and Directive Principles?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Fundamental Rights are non-justiciable; DPSPs are justiciable",
+                                          "Fundamental Rights aim at social democracy; DPSPs at political democracy",
+                                          "Fundamental Rights are justiciable and individualistic; DPSPs are non-justiciable and aim at the welfare of the community",
+                                          "Both have equal legal sanction and are enforceable in courts"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "In the event of a conflict, the general judicial position on Fundamental Rights and Directive Principles is that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "DPSPs always prevail over Fundamental Rights",
+                                          "DPSPs can never be given effect if a Fundamental Right is affected",
+                                          "both are equally enforceable and courts must balance them case by case with binding force",
+                                          "Fundamental Rights generally prevail, but Parliament may amend them to implement DPSPs without damaging the basic structure"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The Uniform Civil Code is a Directive Principle under which Article, and which States have implemented it?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 44; Goa and Uttarakhand",
+                                          "Article 44; Kerala and Tamil Nadu",
+                                          "Article 48; Goa and Gujarat",
+                                          "Article 50; Assam and Nagaland"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The Fundamental Duties were added to the Constitution by which amendment, on the recommendation of which committee?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "44th Amendment; Santhanam Committee",
+                                          "42nd Amendment; Sardar Swaran Singh Committee",
+                                          "86th Amendment; Sarkaria Commission",
+                                          "52nd Amendment; Balwant Rai Mehta Committee"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The Fundamental Duties in the Indian Constitution were inspired by the Constitution of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the United States",
+                                          "Ireland",
+                                          "the erstwhile USSR",
+                                          "Japan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "How many Fundamental Duties are there at present, and which one was added later?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ten; all added in 1976",
+                                          "Eleven; a duty to vote added by the 61st Amendment",
+                                          "Twelve; a duty to pay taxes added in 2002",
+                                          "Eleven; the duty on education (6-14 years) added by the 86th Amendment, 2002"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which of the following recommendations of the Swaran Singh Committee was NOT accepted while incorporating Fundamental Duties?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To provide for a penalty for non-compliance and a duty to pay taxes",
+                                          "To cherish the ideals of the freedom struggle",
+                                          "To respect the National Flag and the National Anthem",
+                                          "To protect the natural environment"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Which one of the following statements about Fundamental Duties is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "They are available to both citizens and foreigners",
+                                          "They are restricted to citizens and are non-justiciable, though Parliament may enforce them by law",
+                                          "They are directly enforceable in courts",
+                                          "They were part of the original Constitution of 1950"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The Fundamental Duty to \u0027protect and improve the natural environment including forests, lakes, rivers and wildlife and to have compassion for living creatures\u0027 is contained in",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 48A",
+                                          "Article 21A",
+                                          "Article 51A(g)",
+                                          "Article 39A"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "\u0027To develop scientific temper, humanism and the spirit of inquiry and reform\u0027 is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a Directive Principle of State Policy",
+                                          "a Fundamental Right",
+                                          "a Preambular objective",
+                                          "a Fundamental Duty under Article 51A"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Which of the following is NOT a Fundamental Duty under Article 51A?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To promote village and cottage industries",
+                                          "To strive towards excellence in all spheres of individual and collective activity",
+                                          "To safeguard public property and to abjure violence",
+                                          "To value and preserve the rich heritage of the composite culture"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The Directive Principle that directs the State to \u0027separate the judiciary from the executive in the public services of the State\u0027 is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 48",
+                                          "Article 50",
+                                          "Article 51",
+                                          "Article 39A"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "\u0027To promote international peace and security and encourage settlement of international disputes by arbitration\u0027 is a Directive Principle under",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 44",
+                                          "Article 48A",
+                                          "Article 51",
+                                          "Article 43B"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following was added as a Fundamental Duty through the Constitution 86th Amendment Act, 2002?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To strive towards excellence in individual and collective activity",
+                                          "To provide opportunities for education to one\u0027s child between the age of 6 and 14 years",
+                                          "To work for the welfare of women and children",
+                                          "To promote peace and harmony"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Part IV-A of the Constitution of India deals with which one of the following areas?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Appointment of Members to Public Service Commissions",
+                                          "Fundamental Duties",
+                                          "Functions of Public Service Commissions",
+                                          "Provisions for the functioning of the State Governments"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "In Part IV-A of the Constitution of India, which one of the following is NOT mentioned as a duty of every citizen of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To render national service when called upon to do so",
+                                          "To renounce practices derogatory to the dignity of women",
+                                          "To value and preserve a unitary national culture",
+                                          "To develop the spirit of inquiry and reform"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which one of the following is NOT a part of Article 51 of the Constitution of India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Promote international peace and security",
+                                          "Maintain just and honourable relations between nations",
+                                          "Use of UN peacekeeping force for resolution of international disputes",
+                                          "Encourage settlement of international disputes by arbitration"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "According to the provisions of the Constitution of India, which one of the following is NOT a Fundamental Duty?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "To respect the National Flag",
+                                          "To defend the country",
+                                          "To provide education to one\u0027s child",
+                                          "To promote village and cottage industries"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Which case held that the balance and harmony between Fundamental Rights and Directive Principles is itself part of the basic structure of the Constitution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Champakam Dorairajan (1951)",
+                                          "A.K. Gopalan (1950)",
+                                          "Golaknath (1967)",
+                                          "Minerva Mills v. Union of India (1980)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Which one of the following DPSPs is Gandhian in character?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 47 - prohibition of intoxicating drinks and drugs",
+                                          "Article 41 - right to work and public assistance",
+                                          "Article 39A - free legal aid",
+                                          "Article 51 - promotion of international peace"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Which one of the following statements about the Uniform Civil Code (Article 44) is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is a Fundamental Right of every Indian citizen",
+                                          "It is a non-justiciable Directive Principle that the State shall endeavour to secure",
+                                          "It is enforceable by the courts",
+                                          "It applies automatically without any legislation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which of the following correctly pairs a constitutional provision with the environment?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Both are Fundamental Rights",
+                                          "Article 48A - Fundamental Duty; Article 51A(g) - Directive Principle",
+                                          "Article 48A - Directive Principle on the State; Article 51A(g) - Fundamental Duty on citizens",
+                                          "Both are Directive Principles"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following statements about the enforceability of DPSPs is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Courts can strike down a law solely for violating a DPSP",
+                                          "DPSPs are enforceable exactly like Fundamental Rights",
+                                          "DPSPs are enforceable only in High Courts, not the Supreme Court",
+                                          "Courts cannot enforce DPSPs but may use them to test and uphold the validity of a law"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "DPSP \u0026 Fundamental Duties"
+                      }
+                  ]
+}

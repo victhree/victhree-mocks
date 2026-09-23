@@ -1,0 +1,490 @@
+{
+    "title":  "Polity Test 7",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  30,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Every Union Territory is administered by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a Governor appointed by the President",
+                                          "a Chief Minister elected by the people",
+                                          "the President acting through an administrator appointed by him",
+                                          "the State Legislature of the adjoining state"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Which of the following Union Territories have their own Legislative Assembly?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chandigarh, Lakshadweep and Ladakh",
+                                          "Puducherry, Ladakh and Chandigarh",
+                                          "Andaman \u0026 Nicobar, Delhi and Chandigarh",
+                                          "Delhi, Puducherry and Jammu \u0026 Kashmir"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The Legislative Assembly of Delhi can make laws on State List subjects EXCEPT",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "public health, sanitation and agriculture",
+                                          "public order, police and land",
+                                          "education and local government",
+                                          "trade and commerce within the territory"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Article 370, which gave special status to Jammu \u0026 Kashmir, was located under which category of provisions before 2019?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Fundamental Rights",
+                                          "Emergency Provisions",
+                                          "Temporary, Transitional and Special Provisions",
+                                          "Directive Principles"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The Jammu and Kashmir Reorganisation Act, 2019 created which two Union Territories?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jammu \u0026 Kashmir and Ladakh, both with legislatures",
+                                          "Jammu (with a legislature) and Kashmir (without a legislature)",
+                                          "Ladakh (with a legislature) and Kashmir (without a legislature)",
+                                          "Jammu \u0026 Kashmir (with a legislature) and Ladakh (without a legislature)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Special provisions for certain states are contained in Articles 371 to 371-J, which fall under which Part of the Constitution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Part XXI",
+                                          "Part XIV",
+                                          "Part XVIII",
+                                          "Part IX"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Which one of the following pairs of Article and State is correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 371A - Assam",
+                                          "Article 371F - Sikkim",
+                                          "Article 371G - Nagaland",
+                                          "Article 371J - Goa"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Which was the first state in India to establish the Panchayati Raj system?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Andhra Pradesh",
+                                          "Gujarat",
+                                          "Rajasthan (Nagaur)",
+                                          "Maharashtra"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Balwant Rai Mehta Committee (1957) recommended",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a two-tier system of Mandal Panchayat and Zila Parishad",
+                                          "the abolition of Panchayati Raj",
+                                          "constitutional status for Panchayati Raj Institutions",
+                                          "a three-tier system of Panchayati Raj in which only the village panchayat is directly elected"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Constitutional status for Panchayati Raj Institutions, which became the basis of the 73rd Amendment, was recommended by which committee?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "L.M. Singhvi Committee",
+                                          "Ashok Mehta Committee",
+                                          "G.V.K. Rao Committee",
+                                          "Balwant Rai Mehta Committee"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The 73rd Amendment Act, 1992 added which Part and Schedule to the Constitution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Part IX-A and the Twelfth Schedule",
+                                          "Part IX and the Eleventh Schedule",
+                                          "Part VIII and the Tenth Schedule",
+                                          "Part IV-A and the Ninth Schedule"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The minimum age to contest a Panchayat election is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "18 years",
+                                          "25 years",
+                                          "21 years",
+                                          "30 years"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The foundational unit of the Panchayati Raj system at the village level is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Zila Parishad",
+                                          "the Panchayat Samiti",
+                                          "the District Planning Committee",
+                                          "the Gram Sabha, comprising all registered voters in the panchayat area"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which one of the following is NOT one of the three tiers of the Panchayati Raj system?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nagar Panchayat",
+                                          "Panchayat Samiti (Block/Mandal)",
+                                          "Zila Parishad",
+                                          "Gram Panchayat"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Under the 73rd Amendment, the proportion of seats reserved for women in panchayats is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "one-half of the total seats",
+                                          "not less than one-third of the total seats",
+                                          "in proportion to their population",
+                                          "left entirely to the states"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Elections to the Panchayats and the constitution of a Finance Commission for local bodies are the responsibility of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Election Commission of India and the Union Finance Commission",
+                                          "the Governor and the President respectively",
+                                          "the State Election Commission and a State Finance Commission constituted every five years",
+                                          "the Zila Parishad"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The 74th Amendment Act, 1992, dealing with urban local bodies, added",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Part XI and the Seventh Schedule",
+                                          "Part IX and the Eleventh Schedule with 29 items",
+                                          "Part VIII and the Tenth Schedule",
+                                          "Part IX-A and the Twelfth Schedule with 18 functional items"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Which of the following correctly describes an urban local body for a \u0027transitional area\u0027 moving from rural to urban?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nagar Panchayat",
+                                          "Municipal Corporation",
+                                          "Municipal Council",
+                                          "Cantonment Board"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Which one of the following urban bodies is a statutory body under the Ministry of Defence?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Notified Area Committee",
+                                          "Cantonment Board",
+                                          "Town Area Committee",
+                                          "Port Trust"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Lord Ripon\u0027s Resolution of 1882 is significant in the history of local self-government because it",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "created the first municipal corporation in India",
+                                          "introduced the 73rd Amendment",
+                                          "is regarded as the \u0027Magna Carta\u0027 of local self-government",
+                                          "abolished local bodies"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The provisions of the Constitution of India pertaining to the institution of Panchayat do NOT apply to which one of the following States?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Meghalaya",
+                                          "Tripura",
+                                          "Assam",
+                                          "Goa"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The power to legislate on all matters relating to elections to Panchayats lies with",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Parliament of India",
+                                          "the State Legislatures",
+                                          "the State Election Commission",
+                                          "the Election Commission of India"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which of the following statements about the 73rd and 74th Constitution Amendment Acts is/are correct? 1. They make it mandatory for all States to establish a three-tier system. 2. Representatives should be directly elected for five years. 3. There should be mandatory reservation of one-third of all seats at all levels for women. Select the correct answer using the code given below.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1, 2 and 3",
+                                          "3 only"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The Eleventh Schedule of the Constitution of India distributes powers between",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Union and the State Legislatures",
+                                          "the State Legislatures and the Panchayat",
+                                          "the Municipal Corporation and the Panchayat",
+                                          "the Gram Sabha and the Panchayat"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which of the following statements about Panchayats in India, as per the Constitution, is/are correct? 1. There is a provision for reservation of seats for the Scheduled Castes and Scheduled Tribes. 2. Panchayats are not authorised to collect taxes. Select the correct answer using the code given below.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Which one of the following correctly distinguishes the Fifth Schedule from the Sixth Schedule?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Fifth Schedule covers Assam, Meghalaya, Tripura and Mizoram",
+                                          "The Sixth Schedule\u0027s Tribes Advisory Council has only advisory powers",
+                                          "Both apply to the same four north-eastern states",
+                                          "Under the Fifth Schedule the Tribes Advisory Council is advisory, while the Sixth Schedule\u0027s Autonomous District Councils have legislative and judicial powers"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The provisions of Part IX (Panchayats) do NOT extend to which of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Scheduled Areas, and the states of Nagaland, Meghalaya and Mizoram",
+                                          "The state of Goa",
+                                          "The state of Rajasthan",
+                                          "The Union Territory of Puducherry"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The PESA Act, 1996 is significant because it",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "abolishes panchayats in tribal areas",
+                                          "extends Part IX of the Constitution, with modifications, to the Fifth Schedule Areas and empowers the Gram Sabha",
+                                          "applies the Sixth Schedule to all states",
+                                          "transfers all tribal land to the Union"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Under the Forest Rights Act, 2006, an \u0027Other Traditional Forest Dweller\u0027 is eligible if he has resided in the area for at least",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "25 years",
+                                          "50 years",
+                                          "75 years",
+                                          "10 years"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The Eleventh and Twelfth Schedules of the Constitution respectively contain",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "18 and 29 subjects",
+                                          "12 and 18 subjects",
+                                          "22 and 12 subjects",
+                                          "29 subjects for Panchayats (Article 243G) and 18 subjects for Municipalities (Article 243W)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Polity",
+                          "topic":  "Union Territories \u0026 Local Government"
+                      }
+                  ]
+}
