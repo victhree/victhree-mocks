@@ -378,14 +378,6 @@
       "description": "60 combined MCQs — Geography (physical, climate, oceans, Indian) + History (Ancient, Medieval, Modern)."
     },
     {
-      "id": "polity-01",
-      "title": "Polity-Test 1",
-      "subject": "Polity",
-      "durationMin": 60,
-      "count": 60,
-      "description": "60 MCQs on Indian Polity & Constitution — framework, rights, DPSP, executive, legislature, judiciary, emergency & bodies; 20 tagged CDS PYQs."
-    },
-    {
       "id": "polsec-01",
       "title": "Polity Test 1",
       "subject": "Polity",
@@ -483,6 +475,15 @@
       "marks": 30,
       "negative": true,
       "description": "Polity sectional test - 30 MCQs on Constitutional \u0026 Statutory Bodies (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "polity-01",
+      "title": "Full Polity Test",
+      "subject": "Polity",
+      "topic": "Complete Polity syllabus",
+      "durationMin": 60,
+      "count": 60,
+      "description": "60 MCQs on Indian Polity & Constitution — framework, rights, DPSP, executive, legislature, judiciary, emergency & bodies; 20 tagged CDS PYQs."
     },
     {
       "id": "economy-01",
