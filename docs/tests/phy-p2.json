@@ -1,0 +1,490 @@
+{
+    "title":  "Physics Test P2",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Which one of the following correctly distinguishes heat from temperature?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Heat is the thermal energy transferred (measured in joules), while temperature measures the average kinetic energy of particles (measured in kelvin)",
+                                          "Heat is measured in kelvin; temperature in joules",
+                                          "They are the same quantity",
+                                          "Temperature always increases when heat is added"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The correct relation between the Kelvin temperature T and the Celsius temperature t is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "T = t − 273.15",
+                                          "T = t + 273.15",
+                                          "T = t",
+                                          "they are independent scales"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Converting 45 °C to Fahrenheit gives",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "113 °F",
+                                          "81 °F",
+                                          "57 °F",
+                                          "77 °F"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Water is often used as a coolant because it has",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a low specific heat capacity",
+                                          "a high specific heat capacity, so it heats and cools slowly",
+                                          "no latent heat",
+                                          "a very low boiling point"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The principle that, when two bodies at different temperatures are mixed with no loss to the surroundings, \u0027heat lost by the hot body = heat gained by the cold body\u0027, is the principle of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "thermal equilibrium",
+                                          "vaporisation",
+                                          "calorimetry",
+                                          "radiation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Steam causes more severe burns than boiling water at the same temperature because",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "steam carries a large latent heat of vaporisation that is released on condensing",
+                                          "steam is hotter than boiling water",
+                                          "boiling water has no heat",
+                                          "steam is a poor conductor"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Ice floats on water because",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ice is warmer than water",
+                                          "water has maximum density at 4 °C, so ice is less dense than liquid water",
+                                          "ice has more mass",
+                                          "water expands on cooling from 100 °C"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Heat transfer that can occur through a vacuum, without any medium, is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "conduction",
+                                          "convection",
+                                          "radiation",
+                                          "calorimetry"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "How much heat is needed to raise the temperature of 2 kg of water by 10 °C? (specific heat c = 4200 J/kg·°C)",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "8,400 J",
+                                          "4,200 J",
+                                          "42,000 J",
+                                          "84,000 J"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "A potential difference of 10 V is applied across a 5 Ω resistor. The current through it is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2 A",
+                                          "0.5 A",
+                                          "50 A",
+                                          "15 A"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "If the diameter of a wire is doubled (same material and length), its resistance becomes",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "double",
+                                          "one-fourth",
+                                          "one-half",
+                                          "unchanged"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "When resistors are connected in parallel, the total (equivalent) resistance is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the sum of all the resistances",
+                                          "greater than the largest resistor",
+                                          "less than the smallest resistor",
+                                          "equal to the average of the resistors"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Three resistors of 11 Ω, 22 Ω and 33 Ω are connected in parallel. Their equivalent resistance is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "66 Ω",
+                                          "11 Ω",
+                                          "12 Ω",
+                                          "6 Ω"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "An electric bulb connected to a 110 V generator draws a current of 0.2 A. Its power is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "22 W",
+                                          "2.2 W",
+                                          "0.22 W",
+                                          "220 W"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "A 100 W bulb used for 10 hours a day for 30 days consumes how many units (kWh) of energy?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3 units",
+                                          "30 units",
+                                          "300 units",
+                                          "10 units"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The heating effect of an electric current, given by H = I²Rt, is known as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Faraday\u0027s law",
+                                          "Ohm\u0027s law",
+                                          "Joule\u0027s heating",
+                                          "Lenz\u0027s law"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "An electric fuse works as a safety device because",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "it stores charge",
+                                          "it converts heat into light",
+                                          "it increases the voltage",
+                                          "it is a thin wire that melts and breaks the circuit when the current exceeds a safe limit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "In an incandescent bulb, an inert gas like argon is filled to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "prevent the tungsten filament from oxidising and prolong its life",
+                                          "increase electricity consumption",
+                                          "colour the emitted light",
+                                          "reduce the bulb\u0027s cost"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The discovery that an electric current produces a magnetic field around it is credited to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Faraday",
+                                          "Oersted",
+                                          "Joule",
+                                          "Ohm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following is NOT a ferromagnetic material?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Iron",
+                                          "Cobalt",
+                                          "Silver",
+                                          "Nickel"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following is the correct relation between the Kelvin temperature T and the Celsius temperature t?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "These are two independent temperature scales",
+                                          "T = t",
+                                          "T = t − 273.15",
+                                          "T = t + 273.15"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "A metal wire of length l and diameter d has resistance R. Another wire of the same metal and same length but double the diameter will have resistance",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "R",
+                                          "R/4",
+                                          "R/2",
+                                          "2R"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Three resistors of resistances 11 Ω, 22 Ω and 33 Ω are connected in parallel. Their equivalent resistance is equal to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "66 Ω",
+                                          "22 Ω",
+                                          "12 Ω",
+                                          "6 Ω"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "A 100 W electric bulb is used for 10 hours a day. How many units of energy are consumed in 30 days?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1",
+                                          "10",
+                                          "30",
+                                          "300"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "A parallel-plate capacitor with air between the plates has capacitance C. If the space is filled with a dielectric of dielectric constant 7, the new capacitance becomes",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "C",
+                                          "C/7",
+                                          "7C",
+                                          "14C"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The correct relation between the Celsius (T_C) and Fahrenheit (T_F) scales is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "T_F = (3/5)T_C − 32",
+                                          "T_F = T_C",
+                                          "T_C = (9/5)T_F + 32",
+                                          "T_F = (9/5)T_C + 32"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "A circuit has a 5 A fuse. What is the maximum number of 100 W, 220 V bulbs that can be safely connected in parallel?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "11",
+                                          "15",
+                                          "20",
+                                          "10"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "A voltage V across a resistance R dissipates power P. If the same voltage V is applied across three equal resistors R connected in parallel, the power dissipated becomes",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "P",
+                                          "3P",
+                                          "P/3",
+                                          "2P/3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "When pure silicon is doped with aluminium (a trivalent element), the doped silicon becomes",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "an insulator",
+                                          "an n-type semiconductor",
+                                          "a p-type semiconductor",
+                                          "a conductor with unchanged conductivity"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which one of the following does NOT convert electrical energy into light energy?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A light-emitting diode",
+                                          "A television set",
+                                          "A laser",
+                                          "A candle"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Heat \u0026 Electricity"
+                      }
+                  ]
+}

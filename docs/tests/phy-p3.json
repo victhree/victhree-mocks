@@ -1,0 +1,490 @@
+{
+    "title":  "Physics Test P3",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Light travels fastest in",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "vacuum (or air)",
+                                          "water",
+                                          "glass",
+                                          "diamond"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The refractive index (µ) of a medium is defined as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "speed of light in the medium ÷ speed of light in air",
+                                          "speed of light in air (c) ÷ speed of light in the medium (v)",
+                                          "the product of c and v",
+                                          "the difference c − v"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "A convex mirror is used as a rear-view (side) mirror in vehicles because it always forms an image that is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "virtual, erect and diminished, giving a wide field of view",
+                                          "real, inverted and enlarged",
+                                          "real and same-sized",
+                                          "virtual and enlarged"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Refraction of light occurs because of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a change in the amplitude of light",
+                                          "a change in the speed of light as it passes from one medium to another",
+                                          "an internal property of light",
+                                          "a change in the temperature of the media"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The power of a lens of focal length 10 cm is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0.1 dioptre",
+                                          "1 dioptre",
+                                          "100 dioptre",
+                                          "10 dioptre"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The blue colour of the sky and the reddish appearance of the Sun at sunrise and sunset are both due to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "scattering of light",
+                                          "total internal reflection",
+                                          "dispersion of light",
+                                          "diffraction"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Myopia (short-sightedness) and hypermetropia (long-sightedness) are corrected respectively using",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "convex and concave lenses",
+                                          "concave and convex lenses",
+                                          "two concave lenses",
+                                          "two convex lenses"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Optical fibres transmit light signals over long distances by the principle of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "dispersion",
+                                          "diffraction",
+                                          "total internal reflection",
+                                          "scattering"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Rutherford\u0027s alpha-particle scattering experiment on thin gold foil led to the discovery of the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "electron",
+                                          "proton",
+                                          "neutron",
+                                          "atomic nucleus"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Arrange the three nuclear radiations in increasing order of penetrating power.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "alpha \u003c beta \u003c gamma",
+                                          "gamma \u003c beta \u003c alpha",
+                                          "beta \u003c alpha \u003c gamma",
+                                          "gamma \u003c alpha \u003c beta"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "In the gamma decay of a nucleus,",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the mass number changes but the atomic number does not",
+                                          "neither the mass number nor the atomic number changes",
+                                          "both the mass number and the atomic number change",
+                                          "the atomic number changes but the mass number does not"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Calcium-40 (atomic number 20) and argon-40 (atomic number 18) are examples of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "isotopes",
+                                          "isotones",
+                                          "isobars",
+                                          "allotropes"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The energy of the Sun and the stars is produced by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "nuclear fission of uranium",
+                                          "radioactive decay only",
+                                          "chemical combustion",
+                                          "nuclear fusion of light nuclei"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which one of the following correctly distinguishes a nuclear reactor from a nuclear bomb?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A reactor uses a controlled chain reaction to generate electricity steadily, while a bomb uses an uncontrolled one to release energy all at once",
+                                          "A reactor uses an uncontrolled chain reaction; a bomb uses a controlled one",
+                                          "Neither involves a chain reaction",
+                                          "Both are based on nuclear fusion"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Sound is best described as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a transverse electromagnetic wave",
+                                          "a longitudinal mechanical wave that needs a material medium",
+                                          "a wave that can travel through vacuum",
+                                          "a stationary wave"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "A sound wave of frequency 500 Hz has a wavelength of 0.68 m. Its speed is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "500 m/s",
+                                          "170 m/s",
+                                          "340 m/s",
+                                          "68 m/s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The pitch and the loudness of a sound depend respectively on its",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "amplitude and frequency",
+                                          "speed and wavelength",
+                                          "wavelength and speed",
+                                          "frequency and amplitude"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The audible range of frequency for a normal human ear is roughly",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "20 Hz to 20,000 Hz",
+                                          "2 Hz to 200 Hz",
+                                          "20 kHz to 200 kHz",
+                                          "below 20 Hz only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "An echo is heard 5 s after a sound is produced. If the speed of sound is 340 m/s, the reflecting surface is at a distance of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1700 m",
+                                          "850 m",
+                                          "340 m",
+                                          "170 m"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "A sonic boom is produced when a source such as a fighter jet moves",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "slower than the speed of sound",
+                                          "at exactly the speed of light",
+                                          "faster than the speed of sound (supersonic speed), creating a shock wave",
+                                          "at the speed of a normal aircraft"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "A ray of light is incident on a plane mirror at an angle of 40° with respect to the surface normal. When it gets reflected, it undergoes a deviation of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "40°",
+                                          "100°",
+                                          "90°",
+                                          "80°"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "A luminous object is placed at a distance of 40 cm from a converging lens of focal length 25 cm. The image obtained on the screen is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "erect and magnified",
+                                          "erect and smaller",
+                                          "inverted and magnified",
+                                          "inverted and smaller"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The power of a lens of focal length 10 cm is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0.1 dioptre",
+                                          "1 dioptre",
+                                          "10 dioptre",
+                                          "100 dioptre"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which one of the following elements will be an isobar of calcium if the atomic number of calcium is 20 and its mass number is 40?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Element with 20 protons and 18 neutrons",
+                                          "Element with 18 protons and 19 neutrons",
+                                          "Element with 20 protons and 19 neutrons",
+                                          "Element with 18 protons and 22 neutrons"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The radioactive isotope of hydrogen is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "protium",
+                                          "deuterium",
+                                          "tritium",
+                                          "hydronium"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "A convex lens has a focal length of 15 cm. At what distance should an object be placed to get a real image of the same size as the object?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "15 cm",
+                                          "10 cm",
+                                          "40 cm",
+                                          "30 cm"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Which one of the following statements about X-rays is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "They are neutral electromagnetic waves and are not deflected by electric or magnetic fields",
+                                          "They are deflected by magnetic fields",
+                                          "They are deflected by electric fields",
+                                          "They are positively charged particles"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "To examine a patient\u0027s alimentary canal (gut) by X-ray, which salt is administered in the patient\u0027s meal?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Barium chloride",
+                                          "Barium sulphate",
+                                          "Strontium sulphate",
+                                          "Magnesium chloride"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The hydrogen bomb and the uranium bomb are based respectively on",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "chemical reactions and fission",
+                                          "nuclear fission and fusion",
+                                          "nuclear fusion and nuclear fission",
+                                          "fusion and chemical reactions"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The twinkling of stars is due to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "interference of light",
+                                          "total internal reflection",
+                                          "polarisation of light",
+                                          "atmospheric refraction of starlight"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Light, Nuclear Physics \u0026 Waves"
+                      }
+                  ]
+}

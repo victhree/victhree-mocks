@@ -1,0 +1,490 @@
+{
+    "title":  "Physics Test P1",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Which one of the following statements about distance and displacement is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Distance is a vector and displacement is a scalar",
+                                          "Distance can be negative",
+                                          "Displacement can be zero even when the distance travelled is not zero",
+                                          "Displacement is always greater than distance"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "A body starting from rest accelerates uniformly at 2 m/s² for 5 s. Its final velocity is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5 m/s",
+                                          "25 m/s",
+                                          "20 m/s",
+                                          "10 m/s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "For the same body (from rest, a = 2 m/s², t = 5 s), the distance travelled is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "25 m",
+                                          "10 m",
+                                          "50 m",
+                                          "5 m"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Newton\u0027s first law of motion is also known as the law of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "acceleration",
+                                          "momentum",
+                                          "inertia",
+                                          "gravitation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "What force is needed to give a 5 kg body an acceleration of 4 m/s²?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "9 N",
+                                          "40 N",
+                                          "1.25 N",
+                                          "20 N"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "A 2 kg body moves at 3 m/s. Its linear momentum is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6 kg·m/s",
+                                          "1.5 kg·m/s",
+                                          "9 kg·m/s",
+                                          "5 kg·m/s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "A force of 10 N acts on a body for 5 s. The impulse delivered is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2 N·s",
+                                          "50 N·s",
+                                          "15 N·s",
+                                          "0.5 N·s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The kinetic energy of a 2 kg body moving at 10 m/s is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "20 J",
+                                          "200 J",
+                                          "100 J",
+                                          "10 J"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "If the linear momentum of a moving object is doubled (mass unchanged), its kinetic energy becomes",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the same",
+                                          "two times",
+                                          "eight times",
+                                          "four times"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "When a stone tied to a string is whirled in a horizontal circle, the work done on it by the string tension is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "zero",
+                                          "negative",
+                                          "positive",
+                                          "dependent on the mass"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The recoil of a gun when a bullet is fired is explained by the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "law of conservation of energy",
+                                          "law of conservation of momentum",
+                                          "law of inertia",
+                                          "law of gravitation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The acceleration due to gravity (g) at the Earth\u0027s surface",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "depends on the mass of the falling object",
+                                          "is maximum at the equator",
+                                          "is maximum at the poles and zero at the centre of the Earth",
+                                          "increases with altitude"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Pascal\u0027s law, which states that pressure applied to an enclosed fluid is transmitted equally in all directions, is the working principle of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the aeroplane wing",
+                                          "the barometer",
+                                          "the floating of ships",
+                                          "the hydraulic lift and hydraulic brakes"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "How many fundamental (base) quantities are there in the SI system?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "seven",
+                                          "six",
+                                          "five",
+                                          "nine"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The SI units of pressure and force are respectively",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "newton and pascal",
+                                          "pascal and newton",
+                                          "joule and watt",
+                                          "watt and joule"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Which one of the following is a vector quantity?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mass",
+                                          "Speed",
+                                          "Velocity",
+                                          "Temperature"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which one of the following correctly distinguishes accuracy from precision?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Accuracy is the consistency of repeated readings; precision is closeness to the true value",
+                                          "Precision depends on the observer\u0027s eyesight only",
+                                          "They mean the same thing",
+                                          "Accuracy is how close a measurement is to the true value, while precision is how close repeated measurements are to each other"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The \u0027least count\u0027 of a measuring instrument is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the smallest value it can measure",
+                                          "the largest value it can measure",
+                                          "the average of its readings",
+                                          "its total range"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Which instrument is used to measure the purity or density of milk?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hydrometer",
+                                          "Lactometer",
+                                          "Hygrometer",
+                                          "Barometer"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The \u0027light year\u0027 and the \u0027parsec\u0027 are units of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "time",
+                                          "speed",
+                                          "distance",
+                                          "luminosity"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "A bus starting from a bus-stand and moving with uniform acceleration attains a speed of 20 km/h in 10 minutes. What is its acceleration?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "200 km/h²",
+                                          "120 km/h²",
+                                          "100 km/h²",
+                                          "240 km/h²"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "An object weighs 9 N on the surface of the Earth. What would be its weight on a planet where the acceleration due to gravity is 9 times that on Earth?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The weight would remain the same",
+                                          "The weight would be equal to 1 N",
+                                          "The weight would become 9 times (81 N)",
+                                          "The weight would be reduced to 1/9 N"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "If the linear momentum of a moving object gets doubled due to the application of a force, then its kinetic energy will",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "remain same",
+                                          "increase by four times",
+                                          "increase by two times",
+                                          "increase by eight times"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The pressure of a fluid varies with depth as P = P₀ + ρgh, where ρ is the fluid density. This expression is associated with",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pascal\u0027s law",
+                                          "Newton\u0027s law",
+                                          "Bernoulli\u0027s principle",
+                                          "Archimedes\u0027 principle"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The pressure exerted by a 760 mm column of mercury at 0 °C is known as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 pascal",
+                                          "1 atmosphere",
+                                          "1 bar",
+                                          "1 poise"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "In uniform circular motion, the acceleration of the body is directed",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "along the direction of motion",
+                                          "along the tangent to the circle",
+                                          "zero",
+                                          "towards the centre, perpendicular to the velocity"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "For which one of the following does the centre of mass lie outside the body?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A ring",
+                                          "A cricket ball",
+                                          "A book",
+                                          "A solid cube"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "A stone is dropped from rest. Its velocity after 3 s (taking g = 10 m/s²) is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10 m/s",
+                                          "30 m/s",
+                                          "300 m/s",
+                                          "3 m/s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "A body immersed in a fluid experiences an upward buoyant force equal to the weight of the fluid displaced. This is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pascal\u0027s law",
+                                          "Bernoulli\u0027s principle",
+                                          "Archimedes\u0027 principle",
+                                          "Newton\u0027s third law"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "A force of 50 N acts uniformly on an area of 0.5 m². The pressure exerted is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "25 Pa",
+                                          "10 Pa",
+                                          "250 Pa",
+                                          "100 Pa"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Physics",
+                          "topic":  "Mechanics \u0026 Units"
+                      }
+                  ]
+}
