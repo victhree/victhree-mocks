@@ -2,7 +2,7 @@
     "title":  "Biology Test 2",
     "durationMin":  30,
     "scoring":  {
-                    "totalMarks":  50,
+                    "totalMarks":  25,
                     "negativeFraction":  0.3333
                 },
     "questions":  [
