@@ -1,0 +1,490 @@
+{
+    "title":  "Chemistry Test C2",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Which one of the following is a characteristic property of metals?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "They are dull and brittle",
+                                          "They are lustrous, malleable, ductile and good conductors",
+                                          "They form acidic oxides",
+                                          "They are poor conductors of heat"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The only metal that is liquid at room temperature is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "sodium",
+                                          "bromine",
+                                          "mercury",
+                                          "gallium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Which one of the following is NOT an allotrope of carbon?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Diamond",
+                                          "Coal",
+                                          "Graphite",
+                                          "Graphene"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Which allotrope of carbon conducts electricity and is used as a lubricant and in pencil leads?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Diamond",
+                                          "Fullerene",
+                                          "Graphite",
+                                          "Buckminsterfullerene only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Silver articles turn black on exposure to air because silver reacts with",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "oxygen to form silver oxide",
+                                          "nitrogen to form silver nitride",
+                                          "carbon dioxide to form silver carbonate",
+                                          "hydrogen sulphide (H₂S) to form black silver sulphide"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The chief ore of aluminium is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "bauxite",
+                                          "hematite",
+                                          "cinnabar",
+                                          "galena"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Which one of the following alloys is made of copper and zinc?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bronze",
+                                          "Brass",
+                                          "Steel",
+                                          "Solder"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Stainless steel, which resists rusting, is an alloy of iron with",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "carbon and tin",
+                                          "copper and zinc",
+                                          "chromium and nickel",
+                                          "lead and tin"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The correct order of the most abundant elements in the Earth\u0027s crust (most first) is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "silicon \u003e oxygen \u003e aluminium \u003e iron",
+                                          "iron \u003e aluminium \u003e silicon \u003e oxygen",
+                                          "aluminium \u003e iron \u003e oxygen \u003e silicon",
+                                          "oxygen \u003e silicon \u003e aluminium \u003e iron"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Tooth enamel, the hardest substance in the human body, is made mainly of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "calcium phosphate",
+                                          "sodium bicarbonate",
+                                          "calcium carbonate",
+                                          "magnesium sulphate"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "We see lightning before we hear thunder because",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "light is produced first",
+                                          "light travels much faster than sound",
+                                          "sound is absorbed by clouds",
+                                          "thunder is weaker than lightning"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "A pressure cooker cooks food faster because increasing the pressure",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "lowers the boiling point of water",
+                                          "removes all the water",
+                                          "raises the boiling point of water, so food cooks at a higher temperature",
+                                          "reduces the heat needed"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Woollen clothes keep us warm mainly because",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "wool generates heat",
+                                          "wool absorbs cold",
+                                          "wool reflects heat back",
+                                          "wool traps air, which is a poor conductor of heat"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Galvanisation protects iron from rusting by coating it with",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "zinc",
+                                          "copper",
+                                          "tin",
+                                          "chromium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The three primary macronutrients needed by plants, remembered as NPK, are",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "nitrogen, potassium and calcium",
+                                          "nitrogen, phosphorus and potassium",
+                                          "phosphorus, potassium and carbon",
+                                          "nitrogen, phosphorus and carbon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Which one of the following bacteria fixes atmospheric nitrogen in the root nodules of leguminous plants?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Escherichia coli",
+                                          "Lactobacillus",
+                                          "Rhizobium",
+                                          "Nitrosomonas"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The discovery of penicillin, the first antibiotic, is credited to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Louis Pasteur",
+                                          "Edward Jenner",
+                                          "Robert Koch",
+                                          "Alexander Fleming"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The double-helix model of the structure of DNA was proposed by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "James Watson and Francis Crick",
+                                          "Charles Darwin",
+                                          "Gregor Mendel",
+                                          "Har Gobind Khorana"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "\u0027Father of India\u0027s space programme\u0027 is a title associated with",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Homi J. Bhabha",
+                                          "Vikram Sarabhai",
+                                          "C.V. Raman",
+                                          "A.P.J. Abdul Kalam"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Chlorofluorocarbons (CFCs) are harmful mainly because they",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cause acid rain",
+                                          "increase soil fertility",
+                                          "deplete the ozone layer",
+                                          "purify water"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following is NOT an allotrope of carbon?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Coal",
+                                          "Diamond",
+                                          "Graphite",
+                                          "Graphene"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which one of the following elements is a non-metal but is lustrous?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Carbon",
+                                          "Silicon",
+                                          "Germanium",
+                                          "Iodine"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Aluminium is manufactured from",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "copper ore",
+                                          "bauxite ore",
+                                          "mica ore",
+                                          "manganese ore"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Silver articles become black after some time when exposed to air because",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "silver gets oxidised to silver oxide",
+                                          "silver reacts with moist carbon dioxide to form silver carbonate",
+                                          "silver reacts with sulphur in the air to form a coating of silver sulphide",
+                                          "silver reacts with nitrogen oxides to form silver nitrate"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "In the joining of railway tracks, iron oxide is made to react with",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "aluminium",
+                                          "zinc",
+                                          "copper",
+                                          "tin"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The thermite reaction, used to weld railway tracks, involves the reaction of aluminium with iron oxide, in which aluminium acts as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "an oxidising agent",
+                                          "an inert filler",
+                                          "a catalyst only",
+                                          "a reducing agent, producing molten iron"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Which one of the following oxides is amphoteric, showing both acidic and basic behaviour?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Zinc oxide",
+                                          "Copper oxide",
+                                          "Magnesium oxide",
+                                          "Calcium oxide"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Soap does not lather well in hard water because hard water contains",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "dissolved oxygen",
+                                          "calcium and magnesium salts",
+                                          "excess chlorine",
+                                          "dissolved carbon dioxide only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which one of the following is the correct sequence of India\u0027s scientists and their fields?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Homi Bhabha - space; Vikram Sarabhai - nuclear",
+                                          "C.V. Raman - genetics; Har Gobind Khorana - optics",
+                                          "Homi Bhabha - nuclear programme; Vikram Sarabhai - space programme",
+                                          "Both worked only on agriculture"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Potassium nitrate is used in all of the following EXCEPT",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "as a fertiliser",
+                                          "in making gunpowder",
+                                          "as a preservative",
+                                          "as a fuel in rockets replacing all others"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Metals, Non-metals \u0026 Everyday Science"
+                      }
+                  ]
+}

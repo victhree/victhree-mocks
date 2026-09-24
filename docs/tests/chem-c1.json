@@ -1,0 +1,490 @@
+{
+    "title":  "Chemistry Test C1",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Which one of the following correctly gives the charges of the three sub-atomic particles?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Proton negative, electron positive, neutron neutral",
+                                          "Proton neutral, electron negative, neutron positive",
+                                          "Proton positive, electron negative, neutron neutral",
+                                          "All three are positively charged"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The mass number (A) of an atom is equal to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the number of protons only",
+                                          "the number of electrons",
+                                          "the number of protons plus the number of neutrons",
+                                          "the number of neutrons only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The \u0027plum pudding\u0027 model of the atom, with electrons embedded in a sphere of positive charge, was proposed by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "J.J. Thomson",
+                                          "John Dalton",
+                                          "Ernest Rutherford",
+                                          "Niels Bohr"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Isotopes of an element have",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the same mass number but different atomic numbers",
+                                          "the same atomic number but different mass numbers",
+                                          "the same number of neutrons",
+                                          "different chemical properties"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The valency (combining capacity) of an atom is decided by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the number of neutrons",
+                                          "the mass number",
+                                          "the number of electrons in its outermost shell",
+                                          "the number of protons in the nucleus"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Across a period of the periodic table (left to right), the atomic radius",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "decreases",
+                                          "increases",
+                                          "stays the same",
+                                          "first increases then decreases"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "An ionic (electrovalent) bond is formed by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "sharing of electrons between two non-metals",
+                                          "transfer of electrons from a metal to a non-metal",
+                                          "a sea of free electrons among metal ions",
+                                          "a weak attraction between molecules"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Which one of the following properties is characteristic of ionic compounds?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Low melting points and poor conduction always",
+                                          "They never dissolve in water",
+                                          "High melting points, and they conduct electricity when molten or dissolved",
+                                          "They are always gases"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "In the reaction Fe + CuSO₄ → FeSO₄ + Cu, iron replaces copper. This is an example of a",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "combination reaction",
+                                          "decomposition reaction",
+                                          "double displacement reaction",
+                                          "displacement reaction"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "According to the mnemonic OIL RIG, in a redox reaction",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "oxidation is loss of electrons, reduction is gain of electrons",
+                                          "oxidation is gain of electrons, reduction is loss",
+                                          "both involve only oxygen",
+                                          "neither involves electrons"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "An acid is a substance that, in water,",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "releases hydroxide ions (OH⁻)",
+                                          "releases hydrogen ions (H⁺), tastes sour and turns blue litmus red",
+                                          "turns red litmus blue",
+                                          "feels soapy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Formic acid, present in ant stings and nettles, has the formula",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "CH₃COOH",
+                                          "H₂SO₄",
+                                          "HCOOH",
+                                          "C₆H₈O₇"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The acid that accumulates in the muscles during intense exercise, causing cramps, is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "citric acid",
+                                          "carbonic acid",
+                                          "nitric acid",
+                                          "lactic acid"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "A base that dissolves in water is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "an alkali",
+                                          "a salt",
+                                          "an acid",
+                                          "an indicator"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "On the pH scale, a neutral solution such as pure distilled water has a pH of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0",
+                                          "7",
+                                          "14",
+                                          "1"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The reaction \u0027acid + base → salt + water\u0027 is known as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "oxidation",
+                                          "sublimation",
+                                          "neutralisation",
+                                          "combustion"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The chemical name of baking soda is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "sodium carbonate",
+                                          "calcium oxychloride",
+                                          "calcium sulphate",
+                                          "sodium bicarbonate (sodium hydrogen carbonate)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "When a dilute acid reacts with a metal carbonate, the gas evolved that turns limewater milky is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "carbon dioxide",
+                                          "oxygen",
+                                          "hydrogen",
+                                          "nitrogen"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "When diluting a concentrated acid, the correct and safe procedure is to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "add water to the acid quickly",
+                                          "add the acid slowly to water",
+                                          "mix them in equal amounts instantly",
+                                          "heat the acid first"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Plaster of Paris (POP), used for setting fractured bones, is chemically",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "sodium chloride",
+                                          "calcium carbonate",
+                                          "calcium sulphate hemihydrate (CaSO₄·½H₂O)",
+                                          "copper sulphate"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Rutherford\u0027s α-particle scattering experiment on gold foil is responsible for the discovery of the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "neutron",
+                                          "electron",
+                                          "proton",
+                                          "atomic nucleus"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The correct order of atomic radius of Li, Na, Be and O is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Na \u003e Li \u003e Be \u003e O",
+                                          "Na \u003e Be \u003e Li \u003e O",
+                                          "Be \u003e Li \u003e Na \u003e O",
+                                          "O \u003e Be \u003e Li \u003e Na"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following is NOT an example of an oxidation reaction?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The taste of butter changing when left for a long period",
+                                          "A white substance forming when barium chloride solution is mixed with sodium sulphate solution",
+                                          "A reddish-brown powder coating iron articles",
+                                          "Wine turning sour with time"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The paste of a white material in water is used to keep a fractured bone fixed in place. The white material is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "bleaching powder",
+                                          "plaster of Paris",
+                                          "powder of zinc oxide",
+                                          "lime powder"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The pH value of a sample of multiple-distilled (pure) water is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "zero",
+                                          "14",
+                                          "very near to zero",
+                                          "very near to seven"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Metals conduct electricity and heat well mainly because of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ionic bonds",
+                                          "covalent bonds",
+                                          "hydrogen bonds",
+                                          "metallic bonding, with a \u0027sea\u0027 of free electrons among metal ions"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Which one of the following everyday processes is an example of reduction?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Extraction of a metal from its oxide (the oxide loses oxygen)",
+                                          "Rusting of iron",
+                                          "Souring of wine",
+                                          "Browning of a cut apple"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Variable oxidation numbers, such as +2 and +3, are characteristically shown by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "sodium",
+                                          "iron (a transition metal)",
+                                          "calcium",
+                                          "lithium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which reaction of the following will produce hydrogen gas?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Copper and dilute nitric acid",
+                                          "Calcium carbonate and hydrochloric acid",
+                                          "Magnesium and hydrochloric acid",
+                                          "Combustion of methane"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Isotopes of an element show identical chemical behaviour because",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "they have the same number of neutrons",
+                                          "they have the same mass number",
+                                          "they have different atomic numbers",
+                                          "chemical properties depend on the electrons, which are the same in isotopes"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Chemistry",
+                          "topic":  "Bonding, Acids \u0026 Bases + Atomic Structure"
+                      }
+                  ]
+}
