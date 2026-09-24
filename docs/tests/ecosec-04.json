@@ -1,0 +1,490 @@
+{
+    "title":  "Economy Test 4",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  30,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Consider the following statements about the Union Budget: 1. The word \u0027Budget\u0027 is not mentioned in the Constitution of India. 2. Under Article 112 it is officially termed the Annual Financial Statement. Which of the statements given above is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "Both 1 and 2",
+                                          "2 only",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The Economic Survey, which reviews the economy\u0027s performance over the past year, is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "presented on Budget day by the RBI Governor",
+                                          "presented a day before the Union Budget and prepared under the Chief Economic Adviser",
+                                          "a constitutional requirement under Article 112",
+                                          "released by the Finance Commission"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Which one of the following is a capital receipt of the government?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Income tax and corporate tax",
+                                          "Dividends from PSUs",
+                                          "Disinvestment of shares in a PSU",
+                                          "Interest received on loans given to states"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Consider the following: 1. Borrowings from the RBI and the public 2. Disinvestment of a PSU 3. Recovery of loans given to states. Which of these are capital receipts?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1, 2 and 3",
+                                          "1 and 3 only",
+                                          "2 and 3 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The Fiscal Deficit is best defined as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Revenue Expenditure minus Revenue Receipts",
+                                          "Fiscal Deficit minus interest payments",
+                                          "Total Expenditure minus Total Receipts excluding borrowings, i.e. the government\u0027s total borrowing requirement",
+                                          "the deficit on the capital account only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The Primary Deficit is obtained by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "subtracting interest payments on past debt from the fiscal deficit",
+                                          "adding interest payments to the fiscal deficit",
+                                          "subtracting revenue receipts from revenue expenditure",
+                                          "subtracting grants from the revenue deficit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The Revenue Deficit indicates that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the government is borrowing to build long-term assets",
+                                          "revenue expenditure exceeds revenue receipts, so the government must borrow just to meet running costs",
+                                          "the government has a surplus on the capital account",
+                                          "interest payments exceed the fiscal deficit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The Effective Revenue Deficit is calculated as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Revenue Deficit plus interest payments",
+                                          "Fiscal Deficit minus interest payments",
+                                          "Revenue Deficit minus grants given to states for the creation of capital assets",
+                                          "Total Expenditure minus Total Receipts"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "During an economic slowdown with high unemployment, an appropriate expansionary fiscal policy would involve",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "selling government securities",
+                                          "cutting spending and raising taxes",
+                                          "raising interest rates",
+                                          "increasing government spending and cutting taxes, thereby increasing the deficit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Which of the following documents is the government required to present with the Union Budget under the FRBM Act, 2003? 1. Medium-term Fiscal Policy Statement 2. Fiscal Policy Strategy Statement 3. Macroeconomic Framework Statement",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1, 2 and 3",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1 and 2 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The key distinction between a direct tax and an indirect tax is that in a direct tax,",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the burden can be shifted to another person",
+                                          "the incidence and impact fall on the same person, so the burden cannot be shifted",
+                                          "it is levied only on goods and services",
+                                          "it is always regressive"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Which one of the following is generally true of the nature of direct and indirect taxes?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Direct taxes are regressive; indirect taxes are progressive",
+                                          "Both are progressive",
+                                          "Direct taxes are usually progressive, while indirect taxes are usually regressive",
+                                          "Both are proportional"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The Goods and Services Tax (GST) was implemented in India on",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 April 2016",
+                                          "1 January 2018",
+                                          "1 April 2017",
+                                          "1 July 2017"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "GST is described as a \u0027destination-based\u0027 tax, which means",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the tax revenue goes to the state where the good or service is consumed",
+                                          "the tax revenue goes to the state where the good is manufactured",
+                                          "the tax is levied only at the factory gate",
+                                          "the tax is collected only by the Centre"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Under GST, the Integrated GST (IGST) is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "collected by the state on intra-state sales",
+                                          "collected by the Centre on inter-state sales and then shared",
+                                          "a tax on imports outside GST",
+                                          "collected only on exports"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Which of the following is currently OUTSIDE the GST net? 1. Petrol and diesel 2. Alcohol for human consumption 3. Electricity 4. Readymade garments",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2, 3 and 4 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3 only",
+                                          "1, 2, 3 and 4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which one of the following correctly distinguishes a cess from a surcharge?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A cess goes into the Consolidated Fund and can be spent on anything; a surcharge is for a specific purpose",
+                                          "A surcharge is always temporary; a cess is permanent",
+                                          "Both go to dedicated funds",
+                                          "A cess is levied for a specific purpose and goes to a dedicated fund, while a surcharge goes to the Consolidated Fund and can be spent on anything"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Which one of the following correctly distinguishes tax evasion from tax avoidance?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tax evasion is the illegal hiding of income, while tax avoidance is the legal use of laws and loopholes to reduce tax",
+                                          "Both are illegal",
+                                          "Tax avoidance is illegal; tax evasion is legal",
+                                          "Both are legal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "A tax on the profits of registered companies is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "an indirect tax",
+                                          "corporate tax, a direct tax",
+                                          "GST",
+                                          "customs duty"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "GST removes the \u0027cascading effect\u0027 of taxes primarily through",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a higher single tax rate",
+                                          "exempting all services",
+                                          "the Input Tax Credit (ITC) mechanism, which lets businesses claim credit for taxes paid on inputs",
+                                          "abolishing customs duty"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Match List-I with List-II and select the correct answer using the code below. List-I: A. Fiscal Deficit B. Revenue Deficit C. Effective Revenue Deficit D. Primary Deficit. List-II: 1. Total Expenditure − Revenue Receipts − Non-debt Capital Receipts 2. Revenue Expenditure − Revenue Receipts 3. Revenue Deficit − Grants for Creation of Capital Assets 4. Fiscal Deficit − Interest Payments.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A-1 B-2 C-3 D-4",
+                                          "A-1 B-3 C-2 D-4",
+                                          "A-4 B-2 C-3 D-1",
+                                          "A-4 B-3 C-2 D-1"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which one of the following expenditures is subtracted from the Fiscal Deficit to arrive at the Primary Deficit?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Defence expenditure",
+                                          "Expenditure on subsidies",
+                                          "Interest payments",
+                                          "Pension"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following is an example of a price floor?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Minimum Support Price (MSP) for Jowar in India",
+                                          "Subsidy given to farmers to buy fertilizers",
+                                          "Price paid by people to buy goods from ration shops",
+                                          "Maximum Retail Price (MRP) printed on packets"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "If India enters into Free Trade Agreements (FTAs), the growth of India\u0027s exports would depend on which of the following? 1. Extent of tariff reduction vis-a-vis MFN tariffs 2. Extent of relaxation in rules of origin 3. Extent of relaxation in sanitary and phytosanitary measures 4. Level of infrastructure in India 5. Income in nations with which India signs FTAs.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1, 3 and 4 only",
+                                          "1, 2 and 4 only",
+                                          "2, 3 and 5 only",
+                                          "1, 2, 3, 4 and 5"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Following the Constitution (101st Amendment) Act, 2016, Parliament enacted several GST Acts in 2017. Which one of the following does NOT fall in this category (of Acts enacted by Parliament)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Central Goods and Services Tax Act",
+                                          "The Integrated Goods and Services Tax Act",
+                                          "The GST (Compensation to States) Act",
+                                          "The State Goods and Services Tax Act"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Which one of the following correctly distinguishes \u0027disinvestment\u0027 from \u0027strategic disinvestment\u0027?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "In disinvestment the government sells a minority stake and retains majority control, while in strategic disinvestment it sells a majority stake and hands over management control",
+                                          "In disinvestment the government hands over management control; in strategic disinvestment it retains control",
+                                          "Both mean full privatisation",
+                                          "Disinvestment applies only to private firms"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "When the central government gives a loan to a state government, it is classified as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "revenue expenditure, because it is a transfer",
+                                          "not recorded in the budget",
+                                          "a revenue receipt",
+                                          "capital expenditure, because it creates a financial asset (the right to receive repayment)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The Laffer Curve illustrates the relationship between",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "inflation and unemployment",
+                                          "tax rates and tax revenue, suggesting that beyond a point higher rates reduce total revenue",
+                                          "income and consumption",
+                                          "money supply and interest rates"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "A tax system is said to be \u0027buoyant\u0027 when",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "tax revenue grows more slowly than GDP",
+                                          "tax rates are frequently changed",
+                                          "a 1% rise in GDP is accompanied by a more than 1% rise in tax revenue",
+                                          "the government relies only on indirect taxes"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The GST Council, which decides GST rates and rules, is a constitutional body under Article 279A and is best described as an example of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "fiscal federalism breakdown",
+                                          "a statutory non-constitutional body",
+                                          "a purely central body",
+                                          "cooperative federalism, with the Union Finance Minister as chair and state finance ministers as members"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Fiscal Policy \u0026 Taxation"
+                      }
+                  ]
+}

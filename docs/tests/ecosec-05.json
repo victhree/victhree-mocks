@@ -1,0 +1,490 @@
+{
+    "title":  "Economy Test 5",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  30,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The Balance of Payments (BoP) is divided into which two main accounts?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Revenue account and capital account",
+                                          "Current account and capital account",
+                                          "Trade account and invisible account",
+                                          "Fiscal account and monetary account"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "In the Balance of Payments, remittances sent home by Indians working abroad are recorded in the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "capital account",
+                                          "current account, under transfers",
+                                          "forex reserves",
+                                          "trade balance of goods"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Which one of the following is part of \u0027invisible\u0027 trade in the current account?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "IT services, tourism and remittances",
+                                          "Import of electronic goods",
+                                          "Export of crude oil",
+                                          "Foreign Direct Investment"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Which one of the following correctly distinguishes FDI from FPI?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "FDI is short-term and volatile; FPI is long-term and stable",
+                                          "FDI brings significant ownership and is long-term and stable, while FPI is a portfolio holding with no managerial control and is more volatile",
+                                          "Both give managerial control",
+                                          "FPI cannot be sold quickly"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Under the \u002710% rule\u0027, foreign investment in a listed Indian company is classified as FDI when the investor holds",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "less than 1%",
+                                          "exactly 5%",
+                                          "10% or more of the equity",
+                                          "any amount, always FPI"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Which one of the following correctly distinguishes Greenfield from Brownfield FDI?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Greenfield FDI builds a new business or factory, while Brownfield FDI buys or expands an existing business",
+                                          "Greenfield FDI buys an existing business; Brownfield builds a new one",
+                                          "Both build new factories",
+                                          "Both are portfolio investments"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "India\u0027s exchange-rate system is best described as a",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "fixed exchange rate pegged to the US dollar",
+                                          "managed floating exchange rate, mostly market-determined with RBI intervention to smooth swings",
+                                          "freely floating exchange rate with no intervention",
+                                          "gold standard"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Which one of the following correctly distinguishes \u0027depreciation\u0027 from \u0027devaluation\u0027 of a currency?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Depreciation is an official act; devaluation is caused by market forces",
+                                          "Both are caused by market forces",
+                                          "Depreciation is caused by market demand and supply under a floating system, while devaluation is a deliberate official act under a fixed system",
+                                          "Both are deliberate government acts"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "A weaker Rupee generally has which of the following effects? 1. Exports become cheaper and more competitive 2. Imports such as crude oil become costlier 3. Remittances yield more Rupees",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "With respect to convertibility of the Rupee, which one of the following is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "India has full convertibility on the current account but only partial convertibility on the capital account",
+                                          "India has full convertibility on both current and capital accounts",
+                                          "India has no convertibility at all",
+                                          "India allows full capital-account convertibility but restricts the current account"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The IMF and the World Bank, created at the 1944 Bretton Woods Conference, are together known as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Marrakesh institutions",
+                                          "the Bretton Woods twins",
+                                          "the Geneva bodies",
+                                          "the G7 banks"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Which one of the following is the main job of the International Monetary Fund (IMF)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Funding long-term infrastructure projects",
+                                          "Settling investment disputes",
+                                          "Ensuring the stability of the international monetary system and lending to countries facing Balance of Payments crises",
+                                          "Setting global trade rules"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The main role of the World Bank, as distinct from the IMF, is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "short-term crisis lending",
+                                          "enforcing trade rules",
+                                          "managing exchange rates",
+                                          "long-term economic development and poverty reduction through project funding"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which of the five institutions of the World Bank Group is India NOT a member of?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ICSID",
+                                          "IDA",
+                                          "IBRD",
+                                          "IFC"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Which institution of the World Bank Group provides zero- to low-interest loans and grants to the poorest countries?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "IBRD",
+                                          "IDA",
+                                          "IFC",
+                                          "MIGA"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The World Trade Organization (WTO) was established in 1995 and",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "was created at Bretton Woods",
+                                          "replaced the IMF and is headquartered in Washington",
+                                          "replaced the older GATT, is headquartered in Geneva, and enforces the rules of international trade",
+                                          "only regulates agricultural trade"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The Most-Favoured-Nation (MFN) clause of the WTO is based on the principle of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "discrimination between nations",
+                                          "a uniform global tariff",
+                                          "differential treatment of locals and foreigners",
+                                          "non-discrimination, so a favour granted to one member must be extended to all members"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "In the Asian Infrastructure Investment Bank (AIIB), India is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the second-largest shareholder (after China) and the largest borrower of its funds",
+                                          "not a member",
+                                          "the largest shareholder",
+                                          "only an observer"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Which one of the following correctly describes the New Development Bank (NDB)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Established in 1966 and headquartered in Manila",
+                                          "Established in 2014 by the BRICS nations, headquartered in Shanghai, operating on an equal one-member-one-vote basis",
+                                          "A Bretton Woods institution",
+                                          "Headquartered in Washington with weighted voting"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which one of the following is the correct order of stages of economic integration, from least to most integrated?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Free Trade Agreement, Preferential Trade Agreement, Customs Union, Common Market, Economic Union",
+                                          "Customs Union, Common Market, Free Trade Agreement, Economic Union, Preferential Trade Agreement",
+                                          "Preferential Trade Agreement, Free Trade Agreement, Customs Union, Common Market, Economic Union",
+                                          "Economic Union, Common Market, Customs Union, Free Trade Agreement, Preferential Trade Agreement"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "In India, the term \u0027hot money\u0027 is used to refer to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Currency Reserves with the RBI",
+                                          "Net GDR",
+                                          "Net Foreign Direct Investment",
+                                          "Foreign Portfolio Investment"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which of the following is NOT included in the Capital Account of the Balance of Payments of a country?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Foreign Direct Investment",
+                                          "Commercial Borrowing",
+                                          "Invisibles",
+                                          "External Assistance"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following would be considered Foreign Direct Investment?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A foreign company buying shares in stock exchanges in India",
+                                          "A foreign pension fund investing in Indian stock markets",
+                                          "A foreign merchant banker buying shares from Indian stock markets",
+                                          "A foreign entity setting up an educational institution in India"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The members of NAFTA are",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "USA, Canada and Mexico",
+                                          "USA, Canada and India",
+                                          "USA, Canada and Japan",
+                                          "USA, UK and India"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Consider the following statements about the Regional Comprehensive Economic Partnership (RCEP): 1. It is a comprehensive free trade agreement between the ASEAN member States and ASEAN\u0027s free trade agreement partners. 2. India opted out of RCEP. Which of the statements given above is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Which of the following are components of India\u0027s foreign exchange reserves? 1. Foreign Currency Assets 2. Gold 3. Special Drawing Rights (SDRs) 4. Reserve Tranche Position at the IMF",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "1, 2 and 3 only",
+                                          "2, 3 and 4 only",
+                                          "1, 2, 3 and 4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The value of the IMF\u0027s Special Drawing Rights (SDR) is determined by a basket of how many major currencies?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Five",
+                                          "Four",
+                                          "Three",
+                                          "Ten"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The Foreign Exchange Management Act (FEMA), 1999",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "created the Bretton Woods institutions",
+                                          "governs foreign exchange transactions in India, replacing the older and stricter FERA",
+                                          "fixed the Rupee to the US dollar",
+                                          "abolished all convertibility"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which one of the following correctly distinguishes the IMF from the World Bank?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The IMF funds long-term infrastructure; the World Bank handles short-term crises",
+                                          "Both focus only on trade rules",
+                                          "The IMF focuses on monetary stability and short-term BoP crisis lending, while the World Bank focuses on long-term development and poverty reduction",
+                                          "The IMF is a regional bank; the World Bank is global"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "A Special Economic Zone (SEZ) in India is best described as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a zone with stricter rules than the rest of the country",
+                                          "a zone reserved only for public-sector units",
+                                          "a purely agricultural region",
+                                          "a designated area with relaxed economic rules (tax breaks, duty-free imports) to attract investment and boost exports, governed by the SEZ Act, 2005"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "External Sector \u0026 International Institutions"
+                      }
+                  ]
+}

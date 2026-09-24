@@ -1,0 +1,490 @@
+{
+    "title":  "Economy Test 6",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  30,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "\u0027Plantation agriculture\u0027 is best described as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "growing just enough food for one\u0027s family",
+                                          "a form of commercial farming in which a single cash crop like tea or rubber is grown on a large estate",
+                                          "growing two crops together in alternate rows",
+                                          "clearing and burning forest patches for a few years"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Which one of the following correctly distinguishes crop rotation from intercropping?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Crop rotation grows crops simultaneously; intercropping grows them sequentially",
+                                          "Both are done at the same time",
+                                          "Crop rotation grows different crops sequentially on the same land across seasons, while intercropping grows two or more crops simultaneously",
+                                          "Both involve abandoning the land"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Wheat, mustard and gram are examples of which cropping season?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kharif",
+                                          "Rabi",
+                                          "Zaid",
+                                          "Perennial"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "With respect to the Minimum Support Price (MSP), which one of the following is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The RBI decides the MSP",
+                                          "The MSP has full statutory backing",
+                                          "The CACP recommends the MSP, and the Cabinet Committee on Economic Affairs (CCEA) gives the final approval",
+                                          "MSP is fixed by the states"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Consider the following about MSP: 1. It is a guaranteed floor price for certain crops. 2. It has full legal/statutory backing, so the government is legally bound to buy every grain at MSP. Which is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Neither 1 nor 2",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "1 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Which one of the following crops does NOT have an MSP but instead has a Fair and Remunerative Price (FRP)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sugarcane",
+                                          "Paddy",
+                                          "Wheat",
+                                          "Gram"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "On the recommendation of the M.S. Swaminathan Committee, the government fixes MSP at a minimum of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2 times the C2 cost",
+                                          "1.5 times (150%) of the A2+FL cost",
+                                          "the international market price",
+                                          "the cost of living index"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The National Food Security Act (NFSA), 2013 covers up to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "50% of the rural and 75% of the urban population",
+                                          "100% of the population",
+                                          "75% of the rural and 50% of the urban population, roughly two-thirds of the total",
+                                          "only families below the poverty line"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Under the NFSA, Antyodaya Anna Yojana (AAY) households are entitled to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5 kg of foodgrains per person per month",
+                                          "cash instead of grain",
+                                          "free electricity",
+                                          "35 kg of foodgrains per family per month, regardless of family size"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Which one of the following pairs of \u0027revolution\u0027 and its associated product is correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Yellow Revolution - oilseeds",
+                                          "Blue Revolution - milk",
+                                          "White Revolution - fish",
+                                          "Pink Revolution - jute"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The Index of Industrial Production (IIP) is compiled by the NSO with base year 2011-12 and gives the highest weight among broad sectors to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "mining",
+                                          "manufacturing",
+                                          "electricity",
+                                          "construction"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The Eight Core Industries, which make up about 40.27% of the IIP, have their highest individual weight assigned to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cement",
+                                          "Fertilizers",
+                                          "Petroleum Refinery Products",
+                                          "Coal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "As adopted in the Union Budget 2025-26, MSMEs in India are now classified on the basis of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "only investment in plant and machinery",
+                                          "only annual turnover",
+                                          "the number of employees",
+                                          "a composite criterion of both investment and annual turnover"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which Industrial Policy Resolution, based on the socialist pattern of society and giving the public sector control over heavy industries, is called the \u0027Economic Constitution of India\u0027?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Industrial Policy Resolution, 1956",
+                                          "Industrial Policy Resolution, 1948",
+                                          "Industrial Policy, 1977",
+                                          "New Industrial Policy, 1991"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The New Industrial Policy of 1991 is chiefly associated with",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Licence Raj",
+                                          "the LPG reforms (Liberalisation, Privatisation, Globalisation)",
+                                          "the nationalisation of banks",
+                                          "reservation of industries for the public sector"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The Production Linked Incentive (PLI) scheme rewards companies with",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a waiver of all taxes",
+                                          "free land for factories",
+                                          "direct cash incentives based on their incremental sales of goods manufactured in India",
+                                          "guaranteed government purchase"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "PM Gati Shakti, the National Master Plan, is best described as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a crop insurance scheme",
+                                          "a foreign trade agreement",
+                                          "a direct income scheme for farmers",
+                                          "a digital platform integrating 16 ministries for coordinated infrastructure planning, driven by seven engines"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Under the National Infrastructure Pipeline (NIP), the projected capital expenditure is shared roughly in the ratio",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Centre 39%, States 39%, Private Sector 22%",
+                                          "Centre 50%, States 50%",
+                                          "Centre 100%",
+                                          "Private Sector 60%, Government 40%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Under the National Monetisation Pipeline (NMP), the government",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "sells public assets permanently to private players",
+                                          "leases out existing revenue-generating public assets to private players for a limited time while retaining ownership",
+                                          "nationalises private infrastructure",
+                                          "gives free assets to states"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Make in India and Startup India were launched respectively in",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2015 and 2017",
+                                          "2016 and 2014",
+                                          "2014 and 2016",
+                                          "2014 and 2015"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following factors is NOT considered in determining the Minimum Support Price (MSP) in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cost of production",
+                                          "Price trends in international and domestic markets",
+                                          "Cost of living index",
+                                          "Inter-crop price parity"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Consider the following statements about the Public Distribution System: 1. It is operated under the joint responsibility of the Centre and States/UTs. 2. The FCI has assumed responsibility for procurement, storage and transportation of food grains to the State Governments. 3. Both Centre and State jointly identify eligible beneficiaries. 4. Some States distribute additional items like pulses and edible oil. Which of the statements are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2 and 3 only",
+                                          "1, 2 and 4",
+                                          "1 and 2 only",
+                                          "3 and 4 only"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following is NOT an objective of the MGNREGA?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Providing up to 100 days of skilled labour in a financial year",
+                                          "Creation of productive assets",
+                                          "Enhancing livelihood security",
+                                          "Ensuring empowerment to women"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "As per the use-based classification of the Index of Industrial Production (IIP), the maximum weight has been assigned to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "primary goods",
+                                          "intermediate goods",
+                                          "consumer durables",
+                                          "consumer non-durables"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Consider the following statements about MSMEs: 1. They comprise a dynamic sector providing large employment. 2. They require low capital cost and help industrialise backward regions. 3. They contribute enormously to socio-economic development. How many of the above statements are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "None",
+                                          "1",
+                                          "2",
+                                          "3"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The e-NAM (Electronic National Agriculture Market), launched in 2016, is best described as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a physical mandi in every district",
+                                          "a minimum support price mechanism",
+                                          "a crop insurance scheme",
+                                          "a pan-India electronic trading portal networking existing APMC mandis into a unified national market"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The Green Revolution in India was primarily driven by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "High-Yielding Variety (HYV) seeds, chemical fertilizers and irrigation, and was most successful in Punjab, Haryana and Western UP",
+                                          "organic farming and traditional seeds",
+                                          "shifting cultivation",
+                                          "a ban on foodgrain imports"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "To be officially recognised as a \u0027Startup\u0027 by DPIIT and receive tax benefits, an entity must, among other criteria, be within",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5 years of incorporation with turnover up to Rs 50 crore",
+                                          "10 years of incorporation with annual turnover not exceeding Rs 100 crore in any year",
+                                          "15 years of incorporation with any turnover",
+                                          "3 years of incorporation only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "In the startup ecosystem, a \u0027unicorn\u0027 refers to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a government-owned enterprise",
+                                          "a company listed on the stock exchange",
+                                          "a privately held startup valued at over US$1 billion",
+                                          "a public-sector bank"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "A \u0027Public-Private Partnership (PPP)\u0027 model in infrastructure means that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the government alone finances and runs the project",
+                                          "the project is fully foreign-funded",
+                                          "only the private sector owns the asset permanently",
+                                          "the government and private companies jointly finance, build and run public infrastructure"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Agriculture \u0026 Industry"
+                      }
+                  ]
+}

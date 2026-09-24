@@ -1,0 +1,490 @@
+{
+    "title":  "Economy Test 1",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  30,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Which one of the following correctly distinguishes microeconomics from macroeconomics?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Microeconomics studies aggregate output and inflation; macroeconomics studies a single firm",
+                                          "Microeconomics studies individual units like a consumer or firm, while macroeconomics studies the economy as a whole",
+                                          "Both study only the government sector",
+                                          "Microeconomics deals only with international trade"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The value of the next-best alternative foregone when a choice is made is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "marginal cost",
+                                          "sunk cost",
+                                          "opportunity cost",
+                                          "fixed cost"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Which one of the following pairs of a factor of production and its reward is correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Capital - Interest",
+                                          "Labour - Profit",
+                                          "Land - Interest",
+                                          "Entrepreneurship - Rent"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Street lighting and national defence, which are non-rival and non-excludable, are examples of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "private goods",
+                                          "public goods",
+                                          "merit goods",
+                                          "free goods"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "According to the Law of Demand, other things constant, a rise in the price of a good usually",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "makes demand perfectly elastic",
+                                          "raises the quantity demanded",
+                                          "reduces the quantity demanded",
+                                          "shifts the supply curve left"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The price at which quantity demanded exactly equals quantity supplied is the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "equilibrium price",
+                                          "floor price",
+                                          "support price",
+                                          "ceiling price"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Farming, fishing and mining, which extract natural resources directly, belong to the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "secondary sector",
+                                          "primary sector",
+                                          "tertiary sector",
+                                          "quaternary sector"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "In which market structure is a firm a \u0027price taker\u0027, selling an identical product with no control over price?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Monopoly",
+                                          "Oligopoly",
+                                          "Perfect competition",
+                                          "Monopolistic competition"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "A market dominated by a few large firms, such as telecom networks and airlines, is a",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "monopoly",
+                                          "monopolistic competition",
+                                          "perfect competition",
+                                          "oligopoly"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "India is best described as a",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "mixed economy",
+                                          "pure command economy",
+                                          "pure market economy",
+                                          "subsistence economy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Gross Domestic Product (GDP) is the total value of all final goods and services produced",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "by the citizens of a country, wherever located",
+                                          "within the geographical boundary of a country in a year",
+                                          "only by the government sector",
+                                          "excluding the services sector"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Which one of the following formulas is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "NNP = GDP + Depreciation",
+                                          "NDP = GNP − Depreciation",
+                                          "NDP = GDP − Depreciation and NNP = GNP − Depreciation",
+                                          "NNP = GDP − Exports"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The standard definition of \u0027National Income\u0027 in India is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "GDP at market price",
+                                          "GNP at market price",
+                                          "GVA at basic price",
+                                          "NNP at factor cost"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "National income data in India is prepared by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the National Statistical Office (NSO) under MoSPI",
+                                          "the Reserve Bank of India",
+                                          "the NITI Aayog",
+                                          "the Finance Commission"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The expenditure-method formula for GDP is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "GDP = C + I + G − Depreciation",
+                                          "GDP = C + I + G + (X − M)",
+                                          "GDP = Wages + Rent + Interest",
+                                          "GDP = Exports − Imports"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The key difference between nominal GDP and real GDP is that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "nominal GDP is at constant prices; real GDP at current prices",
+                                          "real GDP is always higher than nominal GDP",
+                                          "nominal GDP is at current prices and includes inflation, while real GDP is at constant prices and strips out inflation",
+                                          "they are identical when prices rise"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The GDP deflator is defined as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "exports minus imports",
+                                          "the ratio of real GDP to nominal GDP",
+                                          "GDP minus depreciation",
+                                          "the ratio of nominal GDP to real GDP"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The relationship between Gross Value Added at basic prices and GDP at market prices is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "GDP = GVA + taxes on products − subsidies on products",
+                                          "GDP = GVA − taxes on products + subsidies on products",
+                                          "GDP = GVA + depreciation",
+                                          "GDP = GVA + net exports"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "In terms of GDP measured by Purchasing Power Parity (PPP), India is the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "largest economy in the world",
+                                          "3rd largest economy",
+                                          "2nd largest economy",
+                                          "6th largest economy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Which sector currently contributes the largest share of India\u0027s GDP?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Primary (agriculture)",
+                                          "Secondary (industry)",
+                                          "Tertiary (services)",
+                                          "Quinary sector"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "A market situation when many firms sell similar but not identical products is termed as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "perfect competition",
+                                          "imperfect competition",
+                                          "monopolistic competition",
+                                          "oligopoly"
+                                      ],
+                          "pyq":  "CDS 2019-I",
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which one of the following may lead to a movement ALONG the demand curve of a commodity?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Change in its price",
+                                          "Change in the price of other commodities",
+                                          "Change in the income of the consumer",
+                                          "Change in tastes and preferences"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "In India, the base year of the new GDP series has been shifted from 2004-05 to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2007-08",
+                                          "2008-09",
+                                          "2010-11",
+                                          "2011-12"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which one of the following statements is NOT correct for National Income Accounting for India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Imports are subtracted in calculating GDP",
+                                          "Net factor payments earned from abroad are included in GDP",
+                                          "Purchase and sale of second-hand goods are not included in GDP",
+                                          "Inventories are included in Gross Domestic Capital Formation"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Level of per-capita GDP depends upon which of the following? 1. Proportion of population in the working age 2. Work participation rate 3. Per worker productivity. Select the correct answer using the code given below.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "3 only",
+                                          "1 and 3 only",
+                                          "1 and 2 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "A farmer sells wheat for Rs 50, a mill turns it into flour sold for Rs 120, and a bakery bakes bread sold for Rs 200. The total value added (GVA) counted in GDP is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs 370",
+                                          "Rs 250",
+                                          "Rs 120",
+                                          "Rs 200"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "If GVA at basic prices is Rs 200, product taxes are Rs 15 and product subsidies are Rs 5, then GDP at market prices is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs 210",
+                                          "Rs 190",
+                                          "Rs 180",
+                                          "Rs 220"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "\u0027Capital deepening\u0027 in an economy refers to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "reducing the total capital stock",
+                                          "using more fixed capital per worker",
+                                          "emphasising social overhead capital",
+                                          "keeping the capital-output ratio constant"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "A situation in which equilibrium real GDP falls short of potential GDP is known as a",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "demand-pull inflation",
+                                          "inflationary gap",
+                                          "recessionary gap",
+                                          "supply shock"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The term \u0027demographic dividend\u0027 refers to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a decline in the infant mortality rate",
+                                          "a fall in the total population",
+                                          "an increase in the sex ratio",
+                                          "a rise in economic growth due to a higher share of working-age people in the population"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Basics of Economy \u0026 National Income"
+                      }
+                  ]
+}

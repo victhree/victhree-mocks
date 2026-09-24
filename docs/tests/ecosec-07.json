@@ -1,0 +1,490 @@
+{
+    "title":  "Economy Test 7",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  30,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "In labour statistics, the \u0027unemployed\u0027 are best defined as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "all people of working age",
+                                          "the workforce minus the labour force",
+                                          "the labour force minus the workforce",
+                                          "only those in the informal sector"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The Unemployment Rate (UR) is calculated as the number of unemployed as a percentage of the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "total population",
+                                          "labour force",
+                                          "working-age population",
+                                          "workforce"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "\u0027Disguised unemployment\u0027, extremely common in Indian agriculture, is a situation where",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "workers are voluntarily between jobs",
+                                          "workers lack the skills the market needs",
+                                          "more people are employed than needed, so the marginal productivity of labour is zero",
+                                          "a recession causes layoffs"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Unemployment arising from a mismatch between the skills workers have and the skills the market needs, often due to automation or economic shifts, is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "frictional unemployment",
+                                          "structural unemployment",
+                                          "cyclical unemployment",
+                                          "seasonal unemployment"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Roughly what share of India\u0027s workforce is employed in the unorganised (informal) sector?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "About 40%",
+                                          "About 60%",
+                                          "About 90%",
+                                          "About 25%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The Gini coefficient, used to measure income inequality, ranges from",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "0 (perfect equality) to 1 (perfect inequality)",
+                                          "0 (perfect inequality) to 1 (perfect equality)",
+                                          "−1 to +1",
+                                          "1 to 100 always"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Which committee shifted India\u0027s poverty measurement away from pure calorie norms towards a broader \u0027consumption expenditure\u0027 basket including health and education?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Alagh Committee (1979)",
+                                          "Tendulkar Committee (2009)",
+                                          "Lakdawala Committee (1993)",
+                                          "Dandekar Committee"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "India\u0027s First Five-Year Plan (1951-56) was based on which model and focused on which sector?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mahalanobis model; heavy industry",
+                                          "Rolling Plan; services",
+                                          "Harrod-Domar model; agriculture and irrigation",
+                                          "Gadgil model; exports"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Second Five-Year Plan (1956-61), which laid India\u0027s industrial foundation with steel plants at Bhilai, Durgapur and Rourkela, was based on the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Harrod-Domar model",
+                                          "Gadgil formula",
+                                          "Rolling Plan approach",
+                                          "Mahalanobis model"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "During the \u0027Plan Holiday\u0027 of 1966-69, when Five-Year Plans were paused and replaced by three Annual Plans, which major agricultural transformation was launched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Green Revolution",
+                                          "Operation Flood",
+                                          "bank nationalisation",
+                                          "the Rolling Plan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "India\u0027s Five-Year Plans were drafted by the Planning Commission, but their final approval was given by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the President",
+                                          "the National Development Council (NDC)",
+                                          "the Finance Commission",
+                                          "the Rajya Sabha"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The 1991 economic crisis that triggered India\u0027s reforms was primarily a",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "banking collapse",
+                                          "stock market crash",
+                                          "severe Balance of Payments crisis, with reserves covering barely two weeks of imports",
+                                          "famine"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The 1991 reforms are known as the LPG reforms, standing for",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Loans, Payments and Grants",
+                                          "Labour, Production and Goods",
+                                          "Licensing, Planning and Growth",
+                                          "Liberalisation, Privatisation and Globalisation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which one of the following correctly distinguishes NITI Aayog from the erstwhile Planning Commission?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "NITI Aayog is an advisory think tank promoting cooperative federalism with no power to allocate funds, while the Planning Commission controlled state funding",
+                                          "NITI Aayog allocates funds to states; the Planning Commission was only advisory",
+                                          "Both allocated funds",
+                                          "The Prime Minister chairs neither body"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The Human Development Index (HDI), published by the UNDP, is based on which three dimensions?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Income, employment and inflation",
+                                          "Health (life expectancy), education (years of schooling) and standard of living (GNI per capita)",
+                                          "Trade, investment and savings",
+                                          "Poverty, hunger and sanitation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The Global Multidimensional Poverty Index (MPI) is published by the UNDP together with",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the World Bank",
+                                          "the IMF",
+                                          "the Oxford Poverty and Human Development Initiative (OPHI)",
+                                          "the WTO"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Which one of the following report-and-publisher pairs is correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "World Development Report - IMF",
+                                          "World Economic Outlook - World Bank",
+                                          "Human Development Report - World Bank",
+                                          "World Economic Outlook - IMF"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The Global Hunger Index (GHI) is published by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Concern Worldwide and Welthungerhilfe",
+                                          "the UNDP",
+                                          "the World Bank",
+                                          "the WEF"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The Phillips Curve depicts the relationship between",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "tax rates and tax revenue",
+                                          "inflation and unemployment (an inverse relationship)",
+                                          "growth and inequality",
+                                          "income and consumption"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "A \u0027recession\u0027 is technically defined as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a single quarter of falling GDP",
+                                          "any year of low growth",
+                                          "two consecutive quarters (six months) of falling GDP",
+                                          "a permanent decline in output"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The mismatch in the regional or occupational pattern of job vacancies and the pattern of worker availability results in",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "structural unemployment",
+                                          "disguised unemployment",
+                                          "altered unemployment",
+                                          "cyclical unemployment"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which one of the following statements with regard to the National Rural Employment Guarantee Act, 2005 is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It ensures 175 days of employment to needy persons in rural areas",
+                                          "It gives higher wages to women workers",
+                                          "People are generally given both skilled and unskilled jobs",
+                                          "This is implemented only in rural areas of India"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following dimensions is NOT included in the Human Development Index?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Life expectancy at birth",
+                                          "Mean years of schooling",
+                                          "Expected years of schooling",
+                                          "Mortality rate"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The computation of poverty in terms of Monthly Per Capita Consumption Expenditure (MPCE) based on the Mixed Reference Period was recommended by the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lakdawala Committee",
+                                          "Tendulkar Committee",
+                                          "Dandekar Committee",
+                                          "Alagh Committee"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Which of the following surveys are conducted by the Ministry of Statistics and Programme Implementation? 1. Survey on Social Consumption: Health 2. Comprehensive Modular Survey: Telecom and ICT skills 3. Periodic Labour Force Survey 4. Annual Survey on Unincorporated Enterprises. Select the answer using the code below.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1, 2, 3 and 4",
+                                          "1, 2 and 3 only",
+                                          "3 and 4 only",
+                                          "1 and 2 only"
+                                      ],
+                          "pyq":  "CDS 2025-II",
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Which one of the following correctly distinguishes Giffen goods from Veblen goods, both exceptions to the Law of Demand?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Giffen goods are luxury status symbols; Veblen goods are inferior staples",
+                                          "Both see demand fall when price rises",
+                                          "Both are normal goods",
+                                          "Giffen goods are highly inferior staples whose demand rises when their price rises, while Veblen goods are luxury status symbols whose demand rises with price for snob appeal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The \u0027crowding-out effect\u0027 refers to a situation where",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "heavy government borrowing absorbs available credit, leaving little and costly credit for the private sector",
+                                          "private investment is encouraged by low government borrowing",
+                                          "the central bank prints money",
+                                          "exports crowd out imports"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "In international banking, a \u0027Nostro account\u0027 is best described as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a foreign bank\u0027s account with a domestic bank in domestic currency",
+                                          "a domestic bank\u0027s account with a foreign bank, held in foreign currency",
+                                          "a third-party reference account",
+                                          "a domestic account in domestic currency"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The \u0027Twin Balance Sheet Problem\u0027, popularised by the Economic Survey, describes a situation where",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "both the Centre and States run deficits",
+                                          "both exports and imports fall",
+                                          "both banks (with bad loans) and corporate companies (with heavy debt) are under severe financial stress at the same time",
+                                          "both inflation and unemployment rise"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The \u0027Hindu Rate of Growth\u0027, coined by economist Raj Krishna, refers to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a period of very high growth after 1991",
+                                          "the growth rate of the agricultural sector alone",
+                                          "the growth of the services sector",
+                                          "the slow, stagnant growth rate (around 3.5%) India experienced during the heavy-planning decades before the 1990s reforms"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Labour, Planning \u0026 Reports"
+                      }
+                  ]
+}

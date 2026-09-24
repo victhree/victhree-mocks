@@ -1,0 +1,490 @@
+{
+    "title":  "Economy Test 2",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  30,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The primary goal of the RBI\u0027s monetary policy is to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "maximise government revenue",
+                                          "keep prices stable while supporting growth",
+                                          "fix the exchange rate permanently",
+                                          "finance the fiscal deficit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The Cash Reserve Ratio (CRR) is the percentage of deposits banks must",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "keep as pure cash with the RBI, earning no interest",
+                                          "invest in government securities",
+                                          "lend to the priority sector",
+                                          "hold as gold in their own vaults"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The Statutory Liquidity Ratio (SLR) is maintained in the form of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cash with the RBI only",
+                                          "safe liquid assets such as gold, cash or government securities before lending",
+                                          "foreign currency only",
+                                          "priority-sector loans"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The Repo Rate is the interest rate at which the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "RBI pays banks for parking surplus cash",
+                                          "government borrows from the public",
+                                          "RBI lends short-term funds to banks against government securities",
+                                          "banks lend to each other overnight"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Open Market Operations (OMOs) refer to the RBI",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "setting the inflation target",
+                                          "changing the CRR",
+                                          "issuing bank licences",
+                                          "directly buying and selling government securities to inject or drain cash"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The Monetary Policy Committee (MPC) that sets the key policy rate consists of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "six members: three from the RBI (including the Governor as chair) and three appointed by the government",
+                                          "only the RBI Governor",
+                                          "twelve members, all from the RBI",
+                                          "the Finance Minister and five bankers"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Under India\u0027s inflation-targeting framework, the MPC must keep retail (CPI) inflation at",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2%, band 0-4%",
+                                          "4%, band 2-6%",
+                                          "6%, band 4-8%",
+                                          "5%, band 3-7%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Under Priority Sector Lending norms, banks must direct roughly what share of total credit to areas like agriculture and micro-enterprises?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10%",
+                                          "25%",
+                                          "40%",
+                                          "60%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Marginal Standing Facility (MSF) allows banks to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "park surplus funds with the RBI without collateral",
+                                          "buy foreign exchange from the RBI",
+                                          "lend to the government",
+                                          "borrow emergency overnight funds from the RBI slightly above the repo rate"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "To fight inflation using a contractionary stance, the RBI would",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "raise the CRR, SLR and repo rate and sell securities",
+                                          "lower the repo rate and buy securities",
+                                          "reduce the SLR",
+                                          "cut the reverse repo rate"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Which one of the following is NOT one of the four primary functions of money?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Medium of exchange",
+                                          "Creation of credit",
+                                          "Store of value",
+                                          "Measure of value"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Which one of the following statements about legal tender in India is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "All notes, including the Re 1 note, are issued by the RBI",
+                                          "All coins are issued by the RBI",
+                                          "Coins and the Re 1 note are issued by the Government of India, while other notes are issued by the RBI",
+                                          "The Re 1 note is signed by the RBI Governor"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "M1 (Narrow Money) is defined as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "only currency in circulation",
+                                          "M1 + time deposits with banks",
+                                          "currency with the public + all post office deposits",
+                                          "currency with the public + demand deposits + other deposits with the RBI"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The Reserve Bank of India was established under the RBI Act of 1934 and",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "began operations in 1935 and was nationalised in 1949",
+                                          "began operations in 1949 and was nationalised in 1935",
+                                          "was nationalised at independence in 1947",
+                                          "has always been a private bank"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Regional Rural Banks are jointly owned by the Central Government, the State Government and a Sponsor Bank in the ratio",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "33% : 33% : 34%",
+                                          "50% : 15% : 35%",
+                                          "40% : 40% : 20%",
+                                          "50% : 25% : 25%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Which feature belongs to a Payments Bank but NOT a commercial bank?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It can give loans",
+                                          "It can issue credit cards",
+                                          "It can accept deposits only up to Rs 2 lakh per customer and cannot lend or issue credit cards",
+                                          "It has no deposit limit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "A loan is classified as a Non-Performing Asset (NPA) when interest or principal is unpaid for more than",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "30 days",
+                                          "60 days",
+                                          "180 days",
+                                          "90 days"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The SARFAESI Act, 2002 empowers banks to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "recover secured loans by seizing and selling collateral without court intervention",
+                                          "waive off all bad loans automatically",
+                                          "recover only unsecured loans",
+                                          "nationalise defaulting companies"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The DICGC insures bank deposits up to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rs 1 lakh per depositor per bank",
+                                          "Rs 5 lakh per depositor per bank",
+                                          "Rs 2 lakh per depositor per bank",
+                                          "Rs 10 lakh per depositor per bank"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "India\u0027s retail digital payment systems (UPI, IMPS, RuPay, FASTag) are operated by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the RBI directly",
+                                          "the Ministry of Finance",
+                                          "the National Payments Corporation of India (NPCI)",
+                                          "SEBI"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The monetary policy in India uses which of the following tools? 1. Bank rate 2. Open market operations 3. Public debt 4. Public revenue. Select the correct answer using the code given below.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 4 only",
+                                          "1, 2, 3 and 4"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The Cash Reserve Ratio refers to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the share of Net Demand and Time Liabilities held as liquid assets",
+                                          "the share of Net Demand and Time Liabilities held as balances with the RBI",
+                                          "the share of Net Demand and Time Liabilities held as own cash reserves",
+                                          "the ratio of cash holding to reserves of banks"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following is NOT correct about the Repo Rate?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is the interest charged by the central bank on an overnight loan",
+                                          "It is the interest paid by commercial banks on overnight borrowing",
+                                          "It is the rate agreed in the loan contract between a commercial bank and the central bank",
+                                          "It is the cost of collateral security"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which of the following with regard to the term \u0027bank run\u0027 is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The net balance of money in a bank\u0027s chest at day\u0027s end",
+                                          "The ratio of a bank\u0027s total deposits to total liabilities",
+                                          "A panic situation when deposit holders start withdrawing cash",
+                                          "The period when a bank creates the highest credit"
+                                      ],
+                          "pyq":  "CDS 2016-II",
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The Insolvency and Bankruptcy Board of India (IBBI) was established in the year",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2014",
+                                          "2015",
+                                          "2016",
+                                          "2017"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Which one of the following correctly distinguishes the CRR from the SLR?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "CRR can be kept in gold and securities; SLR must be pure cash with the RBI",
+                                          "SLR earns no return, while CRR earns interest",
+                                          "Both must be kept only as cash with the RBI",
+                                          "CRR must be kept as cash with the RBI and earns no interest, while SLR can be kept in cash, gold or government securities and can earn a return"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "When the RBI raises the repo rate, the most direct effect on households is that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "home and auto loan EMIs tend to rise",
+                                          "their deposits are automatically insured",
+                                          "the inflation target changes",
+                                          "the CRR falls"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The Liquidity Adjustment Facility (LAF) is the system through which banks",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "issue new shares",
+                                          "borrow (repo) from or lend (reverse repo) to the RBI to manage daily liquidity",
+                                          "set the inflation target",
+                                          "buy foreign exchange"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "An Asset Reconstruction Company (ARC) helps resolve NPAs by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "lending fresh money to defaulters",
+                                          "insuring bank deposits",
+                                          "buying bad loans from banks at a discount and then recovering from the borrower",
+                                          "issuing government securities"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "High-Powered Money (M0) is best described as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "all bank deposits",
+                                          "government securities held by banks",
+                                          "only demand deposits",
+                                          "currency in circulation plus the reserves banks keep with the RBI"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Monetary Policy \u0026 Banking"
+                      }
+                  ]
+}

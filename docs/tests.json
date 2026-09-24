@@ -486,8 +486,86 @@
       "description": "60 MCQs on Indian Polity & Constitution — framework, rights, DPSP, executive, legislature, judiciary, emergency & bodies; 20 tagged CDS PYQs."
     },
     {
+      "id": "ecosec-01",
+      "title": "Economy Test 1",
+      "subject": "Economy",
+      "topic": "Basics of Economy \u0026 National Income",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Economy sectional test - 30 MCQs on Basics of Economy \u0026 National Income (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "ecosec-02",
+      "title": "Economy Test 2",
+      "subject": "Economy",
+      "topic": "Monetary Policy \u0026 Banking",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Economy sectional test - 30 MCQs on Monetary Policy \u0026 Banking (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "ecosec-03",
+      "title": "Economy Test 3",
+      "subject": "Economy",
+      "topic": "Inflation \u0026 Financial Markets",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Economy sectional test - 30 MCQs on Inflation \u0026 Financial Markets (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "ecosec-04",
+      "title": "Economy Test 4",
+      "subject": "Economy",
+      "topic": "Fiscal Policy \u0026 Taxation",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Economy sectional test - 30 MCQs on Fiscal Policy \u0026 Taxation (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "ecosec-05",
+      "title": "Economy Test 5",
+      "subject": "Economy",
+      "topic": "External Sector \u0026 International Institutions",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Economy sectional test - 30 MCQs on External Sector \u0026 International Institutions (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "ecosec-06",
+      "title": "Economy Test 6",
+      "subject": "Economy",
+      "topic": "Agriculture \u0026 Industry",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Economy sectional test - 30 MCQs on Agriculture \u0026 Industry (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
+      "id": "ecosec-07",
+      "title": "Economy Test 7",
+      "subject": "Economy",
+      "topic": "Labour, Planning \u0026 Reports",
+      "durationMin": 30,
+      "count": 30,
+      "marks": 30,
+      "negative": true,
+      "description": "Economy sectional test - 30 MCQs on Labour, Planning \u0026 Reports (20 notes + 5 PYQ + 5 extended). 30 marks, 30 minutes, 1/3 negative marking."
+    },
+    {
       "id": "economy-01",
-      "title": "Economy-Test 1",
+      "title": "Full Economy Test",
+      "topic": "Complete Economy syllabus",
       "subject": "Economy",
       "durationMin": 60,
       "count": 60,

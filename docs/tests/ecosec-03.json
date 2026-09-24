@@ -1,0 +1,490 @@
+{
+    "title":  "Economy Test 3",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  30,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Inflation is best defined as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a one-time rise in the price of a single good",
+                                          "a sustained rise in the general level of prices, reducing the purchasing power of money",
+                                          "a fall in the general price level",
+                                          "an increase in the money supply only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "\u0027Too much money chasing too few goods\u0027, where demand outstrips supply, describes",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "demand-pull inflation",
+                                          "cost-push inflation",
+                                          "structural inflation",
+                                          "deflation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "A spike in global crude oil prices raising production costs is the classic cause of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "demand-pull inflation",
+                                          "cost-push inflation",
+                                          "disinflation",
+                                          "deflation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Inflation caused by bottlenecks such as poor infrastructure, hoarding or agricultural supply-chain issues is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "hyperinflation",
+                                          "demand-pull inflation",
+                                          "structural inflation",
+                                          "creeping inflation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Extremely high, out-of-control inflation, with prices rising daily and the currency collapsing, is termed",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "creeping inflation",
+                                          "walking inflation",
+                                          "galloping inflation",
+                                          "hyperinflation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "A slowing down of the inflation rate, where prices still rise but at a slower pace (say from 6% to 4%), is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "disinflation",
+                                          "deflation",
+                                          "stagflation",
+                                          "skewflation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "A painful combination of stagnant growth, high unemployment and high inflation at the same time is known as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "deflation",
+                                          "stagflation",
+                                          "disinflation",
+                                          "skewflation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "A sharp price rise in a small, specific group of commodities (such as only onions or tomatoes) while general prices remain stable is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "stagflation",
+                                          "hyperinflation",
+                                          "skewflation",
+                                          "core inflation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Which one of the following statements about WPI and CPI is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "WPI includes services; CPI does not",
+                                          "CPI is compiled by the Ministry of Commerce",
+                                          "Both are compiled by the RBI",
+                                          "CPI covers retail prices and includes services, while WPI covers wholesale prices and includes goods only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Core inflation is defined as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "headline inflation minus volatile items, specifically food and fuel",
+                                          "headline inflation including all items",
+                                          "only food inflation",
+                                          "only fuel inflation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The Money Market and the Capital Market are distinguished mainly by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the location of trading",
+                                          "the time period of the funds: short-term (up to one year) versus long-term (more than one year)",
+                                          "the nationality of investors",
+                                          "the size of transactions only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Treasury Bills (T-Bills) issued by the Government of India are",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "long-term bonds paying fixed interest",
+                                          "equity shares",
+                                          "short-term instruments that pay no interest and are sold at a discount and redeemed at face value",
+                                          "issued only in a 10-year tenor"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Commercial Paper (CP) is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a long-term government bond",
+                                          "an equity instrument",
+                                          "a bank deposit insured by DICGC",
+                                          "short-term, unsecured borrowing by large, highly creditworthy companies"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The regulator of the capital market in India is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "SEBI",
+                                          "the RBI",
+                                          "the NSO",
+                                          "the Finance Commission"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Which one of the following correctly distinguishes a share from a bond?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A shareholder is a lender; a bondholder is an owner",
+                                          "A shareholder is an owner receiving dividends, while a bondholder is a creditor receiving fixed interest",
+                                          "Both give ownership of the company",
+                                          "Both pay a fixed coupon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Dated Government Securities (G-Secs), though long-term capital-market instruments, are regulated by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "SEBI",
+                                          "the Ministry of Commerce",
+                                          "the RBI",
+                                          "the NSO"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "\u0027Gilt-edged securities\u0027 refer to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "shares of blue-chip companies",
+                                          "mutual fund units",
+                                          "corporate debentures",
+                                          "government bonds (G-Secs) carrying zero default risk"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The market where new securities are issued for the first time, with money going directly to the company, is the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "primary market",
+                                          "secondary market",
+                                          "money market",
+                                          "derivatives market"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "SEBI was established in 1988 as a non-statutory body and was granted statutory powers through",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the RBI Act, 1934",
+                                          "the SEBI Act, 1992",
+                                          "the Companies Act, 1956",
+                                          "the FEMA, 1999"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The benchmark indices of the BSE and the NSE are respectively",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Nifty 50 and Sensex",
+                                          "Dow Jones and Nasdaq",
+                                          "Sensex (30 companies) and Nifty 50",
+                                          "Sensex and Dow Jones"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following indices is now used by the Reserve Bank of India to measure the rate of inflation in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "NASDAQ Index",
+                                          "BSE Index",
+                                          "Consumer Price Index",
+                                          "Wholesale Price Index"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Consider the following statements regarding the weightage of different articles in the Wholesale Price Index (WPI): 1. Fuel and power have higher weightage in WPI primary articles. 2. Weightage of manufactured products in WPI is higher than that of fuel and power. Which of the statements given above is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following situations can lead to inflation?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rapid growth of aggregate demand outweighing supply",
+                                          "Sluggish growth of aggregate demand",
+                                          "Reduction in the money supply",
+                                          "Higher levels of unemployment"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Which one of the following statements about an Exchange-Traded Fund (ETF) is NOT correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is a marketable security",
+                                          "It experiences price changes throughout the day",
+                                          "It typically has lower daily liquidity and higher fees than mutual fund shares",
+                                          "Its net asset value is not calculated only once at the end of every day"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "While calculating the Consumer Price Index, housing as an item is classified as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "core consumer durable",
+                                          "core consumer non-durable",
+                                          "core capital goods",
+                                          "core service"
+                                      ],
+                          "pyq":  "CDS 2025-I",
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "During a period of unexpected inflation, which one of the following groups typically GAINS?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lenders (creditors)",
+                                          "Fixed-income pensioners",
+                                          "Bondholders receiving fixed coupons",
+                                          "Borrowers (debtors), who repay loans with money worth less"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The \u0027base effect\u0027 in inflation figures refers to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the effect of the base year price level making current inflation look artificially high or low",
+                                          "the effect of the money supply on prices",
+                                          "the effect of exchange rates on imports",
+                                          "the effect of interest rates on savings"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Foreign Portfolio Investment (FPI) is often called \u0027hot money\u0027 because",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "it is invested in gold",
+                                          "it can flow in and out of a country\u0027s financial assets very quickly, causing market volatility",
+                                          "it is physically transported as cash",
+                                          "it is permanent long-term investment in factories"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Derivatives such as futures and options are financial contracts whose value is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "fixed by the government",
+                                          "equal to the company\u0027s dividend",
+                                          "derived from an underlying asset such as a stock, index or commodity",
+                                          "guaranteed by the RBI"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "To protect people from the loss of purchasing power caused by inflation, the government links payments such as the Dearness Allowance to a price index. This practice is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "monetisation",
+                                          "devaluation",
+                                          "disinvestment",
+                                          "indexation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Economy",
+                          "topic":  "Inflation \u0026 Financial Markets"
+                      }
+                  ]
+}
