@@ -1,0 +1,490 @@
+{
+    "title":  "Ecology Test E2",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The greenhouse effect is caused by gases that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "block all sunlight from reaching Earth",
+                                          "cool the atmosphere",
+                                          "absorb and re-emit infrared (heat) radiation, trapping heat near the surface",
+                                          "destroy the ozone layer"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Which greenhouse gas is the most significant human-made contributor to global warming, owing to its large quantity and long atmospheric residence time?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "methane",
+                                          "carbon dioxide",
+                                          "nitrous oxide",
+                                          "water vapour"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The ozone layer, which protects life by absorbing harmful ultraviolet radiation, lies in the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "troposphere",
+                                          "mesosphere",
+                                          "stratosphere",
+                                          "ionosphere"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The Montreal Protocol (1987) is primarily concerned with",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "reducing greenhouse gas emissions",
+                                          "phasing out ozone-depleting substances such as CFCs",
+                                          "conserving wetlands",
+                                          "controlling hazardous waste"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The Paris Agreement (2015) aims to keep the rise in global average temperature",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "above 3 °C",
+                                          "exactly at 5 °C",
+                                          "well below 2 °C, pursuing efforts to limit it to 1.5 °C",
+                                          "unregulated"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Under its \u0027Panchamrit\u0027 pledge at COP26, India committed to reaching net zero emissions by the year",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2070",
+                                          "2050",
+                                          "2060",
+                                          "2030"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "\u0027Blue carbon\u0027 refers to carbon captured and stored by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "forests and grasslands",
+                                          "coastal and marine ecosystems, especially mangroves, seagrasses and salt marshes",
+                                          "the atmosphere",
+                                          "fossil fuels"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Which one of the following is a secondary air pollutant, formed in the atmosphere from primary pollutants?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "carbon monoxide",
+                                          "sulphur dioxide",
+                                          "ground-level ozone",
+                                          "particulate matter emitted from a chimney"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Which category of particulate matter is finer and more harmful, penetrating deep into the lungs and bloodstream?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "PM10",
+                                          "PM100",
+                                          "PM50",
+                                          "PM2.5"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Carbon monoxide is a poisonous pollutant because it",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "combines with haemoglobin to form carboxyhaemoglobin, reducing the blood\u0027s oxygen-carrying capacity",
+                                          "destroys the ozone layer",
+                                          "causes acid rain",
+                                          "raises the water temperature"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Acid rain is caused mainly by the oxides of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "carbon and hydrogen",
+                                          "sulphur and nitrogen",
+                                          "oxygen and helium",
+                                          "phosphorus and potassium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "With respect to water quality, a higher Biochemical Oxygen Demand (BOD) indicates",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "cleaner water",
+                                          "more dissolved oxygen",
+                                          "greater organic pollution",
+                                          "lower temperature"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Minamata disease and Itai-itai disease are caused respectively by pollution from",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "arsenic and mercury",
+                                          "lead and arsenic",
+                                          "fluoride and nitrate",
+                                          "mercury and cadmium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which one of the following correctly distinguishes classical (London) smog from photochemical (Los Angeles) smog?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Classical smog forms in cold damp weather (smoke + fog + SO₂), while photochemical smog forms in warm sunny weather (NOx + VOCs)",
+                                          "Classical smog forms in warm sunny weather; photochemical smog in cold damp weather",
+                                          "Both form only at night",
+                                          "Both are caused only by carbon dioxide"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Which category of protected area in India offers the strictest protection, with no human activity, grazing or cultivation allowed?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Wildlife sanctuary",
+                                          "National park",
+                                          "Biosphere reserve (transition zone)",
+                                          "Community reserve"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Project Tiger, India\u0027s flagship tiger-conservation programme, was launched in",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1936",
+                                          "1972",
+                                          "1973",
+                                          "1992"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The Ramsar Convention (1971) deals with the conservation of wetlands. India ranks, in terms of the number of Ramsar sites,",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "first in the world",
+                                          "not a party to the convention",
+                                          "last in Asia",
+                                          "third in the world (after the UK and Mexico) and first in Asia"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The Environment (Protection) Act, 1986, an umbrella environmental law, was passed after which event?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Bhopal Gas Tragedy (1984)",
+                                          "the Chernobyl disaster",
+                                          "the Fukushima accident",
+                                          "the Stockholm Conference"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "CITES, the international convention signed at Washington in 1973, regulates",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the conservation of wetlands",
+                                          "international trade in endangered species",
+                                          "the movement of hazardous waste",
+                                          "mercury pollution"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "World Environment Day is observed on",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "22 April",
+                                          "16 September",
+                                          "5 June",
+                                          "2 February"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "One carbon credit is accepted as equivalent to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "100 kg of carbon",
+                                          "100 kg of carbon dioxide",
+                                          "1000 kg of carbon",
+                                          "1000 kg of carbon dioxide"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which organisation publishes the worldwide list of endangered species?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The International Union for Conservation of Nature (IUCN)",
+                                          "The World Wide Fund for Nature (WWF)",
+                                          "The United Nations Environment Programme (UNEP)",
+                                          "The United Nations Development Programme (UNDP)"
+                                      ],
+                          "pyq":  "CDS 2024-I",
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The Basel Convention is aimed at protecting human health and the environment against the adverse effects of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "hazardous wastes",
+                                          "Persistent Organic Pollutants (POPs)",
+                                          "mercury",
+                                          "chemicals and pesticides"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Cheetahs, brought from Namibia, were introduced in India in which one of the following National Parks?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kaziranga National Park",
+                                          "Keoladeo Ghana National Park",
+                                          "Keibul Lamjao National Park",
+                                          "Kuno National Park"
+                                      ],
+                          "pyq":  "CDS 2023-I",
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The Sustainable Development Goals (SDGs), adopted by the UN in place of the Millennium Development Goals in 2015, aim to achieve the 17 goals by the year",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2020",
+                                          "2030",
+                                          "2040",
+                                          "2050"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The main constituent of biogas (\u0027gobar gas\u0027), produced by the anaerobic breakdown of organic matter, is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "carbon dioxide",
+                                          "nitrous oxide",
+                                          "hydrogen",
+                                          "methane (CH₄)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "In terms of Global Warming Potential (GWP), the correct order of increasing potency is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "CO2 \u003c CH4 \u003c N2O \u003c SF6",
+                                          "SF6 \u003c N2O \u003c CH4 \u003c CO2",
+                                          "CH4 \u003c CO2 \u003c SF6 \u003c N2O",
+                                          "N2O \u003c CH4 \u003c CO2 \u003c SF6"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The use of microorganisms such as bacteria and fungi to break down or neutralise pollutants, for example in cleaning up oil spills, is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "phytoremediation",
+                                          "bioremediation",
+                                          "biomagnification",
+                                          "eutrophication"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The Stockholm Conference of 1972 is significant because it",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "adopted the Paris Agreement",
+                                          "banned all fossil fuels",
+                                          "was the first major UN Conference on the Human Environment and led to the creation of UNEP",
+                                          "created the IPCC"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The National Green Tribunal (NGT), established in 2010, is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a research institute",
+                                          "a wildlife sanctuary",
+                                          "a pollution monitoring lab",
+                                          "a special court for the speedy disposal of environmental cases"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Climate Change, Pollution \u0026 Environment"
+                      }
+                  ]
+}

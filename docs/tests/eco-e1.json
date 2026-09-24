@@ -1,0 +1,490 @@
+{
+    "title":  "Ecology Test E1",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The correct order of levels of ecological organisation, from smallest to largest, is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "biosphere → biome → ecosystem → community → population → organism",
+                                          "organism → population → community → ecosystem → biome → biosphere",
+                                          "ecosystem → community → population → organism → biome → biosphere",
+                                          "population → organism → community → biome → ecosystem → biosphere"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "An ecosystem consists of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a community of living organisms together with their non-living (abiotic) environment",
+                                          "only the non-living environment",
+                                          "only living organisms",
+                                          "only producers"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "In an ecosystem, bacteria and fungi that break down dead organic matter are called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "producers",
+                                          "decomposers",
+                                          "primary consumers",
+                                          "apex predators"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Which one of the following is the largest ecosystem on Earth?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tropical rainforest",
+                                          "Grassland",
+                                          "The ocean",
+                                          "Desert"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "According to Lindeman\u0027s 10% law, the energy transferred from one trophic level to the next is about",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "100%",
+                                          "50%",
+                                          "1%",
+                                          "10%"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "In an ecosystem, energy flow and nutrient flow are respectively",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "unidirectional and cyclic",
+                                          "both unidirectional",
+                                          "both cyclic",
+                                          "cyclic and unidirectional"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Which ecological pyramid is always upright?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Pyramid of numbers",
+                                          "Pyramid of energy",
+                                          "Pyramid of biomass",
+                                          "None of them"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The relationship between lichen (a fungus and an alga living together), in which both benefit, is an example of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "parasitism",
+                                          "commensalism",
+                                          "mutualism",
+                                          "predation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The increase in the concentration of a persistent toxin such as DDT or mercury at successively higher trophic levels is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "bioaccumulation",
+                                          "bioremediation",
+                                          "biodegradation",
+                                          "biomagnification"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Biodiversity is generally highest",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "near the equator, in tropical rainforests and coral reefs",
+                                          "in deserts",
+                                          "near the poles",
+                                          "in the deep ocean"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "How many biodiversity hotspots does India have?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "two",
+                                          "four",
+                                          "six",
+                                          "eight"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "A species found naturally in only one particular area, such as the Nilgiri tahr or the lion-tailed macaque, is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a keystone species",
+                                          "a flagship species",
+                                          "an endemic species",
+                                          "an invasive species"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "A species whose effect on its ecosystem is far greater than its abundance would suggest, such as the tiger or fig trees, is a",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "flagship species",
+                                          "endemic species",
+                                          "indicator species",
+                                          "keystone species"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "According to the \u0027Evil Quartet\u0027 of threats to biodiversity, the biggest single cause of species loss is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "habitat loss and fragmentation",
+                                          "overexploitation",
+                                          "invasive alien species",
+                                          "co-extinctions"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Which one of the following is a major invasive alien species in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Neem",
+                                          "Water hyacinth (Eichhornia crassipes)",
+                                          "Banyan",
+                                          "Tulsi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "In the IUCN Red List, the category indicating the highest risk of extinction (short of being extinct in the wild) is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vulnerable",
+                                          "Endangered",
+                                          "Critically Endangered",
+                                          "Near Threatened"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "National parks, wildlife sanctuaries and biosphere reserves are examples of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ex-situ conservation",
+                                          "gene banks",
+                                          "captive breeding",
+                                          "in-situ conservation (protecting species in their natural habitat)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The Ramsar Convention is an international treaty relating to the conservation of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "wetlands",
+                                          "forests",
+                                          "deserts",
+                                          "mountains"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The nitrogen in the atmosphere (about 78% of air) must be \u0027fixed\u0027 before most living things can use it. One natural way this happens is through",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "photosynthesis",
+                                          "nitrogen-fixing bacteria such as Rhizobium, and lightning",
+                                          "respiration",
+                                          "evaporation"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The transition zone between two different ecosystems, such as an estuary or a mangrove between land and sea, is called an",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ecosystem",
+                                          "ecotype",
+                                          "ecotone",
+                                          "ecological niche"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "A biological community in its environment, such as a pond, an ocean, a forest, or even an aquarium, is known as a",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "biome",
+                                          "community",
+                                          "abiotic environment",
+                                          "ecosystem"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Energy and nutrients flow between trophic levels in an ecosystem. Which one of the following correctly describes their flow?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Energy flow is cyclic and nutrient flow is unidirectional",
+                                          "Energy flow is unidirectional and nutrient flow is cyclic",
+                                          "Both energy and nutrient flow are unidirectional",
+                                          "Both energy and nutrient flow are cyclic"
+                                      ],
+                          "pyq":  "CDS 2023-II",
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which of the following limits the number of trophic levels in a food chain?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "deficient food supply",
+                                          "polluted air",
+                                          "the decrease in the available energy at higher trophic levels",
+                                          "parasitic organisms"
+                                      ],
+                          "pyq":  "CDS 2021-II",
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The Ramsar Convention relates to which one of the following areas?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "wetland preservation",
+                                          "promoting afforestation",
+                                          "an action plan on climate change",
+                                          "combating desertification"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "A food chain is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a relationship between autotrophic organisms",
+                                          "the exchange of genetic material between two organisms",
+                                          "the passage of food, and thus energy, from one organism to another",
+                                          "a modern food-outlet business"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Ecological succession that begins on a lifeless surface with no soil, such as bare rock or cooled lava, is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "secondary succession",
+                                          "a hydrosere only",
+                                          "a climax community",
+                                          "primary succession"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Lichens are often used as bioindicators because",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "their presence indicates clean air, and their absence signals pollution",
+                                          "they grow only in polluted air",
+                                          "they cause air pollution",
+                                          "they are invasive species"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The phosphorus cycle differs from the carbon and nitrogen cycles in that it",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "has a large atmospheric (gaseous) reservoir",
+                                          "is a purely sedimentary cycle with no significant gaseous phase",
+                                          "does not involve living organisms",
+                                          "is the fastest of all cycles"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The greater species diversity often found at the boundary between two ecosystems (an ecotone) is known as the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "keystone effect",
+                                          "founder effect",
+                                          "edge effect",
+                                          "greenhouse effect"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "In-situ and ex-situ conservation differ in that in-situ conservation",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "keeps species in zoos and gene banks",
+                                          "involves cryopreservation",
+                                          "is only for plants",
+                                          "protects species within their natural habitat, while ex-situ protects them away from it"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Ecology",
+                          "topic":  "Ecosystems \u0026 Biodiversity"
+                      }
+                  ]
+}

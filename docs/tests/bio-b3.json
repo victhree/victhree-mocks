@@ -1,0 +1,490 @@
+{
+    "title":  "Biology Test B3",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The term \u0027biotechnology\u0027 was coined by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Gregor Mendel",
+                                          "Alexander Fleming",
+                                          "Karl Ereky",
+                                          "Louis Pasteur"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "In the \u0027colours\u0027 of biotechnology, red and green biotechnology refer respectively to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "industrial and marine applications",
+                                          "marine and industrial applications",
+                                          "medical/healthcare and agricultural applications",
+                                          "agriculture and healthcare"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "In genetic engineering, the enzymes that cut DNA at specific sites, acting as \u0027molecular scissors\u0027, are",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "DNA ligases",
+                                          "restriction enzymes",
+                                          "polymerases",
+                                          "proteases"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The Polymerase Chain Reaction (PCR), used in COVID-19 RT-PCR testing and forensics,",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "destroys DNA",
+                                          "joins two organisms",
+                                          "makes millions of copies of a DNA segment quickly",
+                                          "produces antibodies"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "CRISPR-Cas9, which won the Nobel Prize in Chemistry in 2020, is a tool for",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "making biofuels",
+                                          "producing antibiotics",
+                                          "cloning whole animals",
+                                          "precise, low-cost gene editing, adapted from a bacterial defence system"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Dolly the sheep (1996-97) is famous as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the first mammal cloned from an adult cell",
+                                          "the first GM crop",
+                                          "the first test-tube baby",
+                                          "the source of the first vaccine"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Bt crops, such as Bt cotton, are genetically engineered to resist insect pests using a gene from",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a virus",
+                                          "the bacterium Bacillus thuringiensis",
+                                          "a fungus",
+                                          "an algae"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "\u0027Golden Rice\u0027 is genetically engineered to be rich in beta-carotene to combat the deficiency of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "iron",
+                                          "protein",
+                                          "Vitamin A",
+                                          "iodine"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The first medicine made using recombinant DNA (rDNA) technology was",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "penicillin",
+                                          "the smallpox vaccine",
+                                          "aspirin",
+                                          "recombinant human insulin (Humulin)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The apex regulator for genetically modified organisms in India is the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Genetic Engineering Appraisal Committee (GEAC)",
+                                          "Department of Biotechnology (DBT)",
+                                          "Indian Council of Agricultural Research (ICAR)",
+                                          "Food Safety and Standards Authority of India"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Tuberculosis (TB), which mainly affects the lungs, is caused by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "a virus",
+                                          "the bacterium Mycobacterium tuberculosis",
+                                          "a protozoan",
+                                          "a fungus"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Malaria is caused by the protozoan Plasmodium and is spread by the bite of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the female Aedes mosquito",
+                                          "the Culex mosquito",
+                                          "the female Anopheles mosquito",
+                                          "the sandfly"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "AIDS is caused by HIV, which weakens immunity by destroying",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "red blood cells",
+                                          "nerve cells",
+                                          "platelets",
+                                          "helper T-lymphocytes (CD4 cells)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The deficiency disease and its cause are correctly matched in which one of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Rickets - Vitamin D",
+                                          "Scurvy - Vitamin D",
+                                          "Night blindness - Vitamin C",
+                                          "Goitre - iron"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Which one of the following groups consists only of fat-soluble vitamins?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vitamins B and C",
+                                          "Vitamins A, D, E and K",
+                                          "Vitamins B1, B2 and C",
+                                          "Vitamins C and B12"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Antibiotics are effective against",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "viruses only",
+                                          "all germs equally",
+                                          "bacteria, not viruses",
+                                          "only fungi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The concept of vaccination/immunisation was introduced to medicine through the smallpox vaccine by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Louis Pasteur",
+                                          "Alexander Fleming",
+                                          "Robert Koch",
+                                          "Edward Jenner"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "A disease that is constantly present in a particular area is described as",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "endemic",
+                                          "epidemic",
+                                          "pandemic",
+                                          "sporadic"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Which one of the following is a polysaccharide that serves as the food store in plants?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "glucose",
+                                          "starch",
+                                          "sucrose",
+                                          "fructose"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Yeast, the organism used to make bread through fermentation, belongs to the group",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Protista",
+                                          "Monera",
+                                          "Fungi",
+                                          "Protozoa"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "AIDS is caused by the Human Immunodeficiency Virus (HIV). The transmission of HIV infection generally occurs through",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "eating contaminated food and water",
+                                          "transfusion of contaminated blood and blood products",
+                                          "inhaling polluted air",
+                                          "shaking hands with an infected person"
+                                      ],
+                          "pyq":  "CDS 2017-I",
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Deficiency of iron causes",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "anaemia",
+                                          "scurvy",
+                                          "rickets",
+                                          "cholera"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Who among the following scientists introduced the concept of immunisation to the medical world?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Edward Jenner",
+                                          "Robert Koch",
+                                          "Robert Hooke",
+                                          "Carl Linnaeus"
+                                      ],
+                          "pyq":  "CDS 2020-I",
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Yeast, which is used to make bread, belongs to the group",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Protista",
+                                          "Fungi",
+                                          "Monera",
+                                          "Protozoa"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "An antibiotic is not useful against a virus whereas a vaccine is. The most appropriate reason is that",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "an antibiotic can break RNA only, whereas a virus has DNA",
+                                          "an antibiotic is a carbohydrate, whereas a vaccine is a protein that kills the virus",
+                                          "only a vaccine can break the genetic material of a virus",
+                                          "a virus does not use biochemical pathways that an antibiotic can block, but a vaccine boosts the immune system to fight the virus"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Which one of the following is the ONLY genetically modified crop approved for commercial cultivation in India?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bt brinjal",
+                                          "GM mustard (DMH-11)",
+                                          "Golden Rice",
+                                          "Bt cotton"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Dengue, chikungunya, Zika and yellow fever are all viral diseases transmitted by",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Aedes mosquitoes",
+                                          "the female Anopheles mosquito",
+                                          "houseflies",
+                                          "sandflies"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Kwashiorkor and marasmus are deficiency diseases caused respectively by a lack of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vitamin A and Vitamin C",
+                                          "proteins, and proteins together with calories",
+                                          "iron and iodine",
+                                          "Vitamin D and Vitamin K"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Colostrum, the first milk produced by a lactating mother, is important because it",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "contains no nutrients",
+                                          "is harmful to the baby",
+                                          "is rich in antibodies and boosts the newborn\u0027s immunity",
+                                          "replaces the need for vaccination entirely"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "A vaccine provides protection against an infectious disease mainly because it",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "blocks the physical entry of the germ into the body",
+                                          "supplies antibiotics",
+                                          "directly kills the germ before it enters",
+                                          "produces antibodies and trains the immune system to recognise the germ"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Biotechnology \u0026 Diseases"
+                      }
+                  ]
+}

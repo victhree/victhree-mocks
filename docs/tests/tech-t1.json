@@ -1,0 +1,490 @@
+{
+    "title":  "Technology Test T1",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "A geostationary satellite is placed at an altitude of about 35,786 km directly above the equator and",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "has a period equal to the Earth\u0027s 24-hour rotation, so it appears fixed over one spot",
+                                          "circles the Earth every 90 minutes",
+                                          "passes over both poles",
+                                          "orbits at very low altitude"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Which orbit is best suited for remote-sensing and Earth-mapping satellites?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Geostationary orbit",
+                                          "Polar / Sun-synchronous orbit",
+                                          "Highly elliptical orbit only",
+                                          "Interplanetary trajectory"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The minimum speed needed for an object to break free of the Earth\u0027s gravity, the escape velocity, is about",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "11.2 km/s",
+                                          "7.9 km/s",
+                                          "3 x 10⁸ m/s",
+                                          "1.5 km/s"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "A cryogenic rocket engine burns",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "solid propellant only",
+                                          "super-cooled liquid hydrogen and liquid oxygen, releasing far more energy per kg",
+                                          "kerosene and air",
+                                          "nuclear fuel"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "ISRO, India\u0027s national space agency, was founded in 1969 and is headquartered at",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sriharikota",
+                                          "Thiruvananthapuram",
+                                          "Bengaluru",
+                                          "New Delhi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Almost all of ISRO\u0027s satellite launches take place from",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Satish Dhawan Space Centre, Sriharikota (Andhra Pradesh)",
+                                          "Thumba, Kerala",
+                                          "Bengaluru",
+                                          "Ahmedabad"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Which ISRO launch vehicle is known as the reliable \u0027workhorse\u0027, having launched Chandrayaan-1 and Mangalyaan?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "SSLV",
+                                          "PSLV",
+                                          "GSLV Mk III",
+                                          "LVM3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "India\u0027s Chandrayaan-1 mission is notable for having",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "landed humans on the Moon",
+                                          "landed on Mars",
+                                          "helped confirm the presence of water molecules on the Moon",
+                                          "reached the Sun"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Chandrayaan-3 made history in 2023 by achieving the first successful soft-landing",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "on Mars",
+                                          "on an asteroid",
+                                          "on Venus",
+                                          "near the lunar south pole"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Mangalyaan (Mars Orbiter Mission) is remembered because India",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "became the first nation to reach Mars orbit on its very first attempt",
+                                          "was the first nation to land on Mars",
+                                          "brought back samples from Mars",
+                                          "landed a rover on Mars"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "India\u0027s Aditya-L1 mission is designed to study",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Moon",
+                                          "the Sun, from a halo orbit around Lagrange point L1",
+                                          "Mars",
+                                          "Jupiter"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "Gaganyaan is India\u0027s first planned",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mars landing",
+                                          "reusable rocket",
+                                          "human spaceflight mission, carrying crew called Gaganyatris",
+                                          "space telescope"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The first Indian to travel to space was",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vikram Sarabhai",
+                                          "A.P.J. Abdul Kalam",
+                                          "Kalpana Chawla",
+                                          "Rakesh Sharma, in 1984 aboard a Soviet mission"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "India\u0027s own regional satellite navigation system, its answer to the American GPS, is called",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "NavIC (formerly IRNSS)",
+                                          "GLONASS",
+                                          "Galileo",
+                                          "BeiDou"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Which one of the following pairs of a global navigation system and its owner is correctly matched?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "GPS - Russia",
+                                          "Galileo - European Union",
+                                          "GLONASS - USA",
+                                          "BeiDou - India"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "In a planetary mission, the wheeled robot that moves on and studies the surface is called the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "orbiter",
+                                          "lander",
+                                          "rover",
+                                          "payload fairing"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "A geostationary orbit and a geosynchronous orbit both have a 24-hour period, but a geostationary orbit is distinguished by being",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "tilted away from the equator",
+                                          "a polar orbit",
+                                          "at very low altitude",
+                                          "directly above the equator, so the satellite stays fixed over one spot"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "Communication satellites and remote-sensing satellites are typically placed respectively in",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "geostationary and polar orbits",
+                                          "polar and geostationary orbits",
+                                          "the same low orbit",
+                                          "interplanetary space"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "India signed the Artemis Accords in 2023. The Artemis programme is led by which agency?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ESA",
+                                          "NASA",
+                                          "Roscosmos",
+                                          "ISRO"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Rockets use multiple \u0027stages\u0027 mainly because",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "it makes them look bigger",
+                                          "it increases the payload weight",
+                                          "each stage burns its fuel and is dropped, so the rocket becomes lighter and can accelerate more",
+                                          "it slows the rocket down"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following planets was explored by the Cassini Mission launched by NASA, which ended in September 2017?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the Sun",
+                                          "Neptune",
+                                          "Saturn",
+                                          "Jupiter"
+                                      ],
+                          "pyq":  "CDS 2017-II",
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "The Pragyan rover installed in the Chandrayaan-2 mission had how many wheels?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2",
+                                          "3",
+                                          "4",
+                                          "6"
+                                      ],
+                          "pyq":  "CDS 2020-II",
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which one of the following statements with regard to Antrix Corporation Limited is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It is a commercial arm of the Department of Industrial Policy and Promotion",
+                                          "It is under the administrative control of the Department of Space",
+                                          "It is under the Ministry of Health and Family Welfare",
+                                          "It is a commercial arm of the Department of Science and Technology"
+                                      ],
+                          "pyq":  "CDS 2018-I",
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "India\u0027s maiden human space mission, planned for launch, is named",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vayumitra",
+                                          "Vikram",
+                                          "Chandrayaan-3",
+                                          "Gaganyaan"
+                                      ],
+                          "pyq":  "CDS 2022-I",
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Consider the following statements about the James Webb Space Telescope (JWST): 1. It is the largest observatory ever launched into space. 2. It was developed by NASA in partnership with the European Space Agency and the Canadian Space Agency. Which of the statements given above is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  "CDS 2022-II",
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Which pair of spacecraft, launched in 1977, has now travelled beyond the Solar System into interstellar space?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cassini and Huygens",
+                                          "Hubble and Kepler",
+                                          "New Horizons and Juno",
+                                          "Voyager 1 and Voyager 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "India is the fourth country to soft-land on the Moon. The three that did so earlier were",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "the USSR/Russia, the USA and China",
+                                          "USA, China and Japan",
+                                          "the USA, Russia and India",
+                                          "China, Japan and the EU"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "ISRO is developing a Reusable Launch Vehicle (RLV), essentially a",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "deep-space probe",
+                                          "\u0027space plane\u0027 designed to cut launch costs by being reused",
+                                          "navigation satellite",
+                                          "planetary rover"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The James Webb Space Telescope observes mainly in which part of the spectrum, allowing it to study the early universe?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "visible light",
+                                          "X-rays",
+                                          "infrared",
+                                          "radio waves"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "India\u0027s planned own space station is to be called the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "International Space Station",
+                                          "Mir",
+                                          "Tiangong",
+                                          "Bharatiya Antariksh Station (BAS)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Technology",
+                          "topic":  "Space Technology"
+                      }
+                  ]
+}

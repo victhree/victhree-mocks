@@ -1,0 +1,490 @@
+{
+    "title":  "Biology Test B1",
+    "durationMin":  30,
+    "scoring":  {
+                    "totalMarks":  25,
+                    "negativeFraction":  0.3333
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The basic structural and functional unit of all living organisms is the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "tissue",
+                                          "cell",
+                                          "organ",
+                                          "organelle"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Which one of the following is a feature of a prokaryotic cell?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A true, membrane-bound nucleus",
+                                          "Many membrane-bound organelles",
+                                          "No true nucleus and no membrane-bound organelles; the only organelle is the ribosome",
+                                          "A large central vacuole"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The \u0027powerhouse of the cell\u0027, where respiration produces energy (ATP), is the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "mitochondria",
+                                          "nucleus",
+                                          "ribosome",
+                                          "Golgi apparatus"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The site of photosynthesis in a plant cell, containing the green pigment chlorophyll, is the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "mitochondria",
+                                          "chloroplast",
+                                          "vacuole",
+                                          "nucleus"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which cell organelle is the site of protein synthesis?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Golgi apparatus",
+                                          "Lysosome",
+                                          "Ribosome",
+                                          "Vacuole"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Which organelle, containing digestive enzymes, is known as the \u0027suicide bag\u0027 of the cell?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lysosome",
+                                          "Mitochondria",
+                                          "Plastid",
+                                          "Endoplasmic reticulum"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The cell wall, a rigid outer layer made of cellulose, is present in plant cells but absent in",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "bacteria",
+                                          "animal cells",
+                                          "fungi",
+                                          "algae"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "In which form is carbohydrate stored in animal cells and plant cells respectively?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Starch and glycogen",
+                                          "Cellulose and starch",
+                                          "Glycogen and starch",
+                                          "Glucose and glucose"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "Mitosis and meiosis differ in that mitosis produces",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "four cells with half the chromosomes for reproduction",
+                                          "cells with double the chromosomes",
+                                          "gametes only",
+                                          "two identical daughter cells used for growth and repair"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Which two organelles have their own DNA and ribosomes?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mitochondria and plastids (chloroplasts)",
+                                          "Golgi body and ER",
+                                          "Lysosome and vacuole",
+                                          "Nucleus and ribosome"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The longest part of the alimentary canal and the main site of digestion and absorption is the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "stomach",
+                                          "small intestine",
+                                          "large intestine",
+                                          "oesophagus"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The first enzyme to act on food in the mouth, which begins the digestion of starch, is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "pepsin",
+                                          "lipase",
+                                          "salivary amylase (ptyalin)",
+                                          "trypsin"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The hydrochloric acid secreted by the stomach helps to",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "digest fats directly",
+                                          "produce bile",
+                                          "neutralise the food",
+                                          "activate pepsin, provide an acidic medium for protein digestion and kill microorganisms"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The natural pacemaker of the human heart, where the heartbeat originates, is the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "SA node",
+                                          "AV node",
+                                          "Purkinje fibres",
+                                          "bundle of His"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The normal blood pressure of a healthy adult is about",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "80/120 mmHg",
+                                          "120/80 mmHg",
+                                          "100/100 mmHg",
+                                          "140/100 mmHg"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Which one of the following is the exception to the rule that arteries carry oxygenated blood?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The aorta",
+                                          "The carotid artery",
+                                          "The pulmonary artery, which carries deoxygenated blood",
+                                          "The renal artery"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "Haemoglobin, the red pigment in red blood cells that carries oxygen, contains which metal?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Copper",
+                                          "Zinc",
+                                          "Magnesium",
+                                          "Iron"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The correct path of urine in the human excretory system is",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "kidney → ureter → urinary bladder → urethra",
+                                          "kidney → urethra → bladder → ureter",
+                                          "bladder → kidney → ureter → urethra",
+                                          "ureter → kidney → urethra → bladder"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "The pituitary gland is called the \u0027master gland\u0027 because it",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "is the largest gland",
+                                          "produces hormones that regulate several other endocrine glands",
+                                          "stores insulin",
+                                          "controls only growth"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "A deficiency of which hormone causes diabetes, and a deficiency of iodine (affecting thyroxine) causes which disorder?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Adrenaline; dwarfism",
+                                          "Growth hormone; scurvy",
+                                          "Insulin; goitre",
+                                          "Thyroxine; diabetes"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which one of the following cell organelles is known as the \u0027suicide bags\u0027 of a cell?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lysosomes",
+                                          "Plastids",
+                                          "Endoplasmic reticulum",
+                                          "Mitochondria"
+                                      ],
+                          "pyq":  "CDS 2019-II",
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Which cell organelles have their own DNA and ribosomes?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Golgi body and Endoplasmic Reticulum",
+                                          "Mitochondria and Plastids",
+                                          "Lysosome and Golgi body",
+                                          "Vacuole and Plastids"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Cell wall is NOT present in the cells of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "bacteria",
+                                          "plants",
+                                          "fungi",
+                                          "humans"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Photosynthesis converts light energy into chemical energy using the green pigment chlorophyll. The only structure in a leaf that hosts chlorophyll is the",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "nucleus",
+                                          "ribosome",
+                                          "chloroplast",
+                                          "chromosome"
+                                      ],
+                          "pyq":  "CDS 2024-II",
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Osmosis is the process of movement of water molecules from",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "higher to lower concentration through a cell wall",
+                                          "lower to higher concentration through a fully permeable membrane",
+                                          "higher to lower concentration through a fully permeable membrane",
+                                          "higher to lower concentration through a semi-permeable membrane"
+                                      ],
+                          "pyq":  "CDS 2021-I",
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Which one of the following correctly matches organelles with their functions?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mitochondria - photosynthesis; Chloroplast - respiration",
+                                          "Nucleus - respiration; Golgi - photosynthesis",
+                                          "Ribosome - photosynthesis; Lysosome - respiration",
+                                          "Mitochondria - respiration; Chloroplast - photosynthesis; Ribosome - protein synthesis"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Which one of the following is the correct hierarchical scheme of classification of living organisms?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kingdom → Phylum → Class → Order → Family → Genus → Species",
+                                          "Species → Genus → Family → Order → Class → Phylum → Kingdom only",
+                                          "Kingdom → Class → Phylum → Family → Order → Genus → Species",
+                                          "Phylum → Kingdom → Class → Order → Family → Genus → Species"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The universal donor and universal recipient blood groups are respectively",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "AB positive and O negative",
+                                          "O negative and AB positive",
+                                          "A positive and B negative",
+                                          "O positive and AB negative"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The finger-like projections (villi) in the small intestine are important because they",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "produce digestive enzymes",
+                                          "store bile",
+                                          "greatly increase the surface area for absorption of digested food",
+                                          "kill bacteria"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Altitude sickness occurs at high altitudes mainly because of",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "high humidity",
+                                          "very high temperature",
+                                          "excess ultraviolet radiation",
+                                          "the low availability of oxygen due to low air pressure"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Biology",
+                          "topic":  "Cell Biology \u0026 Human Physiology"
+                      }
+                  ]
+}
