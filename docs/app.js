@@ -644,6 +644,27 @@ function refreshCounts() {
 /* ============================================================
    SUBMIT  +  RESULTS
    ============================================================ */
+/* Report a completed mock to the course portal. No-op unless a course student
+   is signed in (see assets/auth.js). Fire-and-forget — never blocks the result. */
+function reportAttempt(testId, testTitle, data) {
+  try {
+    if (!window.VTPortal || !window.VTPortal.isSignedIn()) return;
+    var score = (data && data.marks != null) ? data.marks
+              : (data && data.total != null) ? data.total : null;
+    var total = (data && data.marksMax != null) ? data.marksMax
+              : (data && data.max != null) ? data.max : state.questions.length;
+    var seconds = state.untimed ? state.elapsed
+              : Math.max(0, (state.durationSec || 0) - (state.remaining || 0));
+    window.VTPortal.reportMock({
+      test_id: testId || "",
+      test_title: testTitle || testId || "",
+      score: score,
+      total: total,
+      seconds: seconds,
+    });
+  } catch (e) { /* reporting must never affect the student's experience */ }
+}
+
 async function submitTest(auto = false) {
   if (state.submitted) return;
 
@@ -695,7 +716,8 @@ async function submitTest(auto = false) {
   try {
     const data = await postWithRetry(CONFIG.BACKEND_URL, JSON.stringify(payload));
     hide($("overlay"));
-    if (state.multi) { onPaperGraded(data); } else { showResults(data); }
+    if (state.multi) { onPaperGraded(data); }
+    else { showResults(data); reportAttempt(state.testId, state.quiz && state.quiz.title, data); }
   } catch (err) {
     hide($("overlay"));
     console.error(err);
@@ -748,6 +770,7 @@ async function submitCustom() {
   const marks = Math.round((right - wrong / 3) * 100) / 100;
   hide($("overlay"));
   showResults({ total: right, wrong: wrong, max: N, marks: marks, marksMax: N, results: results });
+  reportAttempt("custom", (state.quiz && state.quiz.title) || "Custom Mock Test", { marks: marks, marksMax: N });
 }
 
 /* POST to the Apps Script backend with auto-retry + per-attempt timeout.
@@ -1302,6 +1325,7 @@ function onPaperGraded(data) {
   };
   clearState();          // drop this paper's in-progress attempt (no retake)
   saveMulti();
+  reportAttempt(paper.id, paper.title, data);
   // Open-papers mode shows this paper's result immediately; sequential mode
   // returns to the hub (no score revealed until the very end).
   if (state.multi.openPapers) { showResults(data); } else { showOverview(); }
