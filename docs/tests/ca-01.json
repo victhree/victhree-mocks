@@ -1,0 +1,810 @@
+{
+    "title":  "Current Affairs — Jan–Mar 2026",
+    "durationMin":  40,
+    "scoring":  {
+                    "totalMarks":  50,
+                    "negativeFraction":  0
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "With reference to the Long Range Anti-Ship Hypersonic Missile (LR-AShM), consider the following statements: 1. It is being developed by HAL. 2. Its range is approximately 1,500 km. 3. It uses a two-stage solid-fuel rocket propulsion system. Which of the statements given above are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "INS Aridhaman is which class of submarine?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kalvari-class",
+                                          "Arihant-class",
+                                          "Scorpene-class",
+                                          "Akula-class"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Which Indian shipbuilder delivered INS Agray, INS Dunagiri and INS Sanshodhak to the Indian Navy?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mazagon Dock Limited",
+                                          "Cochin Shipyard Limited",
+                                          "Garden Reach Shipbuilders \u0026 Engineers",
+                                          "Hindustan Shipyard Limited"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The Indian Ocean Naval Symposium (IONS) was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Founded by the United States in 2008",
+                                          "Conceptualised and initiated by the Indian Navy",
+                                          "Established under UN auspices",
+                                          "A NATO subsidiary"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "The Combined Maritime Forces (CMF) is headquartered at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Singapore",
+                                          "Bahrain",
+                                          "Diego Garcia",
+                                          "Djibouti"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Match the following Task Forces with their primary mission: List I (Task Force) List II (Mission) A. CTF 150 1. Counter-piracy B. CTF 151 2. Maritime security operations C. CTF 152 3. Red Sea security D. CTF 153 4. Arabian Gulf security",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A-2, B-1, C-4, D-3",
+                                          "A-1, B-2, C-3, D-4",
+                                          "A-2, B-1, C-3, D-4",
+                                          "A-3, B-4, C-1, D-2 by Anmol Sharma Page 3 VICTHREE DEFENCE Practice Questions | January – March 2026"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The C-295 transport aircraft for the Indian Air Force is being produced at the Airbus–Tata Final Assembly Line located in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Hyderabad",
+                                          "Vadodara",
+                                          "Bengaluru",
+                                          "Nashik"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The GBU-57 \u0027Massive Ordnance Penetrator\u0027, used by the US against deeply buried Iranian targets, is best described as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A hypersonic cruise missile",
+                                          "An intermediate-range ballistic missile",
+                                          "The largest non-nuclear bunker-buster bomb in the US arsenal",
+                                          "A submarine-launched torpedo"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "With reference to scramjets and ramjets, consider the following statements: 1. A ramjet requires an assisted launch since it depends on the missile\u0027s forward speed to compress incoming air. 2. A scramjet operates with subsonic airflow inside the combustion chamber. Which of the statements given above is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Exercise \u0027Dharma Guardian\u0027 is a joint military exercise between India and:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "South Korea",
+                                          "Vietnam",
+                                          "Japan",
+                                          "Indonesia INTERNATIONAL RELATIONS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The UAE is India\u0027s:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Largest trading partner",
+                                          "Second-largest trading partner",
+                                          "Third-largest trading partner and second-largest export destination",
+                                          "Fourth-largest trading partner"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "India and Israel established full diplomatic relations in which year?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1950",
+                                          "1962",
+                                          "1992",
+                                          "2000 by Anmol Sharma Page 4 VICTHREE DEFENCE Practice Questions | January – March 2026"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "Which of the following is/are correct about Section 301 of the US Trade Act? 1. It is a provision under the Trade Act of 1974. 2. It authorises the US Trade Representative to investigate unfair trade practices by foreign countries.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which Iranian nuclear facility, located inside a mountain about 100 km southwest of Tehran, was the primary target of the recent US strikes?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Natanz",
+                                          "Bushehr",
+                                          "Fordo",
+                                          "Isfahan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Under the United Nations Convention on the Law of the Sea (UNCLOS), the Exclusive Economic Zone (EEZ) of a coastal state extends up to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "12 nautical miles",
+                                          "24 nautical miles",
+                                          "100 nautical miles",
+                                          "200 nautical miles"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The Indo-Pacific Oceans Initiative (IPOI) was launched by India in 2019. It builds upon which earlier Indian vision?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Look East Policy",
+                                          "Act East Policy",
+                                          "SAGAR (Security and Growth for All in the Region)",
+                                          "Necklace of Diamonds"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The headquarters of the International Energy Agency (IEA) is located at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vienna",
+                                          "Geneva",
+                                          "Paris",
+                                          "Brussels"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "With reference to the AI Impact Summit 2026 and the New Delhi Declaration, consider the following: 1. The Summit was the 4th global AI summit, after the UK, South Korea and France. 2. The Declaration was endorsed by 89 countries and international organisations. 3. The theme was \u0027Sarvajana Hitaya, Sarvajana Sukhaya\u0027. How many of the statements above are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Only one",
+                                          "Only two",
+                                          "All three",
+                                          "None NATIONAL AFFAIRS by Anmol Sharma Page 5 VICTHREE DEFENCE Practice Questions | January – March 2026"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Renaming an existing state in India requires:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A constitutional amendment under Article 368",
+                                          "A two-thirds majority in Parliament",
+                                          "A simple majority in Parliament under Article 3",
+                                          "Ratification by half the state legislatures"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The Shaksgam Valley, also known as the Trans-Karakoram Tract, was ceded to China by Pakistan under which agreement?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1947 Standstill Agreement",
+                                          "1963 Sino-Pakistan Boundary Agreement",
+                                          "1972 Simla Agreement",
+                                          "1980 Karakoram Highway Agreement"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Which of the following is the only paramilitary force in India with a dual control structure?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Central Reserve Police Force (CRPF)",
+                                          "Border Security Force (BSF)",
+                                          "Assam Rifles",
+                                          "Sashastra Seema Bal (SSB) ECONOMY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "India\u0027s new GDP series has the base year:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2011–12",
+                                          "2017–18",
+                                          "2020–21",
+                                          "2022–23"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Which of the following correctly describes the new CPI series 2024 (compared with CPI 2012)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Basket size reduced to 250 items",
+                                          "Food \u0026 Beverages weight increased to 50%",
+                                          "Basket expanded to 358 items and weight reference based on HCES 2023–24",
+                                          "Housing index dropped from the framework"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "Under the Income Tax Rules 2026, the term \u0027Assessment Year\u0027 has been replaced with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Filing Year",
+                                          "Fiscal Year",
+                                          "Tax Year",
+                                          "Reporting Year"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Coking Coal has been classified as a Critical and Strategic Mineral under which Act?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mines Act, 1952",
+                                          "Coal Mines (Special Provisions) Act, 2015",
+                                          "Mines and Minerals (Development and Regulation) Act, 1957",
+                                          "Petroleum and Natural Gas Rules, 1959 by Anmol Sharma Page 6 VICTHREE DEFENCE Practice Questions | January – March 2026 SCIENCE AND TECHNOLOGY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Solid Fuel Ducted Ramjet (SFDR) technology was successfully demonstrated by DRDO from:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sriharikota",
+                                          "Pokhran",
+                                          "Chandipur, Odisha",
+                                          "Wheeler Island"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "With reference to NavIC, consider the following statements: 1. It was conceived after the Kargil War, 1999. 2. It uses 7 satellites — 3 in GEO and 4 in GSO. 3. It is developed by ISRO. Which of the statements given above are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Atomic clocks in navigation satellites such as NavIC typically use which element?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cesium",
+                                          "Rubidium",
+                                          "Hydrogen",
+                                          "Iodine"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "Which of the following is correct about India\u0027s HPV vaccination programme launched in 2026?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It uses a single-dose Bharat Biotech vaccine for girls aged 18",
+                                          "It uses Gardasil, a quadrivalent vaccine, for girls aged 14",
+                                          "It is mandatory and uses an annual schedule",
+                                          "It targets only urban districts"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Which of the following pairs of cattle breeds and their developing institutions is/are correctly matched? 1. Karan Fries — National Dairy Research Institute, Karnal 2. Vrindavani — ICAR-Indian Veterinary Research Institute, Bareilly",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2 SPACE by Anmol Sharma Page 7 VICTHREE DEFENCE Practice Questions | January – March 2026"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "India\u0027s first PPP-model Earth Observation satellite constellation is being developed by a consortium led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Skyroot Aerospace",
+                                          "Pixxel",
+                                          "Bellatrix Aerospace",
+                                          "Agnikul Cosmos"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "The proposed National Large Optical Telescope (NLOT) is to be set up at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kavalur, Tamil Nadu",
+                                          "Devasthal, Uttarakhand",
+                                          "Hanle, Ladakh",
+                                          "Mount Abu, Rajasthan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "Match the following ISRO Earth Observation satellite series with their primary purpose: A. CARTOSAT 1. Ocean studies B. RESOURCESAT 2. Mapping C. OCEANSAT 3. Radar imaging D. RISAT 4. Resource monitoring",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A-2, B-4, C-1, D-3",
+                                          "A-2, B-3, C-1, D-4",
+                                          "A-1, B-2, C-4, D-3",
+                                          "A-3, B-1, C-4, D-2 ENVIRONMENT AND GEOGRAPHY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "The BBNJ Agreement (High Seas Treaty) primarily deals with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Conservation of migratory species across continents",
+                                          "Biodiversity beyond national jurisdiction in the high seas",
+                                          "Trade in endangered species",
+                                          "Trans-boundary movement of hazardous waste"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "\u0027Wet Bulb Temperature\u0027 refers to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The temperature of saturated air at the dew point",
+                                          "The lowest temperature to which air can be cooled by evaporation at constant pressure",
+                                          "The temperature inside a tropical cyclone",
+                                          "The temperature at which dew first forms"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "Zojila Pass connects which two regions?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kashmir Valley and Jammu",
+                                          "Kashmir Valley and Ladakh",
+                                          "Sikkim and Bhutan",
+                                          "Himachal and Uttarakhand by Anmol Sharma Page 8 VICTHREE DEFENCE Practice Questions | January – March 2026"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "Which of the following is the State Animal of West Bengal?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Fishing Cat",
+                                          "Bengal Tiger",
+                                          "Ganges River Dolphin",
+                                          "Asian Elephant"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "With reference to the Bactrian Camel, consider the following statements: 1. It is a single-humped camel. 2. In India, it is restricted to the Nubra Valley of Ladakh. 3. The Wild Bactrian Camel (Camelus ferus) is listed as Critically Endangered on the IUCN Red List. Which of the statements given above are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3 REPORTS AND INDICES"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "The Power Gap Index, used in the Economic Survey 2025–26, is published by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "RAND Corporation",
+                                          "Lowy Institute, Australia",
+                                          "Stockholm International Peace Research Institute (SIPRI)",
+                                          "International Institute for Strategic Studies (IISS)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "The Export Preparedness Index (EPI) is published by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ministry of Commerce",
+                                          "NITI Aayog",
+                                          "Reserve Bank of India",
+                                          "Federation of Indian Chambers of Commerce and Industry (FICCI)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  41,
+                          "stem":  "The \u0027World Energy Outlook\u0027 is a flagship publication of which organisation?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "World Bank",
+                                          "International Energy Agency (IEA)",
+                                          "OPEC",
+                                          "United Nations Environment Programme (UNEP) AWARDS AND HONOURS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  42,
+                          "stem":  "The Stockholm Water Prize 2026 was awarded to Kaveh Madani for his work in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Desalination technology",
+                                          "Combining water science with policy and diplomacy; introduced the concept of \u0027water bankruptcy\u0027",
+                                          "Discovering a new freshwater species",
+                                          "Designing low-cost rural water pumps by Anmol Sharma Page 9 VICTHREE DEFENCE Practice Questions | January – March 2026"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  43,
+                          "stem":  "The Sangita Kalanidhi Award, conferred annually for excellence in Carnatic classical music, is presented by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sangeet Natak Akademi",
+                                          "The Music Academy Madras",
+                                          "Tansen Sangeet Vidyalaya",
+                                          "The Cultural Council of India"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  44,
+                          "stem":  "The Global Teacher Prize is organised by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "UNESCO directly",
+                                          "GEMS Education through the Varkey Foundation in collaboration with UNESCO",
+                                          "The Bill \u0026 Melinda Gates Foundation",
+                                          "OECD Education Committee SPORTS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  45,
+                          "stem":  "India won the ICC Men\u0027s T20 World Cup 2026 by defeating which team in the final?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Australia",
+                                          "England",
+                                          "New Zealand",
+                                          "South Africa"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  46,
+                          "stem":  "The inaugural Khelo India Tribal Games (2026) were hosted in which state?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jharkhand",
+                                          "Odisha",
+                                          "Chhattisgarh",
+                                          "Madhya Pradesh IMPORTANT APPOINTMENTS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  47,
+                          "stem":  "In February 2026, India assumed the chairmanship of the Indian Ocean Naval Symposium (IONS) at the 9th Conclave of Chiefs held in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mumbai",
+                                          "Kochi",
+                                          "Visakhapatnam",
+                                          "Port Blair"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  48,
+                          "stem":  "With reference to the appointment of the Chief Election Commissioner (CEC) of India, consider the following: 1. The CEC is appointed by the President on the recommendation of a three-member committee. 2. The CEC can be removed in the same manner and on the same grounds as a Supreme Court judge. Which of the statements given above is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2 by Anmol Sharma Page 10 VICTHREE DEFENCE Practice Questions | January – March 2026 MISCELLANEOUS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  49,
+                          "stem":  "The PM-RAHAT scheme provides cashless treatment to road accident victims up to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "50,000 for the first 3 days",
+                                          "1 lakh for the first 5 days",
+                                          "1.5 lakh for the first 7 days",
+                                          "2 lakh for the first 10 days"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      },
+                      {
+                          "n":  50,
+                          "stem":  "The Bharat Audyogik Vikas Yojana (BHAVYA) aims to develop:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "100 smart cities",
+                                          "100 plug-and-play industrial parks",
+                                          "100 logistics hubs",
+                                          "100 textile clusters by Anmol Sharma Page 11 VICTHREE DEFENCE Practice Questions | January – March 2026"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "Jan–Mar 2026"
+                      }
+                  ]
+}

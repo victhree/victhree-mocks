@@ -1,0 +1,618 @@
+{
+    "title":  "Current Affairs — July 2026",
+    "durationMin":  40,
+    "scoring":  {
+                    "totalMarks":  38,
+                    "negativeFraction":  0
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "Project Kusha, DRDO\u0027s indigenous long-range surface-to-air missile system, is often described as India\u0027s answer to which foreign air-defence platform?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Israeli Iron Dome",
+                                          "Russian S-400 Triumf",
+                                          "US Patriot PAC-3",
+                                          "French SAMP/T"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Which of the following is/are correct about the Astra Mk 1 missile? 1. It is a Beyond-Visual-Range Air-to-Air Missile (BVRAAM). 2. It is developed by DRDO and manufactured by Bharat Dynamics Limited (BDL). 3. It was recently agreed for supply to Indonesia.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The Netra Airborne Early Warning and Control (AEW\u0026C) system, which received Final Operational Clearance in July 2026, is developed under which DRDO establishment?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Aeronautical Development Establishment (ADE)",
+                                          "Centre for Airborne Systems (CABS)",
+                                          "Aeronautical Development Agency (ADA)",
+                                          "Defence Research and Development Laboratory (DRDL)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The VIJAY Roadmap for the Indian Army, unveiled by General Dhiraj Seth, has five pillars. Which pillar promotes indigenous defence production?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "V, Vigilance and Readiness",
+                                          "I, Innovation and Transformation",
+                                          "J, Jointness and Integration",
+                                          "A, Atmanirbharta"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Project Hawk Eye, the technology-driven security grid for the Amarnath Yatra 2026, was launched by which agency?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "National Security Guard (NSG)",
+                                          "Central Reserve Police Force (CRPF)",
+                                          "Jammu and Kashmir Police, Anantnag District",
+                                          "Border Security Force (BSF)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "Project BRAHMANK, which celebrated its 16th Raising Day on 29 June 2026 at Ranaghat, is a specialised engineering wing of the Border Roads Organisation (BRO) operating primarily in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ladakh and Kashmir",
+                                          "Himachal Pradesh (Western Himalayas)",
+                                          "5 districts of Arunachal Pradesh and adjoining Assam",
+                                          "Uttarakhand and Sikkim"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Operation Amistad was launched by India as a Humanitarian Assistance and Disaster Relief (HADR) mission to which country following back-to-back earthquakes?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Türkiye",
+                                          "Nepal",
+                                          "Venezuela",
+                                          "Ecuador"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Exercise \u0027Valiant Shield 2026\u0027 is which of the following?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "An India-US annual naval drill in the Arabian Sea",
+                                          "A biennial multinational US-led exercise in the Western Pacific with Japan, Australia, Canada and New Zealand",
+                                          "A joint India-Japan special forces exercise",
+                                          "A NATO-only air-defence exercise in the Baltic INTERNATIONAL RELATIONS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The India-UK Comprehensive Economic and Trade Agreement (CETA) is best described as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A double-taxation avoidance treaty",
+                                          "A Free Trade Agreement covering goods, services, investment protection and IPR",
+                                          "A social-security portability pact",
+                                          "A visa-liberalisation-only framework"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "India\u0027s UNSC campaign for the 2028 to 2029 term has been unveiled under the \u0027SHANTI Vision\u0027. SHANTI stands for:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sustaining Harmony And National Trust Internationally",
+                                          "Securing Holistic Advancement through Norms, Trust and Integrity",
+                                          "Strategic Harmony And New Trade Initiative",
+                                          "Solidarity, Humanity, Advancement, National Trust and Integrity"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Consider the following statements about NATO\u0027s Ankara Summit 2026: 1. It focused on defence-spending increases and transatlantic burden-sharing. 2. It highlighted Indo-Pacific partnerships. Which of the statements is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The 2020 Abraham Accords already included the UAE, Bahrain and Morocco. In 2026 the US pushed for expansion to include which set of Muslim-majority nations?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Iran, Iraq and Yemen",
+                                          "Saudi Arabia, Qatar, Pakistan, Turkey, Egypt and Jordan",
+                                          "Kuwait, Oman and Lebanon",
+                                          "Malaysia, Indonesia and Bangladesh"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The BRICS Declaration adopted under India\u0027s 2026 Chairship, outlining industrial, digital and sustainability priorities, is known as the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Delhi Declaration 2026",
+                                          "Guwahati Declaration",
+                                          "Kazan Declaration",
+                                          "Bengaluru Declaration NATIONAL AFFAIRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The Interoperable Criminal Justice System (ICJS) is managed by which agency?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Central Bureau of Investigation (CBI)",
+                                          "National Crime Records Bureau (NCRB) under the Ministry of Home Affairs",
+                                          "National Investigation Agency (NIA)",
+                                          "Bureau of Police Research and Development (BPR\u0026D)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Trial in absentia in India is now enabled under which provision of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Section 82",
+                                          "Section 174",
+                                          "Section 356",
+                                          "Section 482"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The Right to be Forgotten was recognised by the Delhi High Court in July 2026 in which case?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Puttaswamy v. Union of India",
+                                          "Laksh Vir Singh Yadav v. Union of India",
+                                          "Shreya Singhal v. Union of India",
+                                          "Anuradha Bhasin v. Union of India"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "With reference to the Rajya Sabha Rules of Procedure, consider the following: 1. Rule 267 allows a member to move a motion to suspend the day\u0027s listed business. 2. Rule 176 permits a Short-Duration Discussion capped at a maximum of 2.5 hours with a formal vote at the end. Which of the statements given above is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The Ladakh Autonomous Hill Development Councils (LAHDC) Act, 1997 originally established Autonomous Hill Development Councils for which districts?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Kargil and Zanskar",
+                                          "Leh and Kargil",
+                                          "Nubra and Leh",
+                                          "Kargil and Drass"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Under the Public Examinations (Prevention of Unfair Means) Act, 2024, service providers organising public examinations may be barred from conducting exams for up to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 year",
+                                          "2 years",
+                                          "3 years",
+                                          "4 years"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "Fast-Track Courts (FTCs), constitutionally justified as a rational classification, must satisfy which article of the Constitution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 12",
+                                          "Article 14",
+                                          "Article 21",
+                                          "Article 32"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "Dr Syama Prasad Mookerjee, who founded the Bharatiya Jana Sangh in 1951, resigned from Jawaharlal Nehru\u0027s Cabinet in 1950 over which agreement?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Simla Agreement",
+                                          "Liaquat-Nehru Pact",
+                                          "Cabinet Mission Plan",
+                                          "Nehru-Kotelawala Pact"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Prambanan Temple, where PM Modi and Indonesian President Prabowo Subianto launched a conservation project, is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A Buddhist stupa in Central Java",
+                                          "Indonesia\u0027s largest Hindu temple compound (Shaivite) in Java",
+                                          "A Javanese royal palace complex",
+                                          "A pre-colonial mosque restored in 2026 ECONOMY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "Helium\u0027s importance as a strategic resource is driven by its use in all of the following EXCEPT:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "MRI scanners",
+                                          "Rocket propellant (LOX/LH2 pressurisation)",
+                                          "Semiconductor manufacturing",
+                                          "As a primary fuel for domestic cooking"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The Nifty500 Ahimsa Index, launched by NSE Indices in July 2026, is best described as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A pure large-cap equity index",
+                                          "A rules-based index screening out companies with significant exposure to industries harmful to animals",
+                                          "A green-bond index",
+                                          "A gold-linked ETF index"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The Index of Core Industries (ICI) tracks how many core sectors and roughly how much weight does it carry in the Index of Industrial Production (IIP)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Six sectors, approximately 30% weight",
+                                          "Eight sectors, approximately 40% weight",
+                                          "Ten sectors, approximately 50% weight",
+                                          "Twelve sectors, approximately 60% weight SCIENCE AND TECHNOLOGY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Vikram-1, India\u0027s first private orbital rocket launched under \u0027Mission Aagaman\u0027, is developed by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Agnikul Cosmos",
+                                          "Skyroot Aerospace",
+                                          "Bellatrix Aerospace",
+                                          "Pixxel"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "Qdenga®, India\u0027s first approved dengue vaccine, is developed by which pharmaceutical company?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Serum Institute of India",
+                                          "Bharat Biotech",
+                                          "Takeda (Japan)",
+                                          "Sanofi"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Which of the following statements is/are correct? 1. Borophene is a 2D material made of boron atoms. 2. Proton Exchange Membrane (PEM) fuel cells are used in hydrogen-powered vehicles. 3. India commissioned its first geothermal wells at Puga Valley in Ladakh.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3 SPACE"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The CE20 cryogenic engine, critical for India\u0027s future crewed and heavy-lift missions, powers the upper stage of which ISRO launch vehicle?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "PSLV",
+                                          "GSLV Mk-II",
+                                          "LVM-3",
+                                          "SSLV ENVIRONMENT AND GEOGRAPHY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "Indira Point, the southernmost tip of India, is located on which island?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Little Andaman",
+                                          "Great Nicobar",
+                                          "Car Nicobar",
+                                          "Middle Andaman"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "Jonathan, recognised as the world\u0027s oldest known living land animal, is a Giant Tortoise resident of which island?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Aldabra",
+                                          "Galápagos",
+                                          "St Helena",
+                                          "Zanzibar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "Match the following: A. Puga Valley 1. Southernmost tip of India B. Indira Point 2. India\u0027s first geothermal wells C. Manasbal Lake 3. Kashmir Valley, one of the deepest lakes, famed for lotus D. Khawthlangtuipui River 4. Flows through Mizoram before entering Bangladesh",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A-2, B-1, C-3, D-4",
+                                          "A-1, B-2, C-4, D-3",
+                                          "A-2, B-1, C-4, D-3",
+                                          "A-3, B-2, C-1, D-4 REPORTS AND INDICES"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "The Global Liveability Index, which ranks the world\u0027s cities on stability, healthcare, culture, education and infrastructure, is published by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "World Economic Forum (WEF)",
+                                          "The Economist Intelligence Unit (EIU)",
+                                          "OECD",
+                                          "United Nations Human Settlements Programme (UN-Habitat) AWARDS AND HONOURS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "The National Award-winning film \u0027Angen\u0027 (Invisible), celebrated in July 2026, is a 12-minute-10-second short film in which language?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ho",
+                                          "Mundari",
+                                          "Santhali",
+                                          "Kurukh SPORTS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "The 2026 Commonwealth Games, officially the XXIII Commonwealth Games, are being hosted by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Melbourne, Australia",
+                                          "Birmingham, United Kingdom",
+                                          "Glasgow, Scotland",
+                                          "Kuala Lumpur, Malaysia"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "The Durand Cup, the oldest football tournament in Asia, was founded in which year?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1888",
+                                          "1901",
+                                          "1911",
+                                          "1947 IMPORTANT APPOINTMENTS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "General Dhiraj Seth, who assumed office as India\u0027s 31st Chief of the Army Staff, was commissioned into which unit of the Indian Army?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sikh Light Infantry",
+                                          "Parachute Regiment",
+                                          "2nd Lancers (Gardner\u0027s Horse), Armoured Corps",
+                                          "Rajputana Rifles MISCELLANEOUS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "The Bharat 6G Alliance (B6GA), which expanded its membership to 90 organisations in July 2026, aims to shape India\u0027s positions in which global standard?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "IMT-2020 (5G)",
+                                          "IMT-2030 (6G)",
+                                          "Wi-Fi 7 (IEEE 802.11be)",
+                                          "Bluetooth 5.4"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "July 2026"
+                      }
+                  ]
+}

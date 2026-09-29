@@ -3,9 +3,9 @@
    shows one folder tile per subject; with ?sub=<slug> it lists that subject's tests. */
 function escapeHtml(s){ return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;"); }
 function qs(name){ return new URLSearchParams(location.search).get(name); }
-function catParam(){ var c = qs("cat"); return (c === "full" || c === "english" || c === "maths" || c === "sectional") ? c : "sectional"; }
-function catOf(id){ if (/^full-mock-\d/.test(id)) return "full"; if (/^eng-mock-\d/.test(id)) return "english"; if (/^maths-mock-\d/.test(id)) return "maths"; return "sectional"; }
-function catTitle(cat){ return cat === "full" ? "Full-Length Tests" : (cat === "english" ? "English Tests" : (cat === "maths" ? "Maths Tests" : "GK Sectional Tests")); }
+function catParam(){ var c = qs("cat"); return (c === "full" || c === "english" || c === "maths" || c === "ca" || c === "sectional") ? c : "sectional"; }
+function catOf(id){ if (/^full-mock-\d/.test(id)) return "full"; if (/^eng-mock-\d/.test(id)) return "english"; if (/^maths-mock-\d/.test(id)) return "maths"; if (/^ca-\d/.test(id)) return "ca"; return "sectional"; }
+function catTitle(cat){ return cat === "full" ? "Full-Length Tests" : (cat === "english" ? "English Tests" : (cat === "maths" ? "Maths Tests" : (cat === "ca" ? "Current Affairs Tests" : "GK Sectional Tests"))); }
 
 /* Which subject folder a sectional test belongs to (driven by its manifest subject). */
 var GROUP_ORDER = ["Geography", "History", "Polity", "Economy", "Science", "Mixed Subjects"];

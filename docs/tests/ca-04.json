@@ -1,0 +1,650 @@
+{
+    "title":  "Current Affairs — June 2026",
+    "durationMin":  40,
+    "scoring":  {
+                    "totalMarks":  40,
+                    "negativeFraction":  0
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "With reference to India\u0027s \u0027Defence Decade Transformation (2014-2026)\u0027, consider the following: 1. Mission Shakti (2019) demonstrated India\u0027s Anti-Satellite (ASAT) capability. 2. Mission Divyastra (2024) successfully tested Multiple Independently Targetable Re-entry Vehicle (MIRV) technology. 3. Project 75 completed all six Kalvari-class Scorpene submarines in 2025. Which of the statements given above are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "The RudraM-II air-to-surface missile, recently tested by DRDO and the IAF, is designed for which primary role?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Anti-ballistic missile defence",
+                                          "Suppression of Enemy Air Defences (SEAD) — anti-radiation strike",
+                                          "Anti-satellite strike",
+                                          "Underwater launch against surface targets"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The first \u0027Made in India\u0027 Airbus C-295 military transport aircraft — under a 21,935 crore contract for 56 aircraft — completed its maiden flight from:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "HAL, Bengaluru",
+                                          "TASL Final Assembly Line, Vadodara",
+                                          "BEML, Bengaluru",
+                                          "GRSE, Kolkata"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "The Netra Airborne Early Warning and Control (AEW\u0026C;) System, given Final Operational Clearance by DRDO, is based on which aircraft platform?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Boeing 737",
+                                          "Embraer EMB-145",
+                                          "Ilyushin IL-76",
+                                          "Dornier-228"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "India\u0027s multi-layered Ballistic Missile Defence (BMD) system — indigenously developed by DRDO — uses which of the following types of interceptors?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Only endo-atmospheric interceptors",
+                                          "Only exo-atmospheric interceptors",
+                                          "Both exo-atmospheric (high-altitude) and endo-atmospheric (below 100 km) interceptors",
+                                          "Only sea-based interceptors"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The tri-commissioning of INS Dunagiri, INS Sanshodhak and INS Agray was conducted at Kolkata. Which of the following correctly matches the ship with its class?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "INS Dunagiri — Nilgiri-class stealth frigate (Project 17A)",
+                                          "INS Sanshodhak — Arihant-class submarine",
+                                          "INS Agray — Nilgiri-class frigate",
+                                          "INS Dunagiri — Sandhayak-class survey vessel"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The first indigenously built Air Cushion Vehicle (ACV/hovercraft) — inducted into the Indian Coast Guard at Goa — was developed by which company?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Larsen \u0026 Toubro (L\u0026T;)",
+                                          "Chowgule \u0026 Company Private Limited",
+                                          "Cochin Shipyard Limited",
+                                          "Adani Defence"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Project UDAYAK — which celebrated its 37th Raising Day at Doomdooma, Assam — is an executive wing of the Border Roads Organisation responsible for road infrastructure in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ladakh only",
+                                          "Sikkim and Bhutan border",
+                                          "Easternmost Arunachal Pradesh and parts of Assam",
+                                          "Uttarakhand and Himachal Pradesh"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "With reference to the Armed Forces (Special Powers) Act, 1958 (AFSPA), consider the following statements: 1. Section 4(a) permits security forces to use force after due warning against unlawful assemblies. 2. Section 6 mandates prior sanction of the Central Government for prosecution of security personnel acting under the Act. 3. AFSPA received Presidential assent on 11 September 1958. How many of the statements above are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Only one",
+                                          "Only two",
+                                          "All three",
+                                          "None"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The nodal agency for cyber protection of India\u0027s Critical Information Infrastructure is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "CERT-In",
+                                          "National Critical Information Infrastructure Protection Centre (NCIIPC)",
+                                          "National Cyber Security Coordinator (NCSC)",
+                                          "Data Security Council of India (DSCI) INTERNATIONAL RELATIONS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Under the India–Oman CEPA which came into force in 2026, India becomes only the second country after which nation to secure such an agreement with Oman?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "United Kingdom",
+                                          "United States",
+                                          "United Arab Emirates",
+                                          "Japan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The India–Nepal boundary dispute concerning Kalapani, Lipulekh and Limpiyadhura has its root in which treaty?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Treaty of Titalia, 1817",
+                                          "Treaty of Sugauli, 1816",
+                                          "Sino-Nepalese Treaty, 1856",
+                                          "Anglo-Nepalese Treaty, 1923"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The Abraham Accords are named after the biblical patriarch Abraham. The initial 2020 signatories, apart from the United States (broker) and Israel (focal state), were:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "UAE, Saudi Arabia and Morocco",
+                                          "UAE, Bahrain and Morocco",
+                                          "Kuwait, Qatar and Egypt",
+                                          "Egypt, Jordan and Bahrain"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The 52nd G7 Summit (June 2026) was hosted at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Charlevoix, Canada",
+                                          "Evian, France",
+                                          "Hiroshima, Japan",
+                                          "Elmau, Germany"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The United States Indo-Pacific Command (USINDOPACOM) recently reverted to its earlier name. What is its restored name?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "US Central Command (USCENTCOM)",
+                                          "US Pacific Command (USPACOM)",
+                                          "US Southern Command (USSOUTHCOM)",
+                                          "US Africa Command (USAFRICOM)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The India-UK Critical Minerals Global Supply Chain Observatory (GSCO), launched in New Delhi, operates under the overarching goals of India\u0027s:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Vision India 2047",
+                                          "National Critical Mineral Mission (NCMM)",
+                                          "Make in India Programme",
+                                          "PM Gati Shakti NATIONAL AFFAIRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The Delhi High Court recently recognised the \u0027Right to be Forgotten\u0027 as an integral part of the Right to Privacy under which Article of the Indian Constitution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 14",
+                                          "Article 19(1)(a)",
+                                          "Article 21",
+                                          "Article 25"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The All India Forward Bloc — an independent socialist political party — was founded by Netaji Subhas Chandra Bose. It became an independent political party at the plenary session held at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ramgarh (March 1940)",
+                                          "Nagpur (June 1940)",
+                                          "Haripura (February 1938)",
+                                          "Tripuri (March 1939)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Rani Lakshmibai of Jhansi was killed in combat on which date and location?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "10 May 1857 at Meerut",
+                                          "18 June 1858 near Gwalior",
+                                          "20 September 1857 at Delhi",
+                                          "3 July 1897 at Pune"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The Chapekar Brothers — the only three biological brothers executed for India\u0027s independence — assassinated which British official in Pune on 22 June 1897?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "William Hunter",
+                                          "Walter Charles Rand",
+                                          "Charles Metcalfe",
+                                          "Lord Ripon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The June 3rd Declaration (Mountbatten Plan) of 1947 accelerated the transfer of power from which target date to which final date?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "From 26 January 1948 to 15 August 1947",
+                                          "From 30 June 1948 to 15 August 1947",
+                                          "From 26 January 1950 to 15 August 1947",
+                                          "From 30 June 1947 to 26 January 1948"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Maulana Barkatullah served as the Prime Minister of India\u0027s first Government-in-Exile, established in Kabul in 1915. Who was its President?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Lala Lajpat Rai",
+                                          "Raja Mahendra Pratap",
+                                          "Ubaidullah Sindhi",
+                                          "Rash Behari Bose"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The Sanchi Stupa, whose sacred relics of Sariputra and Maudgalyayana are being sent to Mongolia, was commissioned by which ruler?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Chandragupta Maurya",
+                                          "Emperor Ashoka",
+                                          "Kanishka",
+                                          "Harshavardhana"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The \u0027Dancing Girl\u0027 bronze statuette of the Indus Valley Civilisation was discovered in 1926 at Mohenjo-daro by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "R.D. Banerjee",
+                                          "John Marshall",
+                                          "Daya Ram Sahni",
+                                          "M.S. Vats"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Rakhigarhi — the largest known urban settlement of the Indus-Saraswati (Harappan) Civilisation — is located in which state?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Punjab",
+                                          "Gujarat",
+                                          "Haryana",
+                                          "Rajasthan ECONOMY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The Ministry of Commerce and Industry revised the base year of India\u0027s Wholesale Price Index (WPI). The new base year is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2017–18",
+                                          "2020–21",
+                                          "2022–23",
+                                          "2025–26 SCIENCE AND TECHNOLOGY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "India\u0027s First Indigenous Hydrogen Train was rolled out in June 2026. Which of the following is/are true? 1. It is a zero-emission rail transport milestone. 2. Coal Gasification technology converts coal into synthesis gas (syngas) for industrial use. Which of the statements is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "Fibre-Optic Drones, referenced in defence discourse, have which key operational advantage over conventional drones?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Longer flight time",
+                                          "Immunity to radio jamming and electronic warfare",
+                                          "Higher payload capacity",
+                                          "Larger swarm size"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The Wi-Fi 7 wireless standard is officially designated as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "IEEE 802.11ac",
+                                          "IEEE 802.11ax",
+                                          "IEEE 802.11be",
+                                          "IEEE 802.11bn SPACE"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "India\u0027s space regulator IN-SPACe, referenced in the \u0027Evolving Space Architecture\u0027 report, stands for:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Indian National Space Programme and Coordination Centre",
+                                          "Indian National Space Promotion and Authorisation Centre",
+                                          "Indian Nodal Space Policy Centre",
+                                          "Indian Network for Space Cooperation and Exploration"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "The MAVEN Mars Mission, whose decommissioning was announced in June 2026, was launched by NASA in which year?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2003",
+                                          "2011",
+                                          "2013",
+                                          "2018 ENVIRONMENT AND GEOGRAPHY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "India\u0027s 100th Ramsar Site is the Jai Prakash Narayan Bird Sanctuary (Surha Tal). It is located in which state?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bihar",
+                                          "Uttar Pradesh",
+                                          "West Bengal",
+                                          "Odisha"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "The Nagoya Protocol — supplementary to the Convention on Biological Diversity — governs which mechanism?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Trade in endangered species",
+                                          "Access and Benefit Sharing (ABS) for genetic resources",
+                                          "Trans-boundary movement of hazardous waste",
+                                          "Ozone-depleting substances phase-out"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "Kaziranga\u0027s neighbour and Ballia\u0027s oxbow are protected. Which of the following places was recently in news for being ceded to Sri Lanka via the 1974/1976 agreements?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Little Andaman",
+                                          "Katchatheevu Island",
+                                          "Sri Harikota",
+                                          "Rameswaram REPORTS AND INDICES"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "The National Family Health Survey-6 (NFHS-6) for 2023–24 was coordinated by which institution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "National Sample Survey Office (NSSO)",
+                                          "International Institute for Population Sciences (IIPS), Mumbai",
+                                          "Central Statistics Office (CSO)",
+                                          "Registrar General of India (RGI) AWARDS AND HONOURS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "Match the Gallantry Award tiers with their year of institution: A. Param Vir Chakra, Maha Vir Chakra, Vir Chakra 1. 1952 (renamed 1967) B. Ashoka Chakra, Kirti Chakra, Shaurya Chakra 2. 1950",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A-1, B-2",
+                                          "A-2, B-1",
+                                          "Both instituted 1952",
+                                          "Both instituted 1950"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "Major Abhilasha Barak, congratulated by the PM, was conferred which international honour in June 2026?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "UN Peacekeeper of the Year",
+                                          "UN Military Gender Advocate of the Year Award",
+                                          "UNESCO Peace Prize",
+                                          "Nansen Refugee Award SPORTS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "The FIFA World Cup 2026 — the 23rd edition — is being co-hosted by which three nations?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "USA, Canada, Argentina",
+                                          "USA, Mexico, Canada",
+                                          "Mexico, Argentina, Brazil",
+                                          "USA, Brazil, Colombia IMPORTANT APPOINTMENTS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "Which of the following statements is correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "USINDOPACOM was renamed USPACOM in May 2018",
+                                          "USPACOM was renamed USINDOPACOM on 16 June 2026",
+                                          "USINDOPACOM was renamed back to USPACOM on 16 June 2026",
+                                          "USPACOM has never been renamed since 1947 MISCELLANEOUS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "Cyprus expressed a keen interest in procuring which Indian defence platform under a projected €1.2 billion defence package?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tejas Light Combat Aircraft",
+                                          "BrahMos supersonic cruise missile and kamikaze drones",
+                                          "INS Vikrant class carrier",
+                                          "Akash Surface-to-Air Missile"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "June 2026"
+                      }
+                  ]
+}

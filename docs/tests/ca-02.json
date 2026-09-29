@@ -1,0 +1,522 @@
+{
+    "title":  "Current Affairs — April 2026",
+    "durationMin":  40,
+    "scoring":  {
+                    "totalMarks":  32,
+                    "negativeFraction":  0
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "India\u0027s defence exports in FY 2025–26 reached an all-time high of approximately:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "19,500 crore",
+                                          "28,000 crore",
+                                          "38,424 crore",
+                                          "50,000 crore"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "With reference to India\u0027s defence sector, consider the following: 1. The Defence Production and Export Promotion Policy (DPEPP) was launched in 2020. 2. The Draft Defence Acquisition Procedure (DAP) 2026 raises Indigenous Content from 50% to 60% for prioritized categories. Which of the statements given above is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Which of the following are the top three destination markets for India\u0027s defence exports in 2023–24?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "UAE, Saudi Arabia, Vietnam",
+                                          "United States, France, Armenia",
+                                          "Israel, Bangladesh, Sri Lanka",
+                                          "Russia, Iran, Egypt"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "INS Aridaman, recently inducted into the Indian Navy, is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "First indigenous SSBN",
+                                          "Second Arihant-class SSBN",
+                                          "Third Arihant-class SSBN",
+                                          "Fourth Arihant-class SSBN"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "INS Malwan, recently received by the Indian Navy, is the second Anti-Submarine Warfare Shallow Water Craft (ASW-SWC) indigenously designed and built by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mazagon Dock Shipbuilders Ltd.",
+                                          "Garden Reach Shipbuilders \u0026 Engineers (GRSE), Kolkata",
+                                          "Cochin Shipyard Limited, Kochi",
+                                          "Hindustan Shipyard Limited, Visakhapatnam"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The Tunguska Air Defence Missile System, recently contracted for procurement, is identified by which NATO designation?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "SA-6 Gainful",
+                                          "SA-11 Gadfly",
+                                          "SA-19 Grison",
+                                          "SA-22 Greyhound"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The Ghatak UCAV, being developed under the Indian Air Force\u0027s Remotely Piloted Strike Aircraft (RPSA) programme, is based on which design configuration?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Canard-delta",
+                                          "Variable-sweep wing",
+                                          "Flying-wing",
+                                          "Tandem wing"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Exercise \u0027Dustlik\u0027 is an annual joint military exercise between India and which country?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tajikistan",
+                                          "Kazakhstan",
+                                          "Uzbekistan",
+                                          "Kyrgyzstan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "\u0027Mulehunter.ai\u0027, referenced in connection with India\u0027s cyber-financial security, is associated with which institution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "RBI alone",
+                                          "I4C in collaboration with IIT Bombay and the Reserve Bank Innovation Hub",
+                                          "MeitY alone",
+                                          "CERT-In alone INTERNATIONAL RELATIONS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "The India–Nepal Treaty of Peace and Friendship was signed in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1947",
+                                          "1950",
+                                          "1962",
+                                          "1972"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "Under the 2024 India–Nepal Power Trade Agreement, Nepal will export how much hydroelectricity to India over 10 years?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5,000 MW",
+                                          "8,000 MW",
+                                          "10,000 MW",
+                                          "12,000 MW"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "With reference to the India–Russia Reciprocal Exchange of Logistic Support (RELOS) Pact, consider the following: 1. It enables reciprocal use of military bases, ports and air facilities, including Arctic access for India. 2. It allows stationing of up to 3,000 troops, 5 warships and 10 aircraft in each other\u0027s territory for 5 years. Which of the statements given above is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The Indian Navy launched \u0027Operation Urja Suraksha\u0027 to escort and safeguard India-bound energy shipments through which chokepoint?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Strait of Malacca",
+                                          "Strait of Hormuz",
+                                          "Bab el-Mandeb",
+                                          "Suez Canal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "Which of the following correctly describes the Strait of Malacca?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Connects the Mediterranean Sea with the Red Sea",
+                                          "Connects the Andaman Sea (Indian Ocean) with the South China Sea (Pacific Ocean)",
+                                          "Connects the Black Sea with the Aegean Sea",
+                                          "Connects the Arabian Sea with the Bay of Bengal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "Mount Teide, Spain\u0027s highest peak, is located in which archipelago that recently hosted INS Sudarshini\u0027s maiden Indian naval visit?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Balearic Islands",
+                                          "Canary Islands",
+                                          "Azores",
+                                          "Madeira NATIONAL AFFAIRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Which of the following statements about Census 2027 is/are correct? 1. It will be India\u0027s first fully digital census. 2. It will feature comprehensive caste enumeration for the first time since 1931. 3. It will be the 16th census in India\u0027s history.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The Census in India is conducted under the legal framework of the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Statistics Act, 1953",
+                                          "Census Act, 1948 and Census Rules, 1990",
+                                          "Right to Information Act, 2005",
+                                          "Public Records Act, 1993"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The Jan Vishwas (Amendment of Provisions) Bill, 2026 proposes to amend:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "183 provisions across 42 Central laws",
+                                          "784 provisions of 79 Central Acts administered by 23 Ministries",
+                                          "1,000 provisions of 50 Central laws",
+                                          "500 provisions of 25 State laws ECONOMY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "With reference to the Insolvency and Bankruptcy Code (Amendment) Act, 2026, the powers of which body have been enhanced — including the authority to appoint or remove the liquidator?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The National Company Law Tribunal (NCLT)",
+                                          "The Committee of Creditors (CoC)",
+                                          "The Insolvency and Bankruptcy Board of India (IBBI)",
+                                          "The Adjudicating Authority"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The Periodic Labour Force Survey (PLFS) Annual Report 2025 is notable because:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "It uses a household-survey-only methodology",
+                                          "It is the first comprehensive report based on the calendar year (January–December 2025)",
+                                          "It excludes urban areas",
+                                          "It is conducted by the RBI SCIENCE AND TECHNOLOGY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "India\u0027s indigenously designed 500 MWe Prototype Fast Breeder Reactor (PFBR), which recently attained criticality, is located at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Tarapur",
+                                          "Kudankulam",
+                                          "Kalpakkam",
+                                          "Kakrapar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "India\u0027s three-stage nuclear power programme, conceived by Dr. Homi J. Bhabha, aims to harness which fuel for long-term energy security?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Uranium-235",
+                                          "Plutonium-239",
+                                          "Thorium-232",
+                                          "Deuterium"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The Genome India Project (GIP) collected genetic samples from how many individuals across 83 population groups?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5,000",
+                                          "7,500",
+                                          "10,000",
+                                          "20,000"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "ISRO\u0027s \u0027Mission MITRA\u0027, conducted in partnership with the Indian Air Force\u0027s Institute of Aerospace Medicine, aims to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Test new launch vehicles",
+                                          "Map lunar mineral deposits",
+                                          "Assess physiological, psychological and operational performance of Gaganyaan crew under stress",
+                                          "Develop space-based solar power SPACE"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "Artemis II, NASA\u0027s first crewed mission of the Artemis program, was launched on 1 April 2026 with how many astronauts and for what duration?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "2 astronauts; 5 days",
+                                          "3 astronauts; 7 days",
+                                          "4 astronauts; 10 days",
+                                          "6 astronauts; 14 days"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "Which of the following is/are correct about the Artemis Accords? 1. They were established in 2020 by NASA and the US State Department. 2. India is a member of the Artemis Accords. 3. They reaffirm commitment to the Outer Space Treaty.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3 ENVIRONMENT AND GEOGRAPHY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "According to the IRENA Renewable Capacity Statistics 2026, India became the world\u0027s:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Largest renewable energy producer",
+                                          "Second-largest renewable energy producer",
+                                          "Third-largest renewable energy producer",
+                                          "Fourth-largest renewable energy producer"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "India achieved 50% installed power capacity from non-fossil sources in June 2025. This means India met its 2030 NDC target:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "On time",
+                                          "One year early",
+                                          "Three years early",
+                                          "Five years early"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The concept of \u0027Water Bankruptcy\u0027 was introduced by Kaveh Madani and refers to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A financial framework for water investments",
+                                          "A situation in which water consumption exceeds natural recharge rates",
+                                          "Bankruptcy proceedings of water utilities",
+                                          "Drying up of a country\u0027s freshwater reserves REPORTS AND INDICES"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The \u0027Renewable Capacity Statistics 2026\u0027 report, which ranked India as the third-largest installed renewable energy producer, is published by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "International Energy Agency (IEA)",
+                                          "International Renewable Energy Agency (IRENA)",
+                                          "Ember Energy Initiative",
+                                          "World Energy Council IMPORTANT APPOINTMENTS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "The AI Governance and Economic Group (AIGEG), India\u0027s apex inter-ministerial body for AI policy, is chaired by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Prime Minister",
+                                          "The Principal Scientific Adviser",
+                                          "The Minister of Electronics \u0026 Information Technology",
+                                          "The CEO, NITI Aayog MISCELLANEOUS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "Pradhan Mantri Awaas Yojana – Grameen (PMAY-G), which completed 10 years recently, was restructured from which earlier scheme?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bharat Nirman",
+                                          "Indira Awas Yojana (IAY)",
+                                          "Rajiv Awas Yojana (RAY)",
+                                          "Aajeevika Mission"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "April 2026"
+                      }
+                  ]
+}

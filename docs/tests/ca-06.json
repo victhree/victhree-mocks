@@ -1,0 +1,650 @@
+{
+    "title":  "Current Affairs — August 2026",
+    "durationMin":  40,
+    "scoring":  {
+                    "totalMarks":  40,
+                    "negativeFraction":  0
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The Agni-IV missile, recently test-fired by the Strategic Forces Command, is best described as a:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Short-range surface-to-air missile",
+                                          "Nuclear-capable Intermediate-Range Ballistic Missile",
+                                          "Submarine-launched cruise missile",
+                                          "Anti-satellite kinetic weapon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "With reference to the Agni-IV, consider the following: 1. It uses a Ring Laser Gyroscope-based inertial navigation system. 2. It can be launched from a road-mobile Transporter Erector Launcher. 3. It has a range exceeding 8,000 km. Which are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "The GARUD High Resolution Binoculars, launched for the civil market, are manufactured by a unit of which DPSU?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Bharat Electronics Limited",
+                                          "India Optel Limited",
+                                          "Bharat Dynamics Limited",
+                                          "Hindustan Aeronautics Limited"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "Under the Nuclear Energy Mission, which body is the nodal developer for India\u0027s indigenous Small Modular Reactors (SMRs)?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ISRO",
+                                          "Bhabha Atomic Research Centre",
+                                          "Nuclear Power Corporation of India Limited",
+                                          "Council of Scientific and Industrial Research"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "As per the IAEA, a Small Modular Reactor (SMR) has a power output of up to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "100 MWe per unit",
+                                          "300 MWe per unit",
+                                          "500 MWe per unit",
+                                          "1,000 MWe per unit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The \u0027Samudra Manthan\u0027 scheme, approved by the Union Cabinet, is associated with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Deep-sea fisheries development",
+                                          "Offshore oil and gas exploration",
+                                          "Coastal mangrove restoration",
+                                          "Naval shipbuilding"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "The Makkah Joint Defence Agreement (MJDA), reported in the news, involves which set of countries?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Saudi Arabia, Iran and Iraq",
+                                          "Saudi Arabia, Türkiye and Pakistan",
+                                          "Türkiye, Qatar and Egypt",
+                                          "Pakistan, Iran and Afghanistan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "The e-Zero FIR system for cybercrime leverages which legal provision for electronic submission of information on cognizable offences?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Section 154 of the CrPC, 1973",
+                                          "Section 173(1) of the BNSS, 2023",
+                                          "Section 66 of the IT Act, 2000",
+                                          "Section 120B of the IPC, 1860"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The Indian Cybercrime Coordination Centre (I4C) functions under which ministry?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ministry of Electronics and Information Technology",
+                                          "Ministry of Home Affairs",
+                                          "Ministry of Communications",
+                                          "Ministry of Finance"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "With reference to pellet guns, on which the Supreme Court recently ruled, consider the following: 1. They were first introduced in 2010 as a non-lethal crowd-control alternative. 2. They are classified as less-lethal kinetic projectile weapons. Which is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2 INTERNATIONAL RELATIONS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The SHANTI campaign, launched by India, is aimed at securing:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A permanent seat in the WTO",
+                                          "A non-permanent UN Security Council seat for 2028-2029",
+                                          "Membership of the Nuclear Suppliers Group",
+                                          "Chairmanship of the G20"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "The G4 group, which supports permanent UN Security Council membership for its members, comprises:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "India, Brazil, South Africa and Nigeria",
+                                          "India, Brazil, Germany and Japan",
+                                          "India, Japan, Germany and Italy",
+                                          "Brazil, Germany, Japan and Mexico"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "The Indo-Pacific Partnership for Maritime Domain Awareness (IPMDA) is an initiative of which grouping?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "ASEAN",
+                                          "The Quad",
+                                          "BIMSTEC",
+                                          "IORA"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "The Carbon Border Adjustment Mechanism (CBAM), which BRICS nations have challenged, is a measure of the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "United States",
+                                          "European Union",
+                                          "United Kingdom",
+                                          "World Trade Organization"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "India remains one of the largest troop contributors to which UN peacekeeping mission mentioned in the news?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "UNMISS in South Sudan",
+                                          "MONUSCO in DR Congo",
+                                          "UNIFIL in Lebanon",
+                                          "MINUSMA in Mali NATIONAL AFFAIRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "The renaming of a state, such as Kerala to Keralam, is carried out under which Article of the Constitution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 2",
+                                          "Article 3",
+                                          "Article 368",
+                                          "Article 4 only"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "A Money Bill is defined under which Article of the Constitution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 109",
+                                          "Article 110",
+                                          "Article 112",
+                                          "Article 117"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "With reference to Money Bills, consider the following: 1. The Rajya Sabha can only make recommendations and must return the Bill within 14 days. 2. The Speaker of the Lok Sabha certifies a Bill as a Money Bill. Which is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "A Joint Parliamentary Committee (JPC) is best described as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A permanent standing committee named in the Constitution",
+                                          "An ad hoc committee set up under the Rules of Procedure",
+                                          "A statutory body under a special Act",
+                                          "A constitutional body under Article 105"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The adjudication of inter-state river water disputes is provided for under which Article?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Article 262",
+                                          "Article 263",
+                                          "Article 246",
+                                          "Article 249"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The Enforcement Directorate (ED) functions under which ministry?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ministry of Home Affairs",
+                                          "Ministry of Finance",
+                                          "Ministry of Law and Justice",
+                                          "Ministry of Corporate Affairs"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "Shaheed Udham Singh, whose martyrdom day was observed, is known for assassinating which colonial official?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "General Reginald Dyer",
+                                          "Michael O\u0027Dwyer",
+                                          "Lord Curzon",
+                                          "John Simon"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "The Quit India Movement was launched on 8 to 9 August 1942 at:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sabarmati Ashram",
+                                          "Gowalia Tank Maidan, Bombay",
+                                          "Red Fort, Delhi",
+                                          "Lahore"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "With reference to Vande Mataram, consider the following: 1. It was composed by Bankim Chandra Chattopadhyay. 2. It was given equal status with Jana Gana Mana on 24 January 1950. Which is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2 ECONOMY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "The RBI\u0027s proposed polymer banknote field trials cover which denominations?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "5 and 10 rupees",
+                                          "10 and 20 rupees",
+                                          "50 and 100 rupees",
+                                          "100 and 200 rupees"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "The Unified Payments Interface (UPI), which completed 10 years, was piloted in April 2016 by the RBI and:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "SEBI",
+                                          "National Payments Corporation of India",
+                                          "IRDAI",
+                                          "SIDBI"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "The Taxation and Other Laws (Amendment) Bill, 2026 amended Section 10A of which Act, relating to the Merchant Discount Rate?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The RBI Act, 1934",
+                                          "The Payment and Settlement Systems Act, 2007",
+                                          "The Banking Regulation Act, 1949",
+                                          "The Negotiable Instruments Act, 1881 SCIENCE AND TECHNOLOGY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "\u0027VIHAAN\u0027, which achieved first-pass silicon success, is India\u0027s first indigenous:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Quantum processor",
+                                          "Broadband networking System-on-Chip",
+                                          "AI accelerator chip",
+                                          "Satellite navigation chip"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The \u0027EVEREST\u0027 rocket engine, unveiled by Astrobase Space Technologies, uses which propellant combination?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Liquid Oxygen and Kerosene",
+                                          "Liquid Oxygen and Liquid Hydrogen",
+                                          "Liquid Oxygen and Liquid Methane",
+                                          "Solid ammonium perchlorate"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "The Design Linked Incentive (DLI) Scheme, which supports chips like VIHAAN, is run under which mission?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Digital India Mission",
+                                          "India Semiconductor Mission (MeitY)",
+                                          "National Supercomputing Mission",
+                                          "Atmanirbhar Bharat Abhiyan SPACE"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "The GISAT-1A (EOS-05) satellite is distinctive because it operates from:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Low Earth Orbit",
+                                          "Sun-synchronous polar orbit",
+                                          "Geostationary orbit",
+                                          "A lunar transfer orbit"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "Which launch vehicle is slated to carry the GISAT-1A (EOS-05) satellite?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "PSLV-C60",
+                                          "GSLV-F17 (Mk-II)",
+                                          "LVM3-M5",
+                                          "SSLV-D3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "At the 9th India-US Civil Space Joint Working Group, NASA invited ISRO to join which programme?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Mars Sample Return mission",
+                                          "The Moon Base programme",
+                                          "The Europa Clipper mission",
+                                          "The James Webb successor telescope ENVIRONMENT AND GEOGRAPHY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "The Asiatic Lion (Panthera leo persica), in news over a mining threat, is confined to which region?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Sundarbans",
+                                          "The Saurashtra region of Gujarat",
+                                          "The Nilgiri Hills",
+                                          "The Terai grasslands"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "The Black-necked Crane, subject of a Ladakh conservation effort, is notable as:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The largest crane in the world",
+                                          "The only exclusively alpine crane species",
+                                          "A non-migratory tropical crane",
+                                          "The state bird of Assam"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "The Ramsar Convention, referenced in a Supreme Court order on wetland mining, was adopted in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1971 in Ramsar, Iran",
+                                          "1972 in Stockholm",
+                                          "1992 in Rio de Janeiro",
+                                          "1975 in Geneva REPORTS AND INDICES"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "The report \u0027Reimagining Care in Viksit Bharat@2047\u0027 primarily addresses:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "India\u0027s defence modernisation",
+                                          "Building India\u0027s care economy",
+                                          "Renewable energy transition",
+                                          "Digital financial inclusion AWARDS AND HONOURS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "The COSPAR Vikram Sarabhai Medal 2026 was awarded to Professor Annapurni Subramaniam, who heads which institution?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Indian Institute of Science, Bengaluru",
+                                          "Indian Institute of Astrophysics, Bengaluru",
+                                          "Physical Research Laboratory, Ahmedabad",
+                                          "Tata Institute of Fundamental Research, Mumbai"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  39,
+                          "stem":  "The Fields Medal, awarded in 2026 to Hong Wang among others, is associated with which field?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Physics",
+                                          "Chemistry",
+                                          "Mathematics",
+                                          "Economics SPORTS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      },
+                      {
+                          "n":  40,
+                          "stem":  "The revamped Khelo India Scheme, approved by the Cabinet, falls under which ministry?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ministry of Education",
+                                          "Ministry of Youth Affairs and Sports",
+                                          "Ministry of Culture",
+                                          "Ministry of Home Affairs"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "August 2026"
+                      }
+                  ]
+}

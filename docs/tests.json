@@ -1009,6 +1009,66 @@
       "marks": 100,
       "negative": true,
       "description": "The actual CDS (II) 2026 paper as an exam simulator — two timed papers: English (120 Q) and General Knowledge (120 Q). Each 100 marks, 2 hours, 1/3 negative marking. Both papers open and timed."
+    },
+    {
+      "id": "ca-01",
+      "title": "Current Affairs — Jan–Mar 2026",
+      "subject": "Current Affairs",
+      "durationMin": 40,
+      "count": 50,
+      "marks": 50,
+      "negative": false,
+      "description": "Monthly current-affairs quiz - 50 MCQs from The Defence Digest Jan–Mar 2026. 50 marks, 40 minutes, no negative marking."
+    },
+    {
+      "id": "ca-02",
+      "title": "Current Affairs — April 2026",
+      "subject": "Current Affairs",
+      "durationMin": 40,
+      "count": 32,
+      "marks": 32,
+      "negative": false,
+      "description": "Monthly current-affairs quiz - 32 MCQs from The Defence Digest April 2026. 32 marks, 40 minutes, no negative marking."
+    },
+    {
+      "id": "ca-03",
+      "title": "Current Affairs — May 2026",
+      "subject": "Current Affairs",
+      "durationMin": 40,
+      "count": 38,
+      "marks": 38,
+      "negative": false,
+      "description": "Monthly current-affairs quiz - 38 MCQs from The Defence Digest May 2026. 38 marks, 40 minutes, no negative marking."
+    },
+    {
+      "id": "ca-04",
+      "title": "Current Affairs — June 2026",
+      "subject": "Current Affairs",
+      "durationMin": 40,
+      "count": 40,
+      "marks": 40,
+      "negative": false,
+      "description": "Monthly current-affairs quiz - 40 MCQs from The Defence Digest June 2026. 40 marks, 40 minutes, no negative marking."
+    },
+    {
+      "id": "ca-05",
+      "title": "Current Affairs — July 2026",
+      "subject": "Current Affairs",
+      "durationMin": 40,
+      "count": 38,
+      "marks": 38,
+      "negative": false,
+      "description": "Monthly current-affairs quiz - 38 MCQs from The Defence Digest July 2026. 38 marks, 40 minutes, no negative marking."
+    },
+    {
+      "id": "ca-06",
+      "title": "Current Affairs — August 2026",
+      "subject": "Current Affairs",
+      "durationMin": 40,
+      "count": 40,
+      "marks": 40,
+      "negative": false,
+      "description": "Monthly current-affairs quiz - 40 MCQs from The Defence Digest August 2026. 40 marks, 40 minutes, no negative marking."
     }
   ]
 }

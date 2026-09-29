@@ -1,0 +1,618 @@
+{
+    "title":  "Current Affairs — May 2026",
+    "durationMin":  40,
+    "scoring":  {
+                    "totalMarks":  38,
+                    "negativeFraction":  0
+                },
+    "questions":  [
+                      {
+                          "n":  1,
+                          "stem":  "The Indian Army\u0027s \u0027Op Netra 1.0\u0027 — a high-altitude advanced surgical eye camp — was conducted at which location?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Siachen Base Camp",
+                                          "153 General Hospital, Leh, Ladakh",
+                                          "Air Force Station, Tezpur",
+                                          "Siliguri, West Bengal"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  2,
+                          "stem":  "Project Deepak, in news recently, is a key executive wing of the Border Roads Organisation (BRO) responsible for infrastructure in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ladakh and Kashmir",
+                                          "Arunachal Pradesh",
+                                          "Himachal Pradesh (Western Himalayas)",
+                                          "Uttarakhand"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  3,
+                          "stem":  "Yard 3039 (Sanghmitra), recently received by the Indian Navy, is a Next-Generation Offshore Patrol Vessel (NGOPV) built by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Mazagon Dock Ltd, Mumbai",
+                                          "Garden Reach Shipbuilders \u0026 Engineers (GRSE), Kolkata",
+                                          "Cochin Shipyard Ltd, Kochi",
+                                          "Hindustan Shipyard Ltd, Visakhapatnam"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  4,
+                          "stem":  "With reference to India\u0027s \u0027Make in India\u0027 in the Defence Sector, consider the following: 1. It is governed by the Defence Acquisition Procedure (DAP). 2. Defence Industrial Corridors have been established in Uttar Pradesh and Tamil Nadu. Which of the statements given above is/are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 only",
+                                          "2 only",
+                                          "Both 1 and 2",
+                                          "Neither 1 nor 2"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  5,
+                          "stem":  "Which of the following statements about dual-use satellites is/are correct? 1. Over 70% of newly launched satellite constellations are dual-use. 2. Commercial constellations like Starlink provide over 80% of tactical communication bandwidth in conflict zones. 3. India\u0027s NavIC supports both public transport and defence positioning.",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  6,
+                          "stem":  "The \u0027Budapest Convention\u0027, referenced in discussions on cyber warfare, primarily focuses on:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Cybercrime rather than state-sponsored cyber operations",
+                                          "Nuclear cyber deterrence",
+                                          "AI ethics",
+                                          "Data localization rules"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  7,
+                          "stem":  "Counterfeit Indian Currency Notes (CICN) are illegally produced imitations of genuine currency without authorization from the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ministry of Finance",
+                                          "Reserve Bank of India (RBI)",
+                                          "Securities and Exchange Board of India (SEBI)",
+                                          "Central Board of Direct Taxes (CBDT)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  8,
+                          "stem":  "Operation Sankalp is associated with:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Indian Air Force strikes on cross-border terror camps",
+                                          "Indian Navy escort of India-bound energy shipments through Gulf routes",
+                                          "Indian Army counter-insurgency operations in the North-East",
+                                          "Indian Coast Guard anti-narcotics operations INTERNATIONAL RELATIONS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  9,
+                          "stem":  "The 3rd India–Nordic Summit, co-chaired by PM Modi, was held in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Copenhagen",
+                                          "Stockholm",
+                                          "Helsinki",
+                                          "Oslo"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  10,
+                          "stem":  "Under the Nuclear Non-Proliferation Treaty (NPT), the cut-off date for a state to be recognised as a Nuclear-Weapon State (NWS) is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "6 August 1945",
+                                          "1 January 1967",
+                                          "5 March 1970",
+                                          "1 January 1995"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  11,
+                          "stem":  "The India–Italy bilateral relationship, elevated to a Special Strategic Partnership during PM Modi\u0027s visit to Rome, set a bilateral trade target of:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "€10 billion by 2027",
+                                          "€15 billion by 2028",
+                                          "€20 billion by 2029",
+                                          "€30 billion by 2030"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  12,
+                          "stem":  "India established diplomatic relations with the United Arab Emirates in which year?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1968",
+                                          "1972",
+                                          "1979",
+                                          "1985"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  13,
+                          "stem":  "India\u0027s strategic autonomy framework, discussed amid the 2026 West Asia conflict, is anchored on which of the following pillars?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Non-alignment 2.0",
+                                          "Resilient energy systems, technological self-reliance, diversified partnerships, and effective multi-alignment",
+                                          "Nuclear deterrence alone",
+                                          "Bloc-based collective security NATIONAL AFFAIRS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  14,
+                          "stem":  "With reference to Raja Rammohan Roy, consider the following statements: 1. He founded the Brahmo Sabha (later Brahmo Samaj) in 1828. 2. His activism led Lord William Bentinck to ban the practice of Sati in 1829. 3. He established the Vedanta College in 1825. Which of the statements given above are correct?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "1 and 2 only",
+                                          "2 and 3 only",
+                                          "1 and 3 only",
+                                          "1, 2 and 3"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  15,
+                          "stem":  "The Battle of Haldighati, fought in 1576, was between Maharana Pratap and the Mughal forces led by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Akbar himself",
+                                          "Raja Man Singh",
+                                          "Todar Mal",
+                                          "Bairam Khan"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  16,
+                          "stem":  "Rabindranath Tagore composed the national anthems of two nations. India\u0027s \u0027Jana Gana Mana\u0027 is one; the other is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sri Lanka\u0027s Sri Lanka Matha",
+                                          "Bangladesh\u0027s Amar Shonar Bangla",
+                                          "Pakistan\u0027s Qaumi Taranah",
+                                          "Nepal\u0027s Sayaun Thunga Phulka"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  17,
+                          "stem":  "The immediate trigger for the Revolt of 1857 was:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Doctrine of Lapse",
+                                          "The introduction of the Enfield rifle whose cartridges were rumoured to be greased with beef and pork fat",
+                                          "The Vernacular Press Act",
+                                          "The Ilbert Bill controversy"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  18,
+                          "stem":  "The Komagata Maru incident (1914) is associated with which discriminatory Canadian law that effectively barred Indian immigrants?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Chinese Head Tax",
+                                          "The Continuous Journey Regulation, 1908",
+                                          "The Alien Land Law, 1913",
+                                          "The Anti-Asiatic Immigration Act, 1907"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  19,
+                          "stem":  "Veer Shaheed Gundadhur led which tribal rebellion against British colonial rule in Bastar?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "The Ulgulan (1899–1900)",
+                                          "The Bhumkal Movement (1910)",
+                                          "The Santhal Rebellion (1855–56)",
+                                          "The Kol Rebellion (1831–32)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  20,
+                          "stem":  "The Hanamkonda \u0027Thousand Pillar Temple\u0027 — a 12th-century Trikutalaya dedicated to Shiva, Vishnu and Surya Deva — is located in which state?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Andhra Pradesh",
+                                          "Telangana",
+                                          "Karnataka",
+                                          "Tamil Nadu"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  21,
+                          "stem":  "The Somnath Temple, revered as the first among the twelve Jyotirlinga shrines, is located in Prabhas Patan on the western coast of the Saurashtra peninsula. Its post-Independence reconstruction was resolved by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Jawaharlal Nehru",
+                                          "Sardar Vallabhbhai Patel — \u0027Iron Man of India\u0027",
+                                          "Rajaji",
+                                          "K.M. Munshi ECONOMY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  22,
+                          "stem":  "With reference to India\u0027s Energy Security, \u0027Operation Sankalp\u0027 refers to:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "A strategic petroleum reserve expansion programme",
+                                          "Indian Navy\u0027s escort of commercial energy shipments amid Gulf tensions",
+                                          "A domestic ethanol blending mission",
+                                          "A rural electrification scheme"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  23,
+                          "stem":  "According to the UNCTAD classification of Non-Tariff Barriers (NTBs), Sanitary and Phytosanitary (SPS) measures are:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Non-technical measures involving import licensing",
+                                          "Technical measures protecting human, animal or plant life from pests, diseases or toxins",
+                                          "Rules of origin",
+                                          "Price control measures SCIENCE AND TECHNOLOGY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  24,
+                          "stem":  "The Environmental Control and Life Support System (ECLSS), being developed for the Gaganyaan mission, is being built by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "DRDO",
+                                          "HAL",
+                                          "ISRO",
+                                          "BEL"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  25,
+                          "stem":  "\u0027Mission Drishti\u0027, launched aboard a SpaceX Falcon 9 rocket, is uniquely recognised as the world\u0027s first:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Quantum communication satellite",
+                                          "OptoSAR satellite — combining Electro-Optical and Synthetic Aperture Radar sensors",
+                                          "Fully AI-controlled satellite",
+                                          "Nuclear-powered CubeSat"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  26,
+                          "stem":  "India\u0027s Shukrayaan Mission (Venus Orbiter Mission), which Sweden formally joined, is scheduled to be launched on:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "29 March 2027 aboard PSLV",
+                                          "29 March 2028 aboard LVM-3",
+                                          "19 July 2028 aboard GSLV Mk-II",
+                                          "1 January 2029 aboard SSLV"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  27,
+                          "stem":  "\u0027Cell Broadcast System (CBS)\u0027 technology, referenced in disaster management, is designed to deliver:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Real-time seismic sensor data",
+                                          "Geo-targeted emergency alerts directly to mobile devices",
+                                          "Nationwide broadband internet",
+                                          "Blockchain-based transaction records SPACE"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  28,
+                          "stem":  "The SMILE Mission (Solar wind Magnetosphere Ionosphere Link Explorer) is a joint mission between:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "NASA and JAXA",
+                                          "European Space Agency (ESA) and the Chinese Academy of Sciences (CAS)",
+                                          "Roscosmos and CNSA",
+                                          "ISRO and ESA"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  29,
+                          "stem":  "The proposed \u0027Bering Strait Dam\u0027, a geoengineering project, is envisaged between:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Iceland and Greenland",
+                                          "Russian mainland and Alaska, USA",
+                                          "Norway and Svalbard",
+                                          "Denmark and Faroe Islands ENVIRONMENT AND GEOGRAPHY"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  30,
+                          "stem":  "According to the UNEP \u0027Sand and Sustainability\u0027 report, sand is the:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Most-abundant material in the Earth\u0027s crust",
+                                          "Most-extracted solid material globally and the second-most-consumed resource after water",
+                                          "Third-most-mined resource after oil and coal",
+                                          "Least-regulated construction material"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  31,
+                          "stem":  "The Methane Alert and Response System (MARS) operates under which parent body?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "World Meteorological Organization (WMO)",
+                                          "International Methane Emissions Observatory (IMEO) under UN Environment Programme",
+                                          "International Renewable Energy Agency (IRENA)",
+                                          "Global Environment Facility (GEF)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  32,
+                          "stem":  "The Nilgiri Tahr (Nilgiritragus hylocrius), notable as India\u0027s only mountain ungulate of the south, has its largest population in:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Silent Valley National Park",
+                                          "Eravikulam National Park (Kerala)",
+                                          "Anamalai Tiger Reserve",
+                                          "Mudumalai National Park"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  33,
+                          "stem":  "The Atlantic Meridional Overturning Circulation (AMOC), which recent research suggests could weaken by up to 59% by 2100, is driven primarily by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Wind patterns alone",
+                                          "Differences in water temperature and salinity (density)",
+                                          "Tidal forces alone",
+                                          "The Coriolis effect alone REPORTS AND INDICES"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  34,
+                          "stem":  "The LEADS 2025 Report — India\u0027s flagship logistics assessment tool — is published by:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Ministry of Road Transport and Highways",
+                                          "Department for Promotion of Industry and Internal Trade (DPIIT)",
+                                          "NITI Aayog",
+                                          "Ministry of Shipping AWARDS AND HONOURS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  35,
+                          "stem":  "The National Florence Nightingale Awards, India\u0027s highest national honour for nursing, are conferred annually on which date?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "7 April (World Health Day)",
+                                          "12 May (Florence Nightingale\u0027s birth anniversary)",
+                                          "5 September (Teachers\u0027 Day)",
+                                          "1 December (World AIDS Day) IMPORTANT APPOINTMENTS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  36,
+                          "stem":  "India\u0027s new Chief of Defence Staff (CDS) is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "General Anil Chauhan",
+                                          "Lieutenant General NS Raja Subramani (Retd)",
+                                          "Air Chief Marshal V.R. Chaudhari",
+                                          "Admiral R. Hari Kumar"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  37,
+                          "stem":  "India assumed the Chair of the Kimberley Process (KP) in 2026 — the third time it has held the chairship. The theme for India\u0027s 2026 chairship is:",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "Sustainability, Traceability, Transparency",
+                                          "Credibility, Compliance, Consumer Confidence (3Cs)",
+                                          "Peace, Progress, Prosperity",
+                                          "Development, Diamond, Diplomacy MISCELLANEOUS"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      },
+                      {
+                          "n":  38,
+                          "stem":  "The UN Forum on Forests (UNFF) was established in October 2000 under which body?",
+                          "subs":  [
+
+                                   ],
+                          "options":  [
+                                          "UN General Assembly",
+                                          "UN Security Council",
+                                          "UN Economic and Social Council (ECOSOC) via Resolution 2000/35",
+                                          "UN Environment Programme (UNEP)"
+                                      ],
+                          "pyq":  null,
+                          "subject":  "Current Affairs",
+                          "topic":  "May 2026"
+                      }
+                  ]
+}
